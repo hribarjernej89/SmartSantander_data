@@ -1,27 +1,27 @@
-date	attribute	attrValue	attribute	time
-2017-07-06	position:altitude	11	position:altitude	13:13:33.607000
-2017-07-08	direction:heading	150	direction:heading	01:48:38.615000
-2017-07-31	direction:heading	0	direction:heading	22:54:44.192000
-2017-08-05	direction:heading	314	direction:heading	00:24:55.091000
-2017-08-09	direction:heading	0	direction:heading	22:20:07.269000
-2017-08-28	direction:heading	0	direction:heading	14:30:53.457000
-2017-09-07	direction:heading	0	direction:heading	02:06:17.980000
-2017-09-23	direction:heading	156	direction:heading	00:26:59.523000
-2017-10-09	direction:heading	0	direction:heading	23:12:37.154000
-2017-10-12	direction:heading	333	direction:heading	16:22:43.536000
-2017-10-16	direction:heading	345	direction:heading	01:47:51.248000
-2017-07-08	speed:instantaneous	6	speed:instantaneous	01:48:38.616000
-2017-07-31	speed:instantaneous	0	speed:instantaneous	22:54:44.193000
-2017-08-05	speed:instantaneous	4	speed:instantaneous	00:24:55.092000
-2017-08-09	speed:instantaneous	0	speed:instantaneous	22:20:07.270000
-2017-08-28	speed:instantaneous	0	speed:instantaneous	14:30:53.457000
-2017-09-07	speed:instantaneous	0	speed:instantaneous	02:06:17.980000
-2017-09-23	speed:instantaneous	6	speed:instantaneous	00:26:59.524000
-2017-10-09	speed:instantaneous	0	speed:instantaneous	23:12:37.154000
-2017-10-12	speed:instantaneous	5	speed:instantaneous	16:22:43.535000
-2017-10-16	speed:instantaneous	13	speed:instantaneous	01:47:51.246000
-2017-08-28	mileage:total	1320	mileage:total	14:30:53.456000
-2017-09-02	mileage:total	1336	mileage:total	04:21:05.887000
-2017-09-18	mileage:total	1404	mileage:total	22:46:46.572000
-2017-09-21	mileage:total	1415	mileage:total	03:41:52.587000
-2017-09-22	mileage:total	1416	mileage:total	00:01:55.183000
+date	attribute	attrValue	time
+2017-07-06	position:altitude	11	13:13:33.607000
+2017-07-08	direction:heading	150	01:48:38.615000
+2017-07-31	direction:heading	0	22:54:44.192000
+2017-08-05	direction:heading	314	00:24:55.091000
+2017-08-09	direction:heading	0	22:20:07.269000
+2017-08-28	direction:heading	0	14:30:53.457000
+2017-09-07	direction:heading	0	02:06:17.980000
+2017-09-23	direction:heading	156	00:26:59.523000
+2017-10-09	direction:heading	0	23:12:37.154000
+2017-10-12	direction:heading	333	16:22:43.536000
+2017-10-16	direction:heading	345	01:47:51.248000
+2017-07-08	speed:instantaneous	6	01:48:38.616000
+2017-07-31	speed:instantaneous	0	22:54:44.193000
+2017-08-05	speed:instantaneous	4	00:24:55.092000
+2017-08-09	speed:instantaneous	0	22:20:07.270000
+2017-08-28	speed:instantaneous	0	14:30:53.457000
+2017-09-07	speed:instantaneous	0	02:06:17.980000
+2017-09-23	speed:instantaneous	6	00:26:59.524000
+2017-10-09	speed:instantaneous	0	23:12:37.154000
+2017-10-12	speed:instantaneous	5	16:22:43.535000
+2017-10-16	speed:instantaneous	13	01:47:51.246000
+2017-08-28	mileage:total	1320	14:30:53.456000
+2017-09-02	mileage:total	1336	04:21:05.887000
+2017-09-18	mileage:total	1404	22:46:46.572000
+2017-09-21	mileage:total	1415	03:41:52.587000
+2017-09-22	mileage:total	1416	00:01:55.183000

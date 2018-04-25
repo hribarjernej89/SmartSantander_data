@@ -1,26 +1,26 @@
-date	attribute	attrValue	attribute	time
-2017-08-02	mileage:total	20813	mileage:total	00:04:46.965000
-2017-08-02	mileage:total	20848	mileage:total	02:49:47.846000
-2017-08-07	mileage:total	22076	mileage:total	03:20:00.245000
-2017-08-13	mileage:total	23362	mileage:total	05:50:14.810000
-2017-08-14	mileage:total	23536	mileage:total	03:00:17.927000
-2017-08-23	mileage:total	25204	mileage:total	00:05:40.203000
-2017-09-05	mileage:total	28031	mileage:total	23:21:15.450000
-2017-09-06	mileage:total	28061	mileage:total	01:21:15.348000
-2017-09-06	mileage:total	28067	mileage:total	02:11:15.547000
-2017-09-07	mileage:total	28286	mileage:total	03:01:17.743000
-2017-09-20	mileage:total	30910	mileage:total	22:36:51.348000
-2017-09-21	mileage:total	30925	mileage:total	01:16:51.677000
-2017-09-22	mileage:total	31090	mileage:total	01:41:54.888000
-2017-09-26	mileage:total	32056	mileage:total	01:42:06.242000
-2017-09-26	mileage:total	32218	mileage:total	23:07:06.956000
-2017-09-27	mileage:total	32223	mileage:total	00:02:06.815000
-2017-09-27	mileage:total	32226	mileage:total	00:27:06.376000
-2017-09-06	direction:heading	191	direction:heading	00:01:14.753000
-2017-09-06	direction:heading	0	direction:heading	01:21:15.348000
-2017-09-22	direction:heading	0	direction:heading	01:41:54.889000
-2017-09-27	direction:heading	253	direction:heading	00:02:06.818000
-2017-09-06	speed:instantaneous	25	speed:instantaneous	00:01:14.753000
-2017-09-06	speed:instantaneous	0	speed:instantaneous	01:21:15.348000
-2017-09-22	speed:instantaneous	0	speed:instantaneous	01:41:54.889000
-2017-09-27	speed:instantaneous	8	speed:instantaneous	00:02:06.817000
+date	attribute	attrValue	time
+2017-08-02	mileage:total	20813	00:04:46.965000
+2017-08-02	mileage:total	20848	02:49:47.846000
+2017-08-07	mileage:total	22076	03:20:00.245000
+2017-08-13	mileage:total	23362	05:50:14.810000
+2017-08-14	mileage:total	23536	03:00:17.927000
+2017-08-23	mileage:total	25204	00:05:40.203000
+2017-09-05	mileage:total	28031	23:21:15.450000
+2017-09-06	mileage:total	28061	01:21:15.348000
+2017-09-06	mileage:total	28067	02:11:15.547000
+2017-09-07	mileage:total	28286	03:01:17.743000
+2017-09-20	mileage:total	30910	22:36:51.348000
+2017-09-21	mileage:total	30925	01:16:51.677000
+2017-09-22	mileage:total	31090	01:41:54.888000
+2017-09-26	mileage:total	32056	01:42:06.242000
+2017-09-26	mileage:total	32218	23:07:06.956000
+2017-09-27	mileage:total	32223	00:02:06.815000
+2017-09-27	mileage:total	32226	00:27:06.376000
+2017-09-06	direction:heading	191	00:01:14.753000
+2017-09-06	direction:heading	0	01:21:15.348000
+2017-09-22	direction:heading	0	01:41:54.889000
+2017-09-27	direction:heading	253	00:02:06.818000
+2017-09-06	speed:instantaneous	25	00:01:14.753000
+2017-09-06	speed:instantaneous	0	01:21:15.348000
+2017-09-22	speed:instantaneous	0	01:41:54.889000
+2017-09-27	speed:instantaneous	8	00:02:06.817000

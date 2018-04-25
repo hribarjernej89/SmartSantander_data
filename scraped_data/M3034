@@ -1,46 +1,46 @@
-date	attribute	attrValue	attribute	time
-2017-07-05	mileage:total	59983	mileage:total	11:23:30.706000
-2017-07-05	mileage:total	60046	mileage:total	15:53:31.218000
-2017-07-05	mileage:total	60055	mileage:total	16:33:31.293000
-2017-07-07	mileage:total	60259	mileage:total	15:43:37.559000
-2017-07-31	mileage:total	61802	mileage:total	07:44:42.480000
-2017-08-01	mileage:total	62170	mileage:total	21:29:47.037000
-2017-08-02	mileage:total	62176	mileage:total	05:59:47.258000
-2017-08-03	mileage:total	62412	mileage:total	18:49:51.093000
-2017-08-04	mileage:total	62646	mileage:total	21:19:53.875000
-2017-07-05	direction:heading	83	direction:heading	11:23:30.707000
-2017-07-05	direction:heading	265	direction:heading	15:53:31.222000
-2017-07-27	direction:heading	335	direction:heading	08:44:32.654000
-2017-07-31	direction:heading	0	direction:heading	07:44:42.479000
-2017-07-31	direction:heading	0	direction:heading	20:44:43.845000
-2017-08-01	direction:heading	0	direction:heading	21:29:47.037000
-2017-08-02	direction:heading	0	direction:heading	05:59:47.260000
-2017-08-04	direction:heading	0	direction:heading	20:09:53.741000
-2017-07-05	speed:instantaneous	10	speed:instantaneous	11:23:30.708000
-2017-07-05	speed:instantaneous	25	speed:instantaneous	15:53:31.221000
-2017-07-27	speed:instantaneous	7	speed:instantaneous	08:44:32.655000
-2017-07-27	speed:instantaneous	0	speed:instantaneous	19:44:33.795000
-2017-07-31	speed:instantaneous	0	speed:instantaneous	07:44:42.480000
-2017-08-01	speed:instantaneous	0	speed:instantaneous	21:29:47.038000
-2017-08-02	speed:instantaneous	0	speed:instantaneous	05:59:47.258000
-2017-08-04	speed:instantaneous	0	speed:instantaneous	20:09:53.741000
-2017-07-05	position:altitude	17	position:altitude	15:53:31.221000
-2017-07-05	position:altitude	20	position:altitude	21:03:31.779000
-2017-07-05	position:altitude	20	position:altitude	21:53:31.869000
-2017-07-06	position:altitude	20	position:altitude	05:23:33.710000
-2017-07-27	position:altitude	47	position:altitude	22:49:34.111000
-2017-07-27	position:altitude	18	position:altitude	23:44:34.197000
-2017-07-28	position:altitude	9	position:altitude	07:09:34.963000
-2017-07-28	position:altitude	28	position:altitude	08:39:35.115000
-2017-07-30	position:altitude	23	position:altitude	08:14:40.044000
-2017-07-31	position:altitude	25	position:altitude	01:39:41.852000
-2017-07-31	position:altitude	-5	position:altitude	07:44:42.479000
-2017-08-02	position:altitude	44	position:altitude	05:59:47.260000
-2017-08-02	position:altitude	23	position:altitude	11:44:47.852000
-2017-08-03	position:altitude	20	position:altitude	03:34:49.498000
-2017-08-03	position:altitude	42	position:altitude	18:49:51.093000
-2017-08-04	position:altitude	54	position:altitude	20:09:53.742000
-2017-08-04	position:altitude	20	position:altitude	23:04:54.047000
-2017-08-05	position:altitude	18	position:altitude	03:14:54.488000
-2017-08-05	position:altitude	30	position:altitude	12:44:55.478000
-2017-08-07	position:altitude	21	position:altitude	02:09:59.353000
+date	attribute	attrValue	time
+2017-07-05	mileage:total	59983	11:23:30.706000
+2017-07-05	mileage:total	60046	15:53:31.218000
+2017-07-05	mileage:total	60055	16:33:31.293000
+2017-07-07	mileage:total	60259	15:43:37.559000
+2017-07-31	mileage:total	61802	07:44:42.480000
+2017-08-01	mileage:total	62170	21:29:47.037000
+2017-08-02	mileage:total	62176	05:59:47.258000
+2017-08-03	mileage:total	62412	18:49:51.093000
+2017-08-04	mileage:total	62646	21:19:53.875000
+2017-07-05	direction:heading	83	11:23:30.707000
+2017-07-05	direction:heading	265	15:53:31.222000
+2017-07-27	direction:heading	335	08:44:32.654000
+2017-07-31	direction:heading	0	07:44:42.479000
+2017-07-31	direction:heading	0	20:44:43.845000
+2017-08-01	direction:heading	0	21:29:47.037000
+2017-08-02	direction:heading	0	05:59:47.260000
+2017-08-04	direction:heading	0	20:09:53.741000
+2017-07-05	speed:instantaneous	10	11:23:30.708000
+2017-07-05	speed:instantaneous	25	15:53:31.221000
+2017-07-27	speed:instantaneous	7	08:44:32.655000
+2017-07-27	speed:instantaneous	0	19:44:33.795000
+2017-07-31	speed:instantaneous	0	07:44:42.480000
+2017-08-01	speed:instantaneous	0	21:29:47.038000
+2017-08-02	speed:instantaneous	0	05:59:47.258000
+2017-08-04	speed:instantaneous	0	20:09:53.741000
+2017-07-05	position:altitude	17	15:53:31.221000
+2017-07-05	position:altitude	20	21:03:31.779000
+2017-07-05	position:altitude	20	21:53:31.869000
+2017-07-06	position:altitude	20	05:23:33.710000
+2017-07-27	position:altitude	47	22:49:34.111000
+2017-07-27	position:altitude	18	23:44:34.197000
+2017-07-28	position:altitude	9	07:09:34.963000
+2017-07-28	position:altitude	28	08:39:35.115000
+2017-07-30	position:altitude	23	08:14:40.044000
+2017-07-31	position:altitude	25	01:39:41.852000
+2017-07-31	position:altitude	-5	07:44:42.479000
+2017-08-02	position:altitude	44	05:59:47.260000
+2017-08-02	position:altitude	23	11:44:47.852000
+2017-08-03	position:altitude	20	03:34:49.498000
+2017-08-03	position:altitude	42	18:49:51.093000
+2017-08-04	position:altitude	54	20:09:53.742000
+2017-08-04	position:altitude	20	23:04:54.047000
+2017-08-05	position:altitude	18	03:14:54.488000
+2017-08-05	position:altitude	30	12:44:55.478000
+2017-08-07	position:altitude	21	02:09:59.353000

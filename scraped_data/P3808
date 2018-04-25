@@ -1,17 +1,17 @@
-date	attribute	attrValue	attribute	time
-2017-09-19	presenceStatus:parking	false	presenceStatus:parking	07:00:47.915000
-2017-10-09	presenceStatus:parking	false	presenceStatus:parking	04:21:36.356000
-2017-10-10	presenceStatus:parking	false	presenceStatus:parking	02:50:37.830000
-2017-10-10	presenceStatus:parking	true	presenceStatus:parking	03:46:37.883000
-2017-10-13	presenceStatus:parking	true	presenceStatus:parking	02:49:44.458000
-2017-10-17	presenceStatus:parking	false	presenceStatus:parking	04:17:58.744000
-2017-10-18	presenceStatus:parking	true	presenceStatus:parking	02:57:58.793000
-2017-10-19	presenceStatus:parking	false	presenceStatus:parking	05:25:59.326000
-2017-10-19	presenceStatus:parking	false	presenceStatus:parking	12:02:00.510000
-2017-10-19	presenceStatus:parking	false	presenceStatus:parking	12:42:00.640000
-2017-10-20	presenceStatus:parking	true	presenceStatus:parking	17:54:02.588000
-2017-10-20	presenceStatus:parking	false	presenceStatus:parking	17:55:02.699000
-2017-10-23	presenceStatus:parking	false	presenceStatus:parking	07:43:11.851000
-2017-10-25	presenceStatus:parking	false	presenceStatus:parking	08:27:14.197000
-2017-10-25	presenceStatus:parking	true	presenceStatus:parking	08:28:15.381000
-2017-10-25	presenceStatus:parking	false	presenceStatus:parking	21:01:15.460000
+date	attribute	attrValue	time
+2017-09-19	presenceStatus:parking	false	07:00:47.915000
+2017-10-09	presenceStatus:parking	false	04:21:36.356000
+2017-10-10	presenceStatus:parking	false	02:50:37.830000
+2017-10-10	presenceStatus:parking	true	03:46:37.883000
+2017-10-13	presenceStatus:parking	true	02:49:44.458000
+2017-10-17	presenceStatus:parking	false	04:17:58.744000
+2017-10-18	presenceStatus:parking	true	02:57:58.793000
+2017-10-19	presenceStatus:parking	false	05:25:59.326000
+2017-10-19	presenceStatus:parking	false	12:02:00.510000
+2017-10-19	presenceStatus:parking	false	12:42:00.640000
+2017-10-20	presenceStatus:parking	true	17:54:02.588000
+2017-10-20	presenceStatus:parking	false	17:55:02.699000
+2017-10-23	presenceStatus:parking	false	07:43:11.851000
+2017-10-25	presenceStatus:parking	false	08:27:14.197000
+2017-10-25	presenceStatus:parking	true	08:28:15.381000
+2017-10-25	presenceStatus:parking	false	21:01:15.460000

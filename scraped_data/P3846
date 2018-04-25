@@ -1,247 +1,247 @@
-date	attribute	attrValue	attribute	time
-2017-10-05	presenceStatus:parking	true	presenceStatus:parking	15:34:27.436000
-2017-10-06	presenceStatus:parking	false	presenceStatus:parking	04:41:29.309000
-2017-10-06	presenceStatus:parking	false	presenceStatus:parking	11:47:31.713000
-2017-10-06	presenceStatus:parking	false	presenceStatus:parking	13:44:29.863000
-2017-10-06	presenceStatus:parking	true	presenceStatus:parking	16:31:29.907000
-2017-10-06	presenceStatus:parking	false	presenceStatus:parking	16:32:31.253000
-2017-10-06	presenceStatus:parking	false	presenceStatus:parking	17:45:30.145000
-2017-10-06	presenceStatus:parking	true	presenceStatus:parking	18:01:30.356000
-2017-10-06	presenceStatus:parking	false	presenceStatus:parking	21:53:31.198000
-2017-10-06	presenceStatus:parking	true	presenceStatus:parking	21:58:30.374000
-2017-10-07	presenceStatus:parking	true	presenceStatus:parking	02:10:31.917000
-2017-10-07	presenceStatus:parking	false	presenceStatus:parking	02:33:32.358000
-2017-10-07	presenceStatus:parking	true	presenceStatus:parking	09:34:32.310000
-2017-10-07	presenceStatus:parking	false	presenceStatus:parking	12:41:32.771000
-2017-10-07	presenceStatus:parking	false	presenceStatus:parking	12:49:32.945000
-2017-10-07	presenceStatus:parking	true	presenceStatus:parking	17:21:33.665000
-2017-10-08	presenceStatus:parking	false	presenceStatus:parking	05:01:33.984000
-2017-10-08	presenceStatus:parking	true	presenceStatus:parking	09:04:35.541000
-2017-10-08	presenceStatus:parking	false	presenceStatus:parking	18:22:39.449000
-2017-10-08	presenceStatus:parking	true	presenceStatus:parking	18:42:39.324000
-2017-10-08	presenceStatus:parking	false	presenceStatus:parking	23:24:36.420000
-2017-10-09	presenceStatus:parking	true	presenceStatus:parking	11:26:36.602000
-2017-10-09	presenceStatus:parking	true	presenceStatus:parking	18:12:39.758000
-2017-10-10	presenceStatus:parking	false	presenceStatus:parking	03:25:38.188000
-2017-10-10	presenceStatus:parking	false	presenceStatus:parking	10:24:47.550000
-2017-10-10	presenceStatus:parking	true	presenceStatus:parking	18:05:39.847000
-2017-10-10	presenceStatus:parking	false	presenceStatus:parking	21:25:40.068000
-2017-10-10	presenceStatus:parking	true	presenceStatus:parking	21:26:39.830000
-2017-10-10	presenceStatus:parking	true	presenceStatus:parking	22:39:40.213000
-2017-10-11	presenceStatus:parking	false	presenceStatus:parking	00:14:40.070000
-2017-10-11	presenceStatus:parking	false	presenceStatus:parking	08:39:52.334000
-2017-10-11	presenceStatus:parking	true	presenceStatus:parking	10:47:46.526000
-2017-10-11	presenceStatus:parking	true	presenceStatus:parking	16:11:41.538000
-2017-10-12	presenceStatus:parking	true	presenceStatus:parking	01:40:43.166000
-2017-10-12	presenceStatus:parking	false	presenceStatus:parking	02:04:43.277000
-2017-10-12	presenceStatus:parking	false	presenceStatus:parking	13:58:46.195000
-2017-10-12	presenceStatus:parking	true	presenceStatus:parking	14:33:52.561000
-2017-10-12	presenceStatus:parking	false	presenceStatus:parking	14:46:01.225000
-2017-10-12	presenceStatus:parking	true	presenceStatus:parking	15:33:43.971000
-2017-10-13	presenceStatus:parking	true	presenceStatus:parking	06:11:46.191000
-2017-10-13	presenceStatus:parking	true	presenceStatus:parking	06:47:47.250000
-2017-10-13	presenceStatus:parking	true	presenceStatus:parking	15:15:49.227000
-2017-10-13	presenceStatus:parking	false	presenceStatus:parking	22:39:47.583000
-2017-10-15	presenceStatus:parking	true	presenceStatus:parking	16:17:56.406000
-2017-10-16	presenceStatus:parking	false	presenceStatus:parking	10:55:53.674000
-2017-10-16	presenceStatus:parking	true	presenceStatus:parking	14:37:59.405000
-2017-10-16	presenceStatus:parking	true	presenceStatus:parking	20:31:55.750000
-2017-10-16	presenceStatus:parking	false	presenceStatus:parking	21:42:59.530000
-2017-10-17	presenceStatus:parking	true	presenceStatus:parking	06:48:12.320000
-2017-10-17	presenceStatus:parking	true	presenceStatus:parking	18:35:56.280000
-2017-10-17	presenceStatus:parking	true	presenceStatus:parking	19:03:56.435000
-2017-10-17	presenceStatus:parking	false	presenceStatus:parking	20:18:56.800000
-2017-10-17	presenceStatus:parking	true	presenceStatus:parking	20:52:59.194000
-2017-10-18	presenceStatus:parking	false	presenceStatus:parking	13:58:58.707000
-2017-10-19	presenceStatus:parking	true	presenceStatus:parking	07:08:02.433000
-2017-10-20	presenceStatus:parking	false	presenceStatus:parking	07:26:02.315000
-2017-10-20	presenceStatus:parking	true	presenceStatus:parking	14:44:02.691000
-2017-10-21	presenceStatus:parking	true	presenceStatus:parking	02:29:04.510000
-2017-10-21	presenceStatus:parking	false	presenceStatus:parking	02:30:05.038000
-2017-10-21	presenceStatus:parking	true	presenceStatus:parking	05:39:05.187000
-2017-10-21	presenceStatus:parking	true	presenceStatus:parking	10:22:05.336000
-2017-10-21	presenceStatus:parking	false	presenceStatus:parking	10:24:05.594000
-2017-10-21	presenceStatus:parking	true	presenceStatus:parking	10:42:06.300000
-2017-10-21	presenceStatus:parking	true	presenceStatus:parking	10:48:09.050000
-2017-10-21	presenceStatus:parking	true	presenceStatus:parking	16:44:06.449000
-2017-10-21	presenceStatus:parking	false	presenceStatus:parking	22:04:06.461000
-2017-10-22	presenceStatus:parking	true	presenceStatus:parking	07:54:07.316000
-2017-10-22	presenceStatus:parking	false	presenceStatus:parking	22:53:11.634000
-2017-10-23	presenceStatus:parking	true	presenceStatus:parking	07:16:09.337000
-2017-10-23	presenceStatus:parking	false	presenceStatus:parking	09:36:09.588000
-2017-10-23	presenceStatus:parking	true	presenceStatus:parking	10:11:14.481000
-2017-10-23	presenceStatus:parking	true	presenceStatus:parking	21:14:10.112000
-2017-10-24	presenceStatus:parking	true	presenceStatus:parking	01:08:13.425000
-2017-10-24	presenceStatus:parking	false	presenceStatus:parking	01:16:11.200000
-2017-10-24	presenceStatus:parking	false	presenceStatus:parking	01:32:10.689000
-2017-10-24	presenceStatus:parking	false	presenceStatus:parking	11:45:12.040000
-2017-10-24	presenceStatus:parking	true	presenceStatus:parking	12:40:17.582000
-2017-10-24	presenceStatus:parking	false	presenceStatus:parking	13:30:11.702000
-2017-10-24	presenceStatus:parking	true	presenceStatus:parking	20:23:14.405000
-2017-10-25	presenceStatus:parking	false	presenceStatus:parking	05:28:16.561000
-2017-10-25	presenceStatus:parking	false	presenceStatus:parking	09:44:13.580000
-2017-10-25	presenceStatus:parking	false	presenceStatus:parking	10:31:14.079000
-2017-10-25	presenceStatus:parking	true	presenceStatus:parking	13:38:16.323000
-2017-10-25	presenceStatus:parking	false	presenceStatus:parking	23:33:17.659000
-2017-10-26	presenceStatus:parking	true	presenceStatus:parking	01:04:15.792000
-2017-10-26	presenceStatus:parking	false	presenceStatus:parking	01:27:16.182000
-2017-10-27	presenceStatus:parking	false	presenceStatus:parking	14:17:19.136000
-2017-10-27	presenceStatus:parking	false	presenceStatus:parking	20:50:20.150000
-2017-10-27	presenceStatus:parking	false	presenceStatus:parking	22:59:19.846000
-2017-10-28	presenceStatus:parking	false	presenceStatus:parking	00:16:20.592000
-2017-10-28	presenceStatus:parking	true	presenceStatus:parking	01:52:20.985000
-2017-10-28	presenceStatus:parking	false	presenceStatus:parking	02:57:21.808000
-2017-10-28	presenceStatus:parking	true	presenceStatus:parking	05:02:21.567000
-2017-10-28	presenceStatus:parking	false	presenceStatus:parking	10:26:22.115000
-2017-10-28	presenceStatus:parking	false	presenceStatus:parking	13:52:22.660000
-2017-10-28	presenceStatus:parking	true	presenceStatus:parking	13:55:21.853000
-2017-10-28	presenceStatus:parking	false	presenceStatus:parking	13:56:22.451000
-2017-10-30	presenceStatus:parking	true	presenceStatus:parking	12:45:26.189000
-2017-10-30	presenceStatus:parking	true	presenceStatus:parking	17:25:26.786000
-2017-10-31	presenceStatus:parking	false	presenceStatus:parking	05:00:27.603000
-2017-10-31	presenceStatus:parking	true	presenceStatus:parking	09:25:34.679000
-2017-10-31	presenceStatus:parking	true	presenceStatus:parking	10:58:28.922000
-2017-10-31	presenceStatus:parking	false	presenceStatus:parking	11:44:28.696000
-2017-11-01	presenceStatus:parking	true	presenceStatus:parking	12:50:40.700000
-2017-11-01	presenceStatus:parking	false	presenceStatus:parking	16:46:32.066000
-2017-11-01	presenceStatus:parking	true	presenceStatus:parking	16:51:31.661000
-2017-11-02	presenceStatus:parking	true	presenceStatus:parking	06:23:35.350000
-2017-11-02	presenceStatus:parking	false	presenceStatus:parking	06:28:34.306000
-2017-11-02	presenceStatus:parking	false	presenceStatus:parking	07:02:33.286000
-2017-11-02	presenceStatus:parking	false	presenceStatus:parking	11:41:33.078000
-2017-11-02	presenceStatus:parking	false	presenceStatus:parking	19:08:35.228000
-2017-11-02	presenceStatus:parking	false	presenceStatus:parking	20:04:34.437000
-2017-11-02	presenceStatus:parking	false	presenceStatus:parking	23:18:36.199000
-2017-11-03	presenceStatus:parking	false	presenceStatus:parking	00:13:35.947000
-2017-11-03	presenceStatus:parking	true	presenceStatus:parking	02:21:34.338000
-2017-11-03	presenceStatus:parking	false	presenceStatus:parking	02:27:34.414000
-2017-11-03	presenceStatus:parking	false	presenceStatus:parking	06:29:35.254000
-2017-11-03	presenceStatus:parking	false	presenceStatus:parking	06:39:35.771000
-2017-11-03	presenceStatus:parking	false	presenceStatus:parking	07:36:35.135000
-2017-11-03	presenceStatus:parking	true	presenceStatus:parking	07:43:36.884000
-2017-11-03	presenceStatus:parking	true	presenceStatus:parking	14:17:36.854000
-2017-11-04	presenceStatus:parking	false	presenceStatus:parking	03:01:37.656000
-2017-11-04	presenceStatus:parking	false	presenceStatus:parking	12:27:38.802000
-2017-11-04	presenceStatus:parking	true	presenceStatus:parking	12:28:38.429000
-2017-11-04	presenceStatus:parking	true	presenceStatus:parking	12:34:38.086000
-2017-11-04	presenceStatus:parking	false	presenceStatus:parking	12:35:38.586000
-2017-11-04	presenceStatus:parking	false	presenceStatus:parking	13:53:39.845000
-2017-11-04	presenceStatus:parking	true	presenceStatus:parking	13:54:38.549000
-2017-11-04	presenceStatus:parking	false	presenceStatus:parking	15:47:38.980000
-2017-11-04	presenceStatus:parking	false	presenceStatus:parking	17:54:39.253000
-2017-11-05	presenceStatus:parking	false	presenceStatus:parking	00:41:39.830000
-2017-11-05	presenceStatus:parking	true	presenceStatus:parking	00:48:41.274000
-2017-11-05	presenceStatus:parking	false	presenceStatus:parking	05:08:42.420000
-2017-11-05	presenceStatus:parking	false	presenceStatus:parking	10:32:41.168000
-2017-11-05	presenceStatus:parking	true	presenceStatus:parking	10:40:50.555000
-2017-11-05	presenceStatus:parking	false	presenceStatus:parking	15:10:41.885000
-2017-11-05	presenceStatus:parking	false	presenceStatus:parking	20:38:43.573000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	02:31:41.679000
-2017-11-06	presenceStatus:parking	false	presenceStatus:parking	08:11:42.769000
-2017-11-06	presenceStatus:parking	false	presenceStatus:parking	09:37:42.695000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	09:44:42.819000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	11:17:42.984000
-2017-11-06	presenceStatus:parking	false	presenceStatus:parking	11:20:42.870000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	11:21:42.859000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	18:01:43.429000
-2017-11-06	presenceStatus:parking	false	presenceStatus:parking	18:18:44.722000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	18:49:43.511000
-2017-11-06	presenceStatus:parking	true	presenceStatus:parking	21:02:44.080000
-2017-11-07	presenceStatus:parking	false	presenceStatus:parking	00:36:43.722000
-2017-11-07	presenceStatus:parking	true	presenceStatus:parking	07:32:46.133000
-2017-11-07	presenceStatus:parking	true	presenceStatus:parking	19:39:45.981000
-2017-11-08	presenceStatus:parking	true	presenceStatus:parking	13:36:48.133000
-2017-11-09	presenceStatus:parking	false	presenceStatus:parking	04:46:49.333000
-2017-11-09	presenceStatus:parking	false	presenceStatus:parking	06:49:50.661000
-2017-11-09	presenceStatus:parking	false	presenceStatus:parking	08:24:50.113000
-2017-11-09	presenceStatus:parking	true	presenceStatus:parking	17:47:51.159000
-2017-11-09	presenceStatus:parking	false	presenceStatus:parking	23:18:53.650000
-2017-11-10	presenceStatus:parking	true	presenceStatus:parking	06:23:52.606000
-2017-11-10	presenceStatus:parking	false	presenceStatus:parking	09:05:07.551000
-2017-11-10	presenceStatus:parking	true	presenceStatus:parking	12:45:59.720000
-2017-11-10	presenceStatus:parking	false	presenceStatus:parking	17:31:53.796000
-2017-11-11	presenceStatus:parking	false	presenceStatus:parking	07:55:55.643000
-2017-11-11	presenceStatus:parking	true	presenceStatus:parking	10:23:06.437000
-2017-11-12	presenceStatus:parking	true	presenceStatus:parking	07:38:59.205000
-2017-11-12	presenceStatus:parking	false	presenceStatus:parking	07:42:57.215000
-2017-11-12	presenceStatus:parking	true	presenceStatus:parking	09:35:57.269000
-2017-11-12	presenceStatus:parking	false	presenceStatus:parking	09:51:57.692000
-2017-11-12	presenceStatus:parking	false	presenceStatus:parking	22:24:01.107000
-2017-11-13	presenceStatus:parking	true	presenceStatus:parking	01:49:59.521000
-2017-11-13	presenceStatus:parking	false	presenceStatus:parking	02:11:58.878000
-2017-11-13	presenceStatus:parking	false	presenceStatus:parking	15:32:00.877000
-2017-11-13	presenceStatus:parking	true	presenceStatus:parking	16:49:03.372000
-2017-11-13	presenceStatus:parking	true	presenceStatus:parking	21:18:01.238000
-2017-11-13	presenceStatus:parking	false	presenceStatus:parking	22:36:01.428000
-2017-11-14	presenceStatus:parking	true	presenceStatus:parking	02:34:04.142000
-2017-11-14	presenceStatus:parking	false	presenceStatus:parking	02:54:03
-2017-11-14	presenceStatus:parking	true	presenceStatus:parking	12:06:21.876000
-2017-11-14	presenceStatus:parking	false	presenceStatus:parking	12:41:02.828000
-2017-11-14	presenceStatus:parking	true	presenceStatus:parking	12:54:02.808000
-2017-11-14	presenceStatus:parking	false	presenceStatus:parking	16:52:03.469000
-2017-11-14	presenceStatus:parking	true	presenceStatus:parking	16:53:03.219000
-2017-11-14	presenceStatus:parking	false	presenceStatus:parking	21:32:03.767000
-2017-11-15	presenceStatus:parking	false	presenceStatus:parking	02:27:04.859000
-2017-11-15	presenceStatus:parking	false	presenceStatus:parking	08:22:04.820000
-2017-11-15	presenceStatus:parking	false	presenceStatus:parking	19:50:05.591000
-2017-11-16	presenceStatus:parking	false	presenceStatus:parking	02:38:06.262000
-2017-11-16	presenceStatus:parking	true	presenceStatus:parking	06:14:08.527000
-2017-11-16	presenceStatus:parking	true	presenceStatus:parking	11:31:07.094000
-2017-11-17	presenceStatus:parking	true	presenceStatus:parking	02:10:08.129000
-2017-11-17	presenceStatus:parking	true	presenceStatus:parking	08:54:11.531000
-2017-11-17	presenceStatus:parking	true	presenceStatus:parking	11:40:09.557000
-2017-11-17	presenceStatus:parking	true	presenceStatus:parking	12:04:09.970000
-2017-11-18	presenceStatus:parking	false	presenceStatus:parking	03:19:14.230000
-2017-11-18	presenceStatus:parking	true	presenceStatus:parking	10:23:12.852000
-2017-11-18	presenceStatus:parking	true	presenceStatus:parking	11:26:35.517000
-2017-11-18	presenceStatus:parking	false	presenceStatus:parking	11:30:12.241000
-2017-11-18	presenceStatus:parking	true	presenceStatus:parking	11:58:24.708000
-2017-11-18	presenceStatus:parking	true	presenceStatus:parking	16:53:12.651000
-2017-11-18	presenceStatus:parking	false	presenceStatus:parking	20:56:12.725000
-2017-11-18	presenceStatus:parking	true	presenceStatus:parking	20:59:13.491000
-2017-11-19	presenceStatus:parking	false	presenceStatus:parking	02:20:13.732000
-2017-11-19	presenceStatus:parking	true	presenceStatus:parking	03:19:16.824000
-2017-11-19	presenceStatus:parking	false	presenceStatus:parking	03:20:13.324000
-2017-11-19	presenceStatus:parking	true	presenceStatus:parking	03:27:13.420000
-2017-11-19	presenceStatus:parking	false	presenceStatus:parking	03:43:14.279000
-2017-11-19	presenceStatus:parking	false	presenceStatus:parking	15:27:24.852000
-2017-11-19	presenceStatus:parking	true	presenceStatus:parking	15:55:14.626000
-2017-11-19	presenceStatus:parking	false	presenceStatus:parking	16:33:15.207000
-2017-11-19	presenceStatus:parking	false	presenceStatus:parking	21:46:15.105000
-2017-11-20	presenceStatus:parking	true	presenceStatus:parking	01:40:16.660000
-2017-11-20	presenceStatus:parking	false	presenceStatus:parking	01:41:15.612000
-2017-11-20	presenceStatus:parking	false	presenceStatus:parking	06:08:16.181000
-2017-11-20	presenceStatus:parking	true	presenceStatus:parking	07:27:16.334000
-2017-11-20	presenceStatus:parking	true	presenceStatus:parking	08:40:18.585000
-2017-11-20	presenceStatus:parking	false	presenceStatus:parking	11:00:18.279000
-2017-11-20	presenceStatus:parking	true	presenceStatus:parking	11:07:20.253000
-2017-11-20	presenceStatus:parking	true	presenceStatus:parking	15:05:39.461000
-2017-11-20	presenceStatus:parking	false	presenceStatus:parking	15:12:18.137000
-2017-11-20	presenceStatus:parking	true	presenceStatus:parking	17:17:17.272000
-2017-11-21	presenceStatus:parking	false	presenceStatus:parking	18:37:20.265000
-2017-11-21	presenceStatus:parking	true	presenceStatus:parking	18:47:20.323000
-2017-11-21	presenceStatus:parking	false	presenceStatus:parking	23:49:21.424000
-2017-11-22	presenceStatus:parking	true	presenceStatus:parking	06:46:21.745000
-2017-11-23	presenceStatus:parking	true	presenceStatus:parking	07:05:23.273000
-2017-11-23	presenceStatus:parking	false	presenceStatus:parking	23:10:24.865000
-2017-11-24	presenceStatus:parking	false	presenceStatus:parking	12:28:27.999000
-2017-11-24	presenceStatus:parking	false	presenceStatus:parking	13:52:27.604000
-2017-11-24	presenceStatus:parking	true	presenceStatus:parking	13:58:26.722000
-2017-11-24	presenceStatus:parking	true	presenceStatus:parking	19:17:27.286000
-2017-11-25	presenceStatus:parking	false	presenceStatus:parking	00:35:28.431000
-2017-11-25	presenceStatus:parking	true	presenceStatus:parking	03:43:27.868000
-2017-11-25	presenceStatus:parking	false	presenceStatus:parking	03:50:28.641000
-2017-11-25	presenceStatus:parking	false	presenceStatus:parking	09:04:32.107000
-2017-11-25	presenceStatus:parking	false	presenceStatus:parking	18:43:30.097000
-2017-11-26	presenceStatus:parking	true	presenceStatus:parking	14:14:33.457000
-2017-11-26	presenceStatus:parking	false	presenceStatus:parking	15:53:31.577000
-2017-11-26	presenceStatus:parking	false	presenceStatus:parking	18:51:32.164000
-2017-11-27	presenceStatus:parking	true	presenceStatus:parking	21:34:35.486000
-2017-11-28	presenceStatus:parking	false	presenceStatus:parking	00:15:35.263000
-2017-11-28	presenceStatus:parking	true	presenceStatus:parking	02:06:35.026000
-2017-11-28	presenceStatus:parking	false	presenceStatus:parking	06:13:35.288000
-2017-11-28	presenceStatus:parking	true	presenceStatus:parking	06:27:36.569000
-2017-11-28	presenceStatus:parking	true	presenceStatus:parking	08:45:43.572000
-2017-11-28	presenceStatus:parking	true	presenceStatus:parking	09:27:36.192000
-2017-11-28	presenceStatus:parking	true	presenceStatus:parking	09:51:46.046000
-2017-11-28	presenceStatus:parking	true	presenceStatus:parking	10:38:36.403000
+date	attribute	attrValue	time
+2017-10-05	presenceStatus:parking	true	15:34:27.436000
+2017-10-06	presenceStatus:parking	false	04:41:29.309000
+2017-10-06	presenceStatus:parking	false	11:47:31.713000
+2017-10-06	presenceStatus:parking	false	13:44:29.863000
+2017-10-06	presenceStatus:parking	true	16:31:29.907000
+2017-10-06	presenceStatus:parking	false	16:32:31.253000
+2017-10-06	presenceStatus:parking	false	17:45:30.145000
+2017-10-06	presenceStatus:parking	true	18:01:30.356000
+2017-10-06	presenceStatus:parking	false	21:53:31.198000
+2017-10-06	presenceStatus:parking	true	21:58:30.374000
+2017-10-07	presenceStatus:parking	true	02:10:31.917000
+2017-10-07	presenceStatus:parking	false	02:33:32.358000
+2017-10-07	presenceStatus:parking	true	09:34:32.310000
+2017-10-07	presenceStatus:parking	false	12:41:32.771000
+2017-10-07	presenceStatus:parking	false	12:49:32.945000
+2017-10-07	presenceStatus:parking	true	17:21:33.665000
+2017-10-08	presenceStatus:parking	false	05:01:33.984000
+2017-10-08	presenceStatus:parking	true	09:04:35.541000
+2017-10-08	presenceStatus:parking	false	18:22:39.449000
+2017-10-08	presenceStatus:parking	true	18:42:39.324000
+2017-10-08	presenceStatus:parking	false	23:24:36.420000
+2017-10-09	presenceStatus:parking	true	11:26:36.602000
+2017-10-09	presenceStatus:parking	true	18:12:39.758000
+2017-10-10	presenceStatus:parking	false	03:25:38.188000
+2017-10-10	presenceStatus:parking	false	10:24:47.550000
+2017-10-10	presenceStatus:parking	true	18:05:39.847000
+2017-10-10	presenceStatus:parking	false	21:25:40.068000
+2017-10-10	presenceStatus:parking	true	21:26:39.830000
+2017-10-10	presenceStatus:parking	true	22:39:40.213000
+2017-10-11	presenceStatus:parking	false	00:14:40.070000
+2017-10-11	presenceStatus:parking	false	08:39:52.334000
+2017-10-11	presenceStatus:parking	true	10:47:46.526000
+2017-10-11	presenceStatus:parking	true	16:11:41.538000
+2017-10-12	presenceStatus:parking	true	01:40:43.166000
+2017-10-12	presenceStatus:parking	false	02:04:43.277000
+2017-10-12	presenceStatus:parking	false	13:58:46.195000
+2017-10-12	presenceStatus:parking	true	14:33:52.561000
+2017-10-12	presenceStatus:parking	false	14:46:01.225000
+2017-10-12	presenceStatus:parking	true	15:33:43.971000
+2017-10-13	presenceStatus:parking	true	06:11:46.191000
+2017-10-13	presenceStatus:parking	true	06:47:47.250000
+2017-10-13	presenceStatus:parking	true	15:15:49.227000
+2017-10-13	presenceStatus:parking	false	22:39:47.583000
+2017-10-15	presenceStatus:parking	true	16:17:56.406000
+2017-10-16	presenceStatus:parking	false	10:55:53.674000
+2017-10-16	presenceStatus:parking	true	14:37:59.405000
+2017-10-16	presenceStatus:parking	true	20:31:55.750000
+2017-10-16	presenceStatus:parking	false	21:42:59.530000
+2017-10-17	presenceStatus:parking	true	06:48:12.320000
+2017-10-17	presenceStatus:parking	true	18:35:56.280000
+2017-10-17	presenceStatus:parking	true	19:03:56.435000
+2017-10-17	presenceStatus:parking	false	20:18:56.800000
+2017-10-17	presenceStatus:parking	true	20:52:59.194000
+2017-10-18	presenceStatus:parking	false	13:58:58.707000
+2017-10-19	presenceStatus:parking	true	07:08:02.433000
+2017-10-20	presenceStatus:parking	false	07:26:02.315000
+2017-10-20	presenceStatus:parking	true	14:44:02.691000
+2017-10-21	presenceStatus:parking	true	02:29:04.510000
+2017-10-21	presenceStatus:parking	false	02:30:05.038000
+2017-10-21	presenceStatus:parking	true	05:39:05.187000
+2017-10-21	presenceStatus:parking	true	10:22:05.336000
+2017-10-21	presenceStatus:parking	false	10:24:05.594000
+2017-10-21	presenceStatus:parking	true	10:42:06.300000
+2017-10-21	presenceStatus:parking	true	10:48:09.050000
+2017-10-21	presenceStatus:parking	true	16:44:06.449000
+2017-10-21	presenceStatus:parking	false	22:04:06.461000
+2017-10-22	presenceStatus:parking	true	07:54:07.316000
+2017-10-22	presenceStatus:parking	false	22:53:11.634000
+2017-10-23	presenceStatus:parking	true	07:16:09.337000
+2017-10-23	presenceStatus:parking	false	09:36:09.588000
+2017-10-23	presenceStatus:parking	true	10:11:14.481000
+2017-10-23	presenceStatus:parking	true	21:14:10.112000
+2017-10-24	presenceStatus:parking	true	01:08:13.425000
+2017-10-24	presenceStatus:parking	false	01:16:11.200000
+2017-10-24	presenceStatus:parking	false	01:32:10.689000
+2017-10-24	presenceStatus:parking	false	11:45:12.040000
+2017-10-24	presenceStatus:parking	true	12:40:17.582000
+2017-10-24	presenceStatus:parking	false	13:30:11.702000
+2017-10-24	presenceStatus:parking	true	20:23:14.405000
+2017-10-25	presenceStatus:parking	false	05:28:16.561000
+2017-10-25	presenceStatus:parking	false	09:44:13.580000
+2017-10-25	presenceStatus:parking	false	10:31:14.079000
+2017-10-25	presenceStatus:parking	true	13:38:16.323000
+2017-10-25	presenceStatus:parking	false	23:33:17.659000
+2017-10-26	presenceStatus:parking	true	01:04:15.792000
+2017-10-26	presenceStatus:parking	false	01:27:16.182000
+2017-10-27	presenceStatus:parking	false	14:17:19.136000
+2017-10-27	presenceStatus:parking	false	20:50:20.150000
+2017-10-27	presenceStatus:parking	false	22:59:19.846000
+2017-10-28	presenceStatus:parking	false	00:16:20.592000
+2017-10-28	presenceStatus:parking	true	01:52:20.985000
+2017-10-28	presenceStatus:parking	false	02:57:21.808000
+2017-10-28	presenceStatus:parking	true	05:02:21.567000
+2017-10-28	presenceStatus:parking	false	10:26:22.115000
+2017-10-28	presenceStatus:parking	false	13:52:22.660000
+2017-10-28	presenceStatus:parking	true	13:55:21.853000
+2017-10-28	presenceStatus:parking	false	13:56:22.451000
+2017-10-30	presenceStatus:parking	true	12:45:26.189000
+2017-10-30	presenceStatus:parking	true	17:25:26.786000
+2017-10-31	presenceStatus:parking	false	05:00:27.603000
+2017-10-31	presenceStatus:parking	true	09:25:34.679000
+2017-10-31	presenceStatus:parking	true	10:58:28.922000
+2017-10-31	presenceStatus:parking	false	11:44:28.696000
+2017-11-01	presenceStatus:parking	true	12:50:40.700000
+2017-11-01	presenceStatus:parking	false	16:46:32.066000
+2017-11-01	presenceStatus:parking	true	16:51:31.661000
+2017-11-02	presenceStatus:parking	true	06:23:35.350000
+2017-11-02	presenceStatus:parking	false	06:28:34.306000
+2017-11-02	presenceStatus:parking	false	07:02:33.286000
+2017-11-02	presenceStatus:parking	false	11:41:33.078000
+2017-11-02	presenceStatus:parking	false	19:08:35.228000
+2017-11-02	presenceStatus:parking	false	20:04:34.437000
+2017-11-02	presenceStatus:parking	false	23:18:36.199000
+2017-11-03	presenceStatus:parking	false	00:13:35.947000
+2017-11-03	presenceStatus:parking	true	02:21:34.338000
+2017-11-03	presenceStatus:parking	false	02:27:34.414000
+2017-11-03	presenceStatus:parking	false	06:29:35.254000
+2017-11-03	presenceStatus:parking	false	06:39:35.771000
+2017-11-03	presenceStatus:parking	false	07:36:35.135000
+2017-11-03	presenceStatus:parking	true	07:43:36.884000
+2017-11-03	presenceStatus:parking	true	14:17:36.854000
+2017-11-04	presenceStatus:parking	false	03:01:37.656000
+2017-11-04	presenceStatus:parking	false	12:27:38.802000
+2017-11-04	presenceStatus:parking	true	12:28:38.429000
+2017-11-04	presenceStatus:parking	true	12:34:38.086000
+2017-11-04	presenceStatus:parking	false	12:35:38.586000
+2017-11-04	presenceStatus:parking	false	13:53:39.845000
+2017-11-04	presenceStatus:parking	true	13:54:38.549000
+2017-11-04	presenceStatus:parking	false	15:47:38.980000
+2017-11-04	presenceStatus:parking	false	17:54:39.253000
+2017-11-05	presenceStatus:parking	false	00:41:39.830000
+2017-11-05	presenceStatus:parking	true	00:48:41.274000
+2017-11-05	presenceStatus:parking	false	05:08:42.420000
+2017-11-05	presenceStatus:parking	false	10:32:41.168000
+2017-11-05	presenceStatus:parking	true	10:40:50.555000
+2017-11-05	presenceStatus:parking	false	15:10:41.885000
+2017-11-05	presenceStatus:parking	false	20:38:43.573000
+2017-11-06	presenceStatus:parking	true	02:31:41.679000
+2017-11-06	presenceStatus:parking	false	08:11:42.769000
+2017-11-06	presenceStatus:parking	false	09:37:42.695000
+2017-11-06	presenceStatus:parking	true	09:44:42.819000
+2017-11-06	presenceStatus:parking	true	11:17:42.984000
+2017-11-06	presenceStatus:parking	false	11:20:42.870000
+2017-11-06	presenceStatus:parking	true	11:21:42.859000
+2017-11-06	presenceStatus:parking	true	18:01:43.429000
+2017-11-06	presenceStatus:parking	false	18:18:44.722000
+2017-11-06	presenceStatus:parking	true	18:49:43.511000
+2017-11-06	presenceStatus:parking	true	21:02:44.080000
+2017-11-07	presenceStatus:parking	false	00:36:43.722000
+2017-11-07	presenceStatus:parking	true	07:32:46.133000
+2017-11-07	presenceStatus:parking	true	19:39:45.981000
+2017-11-08	presenceStatus:parking	true	13:36:48.133000
+2017-11-09	presenceStatus:parking	false	04:46:49.333000
+2017-11-09	presenceStatus:parking	false	06:49:50.661000
+2017-11-09	presenceStatus:parking	false	08:24:50.113000
+2017-11-09	presenceStatus:parking	true	17:47:51.159000
+2017-11-09	presenceStatus:parking	false	23:18:53.650000
+2017-11-10	presenceStatus:parking	true	06:23:52.606000
+2017-11-10	presenceStatus:parking	false	09:05:07.551000
+2017-11-10	presenceStatus:parking	true	12:45:59.720000
+2017-11-10	presenceStatus:parking	false	17:31:53.796000
+2017-11-11	presenceStatus:parking	false	07:55:55.643000
+2017-11-11	presenceStatus:parking	true	10:23:06.437000
+2017-11-12	presenceStatus:parking	true	07:38:59.205000
+2017-11-12	presenceStatus:parking	false	07:42:57.215000
+2017-11-12	presenceStatus:parking	true	09:35:57.269000
+2017-11-12	presenceStatus:parking	false	09:51:57.692000
+2017-11-12	presenceStatus:parking	false	22:24:01.107000
+2017-11-13	presenceStatus:parking	true	01:49:59.521000
+2017-11-13	presenceStatus:parking	false	02:11:58.878000
+2017-11-13	presenceStatus:parking	false	15:32:00.877000
+2017-11-13	presenceStatus:parking	true	16:49:03.372000
+2017-11-13	presenceStatus:parking	true	21:18:01.238000
+2017-11-13	presenceStatus:parking	false	22:36:01.428000
+2017-11-14	presenceStatus:parking	true	02:34:04.142000
+2017-11-14	presenceStatus:parking	false	02:54:03
+2017-11-14	presenceStatus:parking	true	12:06:21.876000
+2017-11-14	presenceStatus:parking	false	12:41:02.828000
+2017-11-14	presenceStatus:parking	true	12:54:02.808000
+2017-11-14	presenceStatus:parking	false	16:52:03.469000
+2017-11-14	presenceStatus:parking	true	16:53:03.219000
+2017-11-14	presenceStatus:parking	false	21:32:03.767000
+2017-11-15	presenceStatus:parking	false	02:27:04.859000
+2017-11-15	presenceStatus:parking	false	08:22:04.820000
+2017-11-15	presenceStatus:parking	false	19:50:05.591000
+2017-11-16	presenceStatus:parking	false	02:38:06.262000
+2017-11-16	presenceStatus:parking	true	06:14:08.527000
+2017-11-16	presenceStatus:parking	true	11:31:07.094000
+2017-11-17	presenceStatus:parking	true	02:10:08.129000
+2017-11-17	presenceStatus:parking	true	08:54:11.531000
+2017-11-17	presenceStatus:parking	true	11:40:09.557000
+2017-11-17	presenceStatus:parking	true	12:04:09.970000
+2017-11-18	presenceStatus:parking	false	03:19:14.230000
+2017-11-18	presenceStatus:parking	true	10:23:12.852000
+2017-11-18	presenceStatus:parking	true	11:26:35.517000
+2017-11-18	presenceStatus:parking	false	11:30:12.241000
+2017-11-18	presenceStatus:parking	true	11:58:24.708000
+2017-11-18	presenceStatus:parking	true	16:53:12.651000
+2017-11-18	presenceStatus:parking	false	20:56:12.725000
+2017-11-18	presenceStatus:parking	true	20:59:13.491000
+2017-11-19	presenceStatus:parking	false	02:20:13.732000
+2017-11-19	presenceStatus:parking	true	03:19:16.824000
+2017-11-19	presenceStatus:parking	false	03:20:13.324000
+2017-11-19	presenceStatus:parking	true	03:27:13.420000
+2017-11-19	presenceStatus:parking	false	03:43:14.279000
+2017-11-19	presenceStatus:parking	false	15:27:24.852000
+2017-11-19	presenceStatus:parking	true	15:55:14.626000
+2017-11-19	presenceStatus:parking	false	16:33:15.207000
+2017-11-19	presenceStatus:parking	false	21:46:15.105000
+2017-11-20	presenceStatus:parking	true	01:40:16.660000
+2017-11-20	presenceStatus:parking	false	01:41:15.612000
+2017-11-20	presenceStatus:parking	false	06:08:16.181000
+2017-11-20	presenceStatus:parking	true	07:27:16.334000
+2017-11-20	presenceStatus:parking	true	08:40:18.585000
+2017-11-20	presenceStatus:parking	false	11:00:18.279000
+2017-11-20	presenceStatus:parking	true	11:07:20.253000
+2017-11-20	presenceStatus:parking	true	15:05:39.461000
+2017-11-20	presenceStatus:parking	false	15:12:18.137000
+2017-11-20	presenceStatus:parking	true	17:17:17.272000
+2017-11-21	presenceStatus:parking	false	18:37:20.265000
+2017-11-21	presenceStatus:parking	true	18:47:20.323000
+2017-11-21	presenceStatus:parking	false	23:49:21.424000
+2017-11-22	presenceStatus:parking	true	06:46:21.745000
+2017-11-23	presenceStatus:parking	true	07:05:23.273000
+2017-11-23	presenceStatus:parking	false	23:10:24.865000
+2017-11-24	presenceStatus:parking	false	12:28:27.999000
+2017-11-24	presenceStatus:parking	false	13:52:27.604000
+2017-11-24	presenceStatus:parking	true	13:58:26.722000
+2017-11-24	presenceStatus:parking	true	19:17:27.286000
+2017-11-25	presenceStatus:parking	false	00:35:28.431000
+2017-11-25	presenceStatus:parking	true	03:43:27.868000
+2017-11-25	presenceStatus:parking	false	03:50:28.641000
+2017-11-25	presenceStatus:parking	false	09:04:32.107000
+2017-11-25	presenceStatus:parking	false	18:43:30.097000
+2017-11-26	presenceStatus:parking	true	14:14:33.457000
+2017-11-26	presenceStatus:parking	false	15:53:31.577000
+2017-11-26	presenceStatus:parking	false	18:51:32.164000
+2017-11-27	presenceStatus:parking	true	21:34:35.486000
+2017-11-28	presenceStatus:parking	false	00:15:35.263000
+2017-11-28	presenceStatus:parking	true	02:06:35.026000
+2017-11-28	presenceStatus:parking	false	06:13:35.288000
+2017-11-28	presenceStatus:parking	true	06:27:36.569000
+2017-11-28	presenceStatus:parking	true	08:45:43.572000
+2017-11-28	presenceStatus:parking	true	09:27:36.192000
+2017-11-28	presenceStatus:parking	true	09:51:46.046000
+2017-11-28	presenceStatus:parking	true	10:38:36.403000

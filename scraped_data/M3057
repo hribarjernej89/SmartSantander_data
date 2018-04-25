@@ -1,576 +1,576 @@
-date	attribute	attrValue	attribute	time
-2017-07-05	relativeHumidity	58	relativeHumidity	14:13:31.030000
-2017-07-06	relativeHumidity	74	relativeHumidity	07:23:33.935000
-2017-07-14	relativeHumidity	73	relativeHumidity	02:08:54.533000
-2017-07-26	relativeHumidity	56	relativeHumidity	14:49:30.798000
-2017-07-30	relativeHumidity	85	relativeHumidity	09:59:40.251000
-2017-07-30	relativeHumidity	80	relativeHumidity	11:19:40.366000
-2017-07-30	relativeHumidity	72	relativeHumidity	15:44:40.823000
-2017-08-01	relativeHumidity	80	relativeHumidity	01:49:44.769000
-2017-08-04	relativeHumidity	73	relativeHumidity	22:09:53.958000
-2017-08-05	relativeHumidity	71	relativeHumidity	08:09:54.991000
-2017-08-05	relativeHumidity	73	relativeHumidity	21:14:56.371000
-2017-08-05	relativeHumidity	74	relativeHumidity	21:19:56.363000
-2017-08-11	relativeHumidity	66	relativeHumidity	01:55:09.346000
-2017-08-11	relativeHumidity	65	relativeHumidity	21:35:11.652000
-2017-08-12	relativeHumidity	72	relativeHumidity	02:55:11.944000
-2017-08-13	relativeHumidity	52	relativeHumidity	13:40:15.544000
-2017-08-18	relativeHumidity	77	relativeHumidity	09:15:27.633000
-2017-08-19	relativeHumidity	72	relativeHumidity	05:45:29.778000
-2017-08-20	relativeHumidity	77	relativeHumidity	05:55:32.368000
-2017-08-21	relativeHumidity	57	relativeHumidity	19:30:36.243000
-2017-08-22	relativeHumidity	75	relativeHumidity	05:05:37.277000
-2017-08-22	relativeHumidity	62	relativeHumidity	12:25:39.024000
-2017-08-23	relativeHumidity	71	relativeHumidity	03:15:39.856000
-2017-08-23	relativeHumidity	70	relativeHumidity	03:25:39.685000
-2017-08-23	relativeHumidity	52	relativeHumidity	10:40:41.372000
-2017-08-24	relativeHumidity	77	relativeHumidity	19:00:43.789000
-2017-08-24	relativeHumidity	78	relativeHumidity	19:40:44.863000
-2017-08-24	relativeHumidity	67	relativeHumidity	22:45:44.227000
-2017-08-26	relativeHumidity	56	relativeHumidity	11:30:48.069000
-2017-08-27	relativeHumidity	78	relativeHumidity	09:15:50.367000
-2017-08-29	relativeHumidity	83	relativeHumidity	01:55:54.708000
-2017-08-30	relativeHumidity	57	relativeHumidity	12:55:58.364000
-2017-08-30	relativeHumidity	87	relativeHumidity	16:45:58.805000
-2017-08-30	relativeHumidity	89	relativeHumidity	17:21:00.501000
-2017-08-30	relativeHumidity	86	relativeHumidity	18:50:59.156000
-2017-09-02	relativeHumidity	74	relativeHumidity	04:36:05.165000
-2017-09-03	relativeHumidity	23	relativeHumidity	10:56:09.265000
-2017-09-03	relativeHumidity	64	relativeHumidity	19:51:09.216000
-2017-09-03	relativeHumidity	55	relativeHumidity	23:56:09.635000
-2017-09-04	relativeHumidity	65	relativeHumidity	03:46:10.051000
-2017-09-04	relativeHumidity	58	relativeHumidity	15:41:11.285000
-2017-09-04	relativeHumidity	57	relativeHumidity	15:51:11.297000
-2017-09-04	relativeHumidity	81	relativeHumidity	23:26:12.112000
-2017-09-04	relativeHumidity	79	relativeHumidity	23:46:12.337000
-2017-09-06	relativeHumidity	86	relativeHumidity	07:46:15.501000
-2017-09-06	relativeHumidity	55	relativeHumidity	15:26:16.320000
-2017-09-14	relativeHumidity	51	relativeHumidity	19:41:38.526000
-2017-09-19	relativeHumidity	83	relativeHumidity	00:06:46.525000
-2017-09-23	relativeHumidity	77	relativeHumidity	04:26:57.447000
-2017-09-30	relativeHumidity	75	relativeHumidity	17:12:16.314000
-2017-10-01	relativeHumidity	67	relativeHumidity	14:32:18.377000
-2017-10-03	relativeHumidity	83	relativeHumidity	00:37:21.035000
-2017-10-03	relativeHumidity	83	relativeHumidity	04:57:21.183000
-2017-10-03	relativeHumidity	80	relativeHumidity	22:22:22.946000
-2017-10-05	relativeHumidity	81	relativeHumidity	04:07:25.867000
-2017-10-07	relativeHumidity	75	relativeHumidity	02:27:29.490000
-2017-10-07	relativeHumidity	80	relativeHumidity	04:57:29.722000
-2017-10-10	relativeHumidity	77	relativeHumidity	03:52:36.742000
-2017-10-11	relativeHumidity	66	relativeHumidity	00:52:38.703000
-2017-10-11	relativeHumidity	67	relativeHumidity	11:52:40.473000
-2017-10-12	relativeHumidity	76	relativeHumidity	02:37:41.219000
-2017-10-12	relativeHumidity	77	relativeHumidity	23:02:43.328000
-2017-10-13	relativeHumidity	77	relativeHumidity	02:57:43.722000
-2017-10-13	relativeHumidity	68	relativeHumidity	21:42:46.362000
-2017-10-15	relativeHumidity	51	relativeHumidity	19:27:50.872000
-2017-10-19	relativeHumidity	71	relativeHumidity	01:02:57.610000
-2017-10-19	relativeHumidity	66	relativeHumidity	05:22:59.807000
-2017-10-19	relativeHumidity	37	relativeHumidity	11:12:58.384000
-2017-10-20	relativeHumidity	84	relativeHumidity	07:33:01.414000
-2017-10-22	relativeHumidity	64	relativeHumidity	02:58:04.758000
-2017-10-22	relativeHumidity	63	relativeHumidity	07:48:05.582000
-2017-10-22	relativeHumidity	70	relativeHumidity	08:08:06.174000
-2017-10-22	relativeHumidity	61	relativeHumidity	21:28:06.617000
-2017-10-23	relativeHumidity	70	relativeHumidity	06:43:07.522000
-2017-10-23	relativeHumidity	70	relativeHumidity	07:23:07.550000
-2017-10-25	relativeHumidity	65	relativeHumidity	03:38:12.102000
-2017-10-25	relativeHumidity	64	relativeHumidity	05:03:12.055000
-2017-10-25	relativeHumidity	66	relativeHumidity	07:28:12.358000
-2017-10-28	relativeHumidity	75	relativeHumidity	01:08:18.802000
-2017-10-28	relativeHumidity	80	relativeHumidity	06:28:20.332000
-2017-07-05	speed:instantaneous	13	speed:instantaneous	14:13:31.031000
-2017-07-06	speed:instantaneous	0	speed:instantaneous	07:23:33.940000
-2017-07-06	speed:instantaneous	17	speed:instantaneous	19:23:35.286000
-2017-07-26	speed:instantaneous	26	speed:instantaneous	14:49:30.799000
-2017-07-27	speed:instantaneous	13	speed:instantaneous	18:14:33.646000
-2017-07-28	speed:instantaneous	11	speed:instantaneous	17:39:36.052000
-2017-07-30	speed:instantaneous	31	speed:instantaneous	11:19:40.369000
-2017-07-31	speed:instantaneous	0	speed:instantaneous	21:49:44.222000
-2017-08-03	speed:instantaneous	17	speed:instantaneous	08:44:50.037000
-2017-08-10	speed:instantaneous	11	speed:instantaneous	07:50:07.453000
-2017-08-11	speed:instantaneous	20	speed:instantaneous	20:15:11.241000
-2017-08-11	speed:instantaneous	5	speed:instantaneous	21:35:11.653000
-2017-08-14	speed:instantaneous	0	speed:instantaneous	10:30:17.711000
-2017-08-14	speed:instantaneous	49	speed:instantaneous	15:05:18.233000
-2017-08-19	speed:instantaneous	23	speed:instantaneous	05:45:29.779000
-2017-08-20	speed:instantaneous	0	speed:instantaneous	19:50:33.773000
-2017-08-21	speed:instantaneous	42	speed:instantaneous	04:00:34.695000
-2017-08-21	speed:instantaneous	21	speed:instantaneous	04:05:35.374000
-2017-08-21	speed:instantaneous	0	speed:instantaneous	04:10:34.771000
-2017-08-21	speed:instantaneous	27	speed:instantaneous	04:20:35.566000
-2017-08-21	speed:instantaneous	8	speed:instantaneous	10:15:35.278000
-2017-08-21	speed:instantaneous	46	speed:instantaneous	19:30:36.244000
-2017-08-22	speed:instantaneous	31	speed:instantaneous	05:05:37.278000
-2017-08-22	speed:instantaneous	26	speed:instantaneous	12:25:39.024000
-2017-08-24	speed:instantaneous	30	speed:instantaneous	19:00:43.788000
-2017-08-24	speed:instantaneous	16	speed:instantaneous	19:40:44.863000
-2017-08-27	speed:instantaneous	34	speed:instantaneous	09:15:50.365000
-2017-08-27	speed:instantaneous	0	speed:instantaneous	17:50:51.277000
-2017-08-28	speed:instantaneous	16	speed:instantaneous	07:05:52.671000
-2017-08-29	speed:instantaneous	13	speed:instantaneous	05:25:55.034000
-2017-09-02	speed:instantaneous	17	speed:instantaneous	06:41:05.292000
-2017-09-02	speed:instantaneous	50	speed:instantaneous	09:51:06.481000
-2017-09-03	speed:instantaneous	25	speed:instantaneous	10:56:09.266000
-2017-09-03	speed:instantaneous	23	speed:instantaneous	19:51:09.201000
-2017-09-04	speed:instantaneous	0	speed:instantaneous	15:41:11.284000
-2017-09-04	speed:instantaneous	0	speed:instantaneous	15:51:11.299000
-2017-09-05	speed:instantaneous	25	speed:instantaneous	20:26:14.307000
-2017-09-06	speed:instantaneous	8	speed:instantaneous	05:51:15.298000
-2017-09-06	speed:instantaneous	28	speed:instantaneous	07:46:15.504000
-2017-09-06	speed:instantaneous	28	speed:instantaneous	15:26:16.321000
-2017-09-14	speed:instantaneous	0	speed:instantaneous	19:41:38.526000
-2017-09-30	speed:instantaneous	40	speed:instantaneous	15:07:16.087000
-2017-09-30	speed:instantaneous	20	speed:instantaneous	17:12:16.312000
-2017-10-01	speed:instantaneous	0	speed:instantaneous	14:32:18.376000
-2017-10-03	speed:instantaneous	35	speed:instantaneous	04:57:21.186000
-2017-10-03	speed:instantaneous	33	speed:instantaneous	05:22:21.254000
-2017-10-07	speed:instantaneous	29	speed:instantaneous	04:57:29.722000
-2017-10-07	speed:instantaneous	0	speed:instantaneous	15:12:31.667000
-2017-10-11	speed:instantaneous	0	speed:instantaneous	11:52:40.478000
-2017-10-15	speed:instantaneous	42	speed:instantaneous	05:52:48.574000
-2017-10-18	speed:instantaneous	38	speed:instantaneous	07:27:56.651000
-2017-10-19	speed:instantaneous	0	speed:instantaneous	11:12:58.385000
-2017-10-20	speed:instantaneous	26	speed:instantaneous	07:13:01.376000
-2017-10-22	speed:instantaneous	22	speed:instantaneous	10:23:05.523000
-2017-10-22	speed:instantaneous	0	speed:instantaneous	10:58:05.578000
-2017-10-22	speed:instantaneous	0	speed:instantaneous	13:43:05.874000
-2017-10-22	speed:instantaneous	0	speed:instantaneous	18:13:06.295000
-2017-10-22	speed:instantaneous	0	speed:instantaneous	20:13:06.463000
-2017-10-23	speed:instantaneous	15	speed:instantaneous	07:23:07.554000
-2017-10-24	speed:instantaneous	31	speed:instantaneous	09:33:10.193000
-2017-10-28	speed:instantaneous	37	speed:instantaneous	04:53:20.089000
-2017-10-28	speed:instantaneous	0	speed:instantaneous	04:58:21.833000
-2017-10-28	speed:instantaneous	24	speed:instantaneous	05:03:21.990000
-2017-10-28	speed:instantaneous	0	speed:instantaneous	06:28:20.328000
-2017-07-06	direction:heading	0	direction:heading	07:23:33.935000
-2017-07-06	direction:heading	86	direction:heading	19:23:35.283000
-2017-07-26	direction:heading	108	direction:heading	14:49:30.798000
-2017-07-27	direction:heading	264	direction:heading	18:14:33.646000
-2017-07-28	direction:heading	224	direction:heading	17:39:36.048000
-2017-07-30	direction:heading	263	direction:heading	11:19:40.366000
-2017-07-31	direction:heading	0	direction:heading	21:49:44.220000
-2017-08-03	direction:heading	96	direction:heading	08:44:50.036000
-2017-08-10	direction:heading	51	direction:heading	07:50:07.452000
-2017-08-11	direction:heading	248	direction:heading	20:15:11.242000
-2017-08-11	direction:heading	326	direction:heading	21:35:11.652000
-2017-08-14	direction:heading	0	direction:heading	10:30:17.711000
-2017-08-14	direction:heading	308	direction:heading	15:05:18.232000
-2017-08-19	direction:heading	69	direction:heading	05:45:29.777000
-2017-08-21	direction:heading	316	direction:heading	04:00:34.695000
-2017-08-21	direction:heading	212	direction:heading	04:05:35.373000
-2017-08-21	direction:heading	0	direction:heading	04:10:34.771000
-2017-08-21	direction:heading	133	direction:heading	04:20:35.564000
-2017-08-21	direction:heading	63	direction:heading	10:15:35.277000
-2017-08-21	direction:heading	72	direction:heading	19:30:36.244000
-2017-08-22	direction:heading	127	direction:heading	05:05:37.277000
-2017-08-22	direction:heading	11	direction:heading	12:25:39.023000
-2017-08-24	direction:heading	96	direction:heading	19:00:43.788000
-2017-08-24	direction:heading	263	direction:heading	19:40:44.864000
-2017-08-27	direction:heading	264	direction:heading	09:15:50.367000
-2017-08-27	direction:heading	0	direction:heading	17:50:51.277000
-2017-08-28	direction:heading	235	direction:heading	07:05:52.669000
-2017-08-29	direction:heading	241	direction:heading	05:25:55.034000
-2017-09-02	direction:heading	125	direction:heading	06:41:05.292000
-2017-09-02	direction:heading	249	direction:heading	09:51:06.481000
-2017-09-03	direction:heading	70	direction:heading	10:56:09.264000
-2017-09-03	direction:heading	271	direction:heading	19:51:09.201000
-2017-09-04	direction:heading	0	direction:heading	15:41:11.286000
-2017-09-04	direction:heading	0	direction:heading	15:51:11.296000
-2017-09-05	direction:heading	2	direction:heading	20:26:14.307000
-2017-09-06	direction:heading	211	direction:heading	05:51:15.298000
-2017-09-06	direction:heading	259	direction:heading	07:46:15.502000
-2017-09-06	direction:heading	69	direction:heading	15:26:16.319000
-2017-09-14	direction:heading	0	direction:heading	19:41:38.525000
-2017-09-30	direction:heading	252	direction:heading	15:07:16.086000
-2017-09-30	direction:heading	41	direction:heading	17:12:16.311000
-2017-10-01	direction:heading	0	direction:heading	14:32:18.378000
-2017-10-03	direction:heading	265	direction:heading	04:57:21.182000
-2017-10-03	direction:heading	70	direction:heading	05:22:21.254000
-2017-10-07	direction:heading	291	direction:heading	04:57:29.721000
-2017-10-07	direction:heading	0	direction:heading	15:12:31.666000
-2017-10-11	direction:heading	0	direction:heading	11:52:40.479000
-2017-10-15	direction:heading	34	direction:heading	05:52:48.574000
-2017-10-18	direction:heading	313	direction:heading	07:27:56.650000
-2017-10-19	direction:heading	0	direction:heading	11:12:58.383000
-2017-10-20	direction:heading	233	direction:heading	07:13:01.378000
-2017-10-22	direction:heading	253	direction:heading	10:23:05.523000
-2017-10-22	direction:heading	0	direction:heading	10:58:05.578000
-2017-10-22	direction:heading	0	direction:heading	13:43:05.874000
-2017-10-22	direction:heading	0	direction:heading	18:13:06.295000
-2017-10-22	direction:heading	0	direction:heading	20:13:06.463000
-2017-10-23	direction:heading	304	direction:heading	07:23:07.554000
-2017-10-24	direction:heading	84	direction:heading	09:33:10.194000
-2017-10-28	direction:heading	102	direction:heading	04:53:20.088000
-2017-10-28	direction:heading	0	direction:heading	04:58:21.831000
-2017-10-28	direction:heading	263	direction:heading	05:03:21.989000
-2017-10-28	direction:heading	0	direction:heading	06:28:20.331000
-2017-07-06	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	07:23:33.936000
-2017-07-13	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	18:28:54.726000
-2017-07-25	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	10:34:28.406000
-2017-07-26	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	00:19:29.315000
-2017-07-26	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	05:44:29.871000
-2017-07-26	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	14:49:30.799000
-2017-07-27	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	01:39:31.915000
-2017-07-28	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	17:39:36.048000
-2017-07-30	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	11:19:40.368000
-2017-08-04	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	21:39:54.446000
-2017-08-05	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	03:04:54.473000
-2017-08-05	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	19:59:56.229000
-2017-08-05	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	21:19:56.363000
-2017-08-09	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	22:30:06.486000
-2017-08-11	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	04:30:09.601000
-2017-08-12	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	23:40:14.089000
-2017-08-13	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	13:40:15.544000
-2017-08-13	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	15:30:15.735000
-2017-08-14	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	10:30:17.712000
-2017-08-14	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	19:20:18.635000
-2017-08-15	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	17:10:20.934000
-2017-08-16	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	23:55:24.160000
-2017-08-22	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	12:25:39.024000
-2017-08-22	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	21:20:38.967000
-2017-08-24	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	11:35:43.033000
-2017-08-24	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	19:00:43.789000
-2017-08-24	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	19:40:44.862000
-2017-08-24	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	20:35:43.966000
-2017-08-25	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	02:50:44.622000
-2017-08-25	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	03:15:44.662000
-2017-08-25	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	03:55:44.746000
-2017-08-29	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	05:25:55.035000
-2017-08-30	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	04:50:57.520000
-2017-08-30	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	12:55:58.364000
-2017-08-30	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	16:45:58.803000
-2017-09-02	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	06:41:05.295000
-2017-09-02	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	09:51:06.481000
-2017-09-02	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	10:06:06.665000
-2017-09-02	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	18:16:07.525000
-2017-09-03	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	10:56:09.265000
-2017-09-03	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	19:51:09.216000
-2017-09-03	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	23:56:09.635000
-2017-09-05	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	20:26:14.308000
-2017-09-06	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	22:01:16.997000
-2017-09-09	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	01:01:22.827000
-2017-09-14	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	14:26:37.050000
-2017-09-14	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	19:41:38.525000
-2017-09-20	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	17:16:50.582000
-2017-09-20	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	22:36:51.093000
-2017-09-23	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	04:36:57.545000
-2017-09-29	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	17:17:13.282000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	02:52:13.890000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	14:42:16.062000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	15:07:16.086000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	22:12:16.777000
-2017-10-03	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	04:57:21.183000
-2017-10-07	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	15:12:31.667000
-2017-10-10	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	03:22:36.556000
-2017-10-11	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	01:52:38.734000
-2017-10-14	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	10:27:47.621000
-2017-10-15	chemicalAgentAtmosphericConcentration:O3	118	chemicalAgentAtmosphericConcentration:O3	19:27:50.872000
-2017-10-17	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	06:58:07.376000
-2017-10-19	chemicalAgentAtmosphericConcentration:O3	119	chemicalAgentAtmosphericConcentration:O3	11:12:58.384000
-2017-10-22	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	02:58:04.756000
-2017-10-23	chemicalAgentAtmosphericConcentration:O3	120	chemicalAgentAtmosphericConcentration:O3	01:48:06.996000
-2017-10-23	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	07:23:07.555000
-2017-10-25	chemicalAgentAtmosphericConcentration:O3	121	chemicalAgentAtmosphericConcentration:O3	14:23:13.049000
-2017-07-06	mileage:total	81772	mileage:total	07:23:33.936000
-2017-07-06	mileage:total	81872	mileage:total	19:23:35.288000
-2017-07-26	mileage:total	84785	mileage:total	14:49:30.798000
-2017-07-28	mileage:total	85169	mileage:total	17:39:36.048000
-2017-07-30	mileage:total	85441	mileage:total	07:29:39.984000
-2017-07-30	mileage:total	85556	mileage:total	15:44:40.820000
-2017-07-31	mileage:total	85821	mileage:total	21:34:44.112000
-2017-07-31	mileage:total	85822	mileage:total	21:49:44.221000
-2017-08-02	mileage:total	86144	mileage:total	16:34:48.369000
-2017-08-10	mileage:total	87291	mileage:total	07:50:07.452000
-2017-08-11	mileage:total	87611	mileage:total	20:15:11.241000
-2017-08-11	mileage:total	87630	mileage:total	21:35:11.651000
-2017-08-13	mileage:total	87959	mileage:total	13:40:15.545000
-2017-08-14	mileage:total	88101	mileage:total	10:30:17.712000
-2017-08-19	mileage:total	88774	mileage:total	05:45:29.780000
-2017-08-21	mileage:total	89137	mileage:total	04:05:35.373000
-2017-08-21	mileage:total	89141	mileage:total	04:35:36.123000
-2017-08-21	mileage:total	89317	mileage:total	19:30:36.242000
-2017-08-22	mileage:total	89345	mileage:total	05:05:37.275000
-2017-08-22	mileage:total	89439	mileage:total	12:25:39.023000
-2017-08-24	mileage:total	89699	mileage:total	19:00:43.788000
-2017-08-24	mileage:total	89710	mileage:total	19:40:44.863000
-2017-08-24	mileage:total	89722	mileage:total	20:35:43.967000
-2017-08-24	mileage:total	89736	mileage:total	21:40:45.703000
-2017-08-27	mileage:total	90096	mileage:total	09:15:50.366000
-2017-08-27	mileage:total	90163	mileage:total	17:50:51.277000
-2017-08-28	mileage:total	90194	mileage:total	07:05:52.672000
-2017-08-31	mileage:total	90442	mileage:total	07:26:00.328000
-2017-09-02	mileage:total	90775	mileage:total	06:41:05.292000
-2017-09-02	mileage:total	90815	mileage:total	09:51:06.482000
-2017-09-03	mileage:total	91042	mileage:total	10:56:09.265000
-2017-09-03	mileage:total	91159	mileage:total	19:51:09.219000
-2017-09-04	mileage:total	91283	mileage:total	15:41:11.283000
-2017-09-05	mileage:total	91397	mileage:total	20:26:14.308000
-2017-09-06	mileage:total	91417	mileage:total	05:51:15.299000
-2017-09-06	mileage:total	91502	mileage:total	15:26:16.319000
-2017-09-14	mileage:total	92410	mileage:total	19:41:38.526000
-2017-09-20	mileage:total	93000	mileage:total	21:01:50.994000
-2017-09-28	mileage:total	94472	mileage:total	20:57:10.997000
-2017-09-29	mileage:total	94598	mileage:total	19:12:13.150000
-2017-09-30	mileage:total	94718	mileage:total	14:42:16.063000
-2017-09-30	mileage:total	94721	mileage:total	15:07:16.086000
-2017-09-30	mileage:total	94741	mileage:total	17:12:16.311000
-2017-10-01	mileage:total	94876	mileage:total	14:32:18.378000
-2017-10-03	mileage:total	94975	mileage:total	04:57:21.183000
-2017-10-03	mileage:total	94982	mileage:total	05:17:21.357000
-2017-10-03	mileage:total	94984	mileage:total	05:22:21.251000
-2017-10-03	mileage:total	95196	mileage:total	20:47:22.834000
-2017-10-07	mileage:total	95444	mileage:total	04:57:29.721000
-2017-10-07	mileage:total	95576	mileage:total	15:12:31.668000
-2017-10-11	mileage:total	96061	mileage:total	11:52:40.473000
-2017-10-15	mileage:total	96680	mileage:total	05:52:48.574000
-2017-10-18	mileage:total	97186	mileage:total	07:27:56.651000
-2017-10-19	mileage:total	97388	mileage:total	11:12:58.384000
-2017-10-20	mileage:total	97517	mileage:total	07:13:01.379000
-2017-10-22	mileage:total	97827	mileage:total	13:43:05.875000
-2017-10-22	mileage:total	97873	mileage:total	18:13:06.294000
-2017-10-22	mileage:total	97893	mileage:total	19:48:06.450000
-2017-10-22	mileage:total	97900	mileage:total	20:13:06.464000
-2017-10-23	mileage:total	97930	mileage:total	07:23:07.556000
-2017-10-28	mileage:total	98389	mileage:total	04:53:20.089000
-2017-10-28	mileage:total	98390	mileage:total	04:58:21.831000
-2017-10-28	mileage:total	98391	mileage:total	05:03:21.987000
-2017-10-28	mileage:total	98529	mileage:total	14:58:21.191000
-2017-07-06	temperature:ambient	20.5	temperature:ambient	07:23:33.937000
-2017-07-06	temperature:ambient	21	temperature:ambient	19:23:35.285000
-2017-07-26	temperature:ambient	25	temperature:ambient	14:49:30.798000
-2017-07-27	temperature:ambient	20	temperature:ambient	01:39:31.914000
-2017-07-28	temperature:ambient	26.6	temperature:ambient	17:39:36.052000
-2017-07-30	temperature:ambient	22.2	temperature:ambient	11:19:40.369000
-2017-07-30	temperature:ambient	21.2	temperature:ambient	15:44:40.822000
-2017-07-31	temperature:ambient	21	temperature:ambient	23:29:44.107000
-2017-08-04	temperature:ambient	26.8	temperature:ambient	22:09:53.957000
-2017-08-05	temperature:ambient	22.1	temperature:ambient	08:09:54.991000
-2017-08-05	temperature:ambient	25.5	temperature:ambient	19:59:56.229000
-2017-08-05	temperature:ambient	20.1	temperature:ambient	21:19:56.363000
-2017-08-10	temperature:ambient	17.8	temperature:ambient	07:50:07.452000
-2017-08-11	temperature:ambient	19.3	temperature:ambient	20:15:11.241000
-2017-08-11	temperature:ambient	18.4	temperature:ambient	21:35:11.652000
-2017-08-12	temperature:ambient	17.9	temperature:ambient	23:40:14.090000
-2017-08-12	temperature:ambient	17.7	temperature:ambient	23:50:14.123000
-2017-08-13	temperature:ambient	27.1	temperature:ambient	13:40:15.545000
-2017-08-14	temperature:ambient	27.7	temperature:ambient	10:30:17.711000
-2017-08-14	temperature:ambient	23.1	temperature:ambient	19:20:18.634000
-2017-08-16	temperature:ambient	23.6	temperature:ambient	06:25:22.307000
-2017-08-19	temperature:ambient	20.1	temperature:ambient	05:45:29.776000
-2017-08-21	temperature:ambient	24.8	temperature:ambient	19:30:36.243000
-2017-08-23	temperature:ambient	27.4	temperature:ambient	10:40:41.372000
-2017-08-23	temperature:ambient	26.2	temperature:ambient	22:55:41.669000
-2017-08-24	temperature:ambient	21.6	temperature:ambient	19:00:43.790000
-2017-08-24	temperature:ambient	21	temperature:ambient	19:40:44.862000
-2017-08-24	temperature:ambient	21.2	temperature:ambient	20:35:43.968000
-2017-08-25	temperature:ambient	23.8	temperature:ambient	02:50:44.621000
-2017-08-25	temperature:ambient	23.5	temperature:ambient	03:15:44.662000
-2017-08-25	temperature:ambient	23.5	temperature:ambient	03:55:44.747000
-2017-08-26	temperature:ambient	22.5	temperature:ambient	03:05:47.174000
-2017-08-28	temperature:ambient	21.8	temperature:ambient	07:05:52.671000
-2017-08-29	temperature:ambient	18.9	temperature:ambient	05:25:55.034000
-2017-08-30	temperature:ambient	27.4	temperature:ambient	04:50:57.520000
-2017-08-30	temperature:ambient	27.2	temperature:ambient	12:55:58.366000
-2017-09-01	temperature:ambient	24.5	temperature:ambient	22:06:04.384000
-2017-09-02	temperature:ambient	15.4	temperature:ambient	06:41:05.293000
-2017-09-02	temperature:ambient	23.5	temperature:ambient	09:51:06.482000
-2017-09-03	temperature:ambient	18.8	temperature:ambient	19:51:09.216000
-2017-09-04	temperature:ambient	21.3	temperature:ambient	03:36:10.015000
-2017-09-04	temperature:ambient	24.9	temperature:ambient	15:41:11.283000
-2017-09-04	temperature:ambient	25.6	temperature:ambient	15:51:11.297000
-2017-09-04	temperature:ambient	20.9	temperature:ambient	23:26:12.112000
-2017-09-05	temperature:ambient	20.7	temperature:ambient	20:26:14.308000
-2017-09-06	temperature:ambient	17.9	temperature:ambient	05:51:15.298000
-2017-09-06	temperature:ambient	23.1	temperature:ambient	15:26:16.319000
-2017-09-06	temperature:ambient	24.4	temperature:ambient	21:56:17.007000
-2017-09-06	temperature:ambient	24.7	temperature:ambient	22:01:16.996000
-2017-09-14	temperature:ambient	18.4	temperature:ambient	19:41:38.525000
-2017-09-19	temperature:ambient	16.4	temperature:ambient	00:06:46.527000
-2017-09-20	temperature:ambient	17	temperature:ambient	22:36:51.094000
-2017-09-23	temperature:ambient	14.7	temperature:ambient	04:26:57.446000
-2017-09-23	temperature:ambient	14.2	temperature:ambient	04:56:57.507000
-2017-09-30	temperature:ambient	18	temperature:ambient	02:52:13.890000
-2017-09-30	temperature:ambient	21	temperature:ambient	15:07:16.086000
-2017-10-01	temperature:ambient	22.6	temperature:ambient	14:32:18.376000
-2017-10-06	temperature:ambient	20.7	temperature:ambient	01:32:26.985000
-2017-10-06	temperature:ambient	20.6	temperature:ambient	01:52:26.974000
-2017-10-06	temperature:ambient	20.4	temperature:ambient	02:27:27.082000
-2017-10-06	temperature:ambient	19.7	temperature:ambient	08:07:27.623000
-2017-10-07	temperature:ambient	20.2	temperature:ambient	15:12:31.667000
-2017-10-10	temperature:ambient	18.5	temperature:ambient	17:37:37.942000
-2017-10-11	temperature:ambient	21	temperature:ambient	01:52:38.734000
-2017-10-13	temperature:ambient	24.2	temperature:ambient	21:42:46.363000
-2017-10-15	temperature:ambient	25.5	temperature:ambient	19:27:50.872000
-2017-10-18	temperature:ambient	21.1	temperature:ambient	01:52:56.120000
-2017-10-19	temperature:ambient	12.6	temperature:ambient	05:22:59.811000
-2017-10-19	temperature:ambient	24.5	temperature:ambient	11:12:58.381000
-2017-10-22	temperature:ambient	15.1	temperature:ambient	08:08:06.175000
-2017-10-22	temperature:ambient	20.1	temperature:ambient	21:43:06.595000
-2017-10-23	temperature:ambient	17.7	temperature:ambient	01:48:06.995000
-2017-10-23	temperature:ambient	12.3	temperature:ambient	07:23:07.553000
-2017-10-25	temperature:ambient	18.4	temperature:ambient	05:03:12.055000
-2017-10-26	temperature:ambient	15.3	temperature:ambient	23:08:17.228000
-2017-10-27	temperature:ambient	13.8	temperature:ambient	03:03:17.643000
-2017-10-27	temperature:ambient	18.4	temperature:ambient	23:48:18.690000
-2017-10-27	temperature:ambient	18.7	temperature:ambient	23:58:18.692000
-2017-10-28	temperature:ambient	16.4	temperature:ambient	06:28:20.328000
-2017-07-06	position:altitude	81	position:altitude	07:23:33.939000
-2017-07-06	position:altitude	69	position:altitude	19:23:35.288000
-2017-07-26	position:altitude	21	position:altitude	04:34:29.752000
-2017-07-26	position:altitude	12	position:altitude	14:49:30.800000
-2017-07-27	position:altitude	25	position:altitude	01:39:31.915000
-2017-07-27	position:altitude	72	position:altitude	18:14:33.646000
-2017-07-28	position:altitude	29	position:altitude	17:39:36.052000
-2017-07-30	position:altitude	-8	position:altitude	11:19:40.369000
-2017-07-30	position:altitude	25	position:altitude	15:44:40.823000
-2017-07-31	position:altitude	16	position:altitude	23:29:44.107000
-2017-08-05	position:altitude	26	position:altitude	08:09:54.994000
-2017-08-05	position:altitude	33	position:altitude	19:59:56.231000
-2017-08-05	position:altitude	13	position:altitude	21:19:56.365000
-2017-08-11	position:altitude	19	position:altitude	04:30:09.602000
-2017-08-11	position:altitude	33	position:altitude	20:15:11.242000
-2017-08-11	position:altitude	44	position:altitude	21:35:11.655000
-2017-08-12	position:altitude	19	position:altitude	23:40:14.090000
-2017-08-13	position:altitude	22	position:altitude	13:40:15.545000
-2017-08-14	position:altitude	51	position:altitude	10:30:17.712000
-2017-08-14	position:altitude	24	position:altitude	19:20:18.634000
-2017-08-19	position:altitude	26	position:altitude	05:45:29.781000
-2017-08-21	position:altitude	0	position:altitude	19:30:36.245000
-2017-08-22	position:altitude	36	position:altitude	12:25:39.024000
-2017-08-22	position:altitude	49	position:altitude	21:20:38.968000
-2017-08-23	position:altitude	26	position:altitude	10:40:41.373000
-2017-08-24	position:altitude	3	position:altitude	19:00:43.789000
-2017-08-24	position:altitude	2	position:altitude	19:40:44.863000
-2017-08-24	position:altitude	17	position:altitude	20:35:43.967000
-2017-08-25	position:altitude	13	position:altitude	03:15:44.662000
-2017-08-26	position:altitude	20	position:altitude	03:05:47.175000
-2017-08-27	position:altitude	48	position:altitude	09:15:50.366000
-2017-08-28	position:altitude	33	position:altitude	07:05:52.671000
-2017-08-29	position:altitude	53	position:altitude	05:25:55.034000
-2017-09-01	position:altitude	28	position:altitude	22:06:04.385000
-2017-09-02	position:altitude	62	position:altitude	06:41:05.293000
-2017-09-02	position:altitude	20	position:altitude	09:51:06.482000
-2017-09-03	position:altitude	58	position:altitude	10:56:09.265000
-2017-09-03	position:altitude	15	position:altitude	19:51:09.201000
-2017-09-04	position:altitude	15	position:altitude	15:41:11.284000
-2017-09-04	position:altitude	12	position:altitude	15:51:11.299000
-2017-09-05	position:altitude	63	position:altitude	20:26:14.308000
-2017-09-06	position:altitude	0	position:altitude	05:51:15.299000
-2017-09-06	position:altitude	-2	position:altitude	15:26:16.320000
-2017-09-06	position:altitude	11	position:altitude	22:01:16.996000
-2017-09-14	position:altitude	60	position:altitude	19:41:38.527000
-2017-09-15	position:altitude	30	position:altitude	22:56:40.251000
-2017-09-20	position:altitude	29	position:altitude	22:36:51.094000
-2017-09-23	position:altitude	21	position:altitude	04:26:57.447000
-2017-09-23	position:altitude	22	position:altitude	04:56:57.508000
-2017-09-30	position:altitude	13	position:altitude	02:52:13.889000
-2017-09-30	position:altitude	35	position:altitude	15:07:16.085000
-2017-10-01	position:altitude	3	position:altitude	14:32:18.379000
-2017-10-06	position:altitude	13	position:altitude	01:52:26.976000
-2017-10-11	position:altitude	27	position:altitude	01:52:38.737000
-2017-10-15	position:altitude	12	position:altitude	19:27:50.873000
-2017-10-18	position:altitude	16	position:altitude	01:52:56.122000
-2017-10-19	position:altitude	17	position:altitude	05:22:59.812000
-2017-10-19	position:altitude	7	position:altitude	11:12:58.386000
-2017-10-20	position:altitude	31	position:altitude	07:13:01.377000
-2017-10-21	position:altitude	17	position:altitude	18:38:03.933000
-2017-10-22	position:altitude	-1	position:altitude	08:08:06.175000
-2017-10-22	position:altitude	29	position:altitude	21:43:06.595000
-2017-10-23	position:altitude	2	position:altitude	01:48:06.996000
-2017-10-23	position:altitude	70	position:altitude	07:23:07.556000
-2017-10-25	position:altitude	30	position:altitude	03:53:11.956000
-2017-10-25	position:altitude	12	position:altitude	05:03:12.056000
-2017-10-26	position:altitude	18	position:altitude	23:08:17.228000
-2017-10-27	position:altitude	18	position:altitude	23:58:18.692000
-2017-10-28	position:altitude	33	position:altitude	06:28:20.330000
-2017-07-06	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	08:58:33.355000
-2017-07-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	10:34:28.408000
-2017-07-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	11:54:28.037000
-2017-07-27	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	01:39:31.914000
-2017-07-27	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	13:54:33.212000
-2017-07-28	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	13:54:36.113000
-2017-07-28	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	17:39:36.048000
-2017-07-29	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	12:39:38.034000
-2017-07-29	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	19:29:38.744000
-2017-08-02	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	16:34:48.368000
-2017-08-04	chemicalAgentAtmosphericConcentration:airParticles	0.13	chemicalAgentAtmosphericConcentration:airParticles	15:49:53.388000
-2017-08-11	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	14:40:10.729000
-2017-08-14	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	16:05:18.309000
-2017-08-16	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	06:25:22.307000
-2017-08-16	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	13:10:23.329000
-2017-08-17	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	04:20:25.643000
-2017-08-19	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	05:45:29.776000
-2017-08-20	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	19:50:33.771000
-2017-08-21	chemicalAgentAtmosphericConcentration:airParticles	0.1	chemicalAgentAtmosphericConcentration:airParticles	19:30:36.244000
-2017-08-22	chemicalAgentAtmosphericConcentration:airParticles	0.17	chemicalAgentAtmosphericConcentration:airParticles	08:50:37.719000
-2017-08-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	21:20:38.969000
-2017-08-23	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	01:30:39.451000
-2017-08-23	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	22:55:41.669000
-2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	09:20:42.784000
-2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	19:40:44.862000
-2017-08-25	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	03:15:44.662000
-2017-08-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	03:55:44.747000
-2017-08-26	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	11:30:48.070000
-2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	09:15:50.366000
-2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	14:00:50.909000
-2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	17:50:51.276000
-2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	19:25:51.481000
-2017-08-29	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	05:25:55.034000
-2017-08-31	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	07:26:00.327000
-2017-08-31	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	14:11:01.042000
-2017-09-01	chemicalAgentAtmosphericConcentration:airParticles	0.07	chemicalAgentAtmosphericConcentration:airParticles	04:51:02.615000
-2017-09-02	chemicalAgentAtmosphericConcentration:airParticles	0.07	chemicalAgentAtmosphericConcentration:airParticles	06:41:05.292000
-2017-09-03	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	10:56:09.264000
-2017-09-03	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	23:56:09.636000
-2017-09-04	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	15:41:11.286000
-2017-09-06	chemicalAgentAtmosphericConcentration:airParticles	0.1	chemicalAgentAtmosphericConcentration:airParticles	15:26:16.319000
-2017-09-07	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	12:51:19.574000
-2017-09-07	chemicalAgentAtmosphericConcentration:airParticles	0.1	chemicalAgentAtmosphericConcentration:airParticles	13:21:19.749000
-2017-09-20	chemicalAgentAtmosphericConcentration:airParticles	0.11	chemicalAgentAtmosphericConcentration:airParticles	13:31:50.416000
-2017-09-20	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	14:51:50.415000
-2017-09-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	22:36:56.865000
-2017-09-26	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	11:17:07.295000
-2017-09-30	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	15:07:16.087000
-2017-10-01	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	09:32:17.329000
-2017-10-02	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	18:22:20.136000
-2017-10-06	chemicalAgentAtmosphericConcentration:airParticles	0.07	chemicalAgentAtmosphericConcentration:airParticles	01:52:26.974000
-2017-10-07	chemicalAgentAtmosphericConcentration:airParticles	0.07	chemicalAgentAtmosphericConcentration:airParticles	03:07:29.724000
-2017-10-07	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	15:12:31.667000
-2017-10-10	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	17:37:37.941000
-2017-10-11	chemicalAgentAtmosphericConcentration:airParticles	0.11	chemicalAgentAtmosphericConcentration:airParticles	08:22:40.381000
-2017-10-13	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	21:42:46.364000
-2017-10-15	chemicalAgentAtmosphericConcentration:airParticles	0.11	chemicalAgentAtmosphericConcentration:airParticles	16:32:49.762000
-2017-10-15	chemicalAgentAtmosphericConcentration:airParticles	0.1	chemicalAgentAtmosphericConcentration:airParticles	19:07:50.203000
-2017-10-17	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	10:12:53.588000
-2017-10-20	chemicalAgentAtmosphericConcentration:airParticles	0.07	chemicalAgentAtmosphericConcentration:airParticles	07:33:01.415000
-2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	01:38:04.886000
-2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	05:18:05.815000
-2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	05:33:05.245000
-2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	07:08:05.385000
-2017-10-23	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	07:23:07.554000
-2017-10-23	chemicalAgentAtmosphericConcentration:airParticles	0.1	chemicalAgentAtmosphericConcentration:airParticles	15:08:09.360000
-2017-10-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	15:53:10.771000
-2017-10-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	16:53:10.874000
-2017-10-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	chemicalAgentAtmosphericConcentration:airParticles	02:08:11.791000
-2017-10-28	chemicalAgentAtmosphericConcentration:airParticles	0.12	chemicalAgentAtmosphericConcentration:airParticles	14:58:21.191000
-2017-08-12	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	04:55:12.246000
-2017-08-12	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	05:25:12.483000
-2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	01:45:14.943000
-2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	01:55:14.639000
-2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	02:20:14.754000
-2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	04:50:15.137000
-2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	04:55:15.287000
-2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	05:55:15.174000
-2017-08-15	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	16:25:21.035000
-2017-08-15	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	16:30:21.575000
-2017-08-16	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	05:35:23.350000
-2017-10-08	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	21:37:34.710000
-2017-10-09	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	08:07:35.674000
-2017-10-09	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	08:17:35.685000
-2017-10-11	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	05:37:40.463000
-2017-10-12	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	05:17:41.990000
-2017-10-13	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	05:52:44.859000
-2017-10-22	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	20:13:06.464000
-2017-10-27	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	01:58:16.873000
-2017-10-27	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	03:03:17.644000
+date	attribute	attrValue	time
+2017-07-05	relativeHumidity	58	14:13:31.030000
+2017-07-06	relativeHumidity	74	07:23:33.935000
+2017-07-14	relativeHumidity	73	02:08:54.533000
+2017-07-26	relativeHumidity	56	14:49:30.798000
+2017-07-30	relativeHumidity	85	09:59:40.251000
+2017-07-30	relativeHumidity	80	11:19:40.366000
+2017-07-30	relativeHumidity	72	15:44:40.823000
+2017-08-01	relativeHumidity	80	01:49:44.769000
+2017-08-04	relativeHumidity	73	22:09:53.958000
+2017-08-05	relativeHumidity	71	08:09:54.991000
+2017-08-05	relativeHumidity	73	21:14:56.371000
+2017-08-05	relativeHumidity	74	21:19:56.363000
+2017-08-11	relativeHumidity	66	01:55:09.346000
+2017-08-11	relativeHumidity	65	21:35:11.652000
+2017-08-12	relativeHumidity	72	02:55:11.944000
+2017-08-13	relativeHumidity	52	13:40:15.544000
+2017-08-18	relativeHumidity	77	09:15:27.633000
+2017-08-19	relativeHumidity	72	05:45:29.778000
+2017-08-20	relativeHumidity	77	05:55:32.368000
+2017-08-21	relativeHumidity	57	19:30:36.243000
+2017-08-22	relativeHumidity	75	05:05:37.277000
+2017-08-22	relativeHumidity	62	12:25:39.024000
+2017-08-23	relativeHumidity	71	03:15:39.856000
+2017-08-23	relativeHumidity	70	03:25:39.685000
+2017-08-23	relativeHumidity	52	10:40:41.372000
+2017-08-24	relativeHumidity	77	19:00:43.789000
+2017-08-24	relativeHumidity	78	19:40:44.863000
+2017-08-24	relativeHumidity	67	22:45:44.227000
+2017-08-26	relativeHumidity	56	11:30:48.069000
+2017-08-27	relativeHumidity	78	09:15:50.367000
+2017-08-29	relativeHumidity	83	01:55:54.708000
+2017-08-30	relativeHumidity	57	12:55:58.364000
+2017-08-30	relativeHumidity	87	16:45:58.805000
+2017-08-30	relativeHumidity	89	17:21:00.501000
+2017-08-30	relativeHumidity	86	18:50:59.156000
+2017-09-02	relativeHumidity	74	04:36:05.165000
+2017-09-03	relativeHumidity	23	10:56:09.265000
+2017-09-03	relativeHumidity	64	19:51:09.216000
+2017-09-03	relativeHumidity	55	23:56:09.635000
+2017-09-04	relativeHumidity	65	03:46:10.051000
+2017-09-04	relativeHumidity	58	15:41:11.285000
+2017-09-04	relativeHumidity	57	15:51:11.297000
+2017-09-04	relativeHumidity	81	23:26:12.112000
+2017-09-04	relativeHumidity	79	23:46:12.337000
+2017-09-06	relativeHumidity	86	07:46:15.501000
+2017-09-06	relativeHumidity	55	15:26:16.320000
+2017-09-14	relativeHumidity	51	19:41:38.526000
+2017-09-19	relativeHumidity	83	00:06:46.525000
+2017-09-23	relativeHumidity	77	04:26:57.447000
+2017-09-30	relativeHumidity	75	17:12:16.314000
+2017-10-01	relativeHumidity	67	14:32:18.377000
+2017-10-03	relativeHumidity	83	00:37:21.035000
+2017-10-03	relativeHumidity	83	04:57:21.183000
+2017-10-03	relativeHumidity	80	22:22:22.946000
+2017-10-05	relativeHumidity	81	04:07:25.867000
+2017-10-07	relativeHumidity	75	02:27:29.490000
+2017-10-07	relativeHumidity	80	04:57:29.722000
+2017-10-10	relativeHumidity	77	03:52:36.742000
+2017-10-11	relativeHumidity	66	00:52:38.703000
+2017-10-11	relativeHumidity	67	11:52:40.473000
+2017-10-12	relativeHumidity	76	02:37:41.219000
+2017-10-12	relativeHumidity	77	23:02:43.328000
+2017-10-13	relativeHumidity	77	02:57:43.722000
+2017-10-13	relativeHumidity	68	21:42:46.362000
+2017-10-15	relativeHumidity	51	19:27:50.872000
+2017-10-19	relativeHumidity	71	01:02:57.610000
+2017-10-19	relativeHumidity	66	05:22:59.807000
+2017-10-19	relativeHumidity	37	11:12:58.384000
+2017-10-20	relativeHumidity	84	07:33:01.414000
+2017-10-22	relativeHumidity	64	02:58:04.758000
+2017-10-22	relativeHumidity	63	07:48:05.582000
+2017-10-22	relativeHumidity	70	08:08:06.174000
+2017-10-22	relativeHumidity	61	21:28:06.617000
+2017-10-23	relativeHumidity	70	06:43:07.522000
+2017-10-23	relativeHumidity	70	07:23:07.550000
+2017-10-25	relativeHumidity	65	03:38:12.102000
+2017-10-25	relativeHumidity	64	05:03:12.055000
+2017-10-25	relativeHumidity	66	07:28:12.358000
+2017-10-28	relativeHumidity	75	01:08:18.802000
+2017-10-28	relativeHumidity	80	06:28:20.332000
+2017-07-05	speed:instantaneous	13	14:13:31.031000
+2017-07-06	speed:instantaneous	0	07:23:33.940000
+2017-07-06	speed:instantaneous	17	19:23:35.286000
+2017-07-26	speed:instantaneous	26	14:49:30.799000
+2017-07-27	speed:instantaneous	13	18:14:33.646000
+2017-07-28	speed:instantaneous	11	17:39:36.052000
+2017-07-30	speed:instantaneous	31	11:19:40.369000
+2017-07-31	speed:instantaneous	0	21:49:44.222000
+2017-08-03	speed:instantaneous	17	08:44:50.037000
+2017-08-10	speed:instantaneous	11	07:50:07.453000
+2017-08-11	speed:instantaneous	20	20:15:11.241000
+2017-08-11	speed:instantaneous	5	21:35:11.653000
+2017-08-14	speed:instantaneous	0	10:30:17.711000
+2017-08-14	speed:instantaneous	49	15:05:18.233000
+2017-08-19	speed:instantaneous	23	05:45:29.779000
+2017-08-20	speed:instantaneous	0	19:50:33.773000
+2017-08-21	speed:instantaneous	42	04:00:34.695000
+2017-08-21	speed:instantaneous	21	04:05:35.374000
+2017-08-21	speed:instantaneous	0	04:10:34.771000
+2017-08-21	speed:instantaneous	27	04:20:35.566000
+2017-08-21	speed:instantaneous	8	10:15:35.278000
+2017-08-21	speed:instantaneous	46	19:30:36.244000
+2017-08-22	speed:instantaneous	31	05:05:37.278000
+2017-08-22	speed:instantaneous	26	12:25:39.024000
+2017-08-24	speed:instantaneous	30	19:00:43.788000
+2017-08-24	speed:instantaneous	16	19:40:44.863000
+2017-08-27	speed:instantaneous	34	09:15:50.365000
+2017-08-27	speed:instantaneous	0	17:50:51.277000
+2017-08-28	speed:instantaneous	16	07:05:52.671000
+2017-08-29	speed:instantaneous	13	05:25:55.034000
+2017-09-02	speed:instantaneous	17	06:41:05.292000
+2017-09-02	speed:instantaneous	50	09:51:06.481000
+2017-09-03	speed:instantaneous	25	10:56:09.266000
+2017-09-03	speed:instantaneous	23	19:51:09.201000
+2017-09-04	speed:instantaneous	0	15:41:11.284000
+2017-09-04	speed:instantaneous	0	15:51:11.299000
+2017-09-05	speed:instantaneous	25	20:26:14.307000
+2017-09-06	speed:instantaneous	8	05:51:15.298000
+2017-09-06	speed:instantaneous	28	07:46:15.504000
+2017-09-06	speed:instantaneous	28	15:26:16.321000
+2017-09-14	speed:instantaneous	0	19:41:38.526000
+2017-09-30	speed:instantaneous	40	15:07:16.087000
+2017-09-30	speed:instantaneous	20	17:12:16.312000
+2017-10-01	speed:instantaneous	0	14:32:18.376000
+2017-10-03	speed:instantaneous	35	04:57:21.186000
+2017-10-03	speed:instantaneous	33	05:22:21.254000
+2017-10-07	speed:instantaneous	29	04:57:29.722000
+2017-10-07	speed:instantaneous	0	15:12:31.667000
+2017-10-11	speed:instantaneous	0	11:52:40.478000
+2017-10-15	speed:instantaneous	42	05:52:48.574000
+2017-10-18	speed:instantaneous	38	07:27:56.651000
+2017-10-19	speed:instantaneous	0	11:12:58.385000
+2017-10-20	speed:instantaneous	26	07:13:01.376000
+2017-10-22	speed:instantaneous	22	10:23:05.523000
+2017-10-22	speed:instantaneous	0	10:58:05.578000
+2017-10-22	speed:instantaneous	0	13:43:05.874000
+2017-10-22	speed:instantaneous	0	18:13:06.295000
+2017-10-22	speed:instantaneous	0	20:13:06.463000
+2017-10-23	speed:instantaneous	15	07:23:07.554000
+2017-10-24	speed:instantaneous	31	09:33:10.193000
+2017-10-28	speed:instantaneous	37	04:53:20.089000
+2017-10-28	speed:instantaneous	0	04:58:21.833000
+2017-10-28	speed:instantaneous	24	05:03:21.990000
+2017-10-28	speed:instantaneous	0	06:28:20.328000
+2017-07-06	direction:heading	0	07:23:33.935000
+2017-07-06	direction:heading	86	19:23:35.283000
+2017-07-26	direction:heading	108	14:49:30.798000
+2017-07-27	direction:heading	264	18:14:33.646000
+2017-07-28	direction:heading	224	17:39:36.048000
+2017-07-30	direction:heading	263	11:19:40.366000
+2017-07-31	direction:heading	0	21:49:44.220000
+2017-08-03	direction:heading	96	08:44:50.036000
+2017-08-10	direction:heading	51	07:50:07.452000
+2017-08-11	direction:heading	248	20:15:11.242000
+2017-08-11	direction:heading	326	21:35:11.652000
+2017-08-14	direction:heading	0	10:30:17.711000
+2017-08-14	direction:heading	308	15:05:18.232000
+2017-08-19	direction:heading	69	05:45:29.777000
+2017-08-21	direction:heading	316	04:00:34.695000
+2017-08-21	direction:heading	212	04:05:35.373000
+2017-08-21	direction:heading	0	04:10:34.771000
+2017-08-21	direction:heading	133	04:20:35.564000
+2017-08-21	direction:heading	63	10:15:35.277000
+2017-08-21	direction:heading	72	19:30:36.244000
+2017-08-22	direction:heading	127	05:05:37.277000
+2017-08-22	direction:heading	11	12:25:39.023000
+2017-08-24	direction:heading	96	19:00:43.788000
+2017-08-24	direction:heading	263	19:40:44.864000
+2017-08-27	direction:heading	264	09:15:50.367000
+2017-08-27	direction:heading	0	17:50:51.277000
+2017-08-28	direction:heading	235	07:05:52.669000
+2017-08-29	direction:heading	241	05:25:55.034000
+2017-09-02	direction:heading	125	06:41:05.292000
+2017-09-02	direction:heading	249	09:51:06.481000
+2017-09-03	direction:heading	70	10:56:09.264000
+2017-09-03	direction:heading	271	19:51:09.201000
+2017-09-04	direction:heading	0	15:41:11.286000
+2017-09-04	direction:heading	0	15:51:11.296000
+2017-09-05	direction:heading	2	20:26:14.307000
+2017-09-06	direction:heading	211	05:51:15.298000
+2017-09-06	direction:heading	259	07:46:15.502000
+2017-09-06	direction:heading	69	15:26:16.319000
+2017-09-14	direction:heading	0	19:41:38.525000
+2017-09-30	direction:heading	252	15:07:16.086000
+2017-09-30	direction:heading	41	17:12:16.311000
+2017-10-01	direction:heading	0	14:32:18.378000
+2017-10-03	direction:heading	265	04:57:21.182000
+2017-10-03	direction:heading	70	05:22:21.254000
+2017-10-07	direction:heading	291	04:57:29.721000
+2017-10-07	direction:heading	0	15:12:31.666000
+2017-10-11	direction:heading	0	11:52:40.479000
+2017-10-15	direction:heading	34	05:52:48.574000
+2017-10-18	direction:heading	313	07:27:56.650000
+2017-10-19	direction:heading	0	11:12:58.383000
+2017-10-20	direction:heading	233	07:13:01.378000
+2017-10-22	direction:heading	253	10:23:05.523000
+2017-10-22	direction:heading	0	10:58:05.578000
+2017-10-22	direction:heading	0	13:43:05.874000
+2017-10-22	direction:heading	0	18:13:06.295000
+2017-10-22	direction:heading	0	20:13:06.463000
+2017-10-23	direction:heading	304	07:23:07.554000
+2017-10-24	direction:heading	84	09:33:10.194000
+2017-10-28	direction:heading	102	04:53:20.088000
+2017-10-28	direction:heading	0	04:58:21.831000
+2017-10-28	direction:heading	263	05:03:21.989000
+2017-10-28	direction:heading	0	06:28:20.331000
+2017-07-06	chemicalAgentAtmosphericConcentration:O3	120	07:23:33.936000
+2017-07-13	chemicalAgentAtmosphericConcentration:O3	119	18:28:54.726000
+2017-07-25	chemicalAgentAtmosphericConcentration:O3	119	10:34:28.406000
+2017-07-26	chemicalAgentAtmosphericConcentration:O3	119	00:19:29.315000
+2017-07-26	chemicalAgentAtmosphericConcentration:O3	120	05:44:29.871000
+2017-07-26	chemicalAgentAtmosphericConcentration:O3	119	14:49:30.799000
+2017-07-27	chemicalAgentAtmosphericConcentration:O3	119	01:39:31.915000
+2017-07-28	chemicalAgentAtmosphericConcentration:O3	118	17:39:36.048000
+2017-07-30	chemicalAgentAtmosphericConcentration:O3	120	11:19:40.368000
+2017-08-04	chemicalAgentAtmosphericConcentration:O3	120	21:39:54.446000
+2017-08-05	chemicalAgentAtmosphericConcentration:O3	118	03:04:54.473000
+2017-08-05	chemicalAgentAtmosphericConcentration:O3	120	19:59:56.229000
+2017-08-05	chemicalAgentAtmosphericConcentration:O3	121	21:19:56.363000
+2017-08-09	chemicalAgentAtmosphericConcentration:O3	119	22:30:06.486000
+2017-08-11	chemicalAgentAtmosphericConcentration:O3	120	04:30:09.601000
+2017-08-12	chemicalAgentAtmosphericConcentration:O3	120	23:40:14.089000
+2017-08-13	chemicalAgentAtmosphericConcentration:O3	118	13:40:15.544000
+2017-08-13	chemicalAgentAtmosphericConcentration:O3	118	15:30:15.735000
+2017-08-14	chemicalAgentAtmosphericConcentration:O3	120	10:30:17.712000
+2017-08-14	chemicalAgentAtmosphericConcentration:O3	120	19:20:18.635000
+2017-08-15	chemicalAgentAtmosphericConcentration:O3	120	17:10:20.934000
+2017-08-16	chemicalAgentAtmosphericConcentration:O3	120	23:55:24.160000
+2017-08-22	chemicalAgentAtmosphericConcentration:O3	118	12:25:39.024000
+2017-08-22	chemicalAgentAtmosphericConcentration:O3	119	21:20:38.967000
+2017-08-24	chemicalAgentAtmosphericConcentration:O3	118	11:35:43.033000
+2017-08-24	chemicalAgentAtmosphericConcentration:O3	119	19:00:43.789000
+2017-08-24	chemicalAgentAtmosphericConcentration:O3	119	19:40:44.862000
+2017-08-24	chemicalAgentAtmosphericConcentration:O3	119	20:35:43.966000
+2017-08-25	chemicalAgentAtmosphericConcentration:O3	120	02:50:44.622000
+2017-08-25	chemicalAgentAtmosphericConcentration:O3	120	03:15:44.662000
+2017-08-25	chemicalAgentAtmosphericConcentration:O3	120	03:55:44.746000
+2017-08-29	chemicalAgentAtmosphericConcentration:O3	120	05:25:55.035000
+2017-08-30	chemicalAgentAtmosphericConcentration:O3	120	04:50:57.520000
+2017-08-30	chemicalAgentAtmosphericConcentration:O3	120	12:55:58.364000
+2017-08-30	chemicalAgentAtmosphericConcentration:O3	121	16:45:58.803000
+2017-09-02	chemicalAgentAtmosphericConcentration:O3	121	06:41:05.295000
+2017-09-02	chemicalAgentAtmosphericConcentration:O3	118	09:51:06.481000
+2017-09-02	chemicalAgentAtmosphericConcentration:O3	119	10:06:06.665000
+2017-09-02	chemicalAgentAtmosphericConcentration:O3	119	18:16:07.525000
+2017-09-03	chemicalAgentAtmosphericConcentration:O3	118	10:56:09.265000
+2017-09-03	chemicalAgentAtmosphericConcentration:O3	119	19:51:09.216000
+2017-09-03	chemicalAgentAtmosphericConcentration:O3	121	23:56:09.635000
+2017-09-05	chemicalAgentAtmosphericConcentration:O3	121	20:26:14.308000
+2017-09-06	chemicalAgentAtmosphericConcentration:O3	120	22:01:16.997000
+2017-09-09	chemicalAgentAtmosphericConcentration:O3	121	01:01:22.827000
+2017-09-14	chemicalAgentAtmosphericConcentration:O3	119	14:26:37.050000
+2017-09-14	chemicalAgentAtmosphericConcentration:O3	120	19:41:38.525000
+2017-09-20	chemicalAgentAtmosphericConcentration:O3	120	17:16:50.582000
+2017-09-20	chemicalAgentAtmosphericConcentration:O3	119	22:36:51.093000
+2017-09-23	chemicalAgentAtmosphericConcentration:O3	120	04:36:57.545000
+2017-09-29	chemicalAgentAtmosphericConcentration:O3	119	17:17:13.282000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	121	02:52:13.890000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	119	14:42:16.062000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	119	15:07:16.086000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	121	22:12:16.777000
+2017-10-03	chemicalAgentAtmosphericConcentration:O3	120	04:57:21.183000
+2017-10-07	chemicalAgentAtmosphericConcentration:O3	119	15:12:31.667000
+2017-10-10	chemicalAgentAtmosphericConcentration:O3	119	03:22:36.556000
+2017-10-11	chemicalAgentAtmosphericConcentration:O3	120	01:52:38.734000
+2017-10-14	chemicalAgentAtmosphericConcentration:O3	120	10:27:47.621000
+2017-10-15	chemicalAgentAtmosphericConcentration:O3	118	19:27:50.872000
+2017-10-17	chemicalAgentAtmosphericConcentration:O3	121	06:58:07.376000
+2017-10-19	chemicalAgentAtmosphericConcentration:O3	119	11:12:58.384000
+2017-10-22	chemicalAgentAtmosphericConcentration:O3	121	02:58:04.756000
+2017-10-23	chemicalAgentAtmosphericConcentration:O3	120	01:48:06.996000
+2017-10-23	chemicalAgentAtmosphericConcentration:O3	121	07:23:07.555000
+2017-10-25	chemicalAgentAtmosphericConcentration:O3	121	14:23:13.049000
+2017-07-06	mileage:total	81772	07:23:33.936000
+2017-07-06	mileage:total	81872	19:23:35.288000
+2017-07-26	mileage:total	84785	14:49:30.798000
+2017-07-28	mileage:total	85169	17:39:36.048000
+2017-07-30	mileage:total	85441	07:29:39.984000
+2017-07-30	mileage:total	85556	15:44:40.820000
+2017-07-31	mileage:total	85821	21:34:44.112000
+2017-07-31	mileage:total	85822	21:49:44.221000
+2017-08-02	mileage:total	86144	16:34:48.369000
+2017-08-10	mileage:total	87291	07:50:07.452000
+2017-08-11	mileage:total	87611	20:15:11.241000
+2017-08-11	mileage:total	87630	21:35:11.651000
+2017-08-13	mileage:total	87959	13:40:15.545000
+2017-08-14	mileage:total	88101	10:30:17.712000
+2017-08-19	mileage:total	88774	05:45:29.780000
+2017-08-21	mileage:total	89137	04:05:35.373000
+2017-08-21	mileage:total	89141	04:35:36.123000
+2017-08-21	mileage:total	89317	19:30:36.242000
+2017-08-22	mileage:total	89345	05:05:37.275000
+2017-08-22	mileage:total	89439	12:25:39.023000
+2017-08-24	mileage:total	89699	19:00:43.788000
+2017-08-24	mileage:total	89710	19:40:44.863000
+2017-08-24	mileage:total	89722	20:35:43.967000
+2017-08-24	mileage:total	89736	21:40:45.703000
+2017-08-27	mileage:total	90096	09:15:50.366000
+2017-08-27	mileage:total	90163	17:50:51.277000
+2017-08-28	mileage:total	90194	07:05:52.672000
+2017-08-31	mileage:total	90442	07:26:00.328000
+2017-09-02	mileage:total	90775	06:41:05.292000
+2017-09-02	mileage:total	90815	09:51:06.482000
+2017-09-03	mileage:total	91042	10:56:09.265000
+2017-09-03	mileage:total	91159	19:51:09.219000
+2017-09-04	mileage:total	91283	15:41:11.283000
+2017-09-05	mileage:total	91397	20:26:14.308000
+2017-09-06	mileage:total	91417	05:51:15.299000
+2017-09-06	mileage:total	91502	15:26:16.319000
+2017-09-14	mileage:total	92410	19:41:38.526000
+2017-09-20	mileage:total	93000	21:01:50.994000
+2017-09-28	mileage:total	94472	20:57:10.997000
+2017-09-29	mileage:total	94598	19:12:13.150000
+2017-09-30	mileage:total	94718	14:42:16.063000
+2017-09-30	mileage:total	94721	15:07:16.086000
+2017-09-30	mileage:total	94741	17:12:16.311000
+2017-10-01	mileage:total	94876	14:32:18.378000
+2017-10-03	mileage:total	94975	04:57:21.183000
+2017-10-03	mileage:total	94982	05:17:21.357000
+2017-10-03	mileage:total	94984	05:22:21.251000
+2017-10-03	mileage:total	95196	20:47:22.834000
+2017-10-07	mileage:total	95444	04:57:29.721000
+2017-10-07	mileage:total	95576	15:12:31.668000
+2017-10-11	mileage:total	96061	11:52:40.473000
+2017-10-15	mileage:total	96680	05:52:48.574000
+2017-10-18	mileage:total	97186	07:27:56.651000
+2017-10-19	mileage:total	97388	11:12:58.384000
+2017-10-20	mileage:total	97517	07:13:01.379000
+2017-10-22	mileage:total	97827	13:43:05.875000
+2017-10-22	mileage:total	97873	18:13:06.294000
+2017-10-22	mileage:total	97893	19:48:06.450000
+2017-10-22	mileage:total	97900	20:13:06.464000
+2017-10-23	mileage:total	97930	07:23:07.556000
+2017-10-28	mileage:total	98389	04:53:20.089000
+2017-10-28	mileage:total	98390	04:58:21.831000
+2017-10-28	mileage:total	98391	05:03:21.987000
+2017-10-28	mileage:total	98529	14:58:21.191000
+2017-07-06	temperature:ambient	20.5	07:23:33.937000
+2017-07-06	temperature:ambient	21	19:23:35.285000
+2017-07-26	temperature:ambient	25	14:49:30.798000
+2017-07-27	temperature:ambient	20	01:39:31.914000
+2017-07-28	temperature:ambient	26.6	17:39:36.052000
+2017-07-30	temperature:ambient	22.2	11:19:40.369000
+2017-07-30	temperature:ambient	21.2	15:44:40.822000
+2017-07-31	temperature:ambient	21	23:29:44.107000
+2017-08-04	temperature:ambient	26.8	22:09:53.957000
+2017-08-05	temperature:ambient	22.1	08:09:54.991000
+2017-08-05	temperature:ambient	25.5	19:59:56.229000
+2017-08-05	temperature:ambient	20.1	21:19:56.363000
+2017-08-10	temperature:ambient	17.8	07:50:07.452000
+2017-08-11	temperature:ambient	19.3	20:15:11.241000
+2017-08-11	temperature:ambient	18.4	21:35:11.652000
+2017-08-12	temperature:ambient	17.9	23:40:14.090000
+2017-08-12	temperature:ambient	17.7	23:50:14.123000
+2017-08-13	temperature:ambient	27.1	13:40:15.545000
+2017-08-14	temperature:ambient	27.7	10:30:17.711000
+2017-08-14	temperature:ambient	23.1	19:20:18.634000
+2017-08-16	temperature:ambient	23.6	06:25:22.307000
+2017-08-19	temperature:ambient	20.1	05:45:29.776000
+2017-08-21	temperature:ambient	24.8	19:30:36.243000
+2017-08-23	temperature:ambient	27.4	10:40:41.372000
+2017-08-23	temperature:ambient	26.2	22:55:41.669000
+2017-08-24	temperature:ambient	21.6	19:00:43.790000
+2017-08-24	temperature:ambient	21	19:40:44.862000
+2017-08-24	temperature:ambient	21.2	20:35:43.968000
+2017-08-25	temperature:ambient	23.8	02:50:44.621000
+2017-08-25	temperature:ambient	23.5	03:15:44.662000
+2017-08-25	temperature:ambient	23.5	03:55:44.747000
+2017-08-26	temperature:ambient	22.5	03:05:47.174000
+2017-08-28	temperature:ambient	21.8	07:05:52.671000
+2017-08-29	temperature:ambient	18.9	05:25:55.034000
+2017-08-30	temperature:ambient	27.4	04:50:57.520000
+2017-08-30	temperature:ambient	27.2	12:55:58.366000
+2017-09-01	temperature:ambient	24.5	22:06:04.384000
+2017-09-02	temperature:ambient	15.4	06:41:05.293000
+2017-09-02	temperature:ambient	23.5	09:51:06.482000
+2017-09-03	temperature:ambient	18.8	19:51:09.216000
+2017-09-04	temperature:ambient	21.3	03:36:10.015000
+2017-09-04	temperature:ambient	24.9	15:41:11.283000
+2017-09-04	temperature:ambient	25.6	15:51:11.297000
+2017-09-04	temperature:ambient	20.9	23:26:12.112000
+2017-09-05	temperature:ambient	20.7	20:26:14.308000
+2017-09-06	temperature:ambient	17.9	05:51:15.298000
+2017-09-06	temperature:ambient	23.1	15:26:16.319000
+2017-09-06	temperature:ambient	24.4	21:56:17.007000
+2017-09-06	temperature:ambient	24.7	22:01:16.996000
+2017-09-14	temperature:ambient	18.4	19:41:38.525000
+2017-09-19	temperature:ambient	16.4	00:06:46.527000
+2017-09-20	temperature:ambient	17	22:36:51.094000
+2017-09-23	temperature:ambient	14.7	04:26:57.446000
+2017-09-23	temperature:ambient	14.2	04:56:57.507000
+2017-09-30	temperature:ambient	18	02:52:13.890000
+2017-09-30	temperature:ambient	21	15:07:16.086000
+2017-10-01	temperature:ambient	22.6	14:32:18.376000
+2017-10-06	temperature:ambient	20.7	01:32:26.985000
+2017-10-06	temperature:ambient	20.6	01:52:26.974000
+2017-10-06	temperature:ambient	20.4	02:27:27.082000
+2017-10-06	temperature:ambient	19.7	08:07:27.623000
+2017-10-07	temperature:ambient	20.2	15:12:31.667000
+2017-10-10	temperature:ambient	18.5	17:37:37.942000
+2017-10-11	temperature:ambient	21	01:52:38.734000
+2017-10-13	temperature:ambient	24.2	21:42:46.363000
+2017-10-15	temperature:ambient	25.5	19:27:50.872000
+2017-10-18	temperature:ambient	21.1	01:52:56.120000
+2017-10-19	temperature:ambient	12.6	05:22:59.811000
+2017-10-19	temperature:ambient	24.5	11:12:58.381000
+2017-10-22	temperature:ambient	15.1	08:08:06.175000
+2017-10-22	temperature:ambient	20.1	21:43:06.595000
+2017-10-23	temperature:ambient	17.7	01:48:06.995000
+2017-10-23	temperature:ambient	12.3	07:23:07.553000
+2017-10-25	temperature:ambient	18.4	05:03:12.055000
+2017-10-26	temperature:ambient	15.3	23:08:17.228000
+2017-10-27	temperature:ambient	13.8	03:03:17.643000
+2017-10-27	temperature:ambient	18.4	23:48:18.690000
+2017-10-27	temperature:ambient	18.7	23:58:18.692000
+2017-10-28	temperature:ambient	16.4	06:28:20.328000
+2017-07-06	position:altitude	81	07:23:33.939000
+2017-07-06	position:altitude	69	19:23:35.288000
+2017-07-26	position:altitude	21	04:34:29.752000
+2017-07-26	position:altitude	12	14:49:30.800000
+2017-07-27	position:altitude	25	01:39:31.915000
+2017-07-27	position:altitude	72	18:14:33.646000
+2017-07-28	position:altitude	29	17:39:36.052000
+2017-07-30	position:altitude	-8	11:19:40.369000
+2017-07-30	position:altitude	25	15:44:40.823000
+2017-07-31	position:altitude	16	23:29:44.107000
+2017-08-05	position:altitude	26	08:09:54.994000
+2017-08-05	position:altitude	33	19:59:56.231000
+2017-08-05	position:altitude	13	21:19:56.365000
+2017-08-11	position:altitude	19	04:30:09.602000
+2017-08-11	position:altitude	33	20:15:11.242000
+2017-08-11	position:altitude	44	21:35:11.655000
+2017-08-12	position:altitude	19	23:40:14.090000
+2017-08-13	position:altitude	22	13:40:15.545000
+2017-08-14	position:altitude	51	10:30:17.712000
+2017-08-14	position:altitude	24	19:20:18.634000
+2017-08-19	position:altitude	26	05:45:29.781000
+2017-08-21	position:altitude	0	19:30:36.245000
+2017-08-22	position:altitude	36	12:25:39.024000
+2017-08-22	position:altitude	49	21:20:38.968000
+2017-08-23	position:altitude	26	10:40:41.373000
+2017-08-24	position:altitude	3	19:00:43.789000
+2017-08-24	position:altitude	2	19:40:44.863000
+2017-08-24	position:altitude	17	20:35:43.967000
+2017-08-25	position:altitude	13	03:15:44.662000
+2017-08-26	position:altitude	20	03:05:47.175000
+2017-08-27	position:altitude	48	09:15:50.366000
+2017-08-28	position:altitude	33	07:05:52.671000
+2017-08-29	position:altitude	53	05:25:55.034000
+2017-09-01	position:altitude	28	22:06:04.385000
+2017-09-02	position:altitude	62	06:41:05.293000
+2017-09-02	position:altitude	20	09:51:06.482000
+2017-09-03	position:altitude	58	10:56:09.265000
+2017-09-03	position:altitude	15	19:51:09.201000
+2017-09-04	position:altitude	15	15:41:11.284000
+2017-09-04	position:altitude	12	15:51:11.299000
+2017-09-05	position:altitude	63	20:26:14.308000
+2017-09-06	position:altitude	0	05:51:15.299000
+2017-09-06	position:altitude	-2	15:26:16.320000
+2017-09-06	position:altitude	11	22:01:16.996000
+2017-09-14	position:altitude	60	19:41:38.527000
+2017-09-15	position:altitude	30	22:56:40.251000
+2017-09-20	position:altitude	29	22:36:51.094000
+2017-09-23	position:altitude	21	04:26:57.447000
+2017-09-23	position:altitude	22	04:56:57.508000
+2017-09-30	position:altitude	13	02:52:13.889000
+2017-09-30	position:altitude	35	15:07:16.085000
+2017-10-01	position:altitude	3	14:32:18.379000
+2017-10-06	position:altitude	13	01:52:26.976000
+2017-10-11	position:altitude	27	01:52:38.737000
+2017-10-15	position:altitude	12	19:27:50.873000
+2017-10-18	position:altitude	16	01:52:56.122000
+2017-10-19	position:altitude	17	05:22:59.812000
+2017-10-19	position:altitude	7	11:12:58.386000
+2017-10-20	position:altitude	31	07:13:01.377000
+2017-10-21	position:altitude	17	18:38:03.933000
+2017-10-22	position:altitude	-1	08:08:06.175000
+2017-10-22	position:altitude	29	21:43:06.595000
+2017-10-23	position:altitude	2	01:48:06.996000
+2017-10-23	position:altitude	70	07:23:07.556000
+2017-10-25	position:altitude	30	03:53:11.956000
+2017-10-25	position:altitude	12	05:03:12.056000
+2017-10-26	position:altitude	18	23:08:17.228000
+2017-10-27	position:altitude	18	23:58:18.692000
+2017-10-28	position:altitude	33	06:28:20.330000
+2017-07-06	chemicalAgentAtmosphericConcentration:airParticles	0.09	08:58:33.355000
+2017-07-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	10:34:28.408000
+2017-07-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	11:54:28.037000
+2017-07-27	chemicalAgentAtmosphericConcentration:airParticles	0.08	01:39:31.914000
+2017-07-27	chemicalAgentAtmosphericConcentration:airParticles	0.08	13:54:33.212000
+2017-07-28	chemicalAgentAtmosphericConcentration:airParticles	0.08	13:54:36.113000
+2017-07-28	chemicalAgentAtmosphericConcentration:airParticles	0.09	17:39:36.048000
+2017-07-29	chemicalAgentAtmosphericConcentration:airParticles	0.09	12:39:38.034000
+2017-07-29	chemicalAgentAtmosphericConcentration:airParticles	0.08	19:29:38.744000
+2017-08-02	chemicalAgentAtmosphericConcentration:airParticles	0.08	16:34:48.368000
+2017-08-04	chemicalAgentAtmosphericConcentration:airParticles	0.13	15:49:53.388000
+2017-08-11	chemicalAgentAtmosphericConcentration:airParticles	0.08	14:40:10.729000
+2017-08-14	chemicalAgentAtmosphericConcentration:airParticles	0.08	16:05:18.309000
+2017-08-16	chemicalAgentAtmosphericConcentration:airParticles	0.09	06:25:22.307000
+2017-08-16	chemicalAgentAtmosphericConcentration:airParticles	0.09	13:10:23.329000
+2017-08-17	chemicalAgentAtmosphericConcentration:airParticles	0.08	04:20:25.643000
+2017-08-19	chemicalAgentAtmosphericConcentration:airParticles	0.08	05:45:29.776000
+2017-08-20	chemicalAgentAtmosphericConcentration:airParticles	0.09	19:50:33.771000
+2017-08-21	chemicalAgentAtmosphericConcentration:airParticles	0.1	19:30:36.244000
+2017-08-22	chemicalAgentAtmosphericConcentration:airParticles	0.17	08:50:37.719000
+2017-08-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	21:20:38.969000
+2017-08-23	chemicalAgentAtmosphericConcentration:airParticles	0.08	01:30:39.451000
+2017-08-23	chemicalAgentAtmosphericConcentration:airParticles	0.09	22:55:41.669000
+2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	09:20:42.784000
+2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	19:40:44.862000
+2017-08-25	chemicalAgentAtmosphericConcentration:airParticles	0.08	03:15:44.662000
+2017-08-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	03:55:44.747000
+2017-08-26	chemicalAgentAtmosphericConcentration:airParticles	0.09	11:30:48.070000
+2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.09	09:15:50.366000
+2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.08	14:00:50.909000
+2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.09	17:50:51.276000
+2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.09	19:25:51.481000
+2017-08-29	chemicalAgentAtmosphericConcentration:airParticles	0.08	05:25:55.034000
+2017-08-31	chemicalAgentAtmosphericConcentration:airParticles	0.08	07:26:00.327000
+2017-08-31	chemicalAgentAtmosphericConcentration:airParticles	0.08	14:11:01.042000
+2017-09-01	chemicalAgentAtmosphericConcentration:airParticles	0.07	04:51:02.615000
+2017-09-02	chemicalAgentAtmosphericConcentration:airParticles	0.07	06:41:05.292000
+2017-09-03	chemicalAgentAtmosphericConcentration:airParticles	0.08	10:56:09.264000
+2017-09-03	chemicalAgentAtmosphericConcentration:airParticles	0.09	23:56:09.636000
+2017-09-04	chemicalAgentAtmosphericConcentration:airParticles	0.09	15:41:11.286000
+2017-09-06	chemicalAgentAtmosphericConcentration:airParticles	0.1	15:26:16.319000
+2017-09-07	chemicalAgentAtmosphericConcentration:airParticles	0.08	12:51:19.574000
+2017-09-07	chemicalAgentAtmosphericConcentration:airParticles	0.1	13:21:19.749000
+2017-09-20	chemicalAgentAtmosphericConcentration:airParticles	0.11	13:31:50.416000
+2017-09-20	chemicalAgentAtmosphericConcentration:airParticles	0.09	14:51:50.415000
+2017-09-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	22:36:56.865000
+2017-09-26	chemicalAgentAtmosphericConcentration:airParticles	0.09	11:17:07.295000
+2017-09-30	chemicalAgentAtmosphericConcentration:airParticles	0.09	15:07:16.087000
+2017-10-01	chemicalAgentAtmosphericConcentration:airParticles	0.08	09:32:17.329000
+2017-10-02	chemicalAgentAtmosphericConcentration:airParticles	0.08	18:22:20.136000
+2017-10-06	chemicalAgentAtmosphericConcentration:airParticles	0.07	01:52:26.974000
+2017-10-07	chemicalAgentAtmosphericConcentration:airParticles	0.07	03:07:29.724000
+2017-10-07	chemicalAgentAtmosphericConcentration:airParticles	0.09	15:12:31.667000
+2017-10-10	chemicalAgentAtmosphericConcentration:airParticles	0.09	17:37:37.941000
+2017-10-11	chemicalAgentAtmosphericConcentration:airParticles	0.11	08:22:40.381000
+2017-10-13	chemicalAgentAtmosphericConcentration:airParticles	0.08	21:42:46.364000
+2017-10-15	chemicalAgentAtmosphericConcentration:airParticles	0.11	16:32:49.762000
+2017-10-15	chemicalAgentAtmosphericConcentration:airParticles	0.1	19:07:50.203000
+2017-10-17	chemicalAgentAtmosphericConcentration:airParticles	0.09	10:12:53.588000
+2017-10-20	chemicalAgentAtmosphericConcentration:airParticles	0.07	07:33:01.415000
+2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.09	01:38:04.886000
+2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.09	05:18:05.815000
+2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	05:33:05.245000
+2017-10-22	chemicalAgentAtmosphericConcentration:airParticles	0.08	07:08:05.385000
+2017-10-23	chemicalAgentAtmosphericConcentration:airParticles	0.08	07:23:07.554000
+2017-10-23	chemicalAgentAtmosphericConcentration:airParticles	0.1	15:08:09.360000
+2017-10-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	15:53:10.771000
+2017-10-24	chemicalAgentAtmosphericConcentration:airParticles	0.08	16:53:10.874000
+2017-10-25	chemicalAgentAtmosphericConcentration:airParticles	0.09	02:08:11.791000
+2017-10-28	chemicalAgentAtmosphericConcentration:airParticles	0.12	14:58:21.191000
+2017-08-12	chemicalAgentAtmosphericConcentration:CO	0.2	04:55:12.246000
+2017-08-12	chemicalAgentAtmosphericConcentration:CO	0.2	05:25:12.483000
+2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.2	01:45:14.943000
+2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	01:55:14.639000
+2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	02:20:14.754000
+2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.2	04:50:15.137000
+2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	04:55:15.287000
+2017-08-13	chemicalAgentAtmosphericConcentration:CO	0.1	05:55:15.174000
+2017-08-15	chemicalAgentAtmosphericConcentration:CO	0.2	16:25:21.035000
+2017-08-15	chemicalAgentAtmosphericConcentration:CO	0.1	16:30:21.575000
+2017-08-16	chemicalAgentAtmosphericConcentration:CO	0.2	05:35:23.350000
+2017-10-08	chemicalAgentAtmosphericConcentration:CO	0.1	21:37:34.710000
+2017-10-09	chemicalAgentAtmosphericConcentration:CO	0.2	08:07:35.674000
+2017-10-09	chemicalAgentAtmosphericConcentration:CO	0.2	08:17:35.685000
+2017-10-11	chemicalAgentAtmosphericConcentration:CO	0.2	05:37:40.463000
+2017-10-12	chemicalAgentAtmosphericConcentration:CO	0.2	05:17:41.990000
+2017-10-13	chemicalAgentAtmosphericConcentration:CO	0.1	05:52:44.859000
+2017-10-22	chemicalAgentAtmosphericConcentration:CO	0.1	20:13:06.464000
+2017-10-27	chemicalAgentAtmosphericConcentration:CO	0.1	01:58:16.873000
+2017-10-27	chemicalAgentAtmosphericConcentration:CO	0.1	03:03:17.644000

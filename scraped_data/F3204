@@ -1,776 +1,892 @@
-date	attribute	attrValue	attribute	time
-2017-08-29	temperature:ambient	21.46	temperature:ambient	21:35:56.968000
-2017-08-30	temperature:ambient	20.91	temperature:ambient	02:05:57.228000
-2017-08-30	temperature:ambient	17.06	temperature:ambient	17:25:58.857000
-2017-08-30	temperature:ambient	16.5	temperature:ambient	19:55:59.287000
-2017-08-30	temperature:ambient	16.65	temperature:ambient	20:10:59.134000
-2017-08-30	temperature:ambient	16.48	temperature:ambient	21:05:59.061000
-2017-08-31	temperature:ambient	22.51	temperature:ambient	13:16:00.937000
-2017-08-31	temperature:ambient	19.62	temperature:ambient	21:16:01.923000
-2017-09-01	temperature:ambient	18.09	temperature:ambient	20:01:04.679000
-2017-09-02	temperature:ambient	21.27	temperature:ambient	17:01:06.381000
-2017-09-02	temperature:ambient	19.49	temperature:ambient	20:56:07.003000
-2017-09-03	temperature:ambient	24.9	temperature:ambient	16:41:08.832000
-2017-09-03	temperature:ambient	20.11	temperature:ambient	20:21:08.881000
-2017-09-03	temperature:ambient	19.67	temperature:ambient	23:16:09.292000
-2017-09-05	temperature:ambient	20.14	temperature:ambient	02:26:12.770000
-2017-09-05	temperature:ambient	21.52	temperature:ambient	18:16:14.278000
-2017-09-05	temperature:ambient	21.1	temperature:ambient	19:26:13.914000
-2017-09-05	temperature:ambient	20.77	temperature:ambient	20:11:14.584000
-2017-09-05	temperature:ambient	20.47	temperature:ambient	23:36:15.006000
-2017-09-05	temperature:ambient	20.35	temperature:ambient	23:56:14.899000
-2017-09-06	temperature:ambient	20.33	temperature:ambient	18:06:16.441000
-2017-09-06	temperature:ambient	19.95	temperature:ambient	18:51:16.880000
-2017-09-06	temperature:ambient	19.43	temperature:ambient	23:36:17.169000
-2017-09-07	temperature:ambient	21.57	temperature:ambient	12:31:18.568000
-2017-09-14	temperature:ambient	17.84	temperature:ambient	19:11:36.639000
-2017-09-15	temperature:ambient	15.98	temperature:ambient	12:06:38.168000
-2017-10-04	temperature:ambient	21.02	temperature:ambient	16:12:23.657000
-2017-10-08	temperature:ambient	10.98	temperature:ambient	05:02:32.021000
-2017-10-08	temperature:ambient	14.29	temperature:ambient	07:42:31.827000
-2017-10-09	temperature:ambient	14.63	temperature:ambient	23:02:35.940000
-2017-10-10	temperature:ambient	12.17	temperature:ambient	05:12:36.466000
-2017-10-10	temperature:ambient	11.93	temperature:ambient	05:52:36.982000
-2017-10-10	temperature:ambient	18.14	temperature:ambient	18:07:38.267000
-2017-10-11	temperature:ambient	20.73	temperature:ambient	11:37:40.067000
-2017-10-11	temperature:ambient	20.62	temperature:ambient	12:32:45.334000
-2017-10-13	temperature:ambient	13.93	temperature:ambient	05:22:43.621000
-2017-10-13	temperature:ambient	19.22	temperature:ambient	11:17:43.952000
-2017-10-27	temperature:ambient	19.18	temperature:ambient	15:28:17.706000
-2017-10-28	temperature:ambient	17.48	temperature:ambient	00:48:19.305000
-2017-10-28	temperature:ambient	17.15	temperature:ambient	01:18:18.385000
-2017-10-28	temperature:ambient	16.87	temperature:ambient	01:58:19.244000
-2017-10-28	temperature:ambient	18.92	temperature:ambient	09:58:19.677000
-2017-10-31	temperature:ambient	12.92	temperature:ambient	00:23:26.253000
-2017-10-31	temperature:ambient	11.21	temperature:ambient	07:13:43.667000
-2017-11-01	temperature:ambient	10.45	temperature:ambient	03:43:28.543000
-2017-11-01	temperature:ambient	20.36	temperature:ambient	16:38:29.817000
-2017-11-01	temperature:ambient	17.51	temperature:ambient	22:13:30.535000
-2017-11-01	temperature:ambient	18.39	temperature:ambient	22:53:30.439000
-2017-11-02	temperature:ambient	18.63	temperature:ambient	06:23:32.949000
-2017-11-02	temperature:ambient	22.77	temperature:ambient	09:48:32.046000
-2017-11-02	temperature:ambient	18.15	temperature:ambient	20:18:32.821000
-2017-11-03	temperature:ambient	21.06	temperature:ambient	12:23:34.148000
-2017-11-03	temperature:ambient	14.21	temperature:ambient	23:03:34.944000
-2017-11-04	temperature:ambient	14.77	temperature:ambient	16:03:37.315000
-2017-11-04	temperature:ambient	14.85	temperature:ambient	22:28:37.719000
-2017-11-05	temperature:ambient	14.43	temperature:ambient	02:48:38.420000
-2017-11-05	temperature:ambient	13.71	temperature:ambient	12:03:39.995000
-2017-11-05	temperature:ambient	12.78	temperature:ambient	18:38:39.976000
-2017-11-05	temperature:ambient	12.84	temperature:ambient	20:38:39.714000
-2017-11-06	temperature:ambient	13.09	temperature:ambient	02:28:40.456000
-2017-11-06	temperature:ambient	12.25	temperature:ambient	03:03:40.833000
-2017-11-06	temperature:ambient	11.13	temperature:ambient	20:43:42.530000
-2017-11-06	temperature:ambient	10.53	temperature:ambient	21:38:42.300000
-2017-11-07	temperature:ambient	11.76	temperature:ambient	03:18:42.734000
-2017-11-07	temperature:ambient	16.01	temperature:ambient	14:28:44.228000
-2017-11-07	temperature:ambient	14.02	temperature:ambient	21:33:44.188000
-2017-11-08	temperature:ambient	13.09	temperature:ambient	00:33:44.893000
-2017-11-08	temperature:ambient	12.91	temperature:ambient	01:13:44.957000
-2017-11-08	temperature:ambient	11.04	temperature:ambient	10:18:49.772000
-2017-11-08	temperature:ambient	11.9	temperature:ambient	16:18:46.721000
-2017-11-09	temperature:ambient	9.35	temperature:ambient	02:03:47.471000
-2017-11-09	temperature:ambient	10	temperature:ambient	03:03:47.505000
-2017-11-09	temperature:ambient	10.32	temperature:ambient	06:13:48.237000
-2017-11-09	temperature:ambient	11.93	temperature:ambient	07:03:47.972000
-2017-11-10	temperature:ambient	13.37	temperature:ambient	00:43:49.763000
-2017-11-10	temperature:ambient	15.43	temperature:ambient	17:08:51.672000
-2017-11-10	temperature:ambient	15.14	temperature:ambient	20:33:51.617000
-2017-11-10	temperature:ambient	14.77	temperature:ambient	21:13:51.736000
-2017-11-11	temperature:ambient	15.71	temperature:ambient	13:18:53.838000
-2017-11-11	temperature:ambient	16.02	temperature:ambient	14:38:53.767000
-2017-11-11	temperature:ambient	14.89	temperature:ambient	22:08:54.239000
-2017-11-19	temperature:ambient	11.01	temperature:ambient	22:09:13.431000
-2017-11-20	temperature:ambient	10.32	temperature:ambient	00:44:13.619000
-2017-11-20	temperature:ambient	8.29	temperature:ambient	04:34:14.201000
-2017-11-20	temperature:ambient	7.71	temperature:ambient	06:19:14.491000
-2017-11-21	temperature:ambient	7.28	temperature:ambient	06:04:16.737000
-2017-11-21	temperature:ambient	13.95	temperature:ambient	17:19:17.742000
-2017-11-21	temperature:ambient	11.21	temperature:ambient	18:49:18.260000
-2017-11-22	temperature:ambient	16.63	temperature:ambient	05:19:18.622000
-2017-11-23	temperature:ambient	19.44	temperature:ambient	01:14:20.942000
-2017-11-23	temperature:ambient	22.13	temperature:ambient	11:39:22.016000
-2017-11-23	temperature:ambient	19.78	temperature:ambient	19:44:23.278000
-2017-11-24	temperature:ambient	15.33	temperature:ambient	05:59:24.521000
-2017-11-24	temperature:ambient	13.99	temperature:ambient	17:19:25.475000
-2017-11-25	temperature:ambient	13.13	temperature:ambient	12:09:26.687000
-2017-11-26	temperature:ambient	10.05	temperature:ambient	20:54:30.225000
-2018-01-25	temperature:ambient	10.37	temperature:ambient	10:11:58.313000
-2018-01-25	temperature:ambient	9.64	temperature:ambient	22:57:00.374000
-2018-01-25	temperature:ambient	9.31	temperature:ambient	23:57:00.015000
-2018-01-26	temperature:ambient	7.88	temperature:ambient	04:57:00.525000
-2018-01-26	temperature:ambient	10.59	temperature:ambient	11:57:01.044000
-2018-01-26	temperature:ambient	11.33	temperature:ambient	19:12:01.814000
-2018-01-26	temperature:ambient	10.79	temperature:ambient	20:02:02.266000
-2018-01-26	temperature:ambient	10.69	temperature:ambient	20:07:01.921000
-2018-01-26	temperature:ambient	11.11	temperature:ambient	23:27:02.269000
-2018-01-27	temperature:ambient	9.55	temperature:ambient	02:37:02.605000
-2018-01-27	temperature:ambient	7.37	temperature:ambient	23:17:04.792000
-2018-01-28	temperature:ambient	9.69	temperature:ambient	19:17:06.827000
-2018-01-29	temperature:ambient	14.15	temperature:ambient	15:17:09.395000
-2018-01-29	temperature:ambient	10.25	temperature:ambient	20:57:09.938000
-2018-01-29	temperature:ambient	10.18	temperature:ambient	22:12:10.135000
-2018-01-30	temperature:ambient	10.15	temperature:ambient	00:42:09.957000
-2018-01-30	temperature:ambient	10.13	temperature:ambient	02:22:10.131000
-2018-01-30	temperature:ambient	11.99	temperature:ambient	14:02:11.117000
-2018-01-30	temperature:ambient	9.88	temperature:ambient	19:17:11.541000
-2018-01-31	temperature:ambient	9.07	temperature:ambient	03:02:12.494000
-2018-01-31	temperature:ambient	8.89	temperature:ambient	05:22:12.988000
-2018-02-01	temperature:ambient	10.33	temperature:ambient	14:27:16.731000
-2018-02-01	temperature:ambient	9.85	temperature:ambient	14:37:16.494000
-2018-02-01	temperature:ambient	6.83	temperature:ambient	21:07:17.617000
-2018-02-02	temperature:ambient	6.25	temperature:ambient	19:32:19.546000
-2018-02-02	temperature:ambient	5.88	temperature:ambient	19:37:19.550000
-2018-02-03	temperature:ambient	10.25	temperature:ambient	11:52:21.180000
-2018-02-03	temperature:ambient	9.77	temperature:ambient	12:32:21.358000
-2018-02-03	temperature:ambient	9.95	temperature:ambient	12:57:21.560000
-2018-02-04	temperature:ambient	7.03	temperature:ambient	10:52:23.802000
-2018-02-04	temperature:ambient	7.21	temperature:ambient	19:42:24.848000
-2018-02-04	temperature:ambient	6.55	temperature:ambient	21:52:25.408000
-2018-02-04	temperature:ambient	6.37	temperature:ambient	23:22:25.276000
-2018-02-04	temperature:ambient	6.35	temperature:ambient	23:32:25.028000
-2018-02-05	temperature:ambient	7.66	temperature:ambient	07:42:25.388000
-2018-02-05	temperature:ambient	8.59	temperature:ambient	11:47:26.314000
-2018-02-05	temperature:ambient	7.11	temperature:ambient	21:57:29.289000
-2018-02-06	temperature:ambient	7.13	temperature:ambient	08:17:28.640000
-2018-02-06	temperature:ambient	4.62	temperature:ambient	16:47:48.290000
-2018-02-06	temperature:ambient	4.77	temperature:ambient	18:37:29.265000
-2018-02-06	temperature:ambient	5.94	temperature:ambient	23:12:30.016000
-2018-02-07	temperature:ambient	5.05	temperature:ambient	02:52:30.407000
-2018-02-07	temperature:ambient	6.06	temperature:ambient	04:07:30.542000
-2018-02-07	temperature:ambient	6.53	temperature:ambient	18:02:31.598000
-2018-02-07	temperature:ambient	4.45	temperature:ambient	23:17:52.647000
-2018-02-08	temperature:ambient	7.33	temperature:ambient	10:52:33.803000
-2018-02-08	temperature:ambient	5.98	temperature:ambient	19:12:34.866000
-2018-02-08	temperature:ambient	5.75	temperature:ambient	21:47:34.984000
-2018-02-08	temperature:ambient	5.05	temperature:ambient	22:52:35.104000
-2018-02-08	temperature:ambient	5.06	temperature:ambient	23:07:35.089000
-2018-02-10	temperature:ambient	8.77	temperature:ambient	05:17:38.310000
-2018-02-10	temperature:ambient	9.34	temperature:ambient	11:37:38.975000
-2018-02-10	temperature:ambient	9.91	temperature:ambient	21:02:40.134000
-2018-02-10	temperature:ambient	9.93	temperature:ambient	21:07:40.006000
-2018-02-10	temperature:ambient	10.25	temperature:ambient	22:07:40.208000
-2018-02-11	temperature:ambient	9.37	temperature:ambient	21:07:42.486000
-2018-02-12	temperature:ambient	6.73	temperature:ambient	03:42:43.173000
-2018-02-12	temperature:ambient	6.07	temperature:ambient	05:22:43.615000
-2018-02-12	temperature:ambient	5.97	temperature:ambient	15:42:44.426000
-2018-02-12	temperature:ambient	5.43	temperature:ambient	19:17:45.354000
-2018-02-12	temperature:ambient	4.19	temperature:ambient	23:22:45.481000
-2018-02-13	temperature:ambient	7.71	temperature:ambient	07:27:46.367000
-2018-02-13	temperature:ambient	6.79	temperature:ambient	11:27:46.625000
-2018-02-13	temperature:ambient	8.17	temperature:ambient	12:47:46.660000
-2018-02-13	temperature:ambient	9.98	temperature:ambient	17:22:47.134000
-2018-02-13	temperature:ambient	10.23	temperature:ambient	17:47:47.182000
-2018-02-13	temperature:ambient	9.91	temperature:ambient	20:32:47.474000
-2018-02-14	temperature:ambient	8.77	temperature:ambient	04:12:48.671000
-2018-02-14	temperature:ambient	14.66	temperature:ambient	10:42:48.979000
-2018-02-14	temperature:ambient	18.43	temperature:ambient	15:17:49.454000
-2018-02-15	temperature:ambient	10.78	temperature:ambient	08:37:51.274000
-2018-02-15	temperature:ambient	16.37	temperature:ambient	10:32:51.469000
-2018-02-15	temperature:ambient	21.14	temperature:ambient	14:47:51.922000
-2018-02-16	temperature:ambient	12.79	temperature:ambient	01:17:53.458000
-2018-02-16	temperature:ambient	11.37	temperature:ambient	06:12:53.552000
-2018-02-16	temperature:ambient	12.19	temperature:ambient	08:47:53.820000
-2018-02-16	temperature:ambient	13.08	temperature:ambient	09:27:53.897000
-2018-02-16	temperature:ambient	12.69	temperature:ambient	18:17:54.830000
-2018-02-16	temperature:ambient	12.75	temperature:ambient	18:37:54.580000
-2018-02-16	temperature:ambient	12.77	temperature:ambient	18:42:55.095000
-2018-02-16	temperature:ambient	12.57	temperature:ambient	23:12:55.808000
-2018-02-17	temperature:ambient	11.82	temperature:ambient	00:27:55.514000
-2018-02-17	temperature:ambient	10.41	temperature:ambient	03:17:55.779000
-2018-02-17	temperature:ambient	10.69	temperature:ambient	18:27:57.370000
-2018-02-18	temperature:ambient	10.62	temperature:ambient	10:22:59.181000
-2018-02-18	temperature:ambient	12.19	temperature:ambient	16:32:59.701000
-2018-02-19	temperature:ambient	12.01	temperature:ambient	12:53:01.918000
-2018-02-19	temperature:ambient	12.09	temperature:ambient	14:48:02.099000
-2018-02-19	temperature:ambient	11.93	temperature:ambient	14:53:02.128000
-2018-02-19	temperature:ambient	11.75	temperature:ambient	15:13:02.119000
-2018-02-19	temperature:ambient	11.53	temperature:ambient	17:58:03.371000
-2018-02-19	temperature:ambient	11.56	temperature:ambient	21:33:03.268000
-2018-02-20	temperature:ambient	10.69	temperature:ambient	04:48:03.592000
-2018-02-20	temperature:ambient	10.6	temperature:ambient	05:13:03.636000
-2018-02-20	temperature:ambient	11.3	temperature:ambient	07:03:03.796000
-2018-02-20	temperature:ambient	11.26	temperature:ambient	07:13:03.889000
-2018-02-20	temperature:ambient	11.33	temperature:ambient	07:23:03.861000
-2018-02-20	temperature:ambient	11.65	temperature:ambient	08:48:05.005000
-2018-02-20	temperature:ambient	12.98	temperature:ambient	10:43:04.268000
-2018-02-20	temperature:ambient	11.28	temperature:ambient	12:38:04.466000
-2018-02-20	temperature:ambient	11.59	temperature:ambient	13:28:04.501000
-2018-02-20	temperature:ambient	12.28	temperature:ambient	17:03:04.563000
-2018-02-20	temperature:ambient	11.79	temperature:ambient	17:28:04.882000
-2018-02-20	temperature:ambient	11.73	temperature:ambient	18:58:05.081000
-2018-02-20	temperature:ambient	11.26	temperature:ambient	22:48:06.467000
-2018-02-21	temperature:ambient	11.01	temperature:ambient	01:18:06.167000
-2018-02-21	temperature:ambient	10	temperature:ambient	14:48:08.016000
-2018-02-21	temperature:ambient	9.88	temperature:ambient	16:08:08.231000
-2018-02-21	temperature:ambient	9.57	temperature:ambient	16:18:08.229000
-2018-02-21	temperature:ambient	8.91	temperature:ambient	17:08:08.386000
-2018-02-21	temperature:ambient	8.32	temperature:ambient	18:53:08.225000
-2018-02-21	temperature:ambient	8.25	temperature:ambient	19:43:08.637000
-2018-02-21	temperature:ambient	8.3	temperature:ambient	20:18:08.775000
-2018-02-21	temperature:ambient	8.12	temperature:ambient	22:43:08.463000
-2018-02-22	temperature:ambient	7	temperature:ambient	03:33:09.452000
-2018-02-22	temperature:ambient	6.57	temperature:ambient	04:18:09.561000
-2018-02-22	temperature:ambient	6.6	temperature:ambient	04:28:09.561000
-2018-02-22	temperature:ambient	6.31	temperature:ambient	04:53:09.618000
-2018-02-22	temperature:ambient	10.97	temperature:ambient	13:03:09.621000
-2018-02-22	temperature:ambient	7.53	temperature:ambient	18:53:11.112000
-2018-02-22	temperature:ambient	6.73	temperature:ambient	20:38:10.785000
-2018-02-22	temperature:ambient	6.35	temperature:ambient	21:28:10.401000
-2018-02-22	temperature:ambient	6.12	temperature:ambient	21:48:10.483000
-2018-02-23	temperature:ambient	4.55	temperature:ambient	03:08:11.578000
-2018-04-05	temperature:ambient	13.91	temperature:ambient	08:49:55.059000
-2018-04-08	temperature:ambient	11.56	temperature:ambient	05:45:02.044000
-2018-04-08	temperature:ambient	11.55	temperature:ambient	07:05:02.122000
-2018-04-08	temperature:ambient	11.57	temperature:ambient	07:10:02.168000
-2018-04-08	temperature:ambient	12.03	temperature:ambient	07:35:02.194000
-2018-04-08	temperature:ambient	12.01	temperature:ambient	08:00:02.238000
-2018-04-08	temperature:ambient	12.25	temperature:ambient	08:20:02.218000
-2018-04-08	temperature:ambient	12.31	temperature:ambient	08:35:02.356000
-2018-04-08	temperature:ambient	12.28	temperature:ambient	08:40:02.239000
-2018-04-08	temperature:ambient	13.73	temperature:ambient	09:40:02.378000
-2018-04-08	temperature:ambient	15.42	temperature:ambient	10:25:02.468000
-2018-04-08	temperature:ambient	16.18	temperature:ambient	10:45:02.524000
-2018-04-08	temperature:ambient	16.25	temperature:ambient	11:55:02.607000
-2018-04-08	temperature:ambient	12.43	temperature:ambient	23:05:03.804000
-2018-04-08	temperature:ambient	12.41	temperature:ambient	23:30:03.987000
-2018-04-08	temperature:ambient	12.39	temperature:ambient	23:55:04.102000
-2018-04-09	temperature:ambient	11.89	temperature:ambient	02:35:04.107000
-2018-04-09	temperature:ambient	11.57	temperature:ambient	03:10:04.189000
-2018-04-09	temperature:ambient	11.61	temperature:ambient	04:45:04.347000
-2018-04-09	temperature:ambient	11.62	temperature:ambient	05:10:04.723000
-2018-04-09	temperature:ambient	11.71	temperature:ambient	05:35:04.499000
-2018-04-09	temperature:ambient	12.05	temperature:ambient	07:10:04.641000
-2018-04-09	temperature:ambient	12.52	temperature:ambient	08:15:04.771000
-2018-04-09	temperature:ambient	12.47	temperature:ambient	08:20:04.777000
-2018-04-09	temperature:ambient	12.37	temperature:ambient	09:40:05.253000
-2018-04-09	temperature:ambient	12.95	temperature:ambient	10:25:04.946000
-2018-04-09	temperature:ambient	13.21	temperature:ambient	10:50:04.984000
-2018-04-09	temperature:ambient	13.48	temperature:ambient	11:05:05.178000
-2018-04-09	temperature:ambient	10.78	temperature:ambient	15:00:05.455000
-2018-04-09	temperature:ambient	12.08	temperature:ambient	16:50:05.633000
-2018-04-09	temperature:ambient	11.72	temperature:ambient	18:45:05.916000
-2018-04-09	temperature:ambient	11.69	temperature:ambient	19:15:06.632000
-2018-04-09	temperature:ambient	11.76	temperature:ambient	19:35:05.946000
-2018-04-09	temperature:ambient	11.45	temperature:ambient	21:15:06.111000
-2018-04-09	temperature:ambient	11.49	temperature:ambient	22:05:06.228000
-2018-04-09	temperature:ambient	11.23	temperature:ambient	22:45:06.629000
-2018-04-10	temperature:ambient	11.62	temperature:ambient	04:30:07.868000
-2018-04-10	temperature:ambient	7.42	temperature:ambient	11:05:07.580000
-2018-04-10	temperature:ambient	11.61	temperature:ambient	15:10:11.667000
-2018-04-10	temperature:ambient	10.75	temperature:ambient	15:45:07.985000
-2018-04-10	temperature:ambient	9.91	temperature:ambient	17:25:08.154000
-2018-04-10	temperature:ambient	9.51	temperature:ambient	18:10:08.949000
-2018-04-10	temperature:ambient	9.2	temperature:ambient	18:35:08.280000
-2018-04-10	temperature:ambient	8.57	temperature:ambient	20:30:08.513000
-2018-04-10	temperature:ambient	8.69	temperature:ambient	21:15:09.134000
-2018-04-10	temperature:ambient	8.75	temperature:ambient	22:25:08.776000
-2018-04-10	temperature:ambient	8.97	temperature:ambient	23:30:08.874000
-2018-04-11	temperature:ambient	8.13	temperature:ambient	03:55:09.260000
-2018-04-11	temperature:ambient	9.97	temperature:ambient	05:30:09.460000
-2018-04-11	temperature:ambient	10.18	temperature:ambient	08:05:09.829000
-2018-04-11	temperature:ambient	10.9	temperature:ambient	13:45:10.248000
-2018-04-11	temperature:ambient	10.35	temperature:ambient	14:35:10.386000
-2018-04-11	temperature:ambient	10.82	temperature:ambient	15:40:10.649000
-2018-04-11	temperature:ambient	11.51	temperature:ambient	16:40:10.553000
-2018-04-11	temperature:ambient	11.78	temperature:ambient	18:05:10.805000
-2018-04-11	temperature:ambient	11.71	temperature:ambient	18:50:11.041000
-2018-04-11	temperature:ambient	11.89	temperature:ambient	21:10:11.365000
-2018-04-11	temperature:ambient	11.89	temperature:ambient	22:55:11.338000
-2018-04-11	temperature:ambient	11.83	temperature:ambient	23:15:11.815000
-2018-04-11	temperature:ambient	11.85	temperature:ambient	23:55:11.367000
-2018-04-12	temperature:ambient	11.79	temperature:ambient	01:25:11.568000
-2018-04-12	temperature:ambient	11.76	temperature:ambient	01:30:11.619000
-2018-04-12	temperature:ambient	11.71	temperature:ambient	02:00:11.749000
-2018-04-12	temperature:ambient	11.25	temperature:ambient	04:30:11.951000
-2018-04-12	temperature:ambient	11.22	temperature:ambient	04:35:11.907000
-2018-04-12	temperature:ambient	11.2	temperature:ambient	04:45:11.884000
-2018-04-12	temperature:ambient	11.01	temperature:ambient	06:30:12.073000
-2018-04-12	temperature:ambient	11.91	temperature:ambient	07:05:12.125000
-2018-04-12	temperature:ambient	11.99	temperature:ambient	07:10:12.219000
-2018-04-12	temperature:ambient	13.59	temperature:ambient	08:05:12.235000
-2018-04-12	temperature:ambient	13.36	temperature:ambient	08:20:12.261000
-2018-04-12	temperature:ambient	14.94	temperature:ambient	14:15:12.846000
-2018-04-12	temperature:ambient	15.2	temperature:ambient	14:20:12.862000
-2018-04-12	temperature:ambient	15.25	temperature:ambient	17:00:13.442000
-2018-04-12	temperature:ambient	14.53	temperature:ambient	17:45:13.375000
-2018-04-12	temperature:ambient	12.52	temperature:ambient	19:05:13.350000
-2018-04-12	temperature:ambient	12.31	temperature:ambient	20:10:13.510000
-2018-04-12	temperature:ambient	12.42	temperature:ambient	23:25:13.796000
-2018-04-12	temperature:ambient	12.53	temperature:ambient	23:35:14.042000
-2018-04-12	temperature:ambient	12.63	temperature:ambient	23:55:13.915000
-2018-04-13	temperature:ambient	12.11	temperature:ambient	01:10:14.077000
-2018-04-13	temperature:ambient	12.03	temperature:ambient	01:15:14.085000
-2018-04-13	temperature:ambient	12.05	temperature:ambient	01:20:13.982000
-2018-04-13	temperature:ambient	10.59	temperature:ambient	02:30:14.163000
-2018-04-13	temperature:ambient	10.75	temperature:ambient	02:35:14.153000
-2018-04-13	temperature:ambient	10.75	temperature:ambient	02:45:14.158000
-2018-04-13	temperature:ambient	10.37	temperature:ambient	03:00:14.229000
-2018-04-13	temperature:ambient	10	temperature:ambient	03:30:14.241000
-2018-04-13	temperature:ambient	9.79	temperature:ambient	03:50:14.251000
-2018-04-13	temperature:ambient	9.91	temperature:ambient	05:15:14.403000
-2018-04-13	temperature:ambient	13.08	temperature:ambient	07:45:15.266000
-2018-04-13	temperature:ambient	14.93	temperature:ambient	11:55:15.109000
-2018-04-13	temperature:ambient	15.14	temperature:ambient	12:25:15.872000
-2018-04-13	temperature:ambient	11.26	temperature:ambient	22:20:16.241000
-2018-04-13	temperature:ambient	11.2	temperature:ambient	22:30:16.237000
-2018-04-13	temperature:ambient	10.79	temperature:ambient	22:55:16.591000
-2018-04-14	temperature:ambient	11.07	temperature:ambient	00:50:16.585000
-2018-04-14	temperature:ambient	10.78	temperature:ambient	02:15:16.700000
-2018-04-14	temperature:ambient	11.13	temperature:ambient	04:30:17.224000
-2018-04-14	temperature:ambient	10.82	temperature:ambient	05:30:17.190000
-2018-04-14	temperature:ambient	13.09	temperature:ambient	08:50:17.390000
-2018-04-14	temperature:ambient	14.2	temperature:ambient	09:25:17.459000
-2018-04-14	temperature:ambient	18.05	temperature:ambient	10:05:17.460000
-2018-04-14	temperature:ambient	15.77	temperature:ambient	12:25:17.783000
-2018-04-14	temperature:ambient	16.39	temperature:ambient	13:30:17.804000
-2018-04-14	temperature:ambient	14.44	temperature:ambient	18:20:18.802000
-2018-04-15	temperature:ambient	13.91	temperature:ambient	02:20:19.161000
-2018-04-15	temperature:ambient	13.42	temperature:ambient	04:50:19.473000
-2018-04-15	temperature:ambient	13.22	temperature:ambient	05:00:19.474000
-2018-04-15	temperature:ambient	13.12	temperature:ambient	05:15:19.979000
-2018-04-15	temperature:ambient	17.76	temperature:ambient	08:30:19.793000
-2018-04-15	temperature:ambient	19.11	temperature:ambient	08:40:19.875000
-2018-04-15	temperature:ambient	16.8	temperature:ambient	08:55:19.901000
-2018-04-15	temperature:ambient	15.61	temperature:ambient	16:55:20.755000
-2018-04-15	temperature:ambient	14.99	temperature:ambient	17:25:21.010000
-2018-04-15	temperature:ambient	13.87	temperature:ambient	19:05:20.900000
-2018-04-15	temperature:ambient	13.33	temperature:ambient	20:10:21.365000
-2018-04-15	temperature:ambient	13.08	temperature:ambient	21:20:21.559000
-2018-04-16	temperature:ambient	10.48	temperature:ambient	02:20:21.744000
-2018-04-16	temperature:ambient	10.38	temperature:ambient	03:30:21.770000
-2018-04-16	temperature:ambient	10.29	temperature:ambient	03:45:21.903000
-2018-04-16	temperature:ambient	10.15	temperature:ambient	04:45:22.274000
-2018-04-16	temperature:ambient	10.21	temperature:ambient	04:55:21.961000
-2018-04-16	temperature:ambient	10.61	temperature:ambient	05:35:22.044000
-2018-04-16	temperature:ambient	10.61	temperature:ambient	05:45:22.085000
-2018-04-16	temperature:ambient	11.23	temperature:ambient	06:55:22.130000
-2018-04-16	temperature:ambient	11.36	temperature:ambient	07:00:22.136000
-2018-04-16	temperature:ambient	11.29	temperature:ambient	07:05:22.704000
-2018-04-16	temperature:ambient	11.5	temperature:ambient	07:15:22.283000
-2018-04-16	temperature:ambient	14.25	temperature:ambient	08:05:22.941000
-2018-04-16	temperature:ambient	15.09	temperature:ambient	09:20:22.496000
-2018-04-16	temperature:ambient	16.49	temperature:ambient	11:35:22.791000
-2018-04-16	temperature:ambient	16.41	temperature:ambient	12:05:23.100000
-2018-04-16	temperature:ambient	15.89	temperature:ambient	14:10:23.144000
-2018-04-16	temperature:ambient	15.41	temperature:ambient	16:25:23.582000
-2018-04-16	temperature:ambient	14.95	temperature:ambient	17:05:23.316000
-2018-04-16	temperature:ambient	13.43	temperature:ambient	19:25:23.495000
-2018-04-17	temperature:ambient	11.67	temperature:ambient	01:20:24.185000
-2018-04-17	temperature:ambient	11.45	temperature:ambient	01:25:24.190000
-2018-04-17	temperature:ambient	11.59	temperature:ambient	03:00:24.842000
-2018-04-17	temperature:ambient	11.45	temperature:ambient	03:30:24.380000
-2018-04-17	temperature:ambient	10.16	temperature:ambient	04:20:24.409000
-2018-04-17	temperature:ambient	13.38	temperature:ambient	06:35:24.723000
-2018-04-17	temperature:ambient	16.31	temperature:ambient	07:25:24.722000
-2018-04-17	temperature:ambient	16.55	temperature:ambient	07:40:24.841000
-2018-04-17	temperature:ambient	18.03	temperature:ambient	08:15:24.850000
-2018-04-17	temperature:ambient	18.93	temperature:ambient	09:40:25.021000
-2018-04-17	temperature:ambient	13.77	temperature:ambient	22:20:26.377000
-2018-04-17	temperature:ambient	13.75	temperature:ambient	22:30:26.324000
-2018-04-17	temperature:ambient	12.88	temperature:ambient	23:05:26.346000
-2018-04-17	temperature:ambient	12.1	temperature:ambient	23:20:26.574000
-2018-04-17	temperature:ambient	12.44	temperature:ambient	23:45:26.511000
-2018-04-18	temperature:ambient	12.25	temperature:ambient	00:20:27.237000
-2018-04-18	temperature:ambient	12.19	temperature:ambient	00:45:27.025000
-2018-04-18	temperature:ambient	14.95	temperature:ambient	07:00:27.235000
-2018-04-18	temperature:ambient	18.01	temperature:ambient	08:25:27.347000
-2018-04-18	temperature:ambient	17.62	temperature:ambient	08:50:27.607000
-2018-04-18	temperature:ambient	20.09	temperature:ambient	10:15:27.534000
-2018-04-18	temperature:ambient	19.05	temperature:ambient	10:25:27.567000
-2018-04-18	temperature:ambient	17.73	temperature:ambient	11:05:27.646000
-2018-04-18	temperature:ambient	16.97	temperature:ambient	11:20:27.705000
-2018-04-18	temperature:ambient	16.81	temperature:ambient	11:25:27.699000
-2018-04-18	temperature:ambient	16.81	temperature:ambient	11:55:27.782000
-2018-04-18	temperature:ambient	19.68	temperature:ambient	16:50:28.918000
-2018-04-18	temperature:ambient	16.23	temperature:ambient	20:00:28.652000
-2018-04-18	temperature:ambient	16.24	temperature:ambient	20:15:28.651000
-2018-04-18	temperature:ambient	16.35	temperature:ambient	20:20:28.654000
-2018-04-18	temperature:ambient	15.17	temperature:ambient	21:05:28.661000
-2018-04-18	temperature:ambient	15.3	temperature:ambient	21:30:28.718000
-2018-04-18	temperature:ambient	15.28	temperature:ambient	21:35:28.797000
-2018-04-18	temperature:ambient	14.65	temperature:ambient	22:05:29.016000
-2018-04-18	temperature:ambient	14.21	temperature:ambient	22:15:29.400000
-2018-04-19	temperature:ambient	13.59	temperature:ambient	01:15:29.437000
-2018-04-19	temperature:ambient	13.74	temperature:ambient	01:25:29.223000
-2018-04-19	temperature:ambient	13.87	temperature:ambient	01:30:29.290000
-2018-04-19	temperature:ambient	13.2	temperature:ambient	05:55:29.213000
-2018-04-19	temperature:ambient	13.83	temperature:ambient	06:25:29.763000
-2018-04-19	temperature:ambient	14.06	temperature:ambient	06:30:29.726000
-2018-04-19	temperature:ambient	16.91	temperature:ambient	07:05:30.520000
-2018-04-19	temperature:ambient	15.79	temperature:ambient	18:55:30.970000
-2018-04-19	temperature:ambient	15.66	temperature:ambient	19:05:31.232000
-2017-08-30	relativeHumidity	89.47	relativeHumidity	02:05:57.226000
-2017-08-30	relativeHumidity	89.72	relativeHumidity	02:40:57.282000
-2017-08-30	relativeHumidity	91.73	relativeHumidity	04:00:57.436000
-2017-08-30	relativeHumidity	96.2	relativeHumidity	17:25:58.857000
-2017-08-30	relativeHumidity	95.53	relativeHumidity	20:10:59.133000
-2017-08-31	relativeHumidity	88.67	relativeHumidity	05:11:00.426000
-2017-08-31	relativeHumidity	60.57	relativeHumidity	13:16:00.936000
-2017-09-01	relativeHumidity	90.27	relativeHumidity	02:01:02.570000
-2017-09-02	relativeHumidity	65.63	relativeHumidity	17:01:06.379000
-2017-09-03	relativeHumidity	36.69	relativeHumidity	16:41:08.832000
-2017-09-03	relativeHumidity	66.3	relativeHumidity	20:21:08.881000
-2017-09-03	relativeHumidity	73.24	relativeHumidity	23:16:09.292000
-2017-09-05	relativeHumidity	90.44	relativeHumidity	02:26:12.770000
-2017-09-05	relativeHumidity	83.77	relativeHumidity	18:16:14.278000
-2017-09-05	relativeHumidity	84.84	relativeHumidity	19:26:13.915000
-2017-09-05	relativeHumidity	84.39	relativeHumidity	20:11:14.583000
-2017-09-05	relativeHumidity	86.81	relativeHumidity	23:36:15.006000
-2017-09-05	relativeHumidity	87.06	relativeHumidity	23:56:14.899000
-2017-09-06	relativeHumidity	69.96	relativeHumidity	18:06:16.441000
-2017-09-06	relativeHumidity	72.53	relativeHumidity	18:51:16.880000
-2017-09-06	relativeHumidity	77.45	relativeHumidity	23:36:17.169000
-2017-09-07	relativeHumidity	64.69	relativeHumidity	12:31:18.566000
-2017-09-14	relativeHumidity	63.32	relativeHumidity	19:11:36.639000
-2017-09-15	relativeHumidity	86.61	relativeHumidity	12:06:38.168000
-2017-10-04	relativeHumidity	88.23	relativeHumidity	16:12:23.657000
-2017-10-09	relativeHumidity	94.93	relativeHumidity	00:57:33.575000
-2017-10-09	relativeHumidity	95.55	relativeHumidity	01:22:33.755000
-2017-10-09	relativeHumidity	97.48	relativeHumidity	03:12:34.272000
-2017-10-09	relativeHumidity	98.86	relativeHumidity	04:17:34.445000
-2017-10-09	relativeHumidity	90.44	relativeHumidity	08:27:35.651000
-2017-10-09	relativeHumidity	91.65	relativeHumidity	23:02:35.940000
-2017-10-10	relativeHumidity	98.71	relativeHumidity	05:12:36.466000
-2017-10-10	relativeHumidity	98.81	relativeHumidity	05:52:36.982000
-2017-10-10	relativeHumidity	84.93	relativeHumidity	18:07:38.267000
-2017-10-11	relativeHumidity	78.52	relativeHumidity	11:37:40.067000
-2017-10-11	relativeHumidity	78.49	relativeHumidity	12:32:45.333000
-2017-10-12	relativeHumidity	97.99	relativeHumidity	07:57:41.498000
-2017-10-13	relativeHumidity	85.77	relativeHumidity	11:17:43.950000
-2017-10-27	relativeHumidity	81.99	relativeHumidity	15:28:17.704000
-2017-10-28	relativeHumidity	80.84	relativeHumidity	00:48:19.305000
-2017-10-28	relativeHumidity	82.07	relativeHumidity	01:18:18.385000
-2017-10-28	relativeHumidity	82.75	relativeHumidity	01:58:19.245000
-2017-10-28	relativeHumidity	77.91	relativeHumidity	09:58:19.677000
-2017-10-31	relativeHumidity	79.3	relativeHumidity	00:23:26.253000
-2017-10-31	relativeHumidity	85.72	relativeHumidity	03:53:26.559000
-2017-10-31	relativeHumidity	87.45	relativeHumidity	04:23:26.283000
-2017-10-31	relativeHumidity	87.78	relativeHumidity	07:13:43.667000
-2017-10-31	relativeHumidity	84.14	relativeHumidity	19:38:27.240000
-2017-11-01	relativeHumidity	96.47	relativeHumidity	02:38:28.675000
-2017-11-01	relativeHumidity	97.43	relativeHumidity	03:43:28.543000
-2017-11-01	relativeHumidity	97.75	relativeHumidity	04:28:29.075000
-2017-11-01	relativeHumidity	66.72	relativeHumidity	16:38:29.816000
-2017-11-01	relativeHumidity	63.57	relativeHumidity	22:13:30.535000
-2017-11-01	relativeHumidity	59.83	relativeHumidity	22:53:30.439000
-2017-11-02	relativeHumidity	56.51	relativeHumidity	02:43:31.311000
-2017-11-02	relativeHumidity	57.19	relativeHumidity	06:23:32.948000
-2017-11-02	relativeHumidity	47.52	relativeHumidity	09:48:32.046000
-2017-11-02	relativeHumidity	89.22	relativeHumidity	20:18:32.821000
-2017-11-03	relativeHumidity	67.17	relativeHumidity	12:23:34.148000
-2017-11-03	relativeHumidity	97.54	relativeHumidity	23:03:34.943000
-2017-11-03	relativeHumidity	98.07	relativeHumidity	23:23:35.160000
-2017-11-04	relativeHumidity	96.2	relativeHumidity	16:03:37.315000
-2017-11-04	relativeHumidity	86.81	relativeHumidity	22:28:37.717000
-2017-11-05	relativeHumidity	68.88	relativeHumidity	02:48:38.419000
-2017-11-05	relativeHumidity	83.46	relativeHumidity	12:03:39.996000
-2017-11-05	relativeHumidity	83.46	relativeHumidity	18:38:39.974000
-2017-11-05	relativeHumidity	81.96	relativeHumidity	20:38:39.714000
-2017-11-06	relativeHumidity	76.75	relativeHumidity	02:28:40.456000
-2017-11-06	relativeHumidity	80.47	relativeHumidity	03:03:40.834000
-2017-11-06	relativeHumidity	75.12	relativeHumidity	20:43:42.527000
-2017-11-06	relativeHumidity	81.13	relativeHumidity	21:38:42.301000
-2017-11-07	relativeHumidity	87.56	relativeHumidity	03:18:42.735000
-2017-11-07	relativeHumidity	58.31	relativeHumidity	14:28:44.226000
-2017-11-07	relativeHumidity	73.01	relativeHumidity	21:33:44.188000
-2017-11-08	relativeHumidity	78.17	relativeHumidity	00:33:44.893000
-2017-11-08	relativeHumidity	77.01	relativeHumidity	01:13:44.957000
-2017-11-08	relativeHumidity	88.67	relativeHumidity	10:18:49.773000
-2017-11-08	relativeHumidity	75.06	relativeHumidity	16:18:46.717000
-2017-11-09	relativeHumidity	91.32	relativeHumidity	02:03:47.472000
-2017-11-09	relativeHumidity	87.64	relativeHumidity	03:03:47.505000
-2017-11-09	relativeHumidity	79.24	relativeHumidity	06:13:48.237000
-2017-11-09	relativeHumidity	76.11	relativeHumidity	07:03:47.971000
-2017-11-10	relativeHumidity	98.33	relativeHumidity	00:43:49.763000
-2017-11-10	relativeHumidity	84.08	relativeHumidity	17:08:51.672000
-2017-11-10	relativeHumidity	84.62	relativeHumidity	20:33:51.617000
-2017-11-10	relativeHumidity	86.11	relativeHumidity	21:13:51.740000
-2017-11-11	relativeHumidity	88.67	relativeHumidity	06:08:52.779000
-2017-11-11	relativeHumidity	76.17	relativeHumidity	13:18:53.836000
-2017-11-11	relativeHumidity	78.08	relativeHumidity	19:23:54.286000
-2017-11-11	relativeHumidity	79.47	relativeHumidity	22:08:54.238000
-2017-11-19	relativeHumidity	80.67	relativeHumidity	18:44:13.500000
-2017-11-19	relativeHumidity	84.7	relativeHumidity	22:09:13.430000
-2017-11-20	relativeHumidity	82.38	relativeHumidity	00:44:13.618000
-2017-11-20	relativeHumidity	78.52	relativeHumidity	04:34:14.202000
-2017-11-20	relativeHumidity	78	relativeHumidity	06:19:14.489000
-2017-11-21	relativeHumidity	81.59	relativeHumidity	06:04:16.735000
-2017-11-21	relativeHumidity	75.27	relativeHumidity	17:19:17.740000
-2017-11-21	relativeHumidity	81.93	relativeHumidity	18:49:18.259000
-2017-11-22	relativeHumidity	37.98	relativeHumidity	05:19:18.623000
-2017-11-23	relativeHumidity	36.19	relativeHumidity	01:14:20.943000
-2017-11-23	relativeHumidity	45.78	relativeHumidity	11:39:22.016000
-2017-11-23	relativeHumidity	54.94	relativeHumidity	19:44:23.277000
-2017-11-24	relativeHumidity	95.47	relativeHumidity	05:59:24.521000
-2017-11-24	relativeHumidity	86.5	relativeHumidity	17:19:25.474000
-2017-11-25	relativeHumidity	61.34	relativeHumidity	12:09:26.686000
-2017-11-26	relativeHumidity	81.47	relativeHumidity	20:54:30.225000
-2018-01-26	relativeHumidity	77.13	relativeHumidity	11:57:01.042000
-2018-01-26	relativeHumidity	72.45	relativeHumidity	19:12:01.815000
-2018-01-26	relativeHumidity	77.04	relativeHumidity	20:07:01.920000
-2018-01-26	relativeHumidity	70.34	relativeHumidity	23:27:02.268000
-2018-01-27	relativeHumidity	75.79	relativeHumidity	02:37:02.602000
-2018-01-27	relativeHumidity	93.66	relativeHumidity	23:17:04.790000
-2018-01-28	relativeHumidity	98.04	relativeHumidity	02:12:05.099000
-2018-01-28	relativeHumidity	84.53	relativeHumidity	19:17:06.827000
-2018-01-29	relativeHumidity	79.12	relativeHumidity	15:17:09.395000
-2018-01-30	relativeHumidity	90.99	relativeHumidity	00:42:09.957000
-2018-01-30	relativeHumidity	88.45	relativeHumidity	02:22:10.130000
-2018-01-30	relativeHumidity	74.12	relativeHumidity	14:02:11.113000
-2018-01-30	relativeHumidity	89.11	relativeHumidity	19:17:11.541000
-2018-01-31	relativeHumidity	88.59	relativeHumidity	05:22:12.988000
-2018-01-31	relativeHumidity	83.32	relativeHumidity	17:42:13.903000
-2018-01-31	relativeHumidity	84.39	relativeHumidity	19:37:14.489000
-2018-02-01	relativeHumidity	74.83	relativeHumidity	14:37:16.494000
-2018-02-02	relativeHumidity	87.78	relativeHumidity	19:32:19.544000
-2018-02-02	relativeHumidity	88.28	relativeHumidity	19:37:19.549000
-2018-02-03	relativeHumidity	93.72	relativeHumidity	12:32:21.358000
-2018-02-03	relativeHumidity	96.95	relativeHumidity	12:57:21.560000
-2018-02-04	relativeHumidity	93.17	relativeHumidity	10:52:23.801000
-2018-02-04	relativeHumidity	98.76	relativeHumidity	23:32:25.028000
-2018-02-05	relativeHumidity	91.56	relativeHumidity	04:32:25.971000
-2018-02-05	relativeHumidity	81.76	relativeHumidity	06:47:25.783000
-2018-02-05	relativeHumidity	79.58	relativeHumidity	11:47:26.314000
-2018-02-05	relativeHumidity	72.06	relativeHumidity	21:57:29.288000
-2018-02-06	relativeHumidity	55.7	relativeHumidity	08:17:28.640000
-2018-02-06	relativeHumidity	93.88	relativeHumidity	16:47:48.289000
-2018-02-06	relativeHumidity	94.58	relativeHumidity	23:12:30.015000
-2018-02-07	relativeHumidity	95.01	relativeHumidity	02:52:30.407000
-2018-02-07	relativeHumidity	86.56	relativeHumidity	04:07:30.542000
-2018-02-07	relativeHumidity	79.87	relativeHumidity	18:02:31.599000
-2018-02-07	relativeHumidity	90.27	relativeHumidity	23:17:52.649000
-2018-02-08	relativeHumidity	83.72	relativeHumidity	10:52:33.803000
-2018-02-08	relativeHumidity	87.98	relativeHumidity	19:12:34.864000
-2018-02-08	relativeHumidity	86.5	relativeHumidity	21:47:34.984000
-2018-02-08	relativeHumidity	87.75	relativeHumidity	22:52:35.104000
-2018-02-10	relativeHumidity	81.56	relativeHumidity	05:17:38.310000
-2018-02-10	relativeHumidity	88.62	relativeHumidity	11:37:38.975000
-2018-02-10	relativeHumidity	83.77	relativeHumidity	17:02:39.983000
-2018-02-10	relativeHumidity	79.06	relativeHumidity	22:07:40.207000
-2018-02-11	relativeHumidity	88.95	relativeHumidity	21:07:42.486000
-2018-02-12	relativeHumidity	91.37	relativeHumidity	03:42:43.174000
-2018-02-12	relativeHumidity	91.21	relativeHumidity	15:42:44.427000
-2018-02-13	relativeHumidity	94.04	relativeHumidity	12:47:46.657000
-2018-02-13	relativeHumidity	92.36	relativeHumidity	16:27:47.083000
-2018-02-13	relativeHumidity	86.3	relativeHumidity	17:22:47.134000
-2018-02-13	relativeHumidity	81.1	relativeHumidity	17:47:47.182000
-2018-02-13	relativeHumidity	83.24	relativeHumidity	20:32:47.474000
-2018-02-13	relativeHumidity	84.31	relativeHumidity	21:27:48.044000
-2018-02-14	relativeHumidity	59.15	relativeHumidity	15:17:49.454000
-2018-02-15	relativeHumidity	97.75	relativeHumidity	08:37:51.271000
-2018-02-15	relativeHumidity	75.12	relativeHumidity	10:32:51.469000
-2018-02-15	relativeHumidity	52.39	relativeHumidity	14:47:51.921000
-2018-02-17	relativeHumidity	97.38	relativeHumidity	03:17:55.779000
-2018-02-17	relativeHumidity	79.06	relativeHumidity	18:27:57.366000
-2018-02-18	relativeHumidity	90.16	relativeHumidity	16:32:59.701000
-2018-02-19	relativeHumidity	-2.08	relativeHumidity	15:53:02.727000
-2018-02-19	relativeHumidity	100	relativeHumidity	15:58:03.136000
-2018-02-20	relativeHumidity	94.85	relativeHumidity	03:53:03.806000
-2018-02-20	relativeHumidity	98.41	relativeHumidity	05:13:03.636000
-2018-02-20	relativeHumidity	95.12	relativeHumidity	07:03:03.793000
-2018-02-20	relativeHumidity	94.72	relativeHumidity	07:13:03.890000
-2018-02-20	relativeHumidity	94.28	relativeHumidity	07:23:03.861000
-2018-02-20	relativeHumidity	92.36	relativeHumidity	08:48:05.005000
-2018-02-20	relativeHumidity	89.67	relativeHumidity	10:18:05.166000
-2018-02-20	relativeHumidity	89.53	relativeHumidity	10:23:05.110000
-2018-02-20	relativeHumidity	89.36	relativeHumidity	11:48:05.294000
-2018-02-20	relativeHumidity	92.63	relativeHumidity	12:23:05.340000
-2018-02-20	relativeHumidity	98.17	relativeHumidity	13:43:05.519000
-2018-02-20	relativeHumidity	94.64	relativeHumidity	14:03:05.489000
-2018-02-20	relativeHumidity	88.39	relativeHumidity	14:23:05.501000
-2018-02-20	relativeHumidity	83.91	relativeHumidity	14:38:05.557000
-2018-02-20	relativeHumidity	87.62	relativeHumidity	17:03:04.559000
-2018-02-20	relativeHumidity	87.89	relativeHumidity	17:28:04.884000
-2018-02-20	relativeHumidity	89.11	relativeHumidity	18:58:05.082000
-2018-02-20	relativeHumidity	91.15	relativeHumidity	22:48:06.467000
-2018-02-21	relativeHumidity	83.74	relativeHumidity	01:18:06.166000
-2018-02-21	relativeHumidity	64.39	relativeHumidity	14:48:08.016000
-2018-02-21	relativeHumidity	64.33	relativeHumidity	16:08:08.231000
-2018-02-21	relativeHumidity	65.96	relativeHumidity	16:18:08.229000
-2018-02-21	relativeHumidity	64.78	relativeHumidity	16:38:08.392000
-2018-02-21	relativeHumidity	68.16	relativeHumidity	17:08:08.385000
-2018-02-21	relativeHumidity	68.79	relativeHumidity	18:33:07.541000
-2018-02-21	relativeHumidity	70.1	relativeHumidity	19:43:08.636000
-2018-02-21	relativeHumidity	71.94	relativeHumidity	20:18:08.775000
-2018-02-22	relativeHumidity	83.94	relativeHumidity	03:33:09.452000
-2018-02-22	relativeHumidity	85.49	relativeHumidity	04:18:09.557000
-2018-02-22	relativeHumidity	85.49	relativeHumidity	04:28:09.561000
-2018-02-22	relativeHumidity	88.17	relativeHumidity	04:53:09.618000
-2018-02-22	relativeHumidity	56.48	relativeHumidity	13:03:09.620000
-2018-02-22	relativeHumidity	61.27	relativeHumidity	18:53:11.112000
-2018-02-22	relativeHumidity	77.51	relativeHumidity	20:38:10.783000
-2018-02-22	relativeHumidity	79.78	relativeHumidity	21:28:10.400000
-2018-02-22	relativeHumidity	80.79	relativeHumidity	21:48:10.483000
-2018-02-23	relativeHumidity	77.79	relativeHumidity	03:08:11.577000
-2018-04-05	relativeHumidity	75.79	relativeHumidity	08:49:55.059000
-2018-04-08	relativeHumidity	98.01	relativeHumidity	05:30:01.953000
-2018-04-08	relativeHumidity	97.99	relativeHumidity	05:40:02.107000
-2018-04-08	relativeHumidity	97.91	relativeHumidity	05:45:02.043000
-2018-04-08	relativeHumidity	98.65	relativeHumidity	07:05:02.120000
-2018-04-08	relativeHumidity	98.36	relativeHumidity	07:10:02.166000
-2018-04-08	relativeHumidity	97.21	relativeHumidity	07:35:02.193000
-2018-04-08	relativeHumidity	95.47	relativeHumidity	08:00:02.236000
-2018-04-08	relativeHumidity	93.53	relativeHumidity	08:20:02.219000
-2018-04-08	relativeHumidity	92.82	relativeHumidity	08:35:02.355000
-2018-04-08	relativeHumidity	92.74	relativeHumidity	08:40:02.238000
-2018-04-08	relativeHumidity	80.67	relativeHumidity	09:40:02.380000
-2018-04-08	relativeHumidity	71.11	relativeHumidity	10:25:02.469000
-2018-04-08	relativeHumidity	68.49	relativeHumidity	10:45:02.523000
-2018-04-08	relativeHumidity	71.06	relativeHumidity	11:55:02.606000
-2018-04-08	relativeHumidity	87.64	relativeHumidity	23:05:03.807000
-2018-04-09	relativeHumidity	90.44	relativeHumidity	00:40:03.954000
-2018-04-09	relativeHumidity	94.64	relativeHumidity	02:35:04.108000
-2018-04-09	relativeHumidity	96.39	relativeHumidity	03:10:04.189000
-2018-04-09	relativeHumidity	92.14	relativeHumidity	04:45:04.347000
-2018-04-09	relativeHumidity	91.7	relativeHumidity	04:50:04.492000
-2018-04-09	relativeHumidity	90.44	relativeHumidity	05:35:04.499000
-2018-04-09	relativeHumidity	87.78	relativeHumidity	07:10:04.642000
-2018-04-09	relativeHumidity	85.04	relativeHumidity	08:15:04.771000
-2018-04-09	relativeHumidity	84.53	relativeHumidity	08:20:04.777000
-2018-04-09	relativeHumidity	87.34	relativeHumidity	09:40:05.253000
-2018-04-09	relativeHumidity	87	relativeHumidity	10:25:04.944000
-2018-04-09	relativeHumidity	84.82	relativeHumidity	10:50:04.984000
-2018-04-09	relativeHumidity	83.74	relativeHumidity	11:05:05.179000
-2018-04-09	relativeHumidity	84.7	relativeHumidity	16:50:05.632000
-2018-04-09	relativeHumidity	88.62	relativeHumidity	18:45:05.916000
-2018-04-09	relativeHumidity	87.56	relativeHumidity	19:35:05.946000
-2018-04-09	relativeHumidity	87.42	relativeHumidity	20:50:06.109000
-2018-04-09	relativeHumidity	89.03	relativeHumidity	21:15:06.114000
-2018-04-09	relativeHumidity	87.78	relativeHumidity	22:05:06.228000
-2018-04-10	relativeHumidity	71.11	relativeHumidity	04:30:07.868000
-2018-04-10	relativeHumidity	75.38	relativeHumidity	15:10:11.665000
-2018-04-10	relativeHumidity	78.08	relativeHumidity	15:45:07.983000
-2018-04-10	relativeHumidity	80.13	relativeHumidity	17:25:08.154000
-2018-04-10	relativeHumidity	81.59	relativeHumidity	18:10:08.948000
-2018-04-10	relativeHumidity	80.21	relativeHumidity	18:35:08.280000
-2018-04-10	relativeHumidity	93.42	relativeHumidity	20:30:08.513000
-2018-04-10	relativeHumidity	91.75	relativeHumidity	21:15:09.135000
-2018-04-10	relativeHumidity	90.49	relativeHumidity	22:25:08.776000
-2018-04-10	relativeHumidity	92.36	relativeHumidity	23:30:08.874000
-2018-04-11	relativeHumidity	87.73	relativeHumidity	05:30:09.460000
-2018-04-11	relativeHumidity	90.93	relativeHumidity	08:05:09.828000
-2018-04-11	relativeHumidity	93.5	relativeHumidity	09:30:09.941000
-2018-04-11	relativeHumidity	92.14	relativeHumidity	09:35:09.929000
-2018-04-11	relativeHumidity	92.41	relativeHumidity	09:55:09.902000
-2018-04-11	relativeHumidity	91.26	relativeHumidity	10:10:09.978000
-2018-04-11	relativeHumidity	91.62	relativeHumidity	10:15:09.972000
-2018-04-11	relativeHumidity	97.51	relativeHumidity	18:05:10.807000
-2018-04-11	relativeHumidity	96.73	relativeHumidity	18:50:11.042000
-2018-04-11	relativeHumidity	94.69	relativeHumidity	19:45:11.027000
-2018-04-11	relativeHumidity	94.23	relativeHumidity	21:10:11.369000
-2018-04-11	relativeHumidity	94.12	relativeHumidity	22:55:11.337000
-2018-04-11	relativeHumidity	94.85	relativeHumidity	23:55:11.367000
-2018-04-12	relativeHumidity	95.2	relativeHumidity	00:50:11.608000
-2018-04-12	relativeHumidity	95.66	relativeHumidity	01:25:11.568000
-2018-04-12	relativeHumidity	95.88	relativeHumidity	01:30:11.617000
-2018-04-12	relativeHumidity	96.81	relativeHumidity	02:00:11.748000
-2018-04-12	relativeHumidity	94.91	relativeHumidity	03:35:11.818000
-2018-04-12	relativeHumidity	95.5	relativeHumidity	04:05:12.468000
-2018-04-12	relativeHumidity	96.36	relativeHumidity	04:30:11.952000
-2018-04-12	relativeHumidity	96.2	relativeHumidity	04:35:11.907000
-2018-04-12	relativeHumidity	95.85	relativeHumidity	04:45:11.884000
-2018-04-12	relativeHumidity	96.92	relativeHumidity	05:25:12.065000
-2018-04-12	relativeHumidity	96.95	relativeHumidity	05:35:12.040000
-2018-04-12	relativeHumidity	96.39	relativeHumidity	06:30:12.073000
-2018-04-12	relativeHumidity	87.34	relativeHumidity	07:05:12.124000
-2018-04-12	relativeHumidity	87.48	relativeHumidity	07:10:12.219000
-2018-04-12	relativeHumidity	80.27	relativeHumidity	08:05:12.233000
-2018-04-12	relativeHumidity	78.98	relativeHumidity	08:20:12.261000
-2018-04-12	relativeHumidity	71.91	relativeHumidity	14:15:12.846000
-2018-04-12	relativeHumidity	71.85	relativeHumidity	14:20:12.862000
-2018-04-12	relativeHumidity	73.71	relativeHumidity	17:00:13.442000
-2018-04-12	relativeHumidity	75.41	relativeHumidity	17:45:13.373000
-2018-04-12	relativeHumidity	87.78	relativeHumidity	19:05:13.350000
-2018-04-12	relativeHumidity	90.69	relativeHumidity	20:10:13.510000
-2018-04-12	relativeHumidity	91.23	relativeHumidity	23:25:13.796000
-2018-04-12	relativeHumidity	90.55	relativeHumidity	23:35:14.042000
-2018-04-12	relativeHumidity	92.19	relativeHumidity	23:55:13.914000
-2018-04-13	relativeHumidity	95.04	relativeHumidity	01:10:14.077000
-2018-04-13	relativeHumidity	95.01	relativeHumidity	01:15:14.085000
-2018-04-13	relativeHumidity	95.18	relativeHumidity	01:20:13.981000
-2018-04-13	relativeHumidity	98.49	relativeHumidity	02:35:14.152000
-2018-04-13	relativeHumidity	98.07	relativeHumidity	02:45:14.158000
-2018-04-13	relativeHumidity	97.93	relativeHumidity	02:50:14.368000
-2018-04-13	relativeHumidity	98.12	relativeHumidity	03:00:14.229000
-2018-04-13	relativeHumidity	98.81	relativeHumidity	03:30:14.242000
-2018-04-13	relativeHumidity	92.14	relativeHumidity	07:45:15.266000
-2018-04-13	relativeHumidity	83.38	relativeHumidity	11:55:15.112000
-2018-04-13	relativeHumidity	83.24	relativeHumidity	12:25:15.872000
-2018-04-14	relativeHumidity	93.34	relativeHumidity	10:05:17.460000
-2018-04-14	relativeHumidity	80.24	relativeHumidity	12:25:17.781000
-2018-04-14	relativeHumidity	75.06	relativeHumidity	13:30:17.804000
-2018-04-14	relativeHumidity	82.21	relativeHumidity	16:15:18.126000
-2018-04-15	relativeHumidity	80.04	relativeHumidity	02:20:19.161000
-2018-04-15	relativeHumidity	74.83	relativeHumidity	02:45:19.344000
-2018-04-15	relativeHumidity	88.2	relativeHumidity	04:50:19.474000
-2018-04-15	relativeHumidity	90.16	relativeHumidity	05:00:19.474000
-2018-04-15	relativeHumidity	91.1	relativeHumidity	05:15:19.978000
-2018-04-15	relativeHumidity	71.91	relativeHumidity	08:30:19.792000
-2018-04-15	relativeHumidity	65.87	relativeHumidity	08:40:19.875000
-2018-04-15	relativeHumidity	72.51	relativeHumidity	08:55:19.901000
-2018-04-15	relativeHumidity	64.84	relativeHumidity	16:55:20.756000
-2018-04-15	relativeHumidity	70.52	relativeHumidity	17:25:21.010000
-2018-04-15	relativeHumidity	75.47	relativeHumidity	18:55:20.966000
-2018-04-15	relativeHumidity	76.11	relativeHumidity	19:05:20.901000
-2018-04-15	relativeHumidity	77.97	relativeHumidity	19:25:21.736000
-2018-04-15	relativeHumidity	83.74	relativeHumidity	20:10:21.364000
-2018-04-15	relativeHumidity	76.87	relativeHumidity	21:20:21.559000
-2018-04-16	relativeHumidity	100	relativeHumidity	02:20:21.742000
-2018-04-16	relativeHumidity	98.94	relativeHumidity	03:30:21.770000
-2018-04-16	relativeHumidity	96.63	relativeHumidity	04:55:21.961000
-2018-04-16	relativeHumidity	90.44	relativeHumidity	05:35:22.044000
-2018-04-16	relativeHumidity	91.04	relativeHumidity	05:45:22.086000
-2018-04-16	relativeHumidity	87.37	relativeHumidity	06:55:22.131000
-2018-04-16	relativeHumidity	86.39	relativeHumidity	07:00:22.135000
-2018-04-16	relativeHumidity	84.53	relativeHumidity	07:15:22.284000
-2018-04-16	relativeHumidity	72	relativeHumidity	08:05:22.940000
-2018-04-16	relativeHumidity	64.51	relativeHumidity	09:20:22.496000
-2018-04-16	relativeHumidity	60.07	relativeHumidity	11:35:22.790000
-2018-04-16	relativeHumidity	60.47	relativeHumidity	12:05:23.100000
-2018-04-16	relativeHumidity	69.93	relativeHumidity	14:10:23.142000
-2018-04-16	relativeHumidity	77.36	relativeHumidity	16:25:23.583000
-2018-04-16	relativeHumidity	75.88	relativeHumidity	17:05:23.316000
-2018-04-16	relativeHumidity	88.06	relativeHumidity	19:05:23.500000
-2018-04-16	relativeHumidity	87.45	relativeHumidity	19:25:23.496000
-2018-04-16	relativeHumidity	86.89	relativeHumidity	19:40:23.546000
-2018-04-17	relativeHumidity	98.28	relativeHumidity	03:00:24.842000
-2018-04-17	relativeHumidity	97.7	relativeHumidity	06:10:26.218000
-2018-04-17	relativeHumidity	88.42	relativeHumidity	06:35:24.723000
-2018-04-17	relativeHumidity	74.65	relativeHumidity	07:25:24.719000
-2018-04-17	relativeHumidity	72.74	relativeHumidity	07:40:24.841000
-2018-04-17	relativeHumidity	60.04	relativeHumidity	08:15:24.850000
-2018-04-17	relativeHumidity	54.38	relativeHumidity	09:40:25.020000
-2018-04-17	relativeHumidity	95.01	relativeHumidity	22:20:26.377000
-2018-04-17	relativeHumidity	95.28	relativeHumidity	22:30:26.324000
-2018-04-17	relativeHumidity	97.21	relativeHumidity	23:05:26.347000
-2018-04-17	relativeHumidity	97.83	relativeHumidity	23:20:26.574000
-2018-04-17	relativeHumidity	98.79	relativeHumidity	23:45:26.512000
-2018-04-18	relativeHumidity	91.32	relativeHumidity	06:30:27.326000
-2018-04-18	relativeHumidity	88.56	relativeHumidity	06:35:27.312000
-2018-04-18	relativeHumidity	84.08	relativeHumidity	07:00:27.234000
-2018-04-18	relativeHumidity	69.87	relativeHumidity	08:25:27.347000
-2018-04-18	relativeHumidity	70.73	relativeHumidity	08:50:27.606000
-2018-04-18	relativeHumidity	66.78	relativeHumidity	10:15:27.534000
-2018-04-18	relativeHumidity	70.46	relativeHumidity	10:25:27.566000
-2018-04-18	relativeHumidity	80.16	relativeHumidity	11:05:27.648000
-2018-04-18	relativeHumidity	83.01	relativeHumidity	11:20:27.705000
-2018-04-18	relativeHumidity	81.93	relativeHumidity	11:25:27.698000
-2018-04-18	relativeHumidity	83.21	relativeHumidity	11:55:27.781000
-2018-04-18	relativeHumidity	59.18	relativeHumidity	16:50:28.918000
-2018-04-18	relativeHumidity	69.12	relativeHumidity	20:00:28.652000
-2018-04-18	relativeHumidity	70.16	relativeHumidity	20:15:28.651000
-2018-04-18	relativeHumidity	75	relativeHumidity	20:20:28.653000
-2018-04-18	relativeHumidity	81.33	relativeHumidity	21:05:28.660000
-2018-04-18	relativeHumidity	73.07	relativeHumidity	21:30:28.717000
-2018-04-18	relativeHumidity	73.33	relativeHumidity	21:35:28.795000
-2018-04-18	relativeHumidity	83.66	relativeHumidity	22:05:29.016000
-2018-04-18	relativeHumidity	88.78	relativeHumidity	22:15:29.400000
-2018-04-19	relativeHumidity	92.11	relativeHumidity	01:25:29.222000
-2018-04-19	relativeHumidity	91.97	relativeHumidity	01:30:29.290000
-2018-04-19	relativeHumidity	93.28	relativeHumidity	05:55:29.213000
-2018-04-19	relativeHumidity	89.25	relativeHumidity	06:25:29.762000
-2018-04-19	relativeHumidity	88.92	relativeHumidity	06:30:29.725000
-2018-04-19	relativeHumidity	76.08	relativeHumidity	07:05:30.520000
-2018-04-19	relativeHumidity	90.05	relativeHumidity	18:55:30.969000
-2018-04-19	relativeHumidity	91.26	relativeHumidity	19:05:31.232000
+date	attribute	attrValue	time
+2017-08-29	temperature:ambient	21.46	21:35:56.968000
+2017-08-30	temperature:ambient	20.91	02:05:57.228000
+2017-08-30	temperature:ambient	17.06	17:25:58.857000
+2017-08-30	temperature:ambient	16.5	19:55:59.287000
+2017-08-30	temperature:ambient	16.65	20:10:59.134000
+2017-08-30	temperature:ambient	16.48	21:05:59.061000
+2017-08-31	temperature:ambient	22.51	13:16:00.937000
+2017-08-31	temperature:ambient	19.62	21:16:01.923000
+2017-09-01	temperature:ambient	18.09	20:01:04.679000
+2017-09-02	temperature:ambient	21.27	17:01:06.381000
+2017-09-02	temperature:ambient	19.49	20:56:07.003000
+2017-09-03	temperature:ambient	24.9	16:41:08.832000
+2017-09-03	temperature:ambient	20.11	20:21:08.881000
+2017-09-03	temperature:ambient	19.67	23:16:09.292000
+2017-09-05	temperature:ambient	20.14	02:26:12.770000
+2017-09-05	temperature:ambient	21.52	18:16:14.278000
+2017-09-05	temperature:ambient	21.1	19:26:13.914000
+2017-09-05	temperature:ambient	20.77	20:11:14.584000
+2017-09-05	temperature:ambient	20.47	23:36:15.006000
+2017-09-05	temperature:ambient	20.35	23:56:14.899000
+2017-09-06	temperature:ambient	20.33	18:06:16.441000
+2017-09-06	temperature:ambient	19.95	18:51:16.880000
+2017-09-06	temperature:ambient	19.43	23:36:17.169000
+2017-09-07	temperature:ambient	21.57	12:31:18.568000
+2017-09-14	temperature:ambient	17.84	19:11:36.639000
+2017-09-15	temperature:ambient	15.98	12:06:38.168000
+2017-10-04	temperature:ambient	21.02	16:12:23.657000
+2017-10-08	temperature:ambient	10.98	05:02:32.021000
+2017-10-08	temperature:ambient	14.29	07:42:31.827000
+2017-10-09	temperature:ambient	14.63	23:02:35.940000
+2017-10-10	temperature:ambient	12.17	05:12:36.466000
+2017-10-10	temperature:ambient	11.93	05:52:36.982000
+2017-10-10	temperature:ambient	18.14	18:07:38.267000
+2017-10-11	temperature:ambient	20.73	11:37:40.067000
+2017-10-11	temperature:ambient	20.62	12:32:45.334000
+2017-10-13	temperature:ambient	13.93	05:22:43.621000
+2017-10-13	temperature:ambient	19.22	11:17:43.952000
+2017-10-27	temperature:ambient	19.18	15:28:17.706000
+2017-10-28	temperature:ambient	17.48	00:48:19.305000
+2017-10-28	temperature:ambient	17.15	01:18:18.385000
+2017-10-28	temperature:ambient	16.87	01:58:19.244000
+2017-10-28	temperature:ambient	18.92	09:58:19.677000
+2017-10-31	temperature:ambient	12.92	00:23:26.253000
+2017-10-31	temperature:ambient	11.21	07:13:43.667000
+2017-11-01	temperature:ambient	10.45	03:43:28.543000
+2017-11-01	temperature:ambient	20.36	16:38:29.817000
+2017-11-01	temperature:ambient	17.51	22:13:30.535000
+2017-11-01	temperature:ambient	18.39	22:53:30.439000
+2017-11-02	temperature:ambient	18.63	06:23:32.949000
+2017-11-02	temperature:ambient	22.77	09:48:32.046000
+2017-11-02	temperature:ambient	18.15	20:18:32.821000
+2017-11-03	temperature:ambient	21.06	12:23:34.148000
+2017-11-03	temperature:ambient	14.21	23:03:34.944000
+2017-11-04	temperature:ambient	14.77	16:03:37.315000
+2017-11-04	temperature:ambient	14.85	22:28:37.719000
+2017-11-05	temperature:ambient	14.43	02:48:38.420000
+2017-11-05	temperature:ambient	13.71	12:03:39.995000
+2017-11-05	temperature:ambient	12.78	18:38:39.976000
+2017-11-05	temperature:ambient	12.84	20:38:39.714000
+2017-11-06	temperature:ambient	13.09	02:28:40.456000
+2017-11-06	temperature:ambient	12.25	03:03:40.833000
+2017-11-06	temperature:ambient	11.13	20:43:42.530000
+2017-11-06	temperature:ambient	10.53	21:38:42.300000
+2017-11-07	temperature:ambient	11.76	03:18:42.734000
+2017-11-07	temperature:ambient	16.01	14:28:44.228000
+2017-11-07	temperature:ambient	14.02	21:33:44.188000
+2017-11-08	temperature:ambient	13.09	00:33:44.893000
+2017-11-08	temperature:ambient	12.91	01:13:44.957000
+2017-11-08	temperature:ambient	11.04	10:18:49.772000
+2017-11-08	temperature:ambient	11.9	16:18:46.721000
+2017-11-09	temperature:ambient	9.35	02:03:47.471000
+2017-11-09	temperature:ambient	10	03:03:47.505000
+2017-11-09	temperature:ambient	10.32	06:13:48.237000
+2017-11-09	temperature:ambient	11.93	07:03:47.972000
+2017-11-10	temperature:ambient	13.37	00:43:49.763000
+2017-11-10	temperature:ambient	15.43	17:08:51.672000
+2017-11-10	temperature:ambient	15.14	20:33:51.617000
+2017-11-10	temperature:ambient	14.77	21:13:51.736000
+2017-11-11	temperature:ambient	15.71	13:18:53.838000
+2017-11-11	temperature:ambient	16.02	14:38:53.767000
+2017-11-11	temperature:ambient	14.89	22:08:54.239000
+2017-11-19	temperature:ambient	11.01	22:09:13.431000
+2017-11-20	temperature:ambient	10.32	00:44:13.619000
+2017-11-20	temperature:ambient	8.29	04:34:14.201000
+2017-11-20	temperature:ambient	7.71	06:19:14.491000
+2017-11-21	temperature:ambient	7.28	06:04:16.737000
+2017-11-21	temperature:ambient	13.95	17:19:17.742000
+2017-11-21	temperature:ambient	11.21	18:49:18.260000
+2017-11-22	temperature:ambient	16.63	05:19:18.622000
+2017-11-23	temperature:ambient	19.44	01:14:20.942000
+2017-11-23	temperature:ambient	22.13	11:39:22.016000
+2017-11-23	temperature:ambient	19.78	19:44:23.278000
+2017-11-24	temperature:ambient	15.33	05:59:24.521000
+2017-11-24	temperature:ambient	13.99	17:19:25.475000
+2017-11-25	temperature:ambient	13.13	12:09:26.687000
+2017-11-26	temperature:ambient	10.05	20:54:30.225000
+2018-01-25	temperature:ambient	10.37	10:11:58.313000
+2018-01-25	temperature:ambient	9.64	22:57:00.374000
+2018-01-25	temperature:ambient	9.31	23:57:00.015000
+2018-01-26	temperature:ambient	7.88	04:57:00.525000
+2018-01-26	temperature:ambient	10.59	11:57:01.044000
+2018-01-26	temperature:ambient	11.33	19:12:01.814000
+2018-01-26	temperature:ambient	10.79	20:02:02.266000
+2018-01-26	temperature:ambient	10.69	20:07:01.921000
+2018-01-26	temperature:ambient	11.11	23:27:02.269000
+2018-01-27	temperature:ambient	9.55	02:37:02.605000
+2018-01-27	temperature:ambient	7.37	23:17:04.792000
+2018-01-28	temperature:ambient	9.69	19:17:06.827000
+2018-01-29	temperature:ambient	14.15	15:17:09.395000
+2018-01-29	temperature:ambient	10.25	20:57:09.938000
+2018-01-29	temperature:ambient	10.18	22:12:10.135000
+2018-01-30	temperature:ambient	10.15	00:42:09.957000
+2018-01-30	temperature:ambient	10.13	02:22:10.131000
+2018-01-30	temperature:ambient	11.99	14:02:11.117000
+2018-01-30	temperature:ambient	9.88	19:17:11.541000
+2018-01-31	temperature:ambient	9.07	03:02:12.494000
+2018-01-31	temperature:ambient	8.89	05:22:12.988000
+2018-02-01	temperature:ambient	10.33	14:27:16.731000
+2018-02-01	temperature:ambient	9.85	14:37:16.494000
+2018-02-01	temperature:ambient	6.83	21:07:17.617000
+2018-02-02	temperature:ambient	6.25	19:32:19.546000
+2018-02-02	temperature:ambient	5.88	19:37:19.550000
+2018-02-03	temperature:ambient	10.25	11:52:21.180000
+2018-02-03	temperature:ambient	9.77	12:32:21.358000
+2018-02-03	temperature:ambient	9.95	12:57:21.560000
+2018-02-04	temperature:ambient	7.03	10:52:23.802000
+2018-02-04	temperature:ambient	7.21	19:42:24.848000
+2018-02-04	temperature:ambient	6.55	21:52:25.408000
+2018-02-04	temperature:ambient	6.37	23:22:25.276000
+2018-02-04	temperature:ambient	6.35	23:32:25.028000
+2018-02-05	temperature:ambient	7.66	07:42:25.388000
+2018-02-05	temperature:ambient	8.59	11:47:26.314000
+2018-02-05	temperature:ambient	7.11	21:57:29.289000
+2018-02-06	temperature:ambient	7.13	08:17:28.640000
+2018-02-06	temperature:ambient	4.62	16:47:48.290000
+2018-02-06	temperature:ambient	4.77	18:37:29.265000
+2018-02-06	temperature:ambient	5.94	23:12:30.016000
+2018-02-07	temperature:ambient	5.05	02:52:30.407000
+2018-02-07	temperature:ambient	6.06	04:07:30.542000
+2018-02-07	temperature:ambient	6.53	18:02:31.598000
+2018-02-07	temperature:ambient	4.45	23:17:52.647000
+2018-02-08	temperature:ambient	7.33	10:52:33.803000
+2018-02-08	temperature:ambient	5.98	19:12:34.866000
+2018-02-08	temperature:ambient	5.75	21:47:34.984000
+2018-02-08	temperature:ambient	5.05	22:52:35.104000
+2018-02-08	temperature:ambient	5.06	23:07:35.089000
+2018-02-10	temperature:ambient	8.77	05:17:38.310000
+2018-02-10	temperature:ambient	9.34	11:37:38.975000
+2018-02-10	temperature:ambient	9.91	21:02:40.134000
+2018-02-10	temperature:ambient	9.93	21:07:40.006000
+2018-02-10	temperature:ambient	10.25	22:07:40.208000
+2018-02-11	temperature:ambient	9.37	21:07:42.486000
+2018-02-12	temperature:ambient	6.73	03:42:43.173000
+2018-02-12	temperature:ambient	6.07	05:22:43.615000
+2018-02-12	temperature:ambient	5.97	15:42:44.426000
+2018-02-12	temperature:ambient	5.43	19:17:45.354000
+2018-02-12	temperature:ambient	4.19	23:22:45.481000
+2018-02-13	temperature:ambient	7.71	07:27:46.367000
+2018-02-13	temperature:ambient	6.79	11:27:46.625000
+2018-02-13	temperature:ambient	8.17	12:47:46.660000
+2018-02-13	temperature:ambient	9.98	17:22:47.134000
+2018-02-13	temperature:ambient	10.23	17:47:47.182000
+2018-02-13	temperature:ambient	9.91	20:32:47.474000
+2018-02-14	temperature:ambient	8.77	04:12:48.671000
+2018-02-14	temperature:ambient	14.66	10:42:48.979000
+2018-02-14	temperature:ambient	18.43	15:17:49.454000
+2018-02-15	temperature:ambient	10.78	08:37:51.274000
+2018-02-15	temperature:ambient	16.37	10:32:51.469000
+2018-02-15	temperature:ambient	21.14	14:47:51.922000
+2018-02-16	temperature:ambient	12.79	01:17:53.458000
+2018-02-16	temperature:ambient	11.37	06:12:53.552000
+2018-02-16	temperature:ambient	12.19	08:47:53.820000
+2018-02-16	temperature:ambient	13.08	09:27:53.897000
+2018-02-16	temperature:ambient	12.69	18:17:54.830000
+2018-02-16	temperature:ambient	12.75	18:37:54.580000
+2018-02-16	temperature:ambient	12.77	18:42:55.095000
+2018-02-16	temperature:ambient	12.57	23:12:55.808000
+2018-02-17	temperature:ambient	11.82	00:27:55.514000
+2018-02-17	temperature:ambient	10.41	03:17:55.779000
+2018-02-17	temperature:ambient	10.69	18:27:57.370000
+2018-02-18	temperature:ambient	10.62	10:22:59.181000
+2018-02-18	temperature:ambient	12.19	16:32:59.701000
+2018-02-19	temperature:ambient	12.01	12:53:01.918000
+2018-02-19	temperature:ambient	12.09	14:48:02.099000
+2018-02-19	temperature:ambient	11.93	14:53:02.128000
+2018-02-19	temperature:ambient	11.75	15:13:02.119000
+2018-02-19	temperature:ambient	11.53	17:58:03.371000
+2018-02-19	temperature:ambient	11.56	21:33:03.268000
+2018-02-20	temperature:ambient	10.69	04:48:03.592000
+2018-02-20	temperature:ambient	10.6	05:13:03.636000
+2018-02-20	temperature:ambient	11.3	07:03:03.796000
+2018-02-20	temperature:ambient	11.26	07:13:03.889000
+2018-02-20	temperature:ambient	11.33	07:23:03.861000
+2018-02-20	temperature:ambient	11.65	08:48:05.005000
+2018-02-20	temperature:ambient	12.98	10:43:04.268000
+2018-02-20	temperature:ambient	11.28	12:38:04.466000
+2018-02-20	temperature:ambient	11.59	13:28:04.501000
+2018-02-20	temperature:ambient	12.28	17:03:04.563000
+2018-02-20	temperature:ambient	11.79	17:28:04.882000
+2018-02-20	temperature:ambient	11.73	18:58:05.081000
+2018-02-20	temperature:ambient	11.26	22:48:06.467000
+2018-02-21	temperature:ambient	11.01	01:18:06.167000
+2018-02-21	temperature:ambient	10	14:48:08.016000
+2018-02-21	temperature:ambient	9.88	16:08:08.231000
+2018-02-21	temperature:ambient	9.57	16:18:08.229000
+2018-02-21	temperature:ambient	8.91	17:08:08.386000
+2018-02-21	temperature:ambient	8.32	18:53:08.225000
+2018-02-21	temperature:ambient	8.25	19:43:08.637000
+2018-02-21	temperature:ambient	8.3	20:18:08.775000
+2018-02-21	temperature:ambient	8.12	22:43:08.463000
+2018-02-22	temperature:ambient	7	03:33:09.452000
+2018-02-22	temperature:ambient	6.57	04:18:09.561000
+2018-02-22	temperature:ambient	6.6	04:28:09.561000
+2018-02-22	temperature:ambient	6.31	04:53:09.618000
+2018-02-22	temperature:ambient	10.97	13:03:09.621000
+2018-02-22	temperature:ambient	7.53	18:53:11.112000
+2018-02-22	temperature:ambient	6.73	20:38:10.785000
+2018-02-22	temperature:ambient	6.35	21:28:10.401000
+2018-02-22	temperature:ambient	6.12	21:48:10.483000
+2018-02-23	temperature:ambient	4.55	03:08:11.578000
+2018-04-05	temperature:ambient	13.91	08:49:55.059000
+2018-04-08	temperature:ambient	11.56	05:45:02.044000
+2018-04-08	temperature:ambient	11.55	07:05:02.122000
+2018-04-08	temperature:ambient	11.57	07:10:02.168000
+2018-04-08	temperature:ambient	12.03	07:35:02.194000
+2018-04-08	temperature:ambient	12.01	08:00:02.238000
+2018-04-08	temperature:ambient	12.25	08:20:02.218000
+2018-04-08	temperature:ambient	12.31	08:35:02.356000
+2018-04-08	temperature:ambient	12.28	08:40:02.239000
+2018-04-08	temperature:ambient	13.73	09:40:02.378000
+2018-04-08	temperature:ambient	15.42	10:25:02.468000
+2018-04-08	temperature:ambient	16.18	10:45:02.524000
+2018-04-08	temperature:ambient	16.25	11:55:02.607000
+2018-04-08	temperature:ambient	12.43	23:05:03.804000
+2018-04-08	temperature:ambient	12.41	23:30:03.987000
+2018-04-08	temperature:ambient	12.39	23:55:04.102000
+2018-04-09	temperature:ambient	11.89	02:35:04.107000
+2018-04-09	temperature:ambient	11.57	03:10:04.189000
+2018-04-09	temperature:ambient	11.61	04:45:04.347000
+2018-04-09	temperature:ambient	11.62	05:10:04.723000
+2018-04-09	temperature:ambient	11.71	05:35:04.499000
+2018-04-09	temperature:ambient	12.05	07:10:04.641000
+2018-04-09	temperature:ambient	12.52	08:15:04.771000
+2018-04-09	temperature:ambient	12.47	08:20:04.777000
+2018-04-09	temperature:ambient	12.37	09:40:05.253000
+2018-04-09	temperature:ambient	12.95	10:25:04.946000
+2018-04-09	temperature:ambient	13.21	10:50:04.984000
+2018-04-09	temperature:ambient	13.48	11:05:05.178000
+2018-04-09	temperature:ambient	10.78	15:00:05.455000
+2018-04-09	temperature:ambient	12.08	16:50:05.633000
+2018-04-09	temperature:ambient	11.72	18:45:05.916000
+2018-04-09	temperature:ambient	11.69	19:15:06.632000
+2018-04-09	temperature:ambient	11.76	19:35:05.946000
+2018-04-09	temperature:ambient	11.45	21:15:06.111000
+2018-04-09	temperature:ambient	11.49	22:05:06.228000
+2018-04-09	temperature:ambient	11.23	22:45:06.629000
+2018-04-10	temperature:ambient	11.62	04:30:07.868000
+2018-04-10	temperature:ambient	7.42	11:05:07.580000
+2018-04-10	temperature:ambient	11.61	15:10:11.667000
+2018-04-10	temperature:ambient	10.75	15:45:07.985000
+2018-04-10	temperature:ambient	9.91	17:25:08.154000
+2018-04-10	temperature:ambient	9.51	18:10:08.949000
+2018-04-10	temperature:ambient	9.2	18:35:08.280000
+2018-04-10	temperature:ambient	8.57	20:30:08.513000
+2018-04-10	temperature:ambient	8.69	21:15:09.134000
+2018-04-10	temperature:ambient	8.75	22:25:08.776000
+2018-04-10	temperature:ambient	8.97	23:30:08.874000
+2018-04-11	temperature:ambient	8.13	03:55:09.260000
+2018-04-11	temperature:ambient	9.97	05:30:09.460000
+2018-04-11	temperature:ambient	10.18	08:05:09.829000
+2018-04-11	temperature:ambient	10.9	13:45:10.248000
+2018-04-11	temperature:ambient	10.35	14:35:10.386000
+2018-04-11	temperature:ambient	10.82	15:40:10.649000
+2018-04-11	temperature:ambient	11.51	16:40:10.553000
+2018-04-11	temperature:ambient	11.78	18:05:10.805000
+2018-04-11	temperature:ambient	11.71	18:50:11.041000
+2018-04-11	temperature:ambient	11.89	21:10:11.365000
+2018-04-11	temperature:ambient	11.89	22:55:11.338000
+2018-04-11	temperature:ambient	11.83	23:15:11.815000
+2018-04-11	temperature:ambient	11.85	23:55:11.367000
+2018-04-12	temperature:ambient	11.79	01:25:11.568000
+2018-04-12	temperature:ambient	11.76	01:30:11.619000
+2018-04-12	temperature:ambient	11.71	02:00:11.749000
+2018-04-12	temperature:ambient	11.25	04:30:11.951000
+2018-04-12	temperature:ambient	11.22	04:35:11.907000
+2018-04-12	temperature:ambient	11.2	04:45:11.884000
+2018-04-12	temperature:ambient	11.01	06:30:12.073000
+2018-04-12	temperature:ambient	11.91	07:05:12.125000
+2018-04-12	temperature:ambient	11.99	07:10:12.219000
+2018-04-12	temperature:ambient	13.59	08:05:12.235000
+2018-04-12	temperature:ambient	13.36	08:20:12.261000
+2018-04-12	temperature:ambient	14.94	14:15:12.846000
+2018-04-12	temperature:ambient	15.2	14:20:12.862000
+2018-04-12	temperature:ambient	15.25	17:00:13.442000
+2018-04-12	temperature:ambient	14.53	17:45:13.375000
+2018-04-12	temperature:ambient	12.52	19:05:13.350000
+2018-04-12	temperature:ambient	12.31	20:10:13.510000
+2018-04-12	temperature:ambient	12.42	23:25:13.796000
+2018-04-12	temperature:ambient	12.53	23:35:14.042000
+2018-04-12	temperature:ambient	12.63	23:55:13.915000
+2018-04-13	temperature:ambient	12.11	01:10:14.077000
+2018-04-13	temperature:ambient	12.03	01:15:14.085000
+2018-04-13	temperature:ambient	12.05	01:20:13.982000
+2018-04-13	temperature:ambient	10.59	02:30:14.163000
+2018-04-13	temperature:ambient	10.75	02:35:14.153000
+2018-04-13	temperature:ambient	10.75	02:45:14.158000
+2018-04-13	temperature:ambient	10.37	03:00:14.229000
+2018-04-13	temperature:ambient	10	03:30:14.241000
+2018-04-13	temperature:ambient	9.79	03:50:14.251000
+2018-04-13	temperature:ambient	9.91	05:15:14.403000
+2018-04-13	temperature:ambient	13.08	07:45:15.266000
+2018-04-13	temperature:ambient	14.93	11:55:15.109000
+2018-04-13	temperature:ambient	15.14	12:25:15.872000
+2018-04-13	temperature:ambient	11.26	22:20:16.241000
+2018-04-13	temperature:ambient	11.2	22:30:16.237000
+2018-04-13	temperature:ambient	10.79	22:55:16.591000
+2018-04-14	temperature:ambient	11.07	00:50:16.585000
+2018-04-14	temperature:ambient	10.78	02:15:16.700000
+2018-04-14	temperature:ambient	11.13	04:30:17.224000
+2018-04-14	temperature:ambient	10.82	05:30:17.190000
+2018-04-14	temperature:ambient	13.09	08:50:17.390000
+2018-04-14	temperature:ambient	14.2	09:25:17.459000
+2018-04-14	temperature:ambient	18.05	10:05:17.460000
+2018-04-14	temperature:ambient	15.77	12:25:17.783000
+2018-04-14	temperature:ambient	16.39	13:30:17.804000
+2018-04-14	temperature:ambient	14.44	18:20:18.802000
+2018-04-15	temperature:ambient	13.91	02:20:19.161000
+2018-04-15	temperature:ambient	13.42	04:50:19.473000
+2018-04-15	temperature:ambient	13.22	05:00:19.474000
+2018-04-15	temperature:ambient	13.12	05:15:19.979000
+2018-04-15	temperature:ambient	17.76	08:30:19.793000
+2018-04-15	temperature:ambient	19.11	08:40:19.875000
+2018-04-15	temperature:ambient	16.8	08:55:19.901000
+2018-04-15	temperature:ambient	15.61	16:55:20.755000
+2018-04-15	temperature:ambient	14.99	17:25:21.010000
+2018-04-15	temperature:ambient	13.87	19:05:20.900000
+2018-04-15	temperature:ambient	13.33	20:10:21.365000
+2018-04-15	temperature:ambient	13.08	21:20:21.559000
+2018-04-16	temperature:ambient	10.48	02:20:21.744000
+2018-04-16	temperature:ambient	10.38	03:30:21.770000
+2018-04-16	temperature:ambient	10.29	03:45:21.903000
+2018-04-16	temperature:ambient	10.15	04:45:22.274000
+2018-04-16	temperature:ambient	10.21	04:55:21.961000
+2018-04-16	temperature:ambient	10.61	05:35:22.044000
+2018-04-16	temperature:ambient	10.61	05:45:22.085000
+2018-04-16	temperature:ambient	11.23	06:55:22.130000
+2018-04-16	temperature:ambient	11.36	07:00:22.136000
+2018-04-16	temperature:ambient	11.29	07:05:22.704000
+2018-04-16	temperature:ambient	11.5	07:15:22.283000
+2018-04-16	temperature:ambient	14.25	08:05:22.941000
+2018-04-16	temperature:ambient	15.09	09:20:22.496000
+2018-04-16	temperature:ambient	16.49	11:35:22.791000
+2018-04-16	temperature:ambient	16.41	12:05:23.100000
+2018-04-16	temperature:ambient	15.89	14:10:23.144000
+2018-04-16	temperature:ambient	15.41	16:25:23.582000
+2018-04-16	temperature:ambient	14.95	17:05:23.316000
+2018-04-16	temperature:ambient	13.43	19:25:23.495000
+2018-04-17	temperature:ambient	11.67	01:20:24.185000
+2018-04-17	temperature:ambient	11.45	01:25:24.190000
+2018-04-17	temperature:ambient	11.59	03:00:24.842000
+2018-04-17	temperature:ambient	11.45	03:30:24.380000
+2018-04-17	temperature:ambient	10.16	04:20:24.409000
+2018-04-17	temperature:ambient	13.38	06:35:24.723000
+2018-04-17	temperature:ambient	16.31	07:25:24.722000
+2018-04-17	temperature:ambient	16.55	07:40:24.841000
+2018-04-17	temperature:ambient	18.03	08:15:24.850000
+2018-04-17	temperature:ambient	18.93	09:40:25.021000
+2018-04-17	temperature:ambient	13.77	22:20:26.377000
+2018-04-17	temperature:ambient	13.75	22:30:26.324000
+2018-04-17	temperature:ambient	12.88	23:05:26.346000
+2018-04-17	temperature:ambient	12.1	23:20:26.574000
+2018-04-17	temperature:ambient	12.44	23:45:26.511000
+2018-04-18	temperature:ambient	12.25	00:20:27.237000
+2018-04-18	temperature:ambient	12.19	00:45:27.025000
+2018-04-18	temperature:ambient	14.95	07:00:27.235000
+2018-04-18	temperature:ambient	18.01	08:25:27.347000
+2018-04-18	temperature:ambient	17.62	08:50:27.607000
+2018-04-18	temperature:ambient	20.09	10:15:27.534000
+2018-04-18	temperature:ambient	19.05	10:25:27.567000
+2018-04-18	temperature:ambient	17.73	11:05:27.646000
+2018-04-18	temperature:ambient	16.97	11:20:27.705000
+2018-04-18	temperature:ambient	16.81	11:25:27.699000
+2018-04-18	temperature:ambient	16.81	11:55:27.782000
+2018-04-18	temperature:ambient	19.68	16:50:28.918000
+2018-04-18	temperature:ambient	16.23	20:00:28.652000
+2018-04-18	temperature:ambient	16.24	20:15:28.651000
+2018-04-18	temperature:ambient	16.35	20:20:28.654000
+2018-04-18	temperature:ambient	15.17	21:05:28.661000
+2018-04-18	temperature:ambient	15.3	21:30:28.718000
+2018-04-18	temperature:ambient	15.28	21:35:28.797000
+2018-04-18	temperature:ambient	14.65	22:05:29.016000
+2018-04-18	temperature:ambient	14.21	22:15:29.400000
+2018-04-19	temperature:ambient	13.59	01:15:29.437000
+2018-04-19	temperature:ambient	13.74	01:25:29.223000
+2018-04-19	temperature:ambient	13.87	01:30:29.290000
+2018-04-19	temperature:ambient	13.2	05:55:29.213000
+2018-04-19	temperature:ambient	13.83	06:25:29.763000
+2018-04-19	temperature:ambient	14.06	06:30:29.726000
+2018-04-19	temperature:ambient	16.91	07:05:30.520000
+2018-04-19	temperature:ambient	15.79	18:55:30.970000
+2018-04-19	temperature:ambient	15.66	19:05:31.232000
+2018-04-19	temperature:ambient	14.66	23:55:31.634000
+2018-04-20	temperature:ambient	14.61	00:10:31.526000
+2018-04-20	temperature:ambient	14.53	00:55:32.128000
+2018-04-20	temperature:ambient	14.4	02:00:31.731000
+2018-04-20	temperature:ambient	14	06:30:32.279000
+2018-04-20	temperature:ambient	19.33	16:50:33.339000
+2018-04-20	temperature:ambient	19.43	17:10:33.351000
+2018-04-20	temperature:ambient	19.75	17:40:33.446000
+2018-04-20	temperature:ambient	15.3	23:25:33.955000
+2018-04-21	temperature:ambient	13.67	03:15:34.405000
+2018-04-21	temperature:ambient	13.78	03:50:34.502000
+2018-04-21	temperature:ambient	13.27	06:30:34.799000
+2018-04-21	temperature:ambient	20.47	15:40:35.762000
+2018-04-21	temperature:ambient	16.33	17:45:36.215000
+2018-04-21	temperature:ambient	16.61	23:25:36.575000
+2018-04-22	temperature:ambient	15.75	01:10:37.169000
+2018-04-22	temperature:ambient	14.88	02:35:36.807000
+2018-04-22	temperature:ambient	14.59	03:00:37.216000
+2018-04-22	temperature:ambient	14.34	03:30:47.617000
+2018-04-22	temperature:ambient	15.53	04:40:37.075000
+2018-04-22	temperature:ambient	15.03	05:10:37.164000
+2018-04-22	temperature:ambient	18.39	06:55:37.325000
+2018-04-22	temperature:ambient	24.01	10:55:37.684000
+2018-04-22	temperature:ambient	16.84	16:35:39.171000
+2018-04-22	temperature:ambient	16.28	16:50:38.272000
+2018-04-22	temperature:ambient	15.11	18:25:38.612000
+2018-04-22	temperature:ambient	14.74	20:10:38.816000
+2018-04-23	temperature:ambient	14.6	03:00:39.511000
+2018-04-23	temperature:ambient	14.57	03:15:39.409000
+2018-04-23	temperature:ambient	14.59	04:55:39.550000
+2018-04-23	temperature:ambient	13.81	07:40:39.859000
+2018-04-23	temperature:ambient	13.78	07:50:39.916000
+2018-04-23	temperature:ambient	13.83	08:05:39.882000
+2018-04-23	temperature:ambient	14.95	23:35:41.536000
+2018-04-23	temperature:ambient	14.91	23:45:41.619000
+2018-04-24	temperature:ambient	14.87	00:50:42.111000
+2018-04-24	temperature:ambient	14.88	01:20:41.715000
+2018-04-24	temperature:ambient	14.79	01:30:42.354000
+2018-04-24	temperature:ambient	14.83	01:45:41.797000
+2018-04-24	temperature:ambient	14.74	01:55:42.219000
+2018-04-24	temperature:ambient	14.7	02:30:41.848000
+2018-04-24	temperature:ambient	14.65	02:55:42.595000
+2018-04-24	temperature:ambient	14.73	03:20:41.912000
+2018-04-24	temperature:ambient	18.41	13:30:43.051000
+2018-04-24	temperature:ambient	17.35	14:30:43.490000
+2018-04-24	temperature:ambient	15.23	19:35:43.653000
+2018-04-24	temperature:ambient	15.13	20:25:43.824000
+2018-04-24	temperature:ambient	14.93	20:40:43.783000
+2018-04-24	temperature:ambient	15.5	21:10:43.842000
+2018-04-24	temperature:ambient	15.22	21:40:43.908000
+2018-04-24	temperature:ambient	15.65	23:25:44.110000
+2018-04-25	temperature:ambient	14.56	01:20:44.287000
+2018-04-25	temperature:ambient	14.63	02:10:44.348000
+2018-04-25	temperature:ambient	14.51	04:00:44.584000
+2018-04-25	temperature:ambient	14.47	04:30:44.297000
+2018-04-25	temperature:ambient	13.97	05:20:44.728000
+2018-04-25	temperature:ambient	13.84	05:35:45.095000
+2018-04-25	temperature:ambient	13.86	06:50:44.876000
+2018-04-25	temperature:ambient	13.59	07:05:44.870000
+2017-08-30	relativeHumidity	89.47	02:05:57.226000
+2017-08-30	relativeHumidity	89.72	02:40:57.282000
+2017-08-30	relativeHumidity	91.73	04:00:57.436000
+2017-08-30	relativeHumidity	96.2	17:25:58.857000
+2017-08-30	relativeHumidity	95.53	20:10:59.133000
+2017-08-31	relativeHumidity	88.67	05:11:00.426000
+2017-08-31	relativeHumidity	60.57	13:16:00.936000
+2017-09-01	relativeHumidity	90.27	02:01:02.570000
+2017-09-02	relativeHumidity	65.63	17:01:06.379000
+2017-09-03	relativeHumidity	36.69	16:41:08.832000
+2017-09-03	relativeHumidity	66.3	20:21:08.881000
+2017-09-03	relativeHumidity	73.24	23:16:09.292000
+2017-09-05	relativeHumidity	90.44	02:26:12.770000
+2017-09-05	relativeHumidity	83.77	18:16:14.278000
+2017-09-05	relativeHumidity	84.84	19:26:13.915000
+2017-09-05	relativeHumidity	84.39	20:11:14.583000
+2017-09-05	relativeHumidity	86.81	23:36:15.006000
+2017-09-05	relativeHumidity	87.06	23:56:14.899000
+2017-09-06	relativeHumidity	69.96	18:06:16.441000
+2017-09-06	relativeHumidity	72.53	18:51:16.880000
+2017-09-06	relativeHumidity	77.45	23:36:17.169000
+2017-09-07	relativeHumidity	64.69	12:31:18.566000
+2017-09-14	relativeHumidity	63.32	19:11:36.639000
+2017-09-15	relativeHumidity	86.61	12:06:38.168000
+2017-10-04	relativeHumidity	88.23	16:12:23.657000
+2017-10-09	relativeHumidity	94.93	00:57:33.575000
+2017-10-09	relativeHumidity	95.55	01:22:33.755000
+2017-10-09	relativeHumidity	97.48	03:12:34.272000
+2017-10-09	relativeHumidity	98.86	04:17:34.445000
+2017-10-09	relativeHumidity	90.44	08:27:35.651000
+2017-10-09	relativeHumidity	91.65	23:02:35.940000
+2017-10-10	relativeHumidity	98.71	05:12:36.466000
+2017-10-10	relativeHumidity	98.81	05:52:36.982000
+2017-10-10	relativeHumidity	84.93	18:07:38.267000
+2017-10-11	relativeHumidity	78.52	11:37:40.067000
+2017-10-11	relativeHumidity	78.49	12:32:45.333000
+2017-10-12	relativeHumidity	97.99	07:57:41.498000
+2017-10-13	relativeHumidity	85.77	11:17:43.950000
+2017-10-27	relativeHumidity	81.99	15:28:17.704000
+2017-10-28	relativeHumidity	80.84	00:48:19.305000
+2017-10-28	relativeHumidity	82.07	01:18:18.385000
+2017-10-28	relativeHumidity	82.75	01:58:19.245000
+2017-10-28	relativeHumidity	77.91	09:58:19.677000
+2017-10-31	relativeHumidity	79.3	00:23:26.253000
+2017-10-31	relativeHumidity	85.72	03:53:26.559000
+2017-10-31	relativeHumidity	87.45	04:23:26.283000
+2017-10-31	relativeHumidity	87.78	07:13:43.667000
+2017-10-31	relativeHumidity	84.14	19:38:27.240000
+2017-11-01	relativeHumidity	96.47	02:38:28.675000
+2017-11-01	relativeHumidity	97.43	03:43:28.543000
+2017-11-01	relativeHumidity	97.75	04:28:29.075000
+2017-11-01	relativeHumidity	66.72	16:38:29.816000
+2017-11-01	relativeHumidity	63.57	22:13:30.535000
+2017-11-01	relativeHumidity	59.83	22:53:30.439000
+2017-11-02	relativeHumidity	56.51	02:43:31.311000
+2017-11-02	relativeHumidity	57.19	06:23:32.948000
+2017-11-02	relativeHumidity	47.52	09:48:32.046000
+2017-11-02	relativeHumidity	89.22	20:18:32.821000
+2017-11-03	relativeHumidity	67.17	12:23:34.148000
+2017-11-03	relativeHumidity	97.54	23:03:34.943000
+2017-11-03	relativeHumidity	98.07	23:23:35.160000
+2017-11-04	relativeHumidity	96.2	16:03:37.315000
+2017-11-04	relativeHumidity	86.81	22:28:37.717000
+2017-11-05	relativeHumidity	68.88	02:48:38.419000
+2017-11-05	relativeHumidity	83.46	12:03:39.996000
+2017-11-05	relativeHumidity	83.46	18:38:39.974000
+2017-11-05	relativeHumidity	81.96	20:38:39.714000
+2017-11-06	relativeHumidity	76.75	02:28:40.456000
+2017-11-06	relativeHumidity	80.47	03:03:40.834000
+2017-11-06	relativeHumidity	75.12	20:43:42.527000
+2017-11-06	relativeHumidity	81.13	21:38:42.301000
+2017-11-07	relativeHumidity	87.56	03:18:42.735000
+2017-11-07	relativeHumidity	58.31	14:28:44.226000
+2017-11-07	relativeHumidity	73.01	21:33:44.188000
+2017-11-08	relativeHumidity	78.17	00:33:44.893000
+2017-11-08	relativeHumidity	77.01	01:13:44.957000
+2017-11-08	relativeHumidity	88.67	10:18:49.773000
+2017-11-08	relativeHumidity	75.06	16:18:46.717000
+2017-11-09	relativeHumidity	91.32	02:03:47.472000
+2017-11-09	relativeHumidity	87.64	03:03:47.505000
+2017-11-09	relativeHumidity	79.24	06:13:48.237000
+2017-11-09	relativeHumidity	76.11	07:03:47.971000
+2017-11-10	relativeHumidity	98.33	00:43:49.763000
+2017-11-10	relativeHumidity	84.08	17:08:51.672000
+2017-11-10	relativeHumidity	84.62	20:33:51.617000
+2017-11-10	relativeHumidity	86.11	21:13:51.740000
+2017-11-11	relativeHumidity	88.67	06:08:52.779000
+2017-11-11	relativeHumidity	76.17	13:18:53.836000
+2017-11-11	relativeHumidity	78.08	19:23:54.286000
+2017-11-11	relativeHumidity	79.47	22:08:54.238000
+2017-11-19	relativeHumidity	80.67	18:44:13.500000
+2017-11-19	relativeHumidity	84.7	22:09:13.430000
+2017-11-20	relativeHumidity	82.38	00:44:13.618000
+2017-11-20	relativeHumidity	78.52	04:34:14.202000
+2017-11-20	relativeHumidity	78	06:19:14.489000
+2017-11-21	relativeHumidity	81.59	06:04:16.735000
+2017-11-21	relativeHumidity	75.27	17:19:17.740000
+2017-11-21	relativeHumidity	81.93	18:49:18.259000
+2017-11-22	relativeHumidity	37.98	05:19:18.623000
+2017-11-23	relativeHumidity	36.19	01:14:20.943000
+2017-11-23	relativeHumidity	45.78	11:39:22.016000
+2017-11-23	relativeHumidity	54.94	19:44:23.277000
+2017-11-24	relativeHumidity	95.47	05:59:24.521000
+2017-11-24	relativeHumidity	86.5	17:19:25.474000
+2017-11-25	relativeHumidity	61.34	12:09:26.686000
+2017-11-26	relativeHumidity	81.47	20:54:30.225000
+2018-01-26	relativeHumidity	77.13	11:57:01.042000
+2018-01-26	relativeHumidity	72.45	19:12:01.815000
+2018-01-26	relativeHumidity	77.04	20:07:01.920000
+2018-01-26	relativeHumidity	70.34	23:27:02.268000
+2018-01-27	relativeHumidity	75.79	02:37:02.602000
+2018-01-27	relativeHumidity	93.66	23:17:04.790000
+2018-01-28	relativeHumidity	98.04	02:12:05.099000
+2018-01-28	relativeHumidity	84.53	19:17:06.827000
+2018-01-29	relativeHumidity	79.12	15:17:09.395000
+2018-01-30	relativeHumidity	90.99	00:42:09.957000
+2018-01-30	relativeHumidity	88.45	02:22:10.130000
+2018-01-30	relativeHumidity	74.12	14:02:11.113000
+2018-01-30	relativeHumidity	89.11	19:17:11.541000
+2018-01-31	relativeHumidity	88.59	05:22:12.988000
+2018-01-31	relativeHumidity	83.32	17:42:13.903000
+2018-01-31	relativeHumidity	84.39	19:37:14.489000
+2018-02-01	relativeHumidity	74.83	14:37:16.494000
+2018-02-02	relativeHumidity	87.78	19:32:19.544000
+2018-02-02	relativeHumidity	88.28	19:37:19.549000
+2018-02-03	relativeHumidity	93.72	12:32:21.358000
+2018-02-03	relativeHumidity	96.95	12:57:21.560000
+2018-02-04	relativeHumidity	93.17	10:52:23.801000
+2018-02-04	relativeHumidity	98.76	23:32:25.028000
+2018-02-05	relativeHumidity	91.56	04:32:25.971000
+2018-02-05	relativeHumidity	81.76	06:47:25.783000
+2018-02-05	relativeHumidity	79.58	11:47:26.314000
+2018-02-05	relativeHumidity	72.06	21:57:29.288000
+2018-02-06	relativeHumidity	55.7	08:17:28.640000
+2018-02-06	relativeHumidity	93.88	16:47:48.289000
+2018-02-06	relativeHumidity	94.58	23:12:30.015000
+2018-02-07	relativeHumidity	95.01	02:52:30.407000
+2018-02-07	relativeHumidity	86.56	04:07:30.542000
+2018-02-07	relativeHumidity	79.87	18:02:31.599000
+2018-02-07	relativeHumidity	90.27	23:17:52.649000
+2018-02-08	relativeHumidity	83.72	10:52:33.803000
+2018-02-08	relativeHumidity	87.98	19:12:34.864000
+2018-02-08	relativeHumidity	86.5	21:47:34.984000
+2018-02-08	relativeHumidity	87.75	22:52:35.104000
+2018-02-10	relativeHumidity	81.56	05:17:38.310000
+2018-02-10	relativeHumidity	88.62	11:37:38.975000
+2018-02-10	relativeHumidity	83.77	17:02:39.983000
+2018-02-10	relativeHumidity	79.06	22:07:40.207000
+2018-02-11	relativeHumidity	88.95	21:07:42.486000
+2018-02-12	relativeHumidity	91.37	03:42:43.174000
+2018-02-12	relativeHumidity	91.21	15:42:44.427000
+2018-02-13	relativeHumidity	94.04	12:47:46.657000
+2018-02-13	relativeHumidity	92.36	16:27:47.083000
+2018-02-13	relativeHumidity	86.3	17:22:47.134000
+2018-02-13	relativeHumidity	81.1	17:47:47.182000
+2018-02-13	relativeHumidity	83.24	20:32:47.474000
+2018-02-13	relativeHumidity	84.31	21:27:48.044000
+2018-02-14	relativeHumidity	59.15	15:17:49.454000
+2018-02-15	relativeHumidity	97.75	08:37:51.271000
+2018-02-15	relativeHumidity	75.12	10:32:51.469000
+2018-02-15	relativeHumidity	52.39	14:47:51.921000
+2018-02-17	relativeHumidity	97.38	03:17:55.779000
+2018-02-17	relativeHumidity	79.06	18:27:57.366000
+2018-02-18	relativeHumidity	90.16	16:32:59.701000
+2018-02-19	relativeHumidity	-2.08	15:53:02.727000
+2018-02-19	relativeHumidity	100	15:58:03.136000
+2018-02-20	relativeHumidity	94.85	03:53:03.806000
+2018-02-20	relativeHumidity	98.41	05:13:03.636000
+2018-02-20	relativeHumidity	95.12	07:03:03.793000
+2018-02-20	relativeHumidity	94.72	07:13:03.890000
+2018-02-20	relativeHumidity	94.28	07:23:03.861000
+2018-02-20	relativeHumidity	92.36	08:48:05.005000
+2018-02-20	relativeHumidity	89.67	10:18:05.166000
+2018-02-20	relativeHumidity	89.53	10:23:05.110000
+2018-02-20	relativeHumidity	89.36	11:48:05.294000
+2018-02-20	relativeHumidity	92.63	12:23:05.340000
+2018-02-20	relativeHumidity	98.17	13:43:05.519000
+2018-02-20	relativeHumidity	94.64	14:03:05.489000
+2018-02-20	relativeHumidity	88.39	14:23:05.501000
+2018-02-20	relativeHumidity	83.91	14:38:05.557000
+2018-02-20	relativeHumidity	87.62	17:03:04.559000
+2018-02-20	relativeHumidity	87.89	17:28:04.884000
+2018-02-20	relativeHumidity	89.11	18:58:05.082000
+2018-02-20	relativeHumidity	91.15	22:48:06.467000
+2018-02-21	relativeHumidity	83.74	01:18:06.166000
+2018-02-21	relativeHumidity	64.39	14:48:08.016000
+2018-02-21	relativeHumidity	64.33	16:08:08.231000
+2018-02-21	relativeHumidity	65.96	16:18:08.229000
+2018-02-21	relativeHumidity	64.78	16:38:08.392000
+2018-02-21	relativeHumidity	68.16	17:08:08.385000
+2018-02-21	relativeHumidity	68.79	18:33:07.541000
+2018-02-21	relativeHumidity	70.1	19:43:08.636000
+2018-02-21	relativeHumidity	71.94	20:18:08.775000
+2018-02-22	relativeHumidity	83.94	03:33:09.452000
+2018-02-22	relativeHumidity	85.49	04:18:09.557000
+2018-02-22	relativeHumidity	85.49	04:28:09.561000
+2018-02-22	relativeHumidity	88.17	04:53:09.618000
+2018-02-22	relativeHumidity	56.48	13:03:09.620000
+2018-02-22	relativeHumidity	61.27	18:53:11.112000
+2018-02-22	relativeHumidity	77.51	20:38:10.783000
+2018-02-22	relativeHumidity	79.78	21:28:10.400000
+2018-02-22	relativeHumidity	80.79	21:48:10.483000
+2018-02-23	relativeHumidity	77.79	03:08:11.577000
+2018-04-05	relativeHumidity	75.79	08:49:55.059000
+2018-04-08	relativeHumidity	98.01	05:30:01.953000
+2018-04-08	relativeHumidity	97.99	05:40:02.107000
+2018-04-08	relativeHumidity	97.91	05:45:02.043000
+2018-04-08	relativeHumidity	98.65	07:05:02.120000
+2018-04-08	relativeHumidity	98.36	07:10:02.166000
+2018-04-08	relativeHumidity	97.21	07:35:02.193000
+2018-04-08	relativeHumidity	95.47	08:00:02.236000
+2018-04-08	relativeHumidity	93.53	08:20:02.219000
+2018-04-08	relativeHumidity	92.82	08:35:02.355000
+2018-04-08	relativeHumidity	92.74	08:40:02.238000
+2018-04-08	relativeHumidity	80.67	09:40:02.380000
+2018-04-08	relativeHumidity	71.11	10:25:02.469000
+2018-04-08	relativeHumidity	68.49	10:45:02.523000
+2018-04-08	relativeHumidity	71.06	11:55:02.606000
+2018-04-08	relativeHumidity	87.64	23:05:03.807000
+2018-04-09	relativeHumidity	90.44	00:40:03.954000
+2018-04-09	relativeHumidity	94.64	02:35:04.108000
+2018-04-09	relativeHumidity	96.39	03:10:04.189000
+2018-04-09	relativeHumidity	92.14	04:45:04.347000
+2018-04-09	relativeHumidity	91.7	04:50:04.492000
+2018-04-09	relativeHumidity	90.44	05:35:04.499000
+2018-04-09	relativeHumidity	87.78	07:10:04.642000
+2018-04-09	relativeHumidity	85.04	08:15:04.771000
+2018-04-09	relativeHumidity	84.53	08:20:04.777000
+2018-04-09	relativeHumidity	87.34	09:40:05.253000
+2018-04-09	relativeHumidity	87	10:25:04.944000
+2018-04-09	relativeHumidity	84.82	10:50:04.984000
+2018-04-09	relativeHumidity	83.74	11:05:05.179000
+2018-04-09	relativeHumidity	84.7	16:50:05.632000
+2018-04-09	relativeHumidity	88.62	18:45:05.916000
+2018-04-09	relativeHumidity	87.56	19:35:05.946000
+2018-04-09	relativeHumidity	87.42	20:50:06.109000
+2018-04-09	relativeHumidity	89.03	21:15:06.114000
+2018-04-09	relativeHumidity	87.78	22:05:06.228000
+2018-04-10	relativeHumidity	71.11	04:30:07.868000
+2018-04-10	relativeHumidity	75.38	15:10:11.665000
+2018-04-10	relativeHumidity	78.08	15:45:07.983000
+2018-04-10	relativeHumidity	80.13	17:25:08.154000
+2018-04-10	relativeHumidity	81.59	18:10:08.948000
+2018-04-10	relativeHumidity	80.21	18:35:08.280000
+2018-04-10	relativeHumidity	93.42	20:30:08.513000
+2018-04-10	relativeHumidity	91.75	21:15:09.135000
+2018-04-10	relativeHumidity	90.49	22:25:08.776000
+2018-04-10	relativeHumidity	92.36	23:30:08.874000
+2018-04-11	relativeHumidity	87.73	05:30:09.460000
+2018-04-11	relativeHumidity	90.93	08:05:09.828000
+2018-04-11	relativeHumidity	93.5	09:30:09.941000
+2018-04-11	relativeHumidity	92.14	09:35:09.929000
+2018-04-11	relativeHumidity	92.41	09:55:09.902000
+2018-04-11	relativeHumidity	91.26	10:10:09.978000
+2018-04-11	relativeHumidity	91.62	10:15:09.972000
+2018-04-11	relativeHumidity	97.51	18:05:10.807000
+2018-04-11	relativeHumidity	96.73	18:50:11.042000
+2018-04-11	relativeHumidity	94.69	19:45:11.027000
+2018-04-11	relativeHumidity	94.23	21:10:11.369000
+2018-04-11	relativeHumidity	94.12	22:55:11.337000
+2018-04-11	relativeHumidity	94.85	23:55:11.367000
+2018-04-12	relativeHumidity	95.2	00:50:11.608000
+2018-04-12	relativeHumidity	95.66	01:25:11.568000
+2018-04-12	relativeHumidity	95.88	01:30:11.617000
+2018-04-12	relativeHumidity	96.81	02:00:11.748000
+2018-04-12	relativeHumidity	94.91	03:35:11.818000
+2018-04-12	relativeHumidity	95.5	04:05:12.468000
+2018-04-12	relativeHumidity	96.36	04:30:11.952000
+2018-04-12	relativeHumidity	96.2	04:35:11.907000
+2018-04-12	relativeHumidity	95.85	04:45:11.884000
+2018-04-12	relativeHumidity	96.92	05:25:12.065000
+2018-04-12	relativeHumidity	96.95	05:35:12.040000
+2018-04-12	relativeHumidity	96.39	06:30:12.073000
+2018-04-12	relativeHumidity	87.34	07:05:12.124000
+2018-04-12	relativeHumidity	87.48	07:10:12.219000
+2018-04-12	relativeHumidity	80.27	08:05:12.233000
+2018-04-12	relativeHumidity	78.98	08:20:12.261000
+2018-04-12	relativeHumidity	71.91	14:15:12.846000
+2018-04-12	relativeHumidity	71.85	14:20:12.862000
+2018-04-12	relativeHumidity	73.71	17:00:13.442000
+2018-04-12	relativeHumidity	75.41	17:45:13.373000
+2018-04-12	relativeHumidity	87.78	19:05:13.350000
+2018-04-12	relativeHumidity	90.69	20:10:13.510000
+2018-04-12	relativeHumidity	91.23	23:25:13.796000
+2018-04-12	relativeHumidity	90.55	23:35:14.042000
+2018-04-12	relativeHumidity	92.19	23:55:13.914000
+2018-04-13	relativeHumidity	95.04	01:10:14.077000
+2018-04-13	relativeHumidity	95.01	01:15:14.085000
+2018-04-13	relativeHumidity	95.18	01:20:13.981000
+2018-04-13	relativeHumidity	98.49	02:35:14.152000
+2018-04-13	relativeHumidity	98.07	02:45:14.158000
+2018-04-13	relativeHumidity	97.93	02:50:14.368000
+2018-04-13	relativeHumidity	98.12	03:00:14.229000
+2018-04-13	relativeHumidity	98.81	03:30:14.242000
+2018-04-13	relativeHumidity	92.14	07:45:15.266000
+2018-04-13	relativeHumidity	83.38	11:55:15.112000
+2018-04-13	relativeHumidity	83.24	12:25:15.872000
+2018-04-14	relativeHumidity	93.34	10:05:17.460000
+2018-04-14	relativeHumidity	80.24	12:25:17.781000
+2018-04-14	relativeHumidity	75.06	13:30:17.804000
+2018-04-14	relativeHumidity	82.21	16:15:18.126000
+2018-04-15	relativeHumidity	80.04	02:20:19.161000
+2018-04-15	relativeHumidity	74.83	02:45:19.344000
+2018-04-15	relativeHumidity	88.2	04:50:19.474000
+2018-04-15	relativeHumidity	90.16	05:00:19.474000
+2018-04-15	relativeHumidity	91.1	05:15:19.978000
+2018-04-15	relativeHumidity	71.91	08:30:19.792000
+2018-04-15	relativeHumidity	65.87	08:40:19.875000
+2018-04-15	relativeHumidity	72.51	08:55:19.901000
+2018-04-15	relativeHumidity	64.84	16:55:20.756000
+2018-04-15	relativeHumidity	70.52	17:25:21.010000
+2018-04-15	relativeHumidity	75.47	18:55:20.966000
+2018-04-15	relativeHumidity	76.11	19:05:20.901000
+2018-04-15	relativeHumidity	77.97	19:25:21.736000
+2018-04-15	relativeHumidity	83.74	20:10:21.364000
+2018-04-15	relativeHumidity	76.87	21:20:21.559000
+2018-04-16	relativeHumidity	100	02:20:21.742000
+2018-04-16	relativeHumidity	98.94	03:30:21.770000
+2018-04-16	relativeHumidity	96.63	04:55:21.961000
+2018-04-16	relativeHumidity	90.44	05:35:22.044000
+2018-04-16	relativeHumidity	91.04	05:45:22.086000
+2018-04-16	relativeHumidity	87.37	06:55:22.131000
+2018-04-16	relativeHumidity	86.39	07:00:22.135000
+2018-04-16	relativeHumidity	84.53	07:15:22.284000
+2018-04-16	relativeHumidity	72	08:05:22.940000
+2018-04-16	relativeHumidity	64.51	09:20:22.496000
+2018-04-16	relativeHumidity	60.07	11:35:22.790000
+2018-04-16	relativeHumidity	60.47	12:05:23.100000
+2018-04-16	relativeHumidity	69.93	14:10:23.142000
+2018-04-16	relativeHumidity	77.36	16:25:23.583000
+2018-04-16	relativeHumidity	75.88	17:05:23.316000
+2018-04-16	relativeHumidity	88.06	19:05:23.500000
+2018-04-16	relativeHumidity	87.45	19:25:23.496000
+2018-04-16	relativeHumidity	86.89	19:40:23.546000
+2018-04-17	relativeHumidity	98.28	03:00:24.842000
+2018-04-17	relativeHumidity	97.7	06:10:26.218000
+2018-04-17	relativeHumidity	88.42	06:35:24.723000
+2018-04-17	relativeHumidity	74.65	07:25:24.719000
+2018-04-17	relativeHumidity	72.74	07:40:24.841000
+2018-04-17	relativeHumidity	60.04	08:15:24.850000
+2018-04-17	relativeHumidity	54.38	09:40:25.020000
+2018-04-17	relativeHumidity	95.01	22:20:26.377000
+2018-04-17	relativeHumidity	95.28	22:30:26.324000
+2018-04-17	relativeHumidity	97.21	23:05:26.347000
+2018-04-17	relativeHumidity	97.83	23:20:26.574000
+2018-04-17	relativeHumidity	98.79	23:45:26.512000
+2018-04-18	relativeHumidity	91.32	06:30:27.326000
+2018-04-18	relativeHumidity	88.56	06:35:27.312000
+2018-04-18	relativeHumidity	84.08	07:00:27.234000
+2018-04-18	relativeHumidity	69.87	08:25:27.347000
+2018-04-18	relativeHumidity	70.73	08:50:27.606000
+2018-04-18	relativeHumidity	66.78	10:15:27.534000
+2018-04-18	relativeHumidity	70.46	10:25:27.566000
+2018-04-18	relativeHumidity	80.16	11:05:27.648000
+2018-04-18	relativeHumidity	83.01	11:20:27.705000
+2018-04-18	relativeHumidity	81.93	11:25:27.698000
+2018-04-18	relativeHumidity	83.21	11:55:27.781000
+2018-04-18	relativeHumidity	59.18	16:50:28.918000
+2018-04-18	relativeHumidity	69.12	20:00:28.652000
+2018-04-18	relativeHumidity	70.16	20:15:28.651000
+2018-04-18	relativeHumidity	75	20:20:28.653000
+2018-04-18	relativeHumidity	81.33	21:05:28.660000
+2018-04-18	relativeHumidity	73.07	21:30:28.717000
+2018-04-18	relativeHumidity	73.33	21:35:28.795000
+2018-04-18	relativeHumidity	83.66	22:05:29.016000
+2018-04-18	relativeHumidity	88.78	22:15:29.400000
+2018-04-19	relativeHumidity	92.11	01:25:29.222000
+2018-04-19	relativeHumidity	91.97	01:30:29.290000
+2018-04-19	relativeHumidity	93.28	05:55:29.213000
+2018-04-19	relativeHumidity	89.25	06:25:29.762000
+2018-04-19	relativeHumidity	88.92	06:30:29.725000
+2018-04-19	relativeHumidity	76.08	07:05:30.520000
+2018-04-19	relativeHumidity	90.05	18:55:30.969000
+2018-04-19	relativeHumidity	91.26	19:05:31.232000
+2018-04-19	relativeHumidity	94.77	23:55:31.634000
+2018-04-20	relativeHumidity	94.64	00:10:31.527000
+2018-04-20	relativeHumidity	94.58	02:00:31.731000
+2018-04-20	relativeHumidity	92.68	03:40:32
+2018-04-20	relativeHumidity	94.15	06:30:32.278000
+2018-04-20	relativeHumidity	66.03	16:50:33.338000
+2018-04-20	relativeHumidity	66.6	17:10:33.352000
+2018-04-20	relativeHumidity	65.45	17:40:33.446000
+2018-04-20	relativeHumidity	71.38	21:35:33.909000
+2018-04-20	relativeHumidity	85.94	23:25:33.955000
+2018-04-21	relativeHumidity	94.42	03:15:34.405000
+2018-04-21	relativeHumidity	89.42	03:50:34.502000
+2018-04-21	relativeHumidity	71.06	15:40:35.762000
+2018-04-21	relativeHumidity	88.12	17:45:36.215000
+2018-04-21	relativeHumidity	80.53	23:25:36.574000
+2018-04-22	relativeHumidity	89.34	01:10:37.172000
+2018-04-22	relativeHumidity	96.44	02:35:36.807000
+2018-04-22	relativeHumidity	97.43	03:00:37.217000
+2018-04-22	relativeHumidity	96.89	03:30:47.615000
+2018-04-22	relativeHumidity	83.29	04:40:37.074000
+2018-04-22	relativeHumidity	84.45	05:10:37.163000
+2018-04-22	relativeHumidity	69	06:55:37.325000
+2018-04-22	relativeHumidity	55.41	10:55:37.684000
+2018-04-22	relativeHumidity	84.56	16:35:39.170000
+2018-04-22	relativeHumidity	88.06	16:50:38.272000
+2018-04-22	relativeHumidity	89.11	17:00:38.380000
+2018-04-22	relativeHumidity	90.22	17:05:38.440000
+2018-04-22	relativeHumidity	90.33	17:15:38.433000
+2018-04-22	relativeHumidity	93.96	18:25:38.612000
+2018-04-22	relativeHumidity	96.95	20:10:38.816000
+2018-04-23	relativeHumidity	95.88	03:00:39.508000
+2018-04-23	relativeHumidity	95.69	03:15:39.410000
+2018-04-23	relativeHumidity	95.23	04:55:39.550000
+2018-04-23	relativeHumidity	92.08	14:25:40.588000
+2018-04-23	relativeHumidity	91.62	14:40:40.594000
+2018-04-23	relativeHumidity	90.66	14:45:40.687000
+2018-04-23	relativeHumidity	90.38	14:55:40.708000
+2018-04-23	relativeHumidity	89.83	15:00:40.615000
+2018-04-23	relativeHumidity	95.66	23:35:41.533000
+2018-04-23	relativeHumidity	95.39	23:45:41.618000
+2018-04-24	relativeHumidity	95.12	00:20:42.132000
+2018-04-24	relativeHumidity	95.04	01:20:41.715000
+2018-04-24	relativeHumidity	95.26	01:30:42.354000
+2018-04-24	relativeHumidity	95.34	01:45:41.798000
+2018-04-24	relativeHumidity	95.66	02:30:41.848000
+2018-04-24	relativeHumidity	95.63	02:55:42.596000
+2018-04-24	relativeHumidity	95.82	03:20:41.909000
+2018-04-24	relativeHumidity	97.11	04:50:42.433000
+2018-04-24	relativeHumidity	83.07	13:30:43.051000
+2018-04-24	relativeHumidity	86.44	14:30:43.495000
+2018-04-24	relativeHumidity	97	19:35:43.652000
+2018-04-24	relativeHumidity	96.92	20:25:43.824000
+2018-04-24	relativeHumidity	98.09	20:40:43.784000
+2018-04-24	relativeHumidity	96.39	21:10:43.843000
+2018-04-24	relativeHumidity	95.79	21:40:43.908000
+2018-04-24	relativeHumidity	94.04	23:25:44.110000
+2018-04-25	relativeHumidity	98.73	01:20:44.287000

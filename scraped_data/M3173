@@ -1,196 +1,196 @@
-date	attribute	attrValue	attribute	time
-2017-07-06	chemicalAgentAtmosphericConcentration:airParticles	0.58	chemicalAgentAtmosphericConcentration:airParticles	17:48:35.102000
-2017-07-27	chemicalAgentAtmosphericConcentration:airParticles	0.73	chemicalAgentAtmosphericConcentration:airParticles	04:49:32.253000
-2017-07-29	chemicalAgentAtmosphericConcentration:airParticles	0.7	chemicalAgentAtmosphericConcentration:airParticles	23:04:39.097000
-2017-07-30	chemicalAgentAtmosphericConcentration:airParticles	0.99	chemicalAgentAtmosphericConcentration:airParticles	03:29:39.576000
-2017-07-31	chemicalAgentAtmosphericConcentration:airParticles	0.75	chemicalAgentAtmosphericConcentration:airParticles	03:34:42.077000
-2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.74	chemicalAgentAtmosphericConcentration:airParticles	00:35:42.872000
-2017-08-28	chemicalAgentAtmosphericConcentration:airParticles	0.8	chemicalAgentAtmosphericConcentration:airParticles	23:05:55.386000
-2017-09-04	chemicalAgentAtmosphericConcentration:airParticles	0.63	chemicalAgentAtmosphericConcentration:airParticles	04:31:11.132000
-2017-09-07	chemicalAgentAtmosphericConcentration:airParticles	0.76	chemicalAgentAtmosphericConcentration:airParticles	17:51:20.206000
-2017-09-29	chemicalAgentAtmosphericConcentration:airParticles	0.68	chemicalAgentAtmosphericConcentration:airParticles	09:22:12.148000
-2017-10-04	chemicalAgentAtmosphericConcentration:airParticles	0.68	chemicalAgentAtmosphericConcentration:airParticles	16:42:24.710000
-2017-10-09	chemicalAgentAtmosphericConcentration:airParticles	0.81	chemicalAgentAtmosphericConcentration:airParticles	17:57:36.620000
-2017-10-11	chemicalAgentAtmosphericConcentration:airParticles	0.49	chemicalAgentAtmosphericConcentration:airParticles	12:02:41.733000
-2017-10-20	chemicalAgentAtmosphericConcentration:airParticles	0.65	chemicalAgentAtmosphericConcentration:airParticles	16:38:02.354000
-2017-10-26	chemicalAgentAtmosphericConcentration:airParticles	0.84	chemicalAgentAtmosphericConcentration:airParticles	17:08:16.662000
-2017-10-28	chemicalAgentAtmosphericConcentration:airParticles	0.88	chemicalAgentAtmosphericConcentration:airParticles	09:18:20.612000
-2017-07-06	relativeHumidity	31	relativeHumidity	17:48:35.102000
-2017-09-07	relativeHumidity	34	relativeHumidity	17:51:20.206000
-2017-09-15	relativeHumidity	45	relativeHumidity	09:51:38.168000
-2017-09-15	relativeHumidity	49	relativeHumidity	12:06:40.209000
-2017-09-21	relativeHumidity	29	relativeHumidity	11:46:53.414000
-2017-10-21	relativeHumidity	41	relativeHumidity	07:03:03.758000
-2017-10-28	relativeHumidity	41	relativeHumidity	09:18:20.611000
-2017-07-06	temperature:ambient	37.9	temperature:ambient	17:48:35.103000
-2017-07-29	temperature:ambient	37.2	temperature:ambient	23:04:39.096000
-2017-09-07	temperature:ambient	32.2	temperature:ambient	17:51:20.207000
-2017-09-15	temperature:ambient	28.1	temperature:ambient	09:36:37.934000
-2017-09-29	temperature:ambient	35.1	temperature:ambient	09:22:12.148000
-2017-10-09	temperature:ambient	31.4	temperature:ambient	17:57:36.620000
-2017-10-21	temperature:ambient	30.2	temperature:ambient	07:03:03.758000
-2017-10-28	temperature:ambient	26	temperature:ambient	09:18:20.611000
-2017-10-28	temperature:ambient	32	temperature:ambient	10:18:20.715000
-2017-07-06	chemicalAgentAtmosphericConcentration:O3	38	chemicalAgentAtmosphericConcentration:O3	17:48:35.104000
-2017-07-29	chemicalAgentAtmosphericConcentration:O3	37	chemicalAgentAtmosphericConcentration:O3	23:04:39.096000
-2017-09-07	chemicalAgentAtmosphericConcentration:O3	50	chemicalAgentAtmosphericConcentration:O3	17:51:20.207000
-2017-09-28	chemicalAgentAtmosphericConcentration:O3	31	chemicalAgentAtmosphericConcentration:O3	16:52:11.541000
-2017-10-09	chemicalAgentAtmosphericConcentration:O3	56	chemicalAgentAtmosphericConcentration:O3	17:57:36.621000
-2017-10-28	chemicalAgentAtmosphericConcentration:O3	58	chemicalAgentAtmosphericConcentration:O3	09:18:20.612000
-2017-10-28	chemicalAgentAtmosphericConcentration:O3	49	chemicalAgentAtmosphericConcentration:O3	10:18:20.717000
-2017-07-06	position:altitude	10	position:altitude	17:48:35.105000
-2017-07-29	position:altitude	17	position:altitude	23:04:39.097000
-2017-09-07	position:altitude	20	position:altitude	17:51:20.206000
-2017-09-29	position:altitude	41	position:altitude	09:22:12.149000
-2017-10-09	position:altitude	32	position:altitude	17:57:36.621000
-2017-10-21	position:altitude	22	position:altitude	07:03:03.759000
-2017-10-28	position:altitude	-3	position:altitude	09:18:20.613000
-2017-10-28	position:altitude	51	position:altitude	10:18:20.714000
-2017-07-07	mileage:total	27843	mileage:total	22:03:38.314000
-2017-07-26	mileage:total	31505	mileage:total	02:44:30.381000
-2017-07-27	mileage:total	31613	mileage:total	01:54:32.818000
-2017-07-27	mileage:total	31620	mileage:total	01:59:32.529000
-2017-07-27	mileage:total	31629	mileage:total	02:04:32.542000
-2017-07-27	mileage:total	31656	mileage:total	03:19:32.906000
-2017-08-02	mileage:total	32995	mileage:total	22:54:49.684000
-2017-08-02	mileage:total	33006	mileage:total	23:39:49.132000
-2017-08-02	mileage:total	33007	mileage:total	23:44:49.608000
-2017-08-03	mileage:total	33025	mileage:total	00:49:49.409000
-2017-08-03	mileage:total	33027	mileage:total	00:54:49.666000
-2017-08-03	mileage:total	33033	mileage:total	01:04:50.262000
-2017-08-03	mileage:total	33059	mileage:total	02:14:49.886000
-2017-08-03	mileage:total	33063	mileage:total	02:19:49.998000
-2017-08-03	mileage:total	33067	mileage:total	02:24:49.868000
-2017-08-03	mileage:total	33091	mileage:total	02:54:50.072000
-2017-08-03	mileage:total	33094	mileage:total	02:59:50.204000
-2017-08-03	mileage:total	33095	mileage:total	03:04:50.243000
-2017-08-03	mileage:total	33099	mileage:total	03:09:50.317000
-2017-08-03	mileage:total	33110	mileage:total	03:14:49.645000
-2017-08-03	mileage:total	33119	mileage:total	03:19:49.768000
-2017-08-04	mileage:total	33272	mileage:total	02:49:52.897000
-2017-08-10	mileage:total	34365	mileage:total	02:00:07.056000
-2017-08-11	mileage:total	34527	mileage:total	02:50:10.193000
-2017-08-19	mileage:total	35583	mileage:total	04:30:30.359000
-2017-08-21	mileage:total	35874	mileage:total	01:55:35.806000
-2017-08-21	mileage:total	35902	mileage:total	03:45:34.751000
-2017-08-21	mileage:total	35912	mileage:total	04:30:35.769000
-2017-08-22	mileage:total	36084	mileage:total	01:00:38.414000
-2017-08-22	mileage:total	36111	mileage:total	02:20:37.498000
-2017-08-23	mileage:total	36240	mileage:total	01:30:39.618000
-2017-08-23	mileage:total	36244	mileage:total	01:45:40.214000
-2017-08-29	mileage:total	36908	mileage:total	01:55:54.853000
-2017-08-30	mileage:total	37052	mileage:total	01:25:59.118000
-2017-08-30	mileage:total	37088	mileage:total	03:10:58.334000
-2017-09-05	mileage:total	38210	mileage:total	22:01:14.873000
-2017-09-05	mileage:total	38215	mileage:total	22:06:15.402000
-2017-09-05	mileage:total	38218	mileage:total	22:11:15.558000
-2017-09-07	mileage:total	38529	mileage:total	22:56:20.887000
-2017-09-07	mileage:total	38538	mileage:total	23:16:21.348000
-2017-10-04	mileage:total	41611	mileage:total	16:42:24.710000
-2017-10-09	mileage:total	42238	mileage:total	17:57:36.620000
-2017-10-10	mileage:total	42502	mileage:total	21:57:38.654000
-2017-10-11	mileage:total	42845	mileage:total	22:47:41.734000
-2017-10-14	mileage:total	43068	mileage:total	23:12:48.834000
-2017-10-14	mileage:total	43071	mileage:total	23:22:48.846000
-2017-10-23	mileage:total	44084	mileage:total	18:48:09.677000
-2017-10-28	mileage:total	44756	mileage:total	09:18:20.611000
-2017-07-26	direction:heading	98	direction:heading	00:54:29.751000
-2017-07-26	direction:heading	226	direction:heading	02:44:30.385000
-2017-07-27	direction:heading	171	direction:heading	01:54:32.819000
-2017-07-27	direction:heading	75	direction:heading	01:59:32.530000
-2017-07-27	direction:heading	205	direction:heading	02:04:32.547000
-2017-07-27	direction:heading	39	direction:heading	03:19:32.907000
-2017-07-31	direction:heading	164	direction:heading	00:04:41.793000
-2017-07-31	direction:heading	343	direction:heading	03:04:42.871000
-2017-08-03	direction:heading	103	direction:heading	00:49:49.409000
-2017-08-03	direction:heading	263	direction:heading	00:54:49.667000
-2017-08-03	direction:heading	251	direction:heading	01:04:50.265000
-2017-08-03	direction:heading	117	direction:heading	02:14:49.886000
-2017-08-03	direction:heading	74	direction:heading	02:19:49.998000
-2017-08-03	direction:heading	9	direction:heading	02:24:49.869000
-2017-08-03	direction:heading	57	direction:heading	02:54:50.072000
-2017-08-03	direction:heading	357	direction:heading	02:59:50.206000
-2017-08-03	direction:heading	0	direction:heading	03:04:50.242000
-2017-08-03	direction:heading	207	direction:heading	03:09:50.318000
-2017-08-03	direction:heading	234	direction:heading	03:14:49.646000
-2017-08-03	direction:heading	212	direction:heading	03:19:49.768000
-2017-08-03	direction:heading	222	direction:heading	03:24:50.392000
-2017-08-11	direction:heading	0	direction:heading	02:50:10.194000
-2017-08-15	direction:heading	66	direction:heading	04:10:19.917000
-2017-08-19	direction:heading	56	direction:heading	04:30:30.359000
-2017-08-21	direction:heading	50	direction:heading	03:00:36.171000
-2017-08-21	direction:heading	110	direction:heading	03:40:35.925000
-2017-08-21	direction:heading	150	direction:heading	04:15:35.492000
-2017-08-22	direction:heading	0	direction:heading	00:25:37.024000
-2017-08-22	direction:heading	179	direction:heading	02:20:37.498000
-2017-08-23	direction:heading	56	direction:heading	01:30:39.618000
-2017-08-23	direction:heading	222	direction:heading	01:45:40.215000
-2017-08-28	direction:heading	44	direction:heading	23:05:55.387000
-2017-08-28	direction:heading	53	direction:heading	23:10:55.387000
-2017-08-29	direction:heading	249	direction:heading	01:55:54.854000
-2017-08-30	direction:heading	0	direction:heading	01:25:59.119000
-2017-08-30	direction:heading	0	direction:heading	03:10:58.335000
-2017-09-05	direction:heading	268	direction:heading	21:51:16.543000
-2017-09-05	direction:heading	245	direction:heading	22:16:15.339000
-2017-09-18	direction:heading	0	direction:heading	12:01:46.321000
-2017-10-04	direction:heading	293	direction:heading	16:42:24.709000
-2017-10-09	direction:heading	0	direction:heading	17:57:36.619000
-2017-10-10	direction:heading	212	direction:heading	21:57:38.654000
-2017-10-14	direction:heading	251	direction:heading	23:07:48.886000
-2017-10-14	direction:heading	239	direction:heading	23:12:48.833000
-2017-10-14	direction:heading	0	direction:heading	23:22:48.846000
-2017-10-23	direction:heading	0	direction:heading	18:48:09.677000
-2017-10-28	direction:heading	0	direction:heading	09:18:20.611000
-2017-10-28	direction:heading	80	direction:heading	10:18:20.716000
-2017-07-26	speed:instantaneous	10	speed:instantaneous	00:54:29.756000
-2017-07-26	speed:instantaneous	122	speed:instantaneous	02:44:30.386000
-2017-07-27	speed:instantaneous	108	speed:instantaneous	01:54:32.821000
-2017-07-27	speed:instantaneous	123	speed:instantaneous	01:59:32.530000
-2017-07-27	speed:instantaneous	17	speed:instantaneous	02:04:32.549000
-2017-07-27	speed:instantaneous	68	speed:instantaneous	03:19:32.907000
-2017-07-31	speed:instantaneous	108	speed:instantaneous	00:04:41.791000
-2017-07-31	speed:instantaneous	4	speed:instantaneous	03:04:42.875000
-2017-08-03	speed:instantaneous	33	speed:instantaneous	00:49:49.412000
-2017-08-03	speed:instantaneous	24	speed:instantaneous	00:54:49.666000
-2017-08-03	speed:instantaneous	67	speed:instantaneous	01:04:50.264000
-2017-08-03	speed:instantaneous	40	speed:instantaneous	02:14:49.888000
-2017-08-03	speed:instantaneous	59	speed:instantaneous	02:19:49.999000
-2017-08-03	speed:instantaneous	69	speed:instantaneous	02:24:49.874000
-2017-08-03	speed:instantaneous	68	speed:instantaneous	02:54:50.072000
-2017-08-03	speed:instantaneous	15	speed:instantaneous	02:59:50.208000
-2017-08-03	speed:instantaneous	0	speed:instantaneous	03:04:50.242000
-2017-08-03	speed:instantaneous	72	speed:instantaneous	03:09:50.318000
-2017-08-03	speed:instantaneous	117	speed:instantaneous	03:14:49.645000
-2017-08-03	speed:instantaneous	77	speed:instantaneous	03:19:49.769000
-2017-08-03	speed:instantaneous	45	speed:instantaneous	03:24:50.392000
-2017-08-11	speed:instantaneous	0	speed:instantaneous	02:50:10.194000
-2017-08-15	speed:instantaneous	8	speed:instantaneous	04:10:19.917000
-2017-08-19	speed:instantaneous	76	speed:instantaneous	04:30:30.360000
-2017-08-21	speed:instantaneous	9	speed:instantaneous	03:00:36.172000
-2017-08-21	speed:instantaneous	7	speed:instantaneous	03:40:35.926000
-2017-08-21	speed:instantaneous	36	speed:instantaneous	04:15:35.493000
-2017-08-22	speed:instantaneous	0	speed:instantaneous	00:25:37.027000
-2017-08-22	speed:instantaneous	38	speed:instantaneous	02:20:37.498000
-2017-08-23	speed:instantaneous	17	speed:instantaneous	01:30:39.619000
-2017-08-23	speed:instantaneous	49	speed:instantaneous	01:45:40.216000
-2017-08-28	speed:instantaneous	47	speed:instantaneous	23:05:55.387000
-2017-08-28	speed:instantaneous	38	speed:instantaneous	23:10:55.388000
-2017-08-30	speed:instantaneous	0	speed:instantaneous	01:25:59.118000
-2017-08-30	speed:instantaneous	0	speed:instantaneous	03:10:58.335000
-2017-09-05	speed:instantaneous	10	speed:instantaneous	21:51:16.543000
-2017-09-05	speed:instantaneous	108	speed:instantaneous	22:16:15.339000
-2017-09-18	speed:instantaneous	0	speed:instantaneous	12:01:46.319000
-2017-10-04	speed:instantaneous	25	speed:instantaneous	16:42:24.712000
-2017-10-09	speed:instantaneous	0	speed:instantaneous	17:57:36.622000
-2017-10-10	speed:instantaneous	123	speed:instantaneous	21:57:38.656000
-2017-10-14	speed:instantaneous	38	speed:instantaneous	23:12:48.831000
-2017-10-14	speed:instantaneous	0	speed:instantaneous	23:22:48.846000
-2017-10-23	speed:instantaneous	0	speed:instantaneous	18:48:09.677000
-2017-10-28	speed:instantaneous	0	speed:instantaneous	09:18:20.611000
-2017-10-28	speed:instantaneous	14	speed:instantaneous	10:18:20.714000
-2017-08-09	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	22:30:06.617000
-2017-08-10	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	15:00:09.360000
-2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	02:50:10.193000
-2017-08-12	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	03:45:12.540000
-2017-09-01	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	02:11:03.335000
-2017-10-25	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	19:13:14.470000
+date	attribute	attrValue	time
+2017-07-06	chemicalAgentAtmosphericConcentration:airParticles	0.58	17:48:35.102000
+2017-07-27	chemicalAgentAtmosphericConcentration:airParticles	0.73	04:49:32.253000
+2017-07-29	chemicalAgentAtmosphericConcentration:airParticles	0.7	23:04:39.097000
+2017-07-30	chemicalAgentAtmosphericConcentration:airParticles	0.99	03:29:39.576000
+2017-07-31	chemicalAgentAtmosphericConcentration:airParticles	0.75	03:34:42.077000
+2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.74	00:35:42.872000
+2017-08-28	chemicalAgentAtmosphericConcentration:airParticles	0.8	23:05:55.386000
+2017-09-04	chemicalAgentAtmosphericConcentration:airParticles	0.63	04:31:11.132000
+2017-09-07	chemicalAgentAtmosphericConcentration:airParticles	0.76	17:51:20.206000
+2017-09-29	chemicalAgentAtmosphericConcentration:airParticles	0.68	09:22:12.148000
+2017-10-04	chemicalAgentAtmosphericConcentration:airParticles	0.68	16:42:24.710000
+2017-10-09	chemicalAgentAtmosphericConcentration:airParticles	0.81	17:57:36.620000
+2017-10-11	chemicalAgentAtmosphericConcentration:airParticles	0.49	12:02:41.733000
+2017-10-20	chemicalAgentAtmosphericConcentration:airParticles	0.65	16:38:02.354000
+2017-10-26	chemicalAgentAtmosphericConcentration:airParticles	0.84	17:08:16.662000
+2017-10-28	chemicalAgentAtmosphericConcentration:airParticles	0.88	09:18:20.612000
+2017-07-06	relativeHumidity	31	17:48:35.102000
+2017-09-07	relativeHumidity	34	17:51:20.206000
+2017-09-15	relativeHumidity	45	09:51:38.168000
+2017-09-15	relativeHumidity	49	12:06:40.209000
+2017-09-21	relativeHumidity	29	11:46:53.414000
+2017-10-21	relativeHumidity	41	07:03:03.758000
+2017-10-28	relativeHumidity	41	09:18:20.611000
+2017-07-06	temperature:ambient	37.9	17:48:35.103000
+2017-07-29	temperature:ambient	37.2	23:04:39.096000
+2017-09-07	temperature:ambient	32.2	17:51:20.207000
+2017-09-15	temperature:ambient	28.1	09:36:37.934000
+2017-09-29	temperature:ambient	35.1	09:22:12.148000
+2017-10-09	temperature:ambient	31.4	17:57:36.620000
+2017-10-21	temperature:ambient	30.2	07:03:03.758000
+2017-10-28	temperature:ambient	26	09:18:20.611000
+2017-10-28	temperature:ambient	32	10:18:20.715000
+2017-07-06	chemicalAgentAtmosphericConcentration:O3	38	17:48:35.104000
+2017-07-29	chemicalAgentAtmosphericConcentration:O3	37	23:04:39.096000
+2017-09-07	chemicalAgentAtmosphericConcentration:O3	50	17:51:20.207000
+2017-09-28	chemicalAgentAtmosphericConcentration:O3	31	16:52:11.541000
+2017-10-09	chemicalAgentAtmosphericConcentration:O3	56	17:57:36.621000
+2017-10-28	chemicalAgentAtmosphericConcentration:O3	58	09:18:20.612000
+2017-10-28	chemicalAgentAtmosphericConcentration:O3	49	10:18:20.717000
+2017-07-06	position:altitude	10	17:48:35.105000
+2017-07-29	position:altitude	17	23:04:39.097000
+2017-09-07	position:altitude	20	17:51:20.206000
+2017-09-29	position:altitude	41	09:22:12.149000
+2017-10-09	position:altitude	32	17:57:36.621000
+2017-10-21	position:altitude	22	07:03:03.759000
+2017-10-28	position:altitude	-3	09:18:20.613000
+2017-10-28	position:altitude	51	10:18:20.714000
+2017-07-07	mileage:total	27843	22:03:38.314000
+2017-07-26	mileage:total	31505	02:44:30.381000
+2017-07-27	mileage:total	31613	01:54:32.818000
+2017-07-27	mileage:total	31620	01:59:32.529000
+2017-07-27	mileage:total	31629	02:04:32.542000
+2017-07-27	mileage:total	31656	03:19:32.906000
+2017-08-02	mileage:total	32995	22:54:49.684000
+2017-08-02	mileage:total	33006	23:39:49.132000
+2017-08-02	mileage:total	33007	23:44:49.608000
+2017-08-03	mileage:total	33025	00:49:49.409000
+2017-08-03	mileage:total	33027	00:54:49.666000
+2017-08-03	mileage:total	33033	01:04:50.262000
+2017-08-03	mileage:total	33059	02:14:49.886000
+2017-08-03	mileage:total	33063	02:19:49.998000
+2017-08-03	mileage:total	33067	02:24:49.868000
+2017-08-03	mileage:total	33091	02:54:50.072000
+2017-08-03	mileage:total	33094	02:59:50.204000
+2017-08-03	mileage:total	33095	03:04:50.243000
+2017-08-03	mileage:total	33099	03:09:50.317000
+2017-08-03	mileage:total	33110	03:14:49.645000
+2017-08-03	mileage:total	33119	03:19:49.768000
+2017-08-04	mileage:total	33272	02:49:52.897000
+2017-08-10	mileage:total	34365	02:00:07.056000
+2017-08-11	mileage:total	34527	02:50:10.193000
+2017-08-19	mileage:total	35583	04:30:30.359000
+2017-08-21	mileage:total	35874	01:55:35.806000
+2017-08-21	mileage:total	35902	03:45:34.751000
+2017-08-21	mileage:total	35912	04:30:35.769000
+2017-08-22	mileage:total	36084	01:00:38.414000
+2017-08-22	mileage:total	36111	02:20:37.498000
+2017-08-23	mileage:total	36240	01:30:39.618000
+2017-08-23	mileage:total	36244	01:45:40.214000
+2017-08-29	mileage:total	36908	01:55:54.853000
+2017-08-30	mileage:total	37052	01:25:59.118000
+2017-08-30	mileage:total	37088	03:10:58.334000
+2017-09-05	mileage:total	38210	22:01:14.873000
+2017-09-05	mileage:total	38215	22:06:15.402000
+2017-09-05	mileage:total	38218	22:11:15.558000
+2017-09-07	mileage:total	38529	22:56:20.887000
+2017-09-07	mileage:total	38538	23:16:21.348000
+2017-10-04	mileage:total	41611	16:42:24.710000
+2017-10-09	mileage:total	42238	17:57:36.620000
+2017-10-10	mileage:total	42502	21:57:38.654000
+2017-10-11	mileage:total	42845	22:47:41.734000
+2017-10-14	mileage:total	43068	23:12:48.834000
+2017-10-14	mileage:total	43071	23:22:48.846000
+2017-10-23	mileage:total	44084	18:48:09.677000
+2017-10-28	mileage:total	44756	09:18:20.611000
+2017-07-26	direction:heading	98	00:54:29.751000
+2017-07-26	direction:heading	226	02:44:30.385000
+2017-07-27	direction:heading	171	01:54:32.819000
+2017-07-27	direction:heading	75	01:59:32.530000
+2017-07-27	direction:heading	205	02:04:32.547000
+2017-07-27	direction:heading	39	03:19:32.907000
+2017-07-31	direction:heading	164	00:04:41.793000
+2017-07-31	direction:heading	343	03:04:42.871000
+2017-08-03	direction:heading	103	00:49:49.409000
+2017-08-03	direction:heading	263	00:54:49.667000
+2017-08-03	direction:heading	251	01:04:50.265000
+2017-08-03	direction:heading	117	02:14:49.886000
+2017-08-03	direction:heading	74	02:19:49.998000
+2017-08-03	direction:heading	9	02:24:49.869000
+2017-08-03	direction:heading	57	02:54:50.072000
+2017-08-03	direction:heading	357	02:59:50.206000
+2017-08-03	direction:heading	0	03:04:50.242000
+2017-08-03	direction:heading	207	03:09:50.318000
+2017-08-03	direction:heading	234	03:14:49.646000
+2017-08-03	direction:heading	212	03:19:49.768000
+2017-08-03	direction:heading	222	03:24:50.392000
+2017-08-11	direction:heading	0	02:50:10.194000
+2017-08-15	direction:heading	66	04:10:19.917000
+2017-08-19	direction:heading	56	04:30:30.359000
+2017-08-21	direction:heading	50	03:00:36.171000
+2017-08-21	direction:heading	110	03:40:35.925000
+2017-08-21	direction:heading	150	04:15:35.492000
+2017-08-22	direction:heading	0	00:25:37.024000
+2017-08-22	direction:heading	179	02:20:37.498000
+2017-08-23	direction:heading	56	01:30:39.618000
+2017-08-23	direction:heading	222	01:45:40.215000
+2017-08-28	direction:heading	44	23:05:55.387000
+2017-08-28	direction:heading	53	23:10:55.387000
+2017-08-29	direction:heading	249	01:55:54.854000
+2017-08-30	direction:heading	0	01:25:59.119000
+2017-08-30	direction:heading	0	03:10:58.335000
+2017-09-05	direction:heading	268	21:51:16.543000
+2017-09-05	direction:heading	245	22:16:15.339000
+2017-09-18	direction:heading	0	12:01:46.321000
+2017-10-04	direction:heading	293	16:42:24.709000
+2017-10-09	direction:heading	0	17:57:36.619000
+2017-10-10	direction:heading	212	21:57:38.654000
+2017-10-14	direction:heading	251	23:07:48.886000
+2017-10-14	direction:heading	239	23:12:48.833000
+2017-10-14	direction:heading	0	23:22:48.846000
+2017-10-23	direction:heading	0	18:48:09.677000
+2017-10-28	direction:heading	0	09:18:20.611000
+2017-10-28	direction:heading	80	10:18:20.716000
+2017-07-26	speed:instantaneous	10	00:54:29.756000
+2017-07-26	speed:instantaneous	122	02:44:30.386000
+2017-07-27	speed:instantaneous	108	01:54:32.821000
+2017-07-27	speed:instantaneous	123	01:59:32.530000
+2017-07-27	speed:instantaneous	17	02:04:32.549000
+2017-07-27	speed:instantaneous	68	03:19:32.907000
+2017-07-31	speed:instantaneous	108	00:04:41.791000
+2017-07-31	speed:instantaneous	4	03:04:42.875000
+2017-08-03	speed:instantaneous	33	00:49:49.412000
+2017-08-03	speed:instantaneous	24	00:54:49.666000
+2017-08-03	speed:instantaneous	67	01:04:50.264000
+2017-08-03	speed:instantaneous	40	02:14:49.888000
+2017-08-03	speed:instantaneous	59	02:19:49.999000
+2017-08-03	speed:instantaneous	69	02:24:49.874000
+2017-08-03	speed:instantaneous	68	02:54:50.072000
+2017-08-03	speed:instantaneous	15	02:59:50.208000
+2017-08-03	speed:instantaneous	0	03:04:50.242000
+2017-08-03	speed:instantaneous	72	03:09:50.318000
+2017-08-03	speed:instantaneous	117	03:14:49.645000
+2017-08-03	speed:instantaneous	77	03:19:49.769000
+2017-08-03	speed:instantaneous	45	03:24:50.392000
+2017-08-11	speed:instantaneous	0	02:50:10.194000
+2017-08-15	speed:instantaneous	8	04:10:19.917000
+2017-08-19	speed:instantaneous	76	04:30:30.360000
+2017-08-21	speed:instantaneous	9	03:00:36.172000
+2017-08-21	speed:instantaneous	7	03:40:35.926000
+2017-08-21	speed:instantaneous	36	04:15:35.493000
+2017-08-22	speed:instantaneous	0	00:25:37.027000
+2017-08-22	speed:instantaneous	38	02:20:37.498000
+2017-08-23	speed:instantaneous	17	01:30:39.619000
+2017-08-23	speed:instantaneous	49	01:45:40.216000
+2017-08-28	speed:instantaneous	47	23:05:55.387000
+2017-08-28	speed:instantaneous	38	23:10:55.388000
+2017-08-30	speed:instantaneous	0	01:25:59.118000
+2017-08-30	speed:instantaneous	0	03:10:58.335000
+2017-09-05	speed:instantaneous	10	21:51:16.543000
+2017-09-05	speed:instantaneous	108	22:16:15.339000
+2017-09-18	speed:instantaneous	0	12:01:46.319000
+2017-10-04	speed:instantaneous	25	16:42:24.712000
+2017-10-09	speed:instantaneous	0	17:57:36.622000
+2017-10-10	speed:instantaneous	123	21:57:38.656000
+2017-10-14	speed:instantaneous	38	23:12:48.831000
+2017-10-14	speed:instantaneous	0	23:22:48.846000
+2017-10-23	speed:instantaneous	0	18:48:09.677000
+2017-10-28	speed:instantaneous	0	09:18:20.611000
+2017-10-28	speed:instantaneous	14	10:18:20.714000
+2017-08-09	chemicalAgentAtmosphericConcentration:CO	0.1	22:30:06.617000
+2017-08-10	chemicalAgentAtmosphericConcentration:CO	0.1	15:00:09.360000
+2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.2	02:50:10.193000
+2017-08-12	chemicalAgentAtmosphericConcentration:CO	0.2	03:45:12.540000
+2017-09-01	chemicalAgentAtmosphericConcentration:CO	0.2	02:11:03.335000
+2017-10-25	chemicalAgentAtmosphericConcentration:CO	0.1	19:13:14.470000

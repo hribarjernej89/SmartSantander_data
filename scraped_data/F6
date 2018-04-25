@@ -1,300 +1,323 @@
-date	attribute	attrValue	attribute	time
-2018-01-15	temperature:ambient	-48.58	temperature:ambient	09:51:38.033000
-2018-01-15	temperature:ambient	-48.77	temperature:ambient	11:51:38.391000
-2018-01-15	temperature:ambient	-48.9	temperature:ambient	12:01:38.748000
-2018-01-15	temperature:ambient	-48.77	temperature:ambient	12:06:38.052000
-2018-01-15	temperature:ambient	-48.96	temperature:ambient	12:31:38.219000
-2018-01-15	temperature:ambient	-48.96	temperature:ambient	13:06:38.193000
-2018-01-15	temperature:ambient	-48.7	temperature:ambient	13:31:40.099000
-2018-01-15	temperature:ambient	-48.51	temperature:ambient	13:46:38.359000
-2018-01-15	temperature:ambient	-48.32	temperature:ambient	15:01:38.381000
-2018-01-15	temperature:ambient	-48.25	temperature:ambient	16:01:37.905000
-2018-01-15	temperature:ambient	-48.38	temperature:ambient	16:06:37.850000
-2018-01-15	temperature:ambient	-48.25	temperature:ambient	16:11:37.549000
-2018-01-15	temperature:ambient	-47.8	temperature:ambient	20:31:38.142000
-2018-01-15	temperature:ambient	-47.8	temperature:ambient	21:06:38.068000
-2018-01-15	temperature:ambient	-47.8	temperature:ambient	21:16:38.979000
-2018-01-15	temperature:ambient	-47.74	temperature:ambient	22:56:38.230000
-2018-01-15	temperature:ambient	-47.48	temperature:ambient	23:21:38.249000
-2018-01-15	temperature:ambient	-47.41	temperature:ambient	23:26:38.254000
-2018-01-16	temperature:ambient	-46.38	temperature:ambient	00:46:38.402000
-2018-01-16	temperature:ambient	-46	temperature:ambient	08:11:39.171000
-2018-01-16	temperature:ambient	-46.64	temperature:ambient	08:16:39.213000
-2018-01-16	temperature:ambient	-46.83	temperature:ambient	08:31:40.124000
-2018-01-16	temperature:ambient	-46.38	temperature:ambient	08:56:39.097000
-2018-01-16	temperature:ambient	-50	temperature:ambient	09:01:39.403000
-2018-01-16	temperature:ambient	-46.58	temperature:ambient	09:11:38.936000
-2018-01-16	temperature:ambient	-45.54	temperature:ambient	09:16:39.882000
-2018-01-16	temperature:ambient	-45.8	temperature:ambient	09:56:39.755000
-2018-01-16	temperature:ambient	-45.87	temperature:ambient	10:06:39.698000
-2018-01-16	temperature:ambient	-46.77	temperature:ambient	10:16:39.149000
-2018-01-16	temperature:ambient	-46.64	temperature:ambient	10:21:39.900000
-2018-01-16	temperature:ambient	-48.45	temperature:ambient	10:56:39.495000
-2018-01-16	temperature:ambient	-46.45	temperature:ambient	11:36:40.545000
-2018-01-16	temperature:ambient	-46.38	temperature:ambient	11:51:40.547000
-2018-01-16	temperature:ambient	-46.77	temperature:ambient	12:56:39.620000
-2018-01-16	temperature:ambient	-46.83	temperature:ambient	13:31:40.291000
-2018-01-16	temperature:ambient	-47.29	temperature:ambient	14:01:40.345000
-2018-01-16	temperature:ambient	-47.61	temperature:ambient	14:26:40.440000
-2018-01-16	temperature:ambient	-46.19	temperature:ambient	14:51:40.611000
-2018-01-16	temperature:ambient	-47.03	temperature:ambient	15:31:41.013000
-2018-01-16	temperature:ambient	-48.45	temperature:ambient	16:41:41.706000
-2018-01-16	temperature:ambient	-48.7	temperature:ambient	17:41:41.502000
-2018-01-16	temperature:ambient	-47.67	temperature:ambient	18:26:41.150000
-2018-01-16	temperature:ambient	-48.19	temperature:ambient	19:16:41.575000
-2018-01-16	temperature:ambient	-49.41	temperature:ambient	19:56:41.077000
-2018-01-16	temperature:ambient	-49.41	temperature:ambient	22:06:41.945000
-2018-01-16	temperature:ambient	-47.93	temperature:ambient	22:26:41.657000
-2018-01-16	temperature:ambient	-46.25	temperature:ambient	22:31:42.543000
-2018-01-16	temperature:ambient	-48.51	temperature:ambient	22:56:41.282000
-2018-01-16	temperature:ambient	-48.25	temperature:ambient	23:06:41.932000
-2018-01-17	temperature:ambient	-49.93	temperature:ambient	17:46:43.837000
-2018-01-17	temperature:ambient	-49.87	temperature:ambient	18:06:43.985000
-2018-01-17	temperature:ambient	-49.87	temperature:ambient	18:26:44.025000
-2018-01-17	temperature:ambient	-50	temperature:ambient	19:46:43.705000
-2018-01-17	temperature:ambient	-49.8	temperature:ambient	20:06:43.917000
-2018-01-17	temperature:ambient	-50	temperature:ambient	23:57:01.693000
-2018-01-18	temperature:ambient	-50	temperature:ambient	10:21:46.353000
-2018-01-18	temperature:ambient	-49.8	temperature:ambient	10:36:48.763000
-2018-01-18	temperature:ambient	-50	temperature:ambient	10:56:45.836000
-2018-01-18	temperature:ambient	-49.93	temperature:ambient	12:36:47.862000
-2018-01-18	temperature:ambient	-49.8	temperature:ambient	12:51:46.121000
-2018-01-18	temperature:ambient	-36.45	temperature:ambient	17:11:46.072000
-2018-01-18	temperature:ambient	-34.06	temperature:ambient	17:36:47.382000
-2018-01-18	temperature:ambient	-32.7	temperature:ambient	18:46:46.359000
-2018-01-18	temperature:ambient	-35.74	temperature:ambient	19:36:45.492000
-2018-01-18	temperature:ambient	-31.54	temperature:ambient	19:41:46.273000
-2018-01-18	temperature:ambient	-31.48	temperature:ambient	19:46:46.269000
-2018-01-18	temperature:ambient	-50	temperature:ambient	23:06:46.291000
-2018-01-19	temperature:ambient	-48.32	temperature:ambient	08:41:47.981000
-2018-01-19	temperature:ambient	-42	temperature:ambient	09:16:47.459000
-2018-01-19	temperature:ambient	-40.96	temperature:ambient	09:21:47.938000
-2018-01-19	temperature:ambient	-40.45	temperature:ambient	09:26:47.725000
-2018-01-19	temperature:ambient	-38.06	temperature:ambient	09:41:48.071000
-2018-01-19	temperature:ambient	-32.58	temperature:ambient	10:21:48.371000
-2018-01-19	temperature:ambient	-29.67	temperature:ambient	10:36:47.467000
-2018-01-19	temperature:ambient	-13.61	temperature:ambient	11:41:48.672000
-2018-01-19	temperature:ambient	-37.74	temperature:ambient	12:41:48.134000
-2018-01-19	temperature:ambient	-48.7	temperature:ambient	13:36:50.137000
-2018-01-19	temperature:ambient	-46.12	temperature:ambient	14:01:48.160000
-2018-01-20	temperature:ambient	77.35	temperature:ambient	01:41:50.105000
-2018-01-20	temperature:ambient	56.25	temperature:ambient	01:56:50.508000
-2018-01-20	temperature:ambient	-47.35	temperature:ambient	17:31:53.877000
-2018-01-20	temperature:ambient	-48.32	temperature:ambient	18:56:51.908000
-2018-01-20	temperature:ambient	-47.22	temperature:ambient	19:21:52.004000
-2018-01-20	temperature:ambient	-47.29	temperature:ambient	19:31:51.629000
-2018-01-20	temperature:ambient	-47.8	temperature:ambient	19:46:52.217000
-2018-01-20	temperature:ambient	-48	temperature:ambient	19:51:51.982000
-2018-01-20	temperature:ambient	-50	temperature:ambient	21:46:51.799000
-2018-01-20	temperature:ambient	13.09	temperature:ambient	22:11:52.625000
-2018-01-20	temperature:ambient	-49.54	temperature:ambient	22:31:52.237000
-2018-01-20	temperature:ambient	56.77	temperature:ambient	23:11:52.533000
-2018-01-21	temperature:ambient	-47.48	temperature:ambient	16:11:53.811000
-2018-01-21	temperature:ambient	-49.29	temperature:ambient	17:46:54.077000
-2018-01-21	temperature:ambient	-48.38	temperature:ambient	19:01:54.757000
-2018-01-21	temperature:ambient	-49.67	temperature:ambient	19:31:54.481000
-2018-01-22	temperature:ambient	-29.16	temperature:ambient	06:57:11.362000
-2018-01-22	temperature:ambient	-23.35	temperature:ambient	08:51:55.138000
-2018-01-22	temperature:ambient	-23.8	temperature:ambient	08:56:56.325000
-2018-01-22	temperature:ambient	-50	temperature:ambient	09:46:54.888000
-2018-01-22	temperature:ambient	-49.41	temperature:ambient	12:21:56.460000
-2018-01-22	temperature:ambient	-49.48	temperature:ambient	12:36:55.885000
-2018-01-22	temperature:ambient	-49.35	temperature:ambient	13:51:55.631000
-2018-01-22	temperature:ambient	-49.41	temperature:ambient	13:56:55.577000
-2018-01-22	temperature:ambient	-49.61	temperature:ambient	15:16:56.446000
-2018-01-22	temperature:ambient	-49.41	temperature:ambient	23:21:57.872000
-2018-01-23	temperature:ambient	-46.25	temperature:ambient	00:51:57.024000
-2018-01-23	temperature:ambient	-48.7	temperature:ambient	01:26:56.974000
-2018-01-23	temperature:ambient	-43.8	temperature:ambient	01:36:58.671000
-2018-01-23	temperature:ambient	-42.51	temperature:ambient	09:41:57.440000
-2018-01-23	temperature:ambient	-48.7	temperature:ambient	10:31:57.481000
-2018-01-23	temperature:ambient	-46.83	temperature:ambient	13:36:58.651000
-2018-01-23	temperature:ambient	-46.51	temperature:ambient	13:46:58.937000
-2018-01-23	temperature:ambient	-50	temperature:ambient	13:56:58.854000
-2018-01-23	temperature:ambient	-50	temperature:ambient	17:06:59.417000
-2018-01-24	temperature:ambient	-50	temperature:ambient	09:22:00.690000
-2018-01-24	temperature:ambient	75.54	temperature:ambient	18:37:02.215000
-2018-01-24	temperature:ambient	77.54	temperature:ambient	18:57:01.919000
-2018-01-24	temperature:ambient	73.22	temperature:ambient	19:07:01.727000
-2018-01-24	temperature:ambient	79.48	temperature:ambient	19:22:02.372000
-2018-01-24	temperature:ambient	71.03	temperature:ambient	20:02:02.082000
-2018-01-24	temperature:ambient	75.22	temperature:ambient	20:22:02.154000
-2018-01-30	temperature:ambient	-50	temperature:ambient	10:27:31.987000
-2018-01-31	temperature:ambient	7.16	temperature:ambient	04:12:37.852000
-2018-02-01	temperature:ambient	33.03	temperature:ambient	20:32:22.122000
-2018-02-12	temperature:ambient	-49.35	temperature:ambient	23:23:08.237000
-2018-02-22	temperature:ambient	-50	temperature:ambient	23:28:13.740000
-2018-02-23	temperature:ambient	-48.9	temperature:ambient	01:28:13.843000
-2018-02-23	temperature:ambient	-49.93	temperature:ambient	04:08:14.090000
-2018-02-23	temperature:ambient	-50	temperature:ambient	04:43:14.352000
-2018-02-23	temperature:ambient	-49.67	temperature:ambient	08:58:14.837000
-2018-02-24	temperature:ambient	-44.58	temperature:ambient	00:03:16.411000
-2018-02-24	temperature:ambient	-44.51	temperature:ambient	02:58:16.546000
-2018-02-24	temperature:ambient	-50	temperature:ambient	05:43:16.792000
-2018-02-25	temperature:ambient	-48.64	temperature:ambient	06:18:19.390000
-2018-03-19	temperature:ambient	-36.25	temperature:ambient	22:54:16.558000
-2018-03-19	temperature:ambient	-18.25	temperature:ambient	23:14:16.627000
-2018-03-20	temperature:ambient	-37.03	temperature:ambient	01:09:16.913000
-2018-03-20	temperature:ambient	-43.41	temperature:ambient	08:09:17.559000
-2018-03-20	temperature:ambient	-29.09	temperature:ambient	08:29:17.595000
-2018-03-20	temperature:ambient	-13.22	temperature:ambient	08:59:17.613000
-2018-03-20	temperature:ambient	-44.51	temperature:ambient	10:24:17.793000
-2018-03-20	temperature:ambient	-28.19	temperature:ambient	10:49:18.107000
-2018-03-20	temperature:ambient	-49.41	temperature:ambient	18:39:18.809000
-2018-03-20	temperature:ambient	-49.74	temperature:ambient	19:49:18.699000
-2018-03-20	temperature:ambient	-50	temperature:ambient	19:59:18.750000
-2018-03-20	temperature:ambient	-50	temperature:ambient	20:54:18.838000
-2018-03-20	temperature:ambient	-49.93	temperature:ambient	21:24:19.204000
-2018-03-21	temperature:ambient	-49.87	temperature:ambient	12:09:21.132000
-2018-03-22	temperature:ambient	-49.87	temperature:ambient	00:19:21.716000
-2018-03-23	temperature:ambient	-46.25	temperature:ambient	20:39:26.513000
-2018-03-23	temperature:ambient	-35.54	temperature:ambient	22:49:26.662000
-2018-03-23	temperature:ambient	-26.58	temperature:ambient	23:19:26.788000
-2018-03-24	temperature:ambient	-49.93	temperature:ambient	03:49:27.175000
-2018-03-24	temperature:ambient	-30.7	temperature:ambient	08:39:27.643000
-2018-03-24	temperature:ambient	-24.58	temperature:ambient	09:04:27.761000
-2018-03-24	temperature:ambient	-24.12	temperature:ambient	09:19:27.707000
-2018-03-24	temperature:ambient	-20.32	temperature:ambient	10:14:27.876000
-2018-03-24	temperature:ambient	-19.09	temperature:ambient	10:39:28.252000
-2018-03-24	temperature:ambient	-5.35	temperature:ambient	10:59:28.885000
-2018-03-24	temperature:ambient	-19.09	temperature:ambient	14:14:28.308000
-2018-03-24	temperature:ambient	-26.12	temperature:ambient	16:19:28.454000
-2018-03-24	temperature:ambient	-18.12	temperature:ambient	17:59:28.600000
-2018-03-24	temperature:ambient	-18.7	temperature:ambient	18:04:28.708000
-2018-03-24	temperature:ambient	-18.96	temperature:ambient	18:19:28.633000
-2018-03-24	temperature:ambient	-18.12	temperature:ambient	18:24:28.813000
-2018-03-24	temperature:ambient	-19.16	temperature:ambient	20:24:29.084000
-2018-03-24	temperature:ambient	-19.67	temperature:ambient	21:49:29.219000
-2018-03-24	temperature:ambient	-19.8	temperature:ambient	21:54:29.054000
-2018-03-24	temperature:ambient	-20.06	temperature:ambient	21:59:29.068000
-2018-03-24	temperature:ambient	-20.38	temperature:ambient	22:14:29.104000
-2018-03-24	temperature:ambient	-21.29	temperature:ambient	22:54:29.339000
-2018-03-25	temperature:ambient	10.25	temperature:ambient	05:49:30.067000
-2018-03-25	temperature:ambient	5.35	temperature:ambient	06:04:29.956000
-2018-03-25	temperature:ambient	-15.8	temperature:ambient	06:54:30.057000
-2018-03-28	temperature:ambient	-49.87	temperature:ambient	02:04:37.141000
-2018-03-28	temperature:ambient	-49.87	temperature:ambient	02:24:37.013000
-2018-03-28	temperature:ambient	-49.87	temperature:ambient	04:39:37.382000
-2018-03-28	temperature:ambient	-49.93	temperature:ambient	05:29:37.368000
-2018-03-28	temperature:ambient	-50	temperature:ambient	06:24:37.636000
-2018-03-28	temperature:ambient	-49.87	temperature:ambient	09:29:37.928000
-2018-03-28	temperature:ambient	-30.06	temperature:ambient	21:44:39.073000
-2018-03-28	temperature:ambient	-28.51	temperature:ambient	22:49:39.150000
-2018-03-28	temperature:ambient	-21.67	temperature:ambient	23:29:39.552000
-2018-03-28	temperature:ambient	-21.29	temperature:ambient	23:34:39.274000
-2018-03-28	temperature:ambient	-20.96	temperature:ambient	23:39:39.472000
-2018-03-29	temperature:ambient	-19.22	temperature:ambient	00:04:39.300000
-2018-03-29	temperature:ambient	-20.83	temperature:ambient	02:04:39.539000
-2018-03-29	temperature:ambient	-22.58	temperature:ambient	04:24:39.795000
-2018-03-29	temperature:ambient	-20.25	temperature:ambient	05:34:40.021000
-2018-03-29	temperature:ambient	-49.41	temperature:ambient	08:29:40.141000
-2018-03-29	temperature:ambient	-48.96	temperature:ambient	09:04:40.291000
-2018-03-29	temperature:ambient	-49.48	temperature:ambient	12:49:40.693000
-2018-03-29	temperature:ambient	-49.67	temperature:ambient	13:14:40.778000
-2018-03-29	temperature:ambient	-50	temperature:ambient	14:04:40.814000
-2018-03-29	temperature:ambient	-50	temperature:ambient	14:34:40.856000
-2018-04-02	temperature:ambient	-48.58	temperature:ambient	01:34:49.525000
-2018-04-02	temperature:ambient	-49.87	temperature:ambient	01:39:49.555000
-2018-04-04	temperature:ambient	-35.35	temperature:ambient	00:09:54.399000
-2018-04-04	temperature:ambient	-27.09	temperature:ambient	04:04:54.983000
-2018-04-04	temperature:ambient	-45.16	temperature:ambient	16:49:56.273000
-2018-04-04	temperature:ambient	-44.51	temperature:ambient	17:04:56.225000
-2018-04-05	temperature:ambient	-33.93	temperature:ambient	05:44:57.601000
-2018-04-05	temperature:ambient	-32.96	temperature:ambient	07:09:58.608000
-2018-04-05	temperature:ambient	-25.03	temperature:ambient	08:44:58.144000
-2018-04-05	temperature:ambient	-50	temperature:ambient	21:14:59.272000
-2018-04-06	temperature:ambient	-44.19	temperature:ambient	23:20:02.059000
-2018-04-07	temperature:ambient	-40.9	temperature:ambient	01:15:02.049000
-2018-04-07	temperature:ambient	-40.77	temperature:ambient	01:35:02.008000
-2018-04-07	temperature:ambient	-42.58	temperature:ambient	04:55:02.427000
-2018-04-07	temperature:ambient	-32.9	temperature:ambient	11:20:03.206000
-2018-04-07	temperature:ambient	-33.54	temperature:ambient	14:45:03.772000
-2018-04-07	temperature:ambient	-32.58	temperature:ambient	15:25:03.601000
-2018-04-07	temperature:ambient	-32	temperature:ambient	15:55:03.665000
-2018-04-07	temperature:ambient	-32.9	temperature:ambient	18:00:03.781000
-2018-04-07	temperature:ambient	-32.96	temperature:ambient	18:05:03.825000
-2018-04-07	temperature:ambient	-33.74	temperature:ambient	19:40:04.115000
-2018-04-07	temperature:ambient	-31.41	temperature:ambient	22:50:04.356000
-2018-04-08	temperature:ambient	-22.64	temperature:ambient	00:45:04.601000
-2018-04-08	temperature:ambient	-21.67	temperature:ambient	01:00:04.579000
-2018-04-08	temperature:ambient	-20.19	temperature:ambient	01:15:04.814000
-2018-04-08	temperature:ambient	-16.83	temperature:ambient	02:35:04.661000
-2018-04-08	temperature:ambient	-15.93	temperature:ambient	02:50:04.694000
-2018-04-08	temperature:ambient	-7.87	temperature:ambient	03:25:04.698000
-2018-04-08	temperature:ambient	-6.9	temperature:ambient	04:25:04.854000
-2018-04-08	temperature:ambient	-15.16	temperature:ambient	04:55:04.977000
-2018-04-08	temperature:ambient	-24.12	temperature:ambient	05:15:05.396000
-2018-04-08	temperature:ambient	-26.77	temperature:ambient	05:20:05.090000
-2018-04-08	temperature:ambient	-33.35	temperature:ambient	05:30:05.028000
-2018-04-08	temperature:ambient	-45.67	temperature:ambient	06:45:05.441000
-2018-04-08	temperature:ambient	-47.48	temperature:ambient	07:10:05.115000
-2018-04-08	temperature:ambient	-48.7	temperature:ambient	07:30:05.281000
-2018-04-08	temperature:ambient	-49.67	temperature:ambient	08:00:05.346000
-2018-04-08	temperature:ambient	-49.93	temperature:ambient	08:20:05.470000
-2018-04-08	temperature:ambient	-46.45	temperature:ambient	16:25:06.107000
-2018-04-08	temperature:ambient	-46.83	temperature:ambient	16:30:06.071000
-2018-04-08	temperature:ambient	-47.09	temperature:ambient	16:40:06.189000
-2018-04-08	temperature:ambient	-47.29	temperature:ambient	16:50:06.165000
-2018-04-09	temperature:ambient	-8.7	temperature:ambient	04:15:07.299000
-2018-04-09	temperature:ambient	-8.06	temperature:ambient	04:20:07.429000
-2018-04-09	temperature:ambient	-5.54	temperature:ambient	05:35:07.542000
-2018-04-09	temperature:ambient	-4.51	temperature:ambient	06:00:07.684000
-2018-04-09	temperature:ambient	-6.45	temperature:ambient	06:50:07.693000
-2018-04-09	temperature:ambient	-5.48	temperature:ambient	07:05:08.010000
-2018-04-09	temperature:ambient	-5.87	temperature:ambient	07:40:07.817000
-2018-04-09	temperature:ambient	-7.8	temperature:ambient	08:10:07.818000
-2018-04-09	temperature:ambient	-9.35	temperature:ambient	08:30:07.893000
-2018-04-09	temperature:ambient	-9.03	temperature:ambient	08:35:08.053000
-2018-04-09	temperature:ambient	-10.32	temperature:ambient	08:45:07.795000
-2018-04-09	temperature:ambient	-25.87	temperature:ambient	12:40:08.172000
-2018-04-09	temperature:ambient	-30.25	temperature:ambient	22:05:09.157000
-2018-04-09	temperature:ambient	-30.77	temperature:ambient	22:10:09.183000
-2018-04-10	temperature:ambient	-40.32	temperature:ambient	09:20:09.673000
-2018-04-10	temperature:ambient	-14.51	temperature:ambient	20:15:10.786000
-2018-04-10	temperature:ambient	-14.19	temperature:ambient	20:30:10.784000
-2018-04-11	temperature:ambient	-23.87	temperature:ambient	08:15:12.894000
-2018-04-11	temperature:ambient	-41.93	temperature:ambient	11:25:13.120000
-2018-04-12	temperature:ambient	-48.38	temperature:ambient	12:05:15.736000
-2018-04-13	temperature:ambient	-45.93	temperature:ambient	00:20:17.118000
-2018-04-13	temperature:ambient	-45.48	temperature:ambient	00:40:17.011000
-2018-04-13	temperature:ambient	-46.19	temperature:ambient	01:00:17.060000
-2018-04-13	temperature:ambient	-46	temperature:ambient	01:35:17.476000
-2018-04-13	temperature:ambient	-45.16	temperature:ambient	01:55:17.060000
-2018-04-13	temperature:ambient	-42.58	temperature:ambient	03:05:17.228000
-2018-04-13	temperature:ambient	-41.74	temperature:ambient	03:30:17.285000
-2018-04-13	temperature:ambient	-33.22	temperature:ambient	05:35:17.542000
-2018-04-13	temperature:ambient	-32.58	temperature:ambient	05:45:17.790000
-2018-04-13	temperature:ambient	-28.7	temperature:ambient	06:30:17.539000
-2018-04-13	temperature:ambient	-30	temperature:ambient	06:35:17.599000
-2018-04-13	temperature:ambient	-30.38	temperature:ambient	06:40:18.191000
-2018-04-13	temperature:ambient	-49.35	temperature:ambient	15:00:18.427000
-2018-04-13	temperature:ambient	-20	temperature:ambient	19:15:19.058000
-2018-04-13	temperature:ambient	-9.03	temperature:ambient	22:40:19.593000
-2018-04-14	temperature:ambient	-23.35	temperature:ambient	02:20:19.662000
-2018-04-14	temperature:ambient	-24.51	temperature:ambient	02:35:19.949000
-2018-04-14	temperature:ambient	-24.64	temperature:ambient	02:40:19.755000
-2018-04-14	temperature:ambient	-25.29	temperature:ambient	02:50:19.734000
-2018-04-14	temperature:ambient	-26	temperature:ambient	03:05:19.781000
-2018-04-14	temperature:ambient	-32.9	temperature:ambient	07:35:23.162000
-2018-04-14	temperature:ambient	-49.8	temperature:ambient	10:50:20.595000
-2018-04-14	temperature:ambient	-48.32	temperature:ambient	11:00:20.844000
-2018-04-14	temperature:ambient	-48.7	temperature:ambient	13:00:26.795000
-2018-04-14	temperature:ambient	-42.58	temperature:ambient	20:30:21.840000
-2018-04-14	temperature:ambient	-46	temperature:ambient	21:20:22.084000
-2018-04-14	temperature:ambient	-46.38	temperature:ambient	21:25:22.002000
-2018-04-14	temperature:ambient	-46.83	temperature:ambient	21:40:21.676000
-2018-04-16	temperature:ambient	-46.12	temperature:ambient	06:45:25.617000
-2018-04-17	temperature:ambient	-34.96	temperature:ambient	00:45:27.070000
-2018-04-17	temperature:ambient	-30	temperature:ambient	20:40:28.809000
-2018-04-17	temperature:ambient	-26.25	temperature:ambient	21:30:29.374000
-2018-04-17	temperature:ambient	-24.45	temperature:ambient	22:05:29.514000
-2018-04-17	temperature:ambient	-25.03	temperature:ambient	22:10:29.532000
-2018-04-17	temperature:ambient	-25.74	temperature:ambient	23:05:29.438000
-2018-04-18	temperature:ambient	-31.03	temperature:ambient	01:10:29.718000
-2018-04-18	temperature:ambient	-33.87	temperature:ambient	01:30:29.817000
-2018-04-18	temperature:ambient	-38.77	temperature:ambient	02:15:29.758000
-2018-04-18	temperature:ambient	-46.45	temperature:ambient	04:20:29.951000
-2018-04-18	temperature:ambient	-46.06	temperature:ambient	04:40:30.298000
-2018-04-18	temperature:ambient	-46.25	temperature:ambient	04:45:30.029000
-2018-04-18	temperature:ambient	-38.7	temperature:ambient	05:35:30.124000
-2018-04-18	temperature:ambient	-24.77	temperature:ambient	06:40:29.992000
+date	attribute	attrValue	time
+2018-01-15	temperature:ambient	-48.58	09:51:38.033000
+2018-01-15	temperature:ambient	-48.77	11:51:38.391000
+2018-01-15	temperature:ambient	-48.9	12:01:38.748000
+2018-01-15	temperature:ambient	-48.77	12:06:38.052000
+2018-01-15	temperature:ambient	-48.96	12:31:38.219000
+2018-01-15	temperature:ambient	-48.96	13:06:38.193000
+2018-01-15	temperature:ambient	-48.7	13:31:40.099000
+2018-01-15	temperature:ambient	-48.51	13:46:38.359000
+2018-01-15	temperature:ambient	-48.32	15:01:38.381000
+2018-01-15	temperature:ambient	-48.25	16:01:37.905000
+2018-01-15	temperature:ambient	-48.38	16:06:37.850000
+2018-01-15	temperature:ambient	-48.25	16:11:37.549000
+2018-01-15	temperature:ambient	-47.8	20:31:38.142000
+2018-01-15	temperature:ambient	-47.8	21:06:38.068000
+2018-01-15	temperature:ambient	-47.8	21:16:38.979000
+2018-01-15	temperature:ambient	-47.74	22:56:38.230000
+2018-01-15	temperature:ambient	-47.48	23:21:38.249000
+2018-01-15	temperature:ambient	-47.41	23:26:38.254000
+2018-01-16	temperature:ambient	-46.38	00:46:38.402000
+2018-01-16	temperature:ambient	-46	08:11:39.171000
+2018-01-16	temperature:ambient	-46.64	08:16:39.213000
+2018-01-16	temperature:ambient	-46.83	08:31:40.124000
+2018-01-16	temperature:ambient	-46.38	08:56:39.097000
+2018-01-16	temperature:ambient	-50	09:01:39.403000
+2018-01-16	temperature:ambient	-46.58	09:11:38.936000
+2018-01-16	temperature:ambient	-45.54	09:16:39.882000
+2018-01-16	temperature:ambient	-45.8	09:56:39.755000
+2018-01-16	temperature:ambient	-45.87	10:06:39.698000
+2018-01-16	temperature:ambient	-46.77	10:16:39.149000
+2018-01-16	temperature:ambient	-46.64	10:21:39.900000
+2018-01-16	temperature:ambient	-48.45	10:56:39.495000
+2018-01-16	temperature:ambient	-46.45	11:36:40.545000
+2018-01-16	temperature:ambient	-46.38	11:51:40.547000
+2018-01-16	temperature:ambient	-46.77	12:56:39.620000
+2018-01-16	temperature:ambient	-46.83	13:31:40.291000
+2018-01-16	temperature:ambient	-47.29	14:01:40.345000
+2018-01-16	temperature:ambient	-47.61	14:26:40.440000
+2018-01-16	temperature:ambient	-46.19	14:51:40.611000
+2018-01-16	temperature:ambient	-47.03	15:31:41.013000
+2018-01-16	temperature:ambient	-48.45	16:41:41.706000
+2018-01-16	temperature:ambient	-48.7	17:41:41.502000
+2018-01-16	temperature:ambient	-47.67	18:26:41.150000
+2018-01-16	temperature:ambient	-48.19	19:16:41.575000
+2018-01-16	temperature:ambient	-49.41	19:56:41.077000
+2018-01-16	temperature:ambient	-49.41	22:06:41.945000
+2018-01-16	temperature:ambient	-47.93	22:26:41.657000
+2018-01-16	temperature:ambient	-46.25	22:31:42.543000
+2018-01-16	temperature:ambient	-48.51	22:56:41.282000
+2018-01-16	temperature:ambient	-48.25	23:06:41.932000
+2018-01-17	temperature:ambient	-49.93	17:46:43.837000
+2018-01-17	temperature:ambient	-49.87	18:06:43.985000
+2018-01-17	temperature:ambient	-49.87	18:26:44.025000
+2018-01-17	temperature:ambient	-50	19:46:43.705000
+2018-01-17	temperature:ambient	-49.8	20:06:43.917000
+2018-01-17	temperature:ambient	-50	23:57:01.693000
+2018-01-18	temperature:ambient	-50	10:21:46.353000
+2018-01-18	temperature:ambient	-49.8	10:36:48.763000
+2018-01-18	temperature:ambient	-50	10:56:45.836000
+2018-01-18	temperature:ambient	-49.93	12:36:47.862000
+2018-01-18	temperature:ambient	-49.8	12:51:46.121000
+2018-01-18	temperature:ambient	-36.45	17:11:46.072000
+2018-01-18	temperature:ambient	-34.06	17:36:47.382000
+2018-01-18	temperature:ambient	-32.7	18:46:46.359000
+2018-01-18	temperature:ambient	-35.74	19:36:45.492000
+2018-01-18	temperature:ambient	-31.54	19:41:46.273000
+2018-01-18	temperature:ambient	-31.48	19:46:46.269000
+2018-01-18	temperature:ambient	-50	23:06:46.291000
+2018-01-19	temperature:ambient	-48.32	08:41:47.981000
+2018-01-19	temperature:ambient	-42	09:16:47.459000
+2018-01-19	temperature:ambient	-40.96	09:21:47.938000
+2018-01-19	temperature:ambient	-40.45	09:26:47.725000
+2018-01-19	temperature:ambient	-38.06	09:41:48.071000
+2018-01-19	temperature:ambient	-32.58	10:21:48.371000
+2018-01-19	temperature:ambient	-29.67	10:36:47.467000
+2018-01-19	temperature:ambient	-13.61	11:41:48.672000
+2018-01-19	temperature:ambient	-37.74	12:41:48.134000
+2018-01-19	temperature:ambient	-48.7	13:36:50.137000
+2018-01-19	temperature:ambient	-46.12	14:01:48.160000
+2018-01-20	temperature:ambient	77.35	01:41:50.105000
+2018-01-20	temperature:ambient	56.25	01:56:50.508000
+2018-01-20	temperature:ambient	-47.35	17:31:53.877000
+2018-01-20	temperature:ambient	-48.32	18:56:51.908000
+2018-01-20	temperature:ambient	-47.22	19:21:52.004000
+2018-01-20	temperature:ambient	-47.29	19:31:51.629000
+2018-01-20	temperature:ambient	-47.8	19:46:52.217000
+2018-01-20	temperature:ambient	-48	19:51:51.982000
+2018-01-20	temperature:ambient	-50	21:46:51.799000
+2018-01-20	temperature:ambient	13.09	22:11:52.625000
+2018-01-20	temperature:ambient	-49.54	22:31:52.237000
+2018-01-20	temperature:ambient	56.77	23:11:52.533000
+2018-01-21	temperature:ambient	-47.48	16:11:53.811000
+2018-01-21	temperature:ambient	-49.29	17:46:54.077000
+2018-01-21	temperature:ambient	-48.38	19:01:54.757000
+2018-01-21	temperature:ambient	-49.67	19:31:54.481000
+2018-01-22	temperature:ambient	-29.16	06:57:11.362000
+2018-01-22	temperature:ambient	-23.35	08:51:55.138000
+2018-01-22	temperature:ambient	-23.8	08:56:56.325000
+2018-01-22	temperature:ambient	-50	09:46:54.888000
+2018-01-22	temperature:ambient	-49.41	12:21:56.460000
+2018-01-22	temperature:ambient	-49.48	12:36:55.885000
+2018-01-22	temperature:ambient	-49.35	13:51:55.631000
+2018-01-22	temperature:ambient	-49.41	13:56:55.577000
+2018-01-22	temperature:ambient	-49.61	15:16:56.446000
+2018-01-22	temperature:ambient	-49.41	23:21:57.872000
+2018-01-23	temperature:ambient	-46.25	00:51:57.024000
+2018-01-23	temperature:ambient	-48.7	01:26:56.974000
+2018-01-23	temperature:ambient	-43.8	01:36:58.671000
+2018-01-23	temperature:ambient	-42.51	09:41:57.440000
+2018-01-23	temperature:ambient	-48.7	10:31:57.481000
+2018-01-23	temperature:ambient	-46.83	13:36:58.651000
+2018-01-23	temperature:ambient	-46.51	13:46:58.937000
+2018-01-23	temperature:ambient	-50	13:56:58.854000
+2018-01-23	temperature:ambient	-50	17:06:59.417000
+2018-01-24	temperature:ambient	-50	09:22:00.690000
+2018-01-24	temperature:ambient	75.54	18:37:02.215000
+2018-01-24	temperature:ambient	77.54	18:57:01.919000
+2018-01-24	temperature:ambient	73.22	19:07:01.727000
+2018-01-24	temperature:ambient	79.48	19:22:02.372000
+2018-01-24	temperature:ambient	71.03	20:02:02.082000
+2018-01-24	temperature:ambient	75.22	20:22:02.154000
+2018-01-30	temperature:ambient	-50	10:27:31.987000
+2018-01-31	temperature:ambient	7.16	04:12:37.852000
+2018-02-01	temperature:ambient	33.03	20:32:22.122000
+2018-02-12	temperature:ambient	-49.35	23:23:08.237000
+2018-02-22	temperature:ambient	-50	23:28:13.740000
+2018-02-23	temperature:ambient	-48.9	01:28:13.843000
+2018-02-23	temperature:ambient	-49.93	04:08:14.090000
+2018-02-23	temperature:ambient	-50	04:43:14.352000
+2018-02-23	temperature:ambient	-49.67	08:58:14.837000
+2018-02-24	temperature:ambient	-44.58	00:03:16.411000
+2018-02-24	temperature:ambient	-44.51	02:58:16.546000
+2018-02-24	temperature:ambient	-50	05:43:16.792000
+2018-02-25	temperature:ambient	-48.64	06:18:19.390000
+2018-03-19	temperature:ambient	-36.25	22:54:16.558000
+2018-03-19	temperature:ambient	-18.25	23:14:16.627000
+2018-03-20	temperature:ambient	-37.03	01:09:16.913000
+2018-03-20	temperature:ambient	-43.41	08:09:17.559000
+2018-03-20	temperature:ambient	-29.09	08:29:17.595000
+2018-03-20	temperature:ambient	-13.22	08:59:17.613000
+2018-03-20	temperature:ambient	-44.51	10:24:17.793000
+2018-03-20	temperature:ambient	-28.19	10:49:18.107000
+2018-03-20	temperature:ambient	-49.41	18:39:18.809000
+2018-03-20	temperature:ambient	-49.74	19:49:18.699000
+2018-03-20	temperature:ambient	-50	19:59:18.750000
+2018-03-20	temperature:ambient	-50	20:54:18.838000
+2018-03-20	temperature:ambient	-49.93	21:24:19.204000
+2018-03-21	temperature:ambient	-49.87	12:09:21.132000
+2018-03-22	temperature:ambient	-49.87	00:19:21.716000
+2018-03-23	temperature:ambient	-46.25	20:39:26.513000
+2018-03-23	temperature:ambient	-35.54	22:49:26.662000
+2018-03-23	temperature:ambient	-26.58	23:19:26.788000
+2018-03-24	temperature:ambient	-49.93	03:49:27.175000
+2018-03-24	temperature:ambient	-30.7	08:39:27.643000
+2018-03-24	temperature:ambient	-24.58	09:04:27.761000
+2018-03-24	temperature:ambient	-24.12	09:19:27.707000
+2018-03-24	temperature:ambient	-20.32	10:14:27.876000
+2018-03-24	temperature:ambient	-19.09	10:39:28.252000
+2018-03-24	temperature:ambient	-5.35	10:59:28.885000
+2018-03-24	temperature:ambient	-19.09	14:14:28.308000
+2018-03-24	temperature:ambient	-26.12	16:19:28.454000
+2018-03-24	temperature:ambient	-18.12	17:59:28.600000
+2018-03-24	temperature:ambient	-18.7	18:04:28.708000
+2018-03-24	temperature:ambient	-18.96	18:19:28.633000
+2018-03-24	temperature:ambient	-18.12	18:24:28.813000
+2018-03-24	temperature:ambient	-19.16	20:24:29.084000
+2018-03-24	temperature:ambient	-19.67	21:49:29.219000
+2018-03-24	temperature:ambient	-19.8	21:54:29.054000
+2018-03-24	temperature:ambient	-20.06	21:59:29.068000
+2018-03-24	temperature:ambient	-20.38	22:14:29.104000
+2018-03-24	temperature:ambient	-21.29	22:54:29.339000
+2018-03-25	temperature:ambient	10.25	05:49:30.067000
+2018-03-25	temperature:ambient	5.35	06:04:29.956000
+2018-03-25	temperature:ambient	-15.8	06:54:30.057000
+2018-03-28	temperature:ambient	-49.87	02:04:37.141000
+2018-03-28	temperature:ambient	-49.87	02:24:37.013000
+2018-03-28	temperature:ambient	-49.87	04:39:37.382000
+2018-03-28	temperature:ambient	-49.93	05:29:37.368000
+2018-03-28	temperature:ambient	-50	06:24:37.636000
+2018-03-28	temperature:ambient	-49.87	09:29:37.928000
+2018-03-28	temperature:ambient	-30.06	21:44:39.073000
+2018-03-28	temperature:ambient	-28.51	22:49:39.150000
+2018-03-28	temperature:ambient	-21.67	23:29:39.552000
+2018-03-28	temperature:ambient	-21.29	23:34:39.274000
+2018-03-28	temperature:ambient	-20.96	23:39:39.472000
+2018-03-29	temperature:ambient	-19.22	00:04:39.300000
+2018-03-29	temperature:ambient	-20.83	02:04:39.539000
+2018-03-29	temperature:ambient	-22.58	04:24:39.795000
+2018-03-29	temperature:ambient	-20.25	05:34:40.021000
+2018-03-29	temperature:ambient	-49.41	08:29:40.141000
+2018-03-29	temperature:ambient	-48.96	09:04:40.291000
+2018-03-29	temperature:ambient	-49.48	12:49:40.693000
+2018-03-29	temperature:ambient	-49.67	13:14:40.778000
+2018-03-29	temperature:ambient	-50	14:04:40.814000
+2018-03-29	temperature:ambient	-50	14:34:40.856000
+2018-04-02	temperature:ambient	-48.58	01:34:49.525000
+2018-04-02	temperature:ambient	-49.87	01:39:49.555000
+2018-04-04	temperature:ambient	-35.35	00:09:54.399000
+2018-04-04	temperature:ambient	-27.09	04:04:54.983000
+2018-04-04	temperature:ambient	-45.16	16:49:56.273000
+2018-04-04	temperature:ambient	-44.51	17:04:56.225000
+2018-04-05	temperature:ambient	-33.93	05:44:57.601000
+2018-04-05	temperature:ambient	-32.96	07:09:58.608000
+2018-04-05	temperature:ambient	-25.03	08:44:58.144000
+2018-04-05	temperature:ambient	-50	21:14:59.272000
+2018-04-06	temperature:ambient	-44.19	23:20:02.059000
+2018-04-07	temperature:ambient	-40.9	01:15:02.049000
+2018-04-07	temperature:ambient	-40.77	01:35:02.008000
+2018-04-07	temperature:ambient	-42.58	04:55:02.427000
+2018-04-07	temperature:ambient	-32.9	11:20:03.206000
+2018-04-07	temperature:ambient	-33.54	14:45:03.772000
+2018-04-07	temperature:ambient	-32.58	15:25:03.601000
+2018-04-07	temperature:ambient	-32	15:55:03.665000
+2018-04-07	temperature:ambient	-32.9	18:00:03.781000
+2018-04-07	temperature:ambient	-32.96	18:05:03.825000
+2018-04-07	temperature:ambient	-33.74	19:40:04.115000
+2018-04-07	temperature:ambient	-31.41	22:50:04.356000
+2018-04-08	temperature:ambient	-22.64	00:45:04.601000
+2018-04-08	temperature:ambient	-21.67	01:00:04.579000
+2018-04-08	temperature:ambient	-20.19	01:15:04.814000
+2018-04-08	temperature:ambient	-16.83	02:35:04.661000
+2018-04-08	temperature:ambient	-15.93	02:50:04.694000
+2018-04-08	temperature:ambient	-7.87	03:25:04.698000
+2018-04-08	temperature:ambient	-6.9	04:25:04.854000
+2018-04-08	temperature:ambient	-15.16	04:55:04.977000
+2018-04-08	temperature:ambient	-24.12	05:15:05.396000
+2018-04-08	temperature:ambient	-26.77	05:20:05.090000
+2018-04-08	temperature:ambient	-33.35	05:30:05.028000
+2018-04-08	temperature:ambient	-45.67	06:45:05.441000
+2018-04-08	temperature:ambient	-47.48	07:10:05.115000
+2018-04-08	temperature:ambient	-48.7	07:30:05.281000
+2018-04-08	temperature:ambient	-49.67	08:00:05.346000
+2018-04-08	temperature:ambient	-49.93	08:20:05.470000
+2018-04-08	temperature:ambient	-46.45	16:25:06.107000
+2018-04-08	temperature:ambient	-46.83	16:30:06.071000
+2018-04-08	temperature:ambient	-47.09	16:40:06.189000
+2018-04-08	temperature:ambient	-47.29	16:50:06.165000
+2018-04-09	temperature:ambient	-8.7	04:15:07.299000
+2018-04-09	temperature:ambient	-8.06	04:20:07.429000
+2018-04-09	temperature:ambient	-5.54	05:35:07.542000
+2018-04-09	temperature:ambient	-4.51	06:00:07.684000
+2018-04-09	temperature:ambient	-6.45	06:50:07.693000
+2018-04-09	temperature:ambient	-5.48	07:05:08.010000
+2018-04-09	temperature:ambient	-5.87	07:40:07.817000
+2018-04-09	temperature:ambient	-7.8	08:10:07.818000
+2018-04-09	temperature:ambient	-9.35	08:30:07.893000
+2018-04-09	temperature:ambient	-9.03	08:35:08.053000
+2018-04-09	temperature:ambient	-10.32	08:45:07.795000
+2018-04-09	temperature:ambient	-25.87	12:40:08.172000
+2018-04-09	temperature:ambient	-30.25	22:05:09.157000
+2018-04-09	temperature:ambient	-30.77	22:10:09.183000
+2018-04-10	temperature:ambient	-40.32	09:20:09.673000
+2018-04-10	temperature:ambient	-14.51	20:15:10.786000
+2018-04-10	temperature:ambient	-14.19	20:30:10.784000
+2018-04-11	temperature:ambient	-23.87	08:15:12.894000
+2018-04-11	temperature:ambient	-41.93	11:25:13.120000
+2018-04-12	temperature:ambient	-48.38	12:05:15.736000
+2018-04-13	temperature:ambient	-45.93	00:20:17.118000
+2018-04-13	temperature:ambient	-45.48	00:40:17.011000
+2018-04-13	temperature:ambient	-46.19	01:00:17.060000
+2018-04-13	temperature:ambient	-46	01:35:17.476000
+2018-04-13	temperature:ambient	-45.16	01:55:17.060000
+2018-04-13	temperature:ambient	-42.58	03:05:17.228000
+2018-04-13	temperature:ambient	-41.74	03:30:17.285000
+2018-04-13	temperature:ambient	-33.22	05:35:17.542000
+2018-04-13	temperature:ambient	-32.58	05:45:17.790000
+2018-04-13	temperature:ambient	-28.7	06:30:17.539000
+2018-04-13	temperature:ambient	-30	06:35:17.599000
+2018-04-13	temperature:ambient	-30.38	06:40:18.191000
+2018-04-13	temperature:ambient	-49.35	15:00:18.427000
+2018-04-13	temperature:ambient	-20	19:15:19.058000
+2018-04-13	temperature:ambient	-9.03	22:40:19.593000
+2018-04-14	temperature:ambient	-23.35	02:20:19.662000
+2018-04-14	temperature:ambient	-24.51	02:35:19.949000
+2018-04-14	temperature:ambient	-24.64	02:40:19.755000
+2018-04-14	temperature:ambient	-25.29	02:50:19.734000
+2018-04-14	temperature:ambient	-26	03:05:19.781000
+2018-04-14	temperature:ambient	-32.9	07:35:23.162000
+2018-04-14	temperature:ambient	-49.8	10:50:20.595000
+2018-04-14	temperature:ambient	-48.32	11:00:20.844000
+2018-04-14	temperature:ambient	-48.7	13:00:26.795000
+2018-04-14	temperature:ambient	-42.58	20:30:21.840000
+2018-04-14	temperature:ambient	-46	21:20:22.084000
+2018-04-14	temperature:ambient	-46.38	21:25:22.002000
+2018-04-14	temperature:ambient	-46.83	21:40:21.676000
+2018-04-16	temperature:ambient	-46.12	06:45:25.617000
+2018-04-17	temperature:ambient	-34.96	00:45:27.070000
+2018-04-17	temperature:ambient	-30	20:40:28.809000
+2018-04-17	temperature:ambient	-26.25	21:30:29.374000
+2018-04-17	temperature:ambient	-24.45	22:05:29.514000
+2018-04-17	temperature:ambient	-25.03	22:10:29.532000
+2018-04-17	temperature:ambient	-25.74	23:05:29.438000
+2018-04-18	temperature:ambient	-31.03	01:10:29.718000
+2018-04-18	temperature:ambient	-33.87	01:30:29.817000
+2018-04-18	temperature:ambient	-38.77	02:15:29.758000
+2018-04-18	temperature:ambient	-46.45	04:20:29.951000
+2018-04-18	temperature:ambient	-46.06	04:40:30.298000
+2018-04-18	temperature:ambient	-46.25	04:45:30.029000
+2018-04-18	temperature:ambient	-38.7	05:35:30.124000
+2018-04-18	temperature:ambient	-24.77	06:40:29.992000
+2018-04-20	temperature:ambient	-49.67	12:35:35.972000
+2018-04-20	temperature:ambient	-49.54	17:35:35.686000
+2018-04-20	temperature:ambient	-49.67	17:45:35.550000
+2018-04-21	temperature:ambient	-26.12	04:15:37.525000
+2018-04-21	temperature:ambient	-26	04:20:37.536000
+2018-04-21	temperature:ambient	-49.67	10:25:37.328000
+2018-04-22	temperature:ambient	-40.7	02:00:39.969000
+2018-04-22	temperature:ambient	-39.87	02:20:40.079000
+2018-04-22	temperature:ambient	-38.45	02:35:39.877000
+2018-04-22	temperature:ambient	-34.32	19:35:41.743000
+2018-04-23	temperature:ambient	-22.64	16:20:43.204000
+2018-04-23	temperature:ambient	-22	16:40:43.104000
+2018-04-23	temperature:ambient	-20.64	16:55:43.066000
+2018-04-23	temperature:ambient	-19.29	17:40:43.033000
+2018-04-23	temperature:ambient	-19.93	18:50:43.305000
+2018-04-23	temperature:ambient	-20.12	19:30:43.366000
+2018-04-23	temperature:ambient	-20.51	20:15:43.223000
+2018-04-24	temperature:ambient	-39.93	05:50:44.914000
+2018-04-24	temperature:ambient	-38.38	06:05:45.534000
+2018-04-24	temperature:ambient	-38.06	06:10:45.380000
+2018-04-24	temperature:ambient	-31.61	09:10:44.756000
+2018-04-24	temperature:ambient	-27.74	18:15:46.476000
+2018-04-25	temperature:ambient	-33.22	10:00:48.162000

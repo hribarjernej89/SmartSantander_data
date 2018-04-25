@@ -1,804 +1,885 @@
-date	attribute	attrValue	attribute	time
-2017-08-30	tension:soilMoisture	506.124665432	tension:soilMoisture	02:15:57.236000
-2017-08-30	tension:soilMoisture	432.207194607	tension:soilMoisture	08:30:57.900000
-2017-08-30	tension:soilMoisture	419.523172570	tension:soilMoisture	14:20:58.523000
-2017-09-01	tension:soilMoisture	105.748852818	tension:soilMoisture	03:31:02.438000
-2017-09-01	tension:soilMoisture	86.033994452	tension:soilMoisture	05:46:02.671000
-2017-09-02	tension:soilMoisture	54.681320699	tension:soilMoisture	04:56:05.104000
-2017-09-02	tension:soilMoisture	54.739656116	tension:soilMoisture	05:16:05.143000
-2017-09-03	tension:soilMoisture	104.045058662	tension:soilMoisture	20:21:08.900000
-2017-09-03	tension:soilMoisture	104.706936450	tension:soilMoisture	21:51:09.331000
-2017-09-05	tension:soilMoisture	103.444810163	tension:soilMoisture	18:31:14.202000
-2017-09-06	tension:soilMoisture	135.288110636	tension:soilMoisture	20:41:17.361000
-2017-09-15	tension:soilMoisture	17.785072044	tension:soilMoisture	08:11:38.053000
-2017-09-16	tension:soilMoisture	33.651546724	tension:soilMoisture	04:11:39.777000
-2017-10-08	tension:soilMoisture	48.483373611	tension:soilMoisture	05:27:32.052000
-2017-10-08	tension:soilMoisture	45.993903458	tension:soilMoisture	15:27:33.072000
-2017-10-08	tension:soilMoisture	46.965097405	tension:soilMoisture	16:17:33.290000
-2017-10-09	tension:soilMoisture	59.806341276	tension:soilMoisture	07:37:34.616000
-2017-10-09	tension:soilMoisture	59.250180659	tension:soilMoisture	08:22:34.726000
-2017-10-09	tension:soilMoisture	63.266987397	tension:soilMoisture	12:17:35.325000
-2017-10-09	tension:soilMoisture	65.920933602	tension:soilMoisture	17:47:35.602000
-2017-10-09	tension:soilMoisture	66.098676709	tension:soilMoisture	18:27:35.677000
-2017-10-09	tension:soilMoisture	66.600801689	tension:soilMoisture	18:57:35.723000
-2017-10-09	tension:soilMoisture	67.134106119	tension:soilMoisture	19:27:35.778000
-2017-10-13	tension:soilMoisture	107.332430930	tension:soilMoisture	04:17:43.830000
-2017-10-27	tension:soilMoisture	165.091116779	tension:soilMoisture	15:48:18.123000
-2017-10-27	tension:soilMoisture	200.110711719	tension:soilMoisture	16:13:18.393000
-2017-10-31	tension:soilMoisture	206.694746957	tension:soilMoisture	17:33:27.718000
-2017-11-01	tension:soilMoisture	213.486997617	tension:soilMoisture	03:23:28.538000
-2017-11-02	tension:soilMoisture	189.973124943	tension:soilMoisture	05:23:31.081000
-2017-11-02	tension:soilMoisture	179.919007682	tension:soilMoisture	09:03:31.588000
-2017-11-02	tension:soilMoisture	180.951920722	tension:soilMoisture	20:33:32.178000
-2017-11-03	tension:soilMoisture	167.286737914	tension:soilMoisture	15:48:34.521000
-2017-11-03	tension:soilMoisture	189.430316987	tension:soilMoisture	23:28:35.125000
-2017-11-04	tension:soilMoisture	190.917123788	tension:soilMoisture	05:58:35.893000
-2017-11-04	tension:soilMoisture	185.791448930	tension:soilMoisture	18:18:37.121000
-2017-11-05	tension:soilMoisture	22.476203176	tension:soilMoisture	20:58:39.788000
-2017-11-06	tension:soilMoisture	23.984543521	tension:soilMoisture	08:08:40.855000
-2017-11-06	tension:soilMoisture	22.750163172	tension:soilMoisture	16:28:42.062000
-2017-11-07	tension:soilMoisture	22.859760381	tension:soilMoisture	03:23:42.879000
-2017-11-07	tension:soilMoisture	20.316632500	tension:soilMoisture	17:38:44.563000
-2017-11-08	tension:soilMoisture	25.634802509	tension:soilMoisture	10:33:46.883000
-2017-11-08	tension:soilMoisture	26.268627104	tension:soilMoisture	11:28:48.243000
-2017-11-09	tension:soilMoisture	28.839034832	tension:soilMoisture	07:08:47.979000
-2017-11-11	tension:soilMoisture	30.586656043	tension:soilMoisture	01:53:52.228000
-2017-11-19	tension:soilMoisture	42.322374682	tension:soilMoisture	05:59:12.824000
-2017-11-19	tension:soilMoisture	37.689229526	tension:soilMoisture	14:24:12.677000
-2017-11-19	tension:soilMoisture	39.379902918	tension:soilMoisture	16:09:12.939000
-2017-11-19	tension:soilMoisture	43.316179503	tension:soilMoisture	18:39:13.089000
-2017-11-20	tension:soilMoisture	48.024182456	tension:soilMoisture	03:59:14.032000
-2017-11-20	tension:soilMoisture	49.028307178	tension:soilMoisture	05:29:14.162000
-2017-11-20	tension:soilMoisture	49.430084629	tension:soilMoisture	19:19:15.540000
-2017-11-21	tension:soilMoisture	58.958062666	tension:soilMoisture	06:09:16.625000
-2017-11-21	tension:soilMoisture	55.638672380	tension:soilMoisture	10:29:17.448000
-2017-11-23	tension:soilMoisture	70.520127824	tension:soilMoisture	04:24:21.304000
-2017-11-24	tension:soilMoisture	80.433012492	tension:soilMoisture	09:44:24.342000
-2017-11-24	tension:soilMoisture	78.317264508	tension:soilMoisture	15:09:33.507000
-2018-01-25	tension:soilMoisture	25.855085801	tension:soilMoisture	17:06:59.053000
-2018-01-25	tension:soilMoisture	29.005180895	tension:soilMoisture	23:21:59.831000
-2018-01-26	tension:soilMoisture	29.448800013	tension:soilMoisture	02:22:00.040000
-2018-01-26	tension:soilMoisture	29.920175628	tension:soilMoisture	03:32:00.156000
-2018-01-26	tension:soilMoisture	30.308895655	tension:soilMoisture	08:47:00.768000
-2018-01-26	tension:soilMoisture	29.615059906	tension:soilMoisture	13:42:01.688000
-2018-01-26	tension:soilMoisture	29.670647931	tension:soilMoisture	17:12:01.610000
-2018-01-26	tension:soilMoisture	31.755134168	tension:soilMoisture	18:57:01.786000
-2018-01-27	tension:soilMoisture	31.476772821	tension:soilMoisture	04:47:02.834000
-2018-01-27	tension:soilMoisture	29.670647931	tension:soilMoisture	07:57:02.770000
-2018-01-28	tension:soilMoisture	28.478880836	tension:soilMoisture	01:22:05.214000
-2018-01-28	tension:soilMoisture	28.478880836	tension:soilMoisture	02:12:05.203000
-2018-01-29	tension:soilMoisture	21.846612346	tension:soilMoisture	15:22:08.984000
-2018-01-29	tension:soilMoisture	23.024142264	tension:soilMoisture	19:27:09.419000
-2018-01-30	tension:soilMoisture	22.640535625	tension:soilMoisture	05:52:10.548000
-2018-01-30	tension:soilMoisture	21.573045399	tension:soilMoisture	11:37:11.212000
-2018-01-30	tension:soilMoisture	25.001555038	tension:soilMoisture	15:52:11.557000
-2018-01-30	tension:soilMoisture	25.965316422	tension:soilMoisture	16:32:11.631000
-2018-01-30	tension:soilMoisture	29.531867247	tension:soilMoisture	18:07:11.790000
-2018-01-30	tension:soilMoisture	30.503536873	tension:soilMoisture	20:52:12.082000
-2018-01-31	tension:soilMoisture	30.670146087	tension:soilMoisture	05:12:12.985000
-2018-01-31	tension:soilMoisture	30.698058948	tension:soilMoisture	05:17:12.965000
-2018-01-31	tension:soilMoisture	30.642274711	tension:soilMoisture	05:57:13.052000
-2018-01-31	tension:soilMoisture	30.670146087	tension:soilMoisture	11:42:13.805000
-2018-01-31	tension:soilMoisture	30.781230137	tension:soilMoisture	12:17:13.792000
-2018-01-31	tension:soilMoisture	37.464063401	tension:soilMoisture	20:52:14.612000
-2018-02-01	tension:soilMoisture	20.671486990	tension:soilMoisture	01:47:15.130000
-2018-02-01	tension:soilMoisture	27.510796738	tension:soilMoisture	06:22:15.682000
-2018-02-01	tension:soilMoisture	26.737621494	tension:soilMoisture	10:12:16.008000
-2018-02-01	tension:soilMoisture	26.765201659	tension:soilMoisture	12:27:16.249000
-2018-02-01	tension:soilMoisture	26.765201659	tension:soilMoisture	16:27:16.681000
-2018-02-01	tension:soilMoisture	26.903127566	tension:soilMoisture	17:07:16.903000
-2018-02-01	tension:soilMoisture	29.005180895	tension:soilMoisture	17:57:16.839000
-2018-02-02	tension:soilMoisture	31.003730119	tension:soilMoisture	04:47:17.974000
-2018-02-02	tension:soilMoisture	29.698377096	tension:soilMoisture	08:52:18.440000
-2018-02-02	tension:soilMoisture	29.060659292	tension:soilMoisture	13:52:18.943000
-2018-02-02	tension:soilMoisture	30.948133554	tension:soilMoisture	19:02:19.489000
-2018-02-02	tension:soilMoisture	31.448818795	tension:soilMoisture	21:22:19.747000
-2018-02-02	tension:soilMoisture	31.448818795	tension:soilMoisture	23:32:19.973000
-2018-02-04	tension:soilMoisture	36.929968500	tension:soilMoisture	16:12:24.270000
-2018-02-05	tension:soilMoisture	40.029508503	tension:soilMoisture	02:27:25.334000
-2018-02-05	tension:soilMoisture	40.226942904	tension:soilMoisture	06:12:25.776000
-2018-02-05	tension:soilMoisture	38.167542703	tension:soilMoisture	09:37:26.082000
-2018-02-05	tension:soilMoisture	36.901594529	tension:soilMoisture	13:37:26.500000
-2018-02-05	tension:soilMoisture	39.041134116	tension:soilMoisture	20:37:27.247000
-2018-02-05	tension:soilMoisture	39.097521044	tension:soilMoisture	23:02:27.488000
-2018-02-06	tension:soilMoisture	39.041134116	tension:soilMoisture	00:27:27.627000
-2018-02-06	tension:soilMoisture	39.041134116	tension:soilMoisture	04:02:32.419000
-2018-02-06	tension:soilMoisture	35.834912287	tension:soilMoisture	10:12:28.648000
-2018-02-06	tension:soilMoisture	33.484049245	tension:soilMoisture	16:47:48.337000
-2018-02-06	tension:soilMoisture	37.238919298	tension:soilMoisture	19:12:29.602000
-2018-02-06	tension:soilMoisture	37.632818850	tension:soilMoisture	21:12:29.809000
-2018-02-07	tension:soilMoisture	39.097521044	tension:soilMoisture	02:42:30.386000
-2018-02-07	tension:soilMoisture	39.803136040	tension:soilMoisture	06:32:30.791000
-2018-02-07	tension:soilMoisture	37.295459148	tension:soilMoisture	08:27:30.993000
-2018-02-08	tension:soilMoisture	34.854121615	tension:soilMoisture	08:22:33.625000
-2018-02-08	tension:soilMoisture	34.210763631	tension:soilMoisture	18:47:34.906000
-2018-02-08	tension:soilMoisture	34.182565711	tension:soilMoisture	19:27:34.750000
-2018-02-10	tension:soilMoisture	30.781230137	tension:soilMoisture	06:17:38.417000
-2018-02-10	tension:soilMoisture	29.060659292	tension:soilMoisture	10:57:38.902000
-2018-02-10	tension:soilMoisture	30.781230137	tension:soilMoisture	19:32:39.807000
-2018-02-11	tension:soilMoisture	30.725741784	tension:soilMoisture	03:27:40.655000
-2018-02-11	tension:soilMoisture	30.725741784	tension:soilMoisture	03:42:40.734000
-2018-02-11	tension:soilMoisture	32.451522474	tension:soilMoisture	21:12:42.491000
-2018-02-12	tension:soilMoisture	34.406620159	tension:soilMoisture	04:02:43.207000
-2018-02-12	tension:soilMoisture	34.686170816	tension:soilMoisture	05:37:43.380000
-2018-02-12	tension:soilMoisture	37.182897138	tension:soilMoisture	23:32:45.264000
-2018-02-13	tension:soilMoisture	37.886258833	tension:soilMoisture	04:12:45.868000
-2018-02-13	tension:soilMoisture	34.266625486	tension:soilMoisture	13:22:46.732000
-2018-02-13	tension:soilMoisture	33.372322123	tension:soilMoisture	17:22:47.224000
-2018-02-13	tension:soilMoisture	33.344331629	tension:soilMoisture	17:27:47.450000
-2018-02-13	tension:soilMoisture	35.386464171	tension:soilMoisture	20:17:47.490000
-2018-02-14	tension:soilMoisture	32.730414435	tension:soilMoisture	07:17:48.632000
-2018-02-14	tension:soilMoisture	30.364490346	tension:soilMoisture	19:32:50.329000
-2018-02-14	tension:soilMoisture	30.419984504	tension:soilMoisture	20:37:50.009000
-2018-02-15	tension:soilMoisture	27.842581149	tension:soilMoisture	09:12:51.334000
-2018-02-15	tension:soilMoisture	24.726480037	tension:soilMoisture	14:12:51.877000
-2018-02-15	tension:soilMoisture	24.974065715	tension:soilMoisture	19:02:52.392000
-2018-02-15	tension:soilMoisture	24.781614462	tension:soilMoisture	20:42:52.562000
-2018-02-15	tension:soilMoisture	24.616595593	tension:soilMoisture	23:42:52.907000
-2018-02-16	tension:soilMoisture	24.644042605	tension:soilMoisture	01:47:52.755000
-2018-02-16	tension:soilMoisture	24.396664791	tension:soilMoisture	03:22:53.261000
-2018-02-16	tension:soilMoisture	24.176825627	tension:soilMoisture	06:27:53.574000
-2018-02-16	tension:soilMoisture	21.217718930	tension:soilMoisture	14:02:54.371000
-2018-02-16	tension:soilMoisture	22.695331600	tension:soilMoisture	18:47:54.974000
-2018-02-16	tension:soilMoisture	21.491094031	tension:soilMoisture	22:12:55.310000
-2018-02-16	tension:soilMoisture	21.381689583	tension:soilMoisture	22:57:55.326000
-2018-02-17	tension:soilMoisture	26.516886220	tension:soilMoisture	04:07:55.971000
-2018-02-17	tension:soilMoisture	25.359497092	tension:soilMoisture	14:52:57.005000
-2018-02-17	tension:soilMoisture	25.276900274	tension:soilMoisture	15:12:57.025000
-2018-02-17	tension:soilMoisture	25.166705245	tension:soilMoisture	15:32:57.143000
-2018-02-17	tension:soilMoisture	27.124137132	tension:soilMoisture	18:37:57.388000
-2018-02-17	tension:soilMoisture	27.759669156	tension:soilMoisture	23:02:57.998000
-2018-02-17	tension:soilMoisture	27.980876608	tension:soilMoisture	23:57:57.947000
-2018-02-18	tension:soilMoisture	28.008434439	tension:soilMoisture	01:27:58.158000
-2018-02-18	tension:soilMoisture	25.304319132	tension:soilMoisture	14:32:59.473000
-2018-02-18	tension:soilMoisture	25.249329979	tension:soilMoisture	14:37:59.512000
-2018-02-18	tension:soilMoisture	27.925426274	tension:soilMoisture	22:13:00.276000
-2018-02-18	tension:soilMoisture	28.617468310	tension:soilMoisture	23:53:00.470000
-2018-02-19	tension:soilMoisture	28.423509415	tension:soilMoisture	02:18:00.707000
-2018-02-19	tension:soilMoisture	28.534185606	tension:soilMoisture	03:08:00.988000
-2018-02-19	tension:soilMoisture	28.534185606	tension:soilMoisture	03:33:01.395000
-2018-02-19	tension:soilMoisture	28.645074087	tension:soilMoisture	08:58:01.394000
-2018-02-19	tension:soilMoisture	27.980876608	tension:soilMoisture	13:13:03.583000
-2018-02-19	tension:soilMoisture	27.842581149	tension:soilMoisture	13:38:02.929000
-2018-02-19	tension:soilMoisture	27.676694077	tension:soilMoisture	14:53:03.013000
-2018-02-19	tension:soilMoisture	29.892628253	tension:soilMoisture	18:43:04.276000
-2018-02-19	tension:soilMoisture	29.948024824	tension:soilMoisture	19:43:02.516000
-2018-02-19	tension:soilMoisture	30.586656043	tension:soilMoisture	21:33:04.015000
-2018-02-19	tension:soilMoisture	30.781230137	tension:soilMoisture	22:23:04.060000
-2018-02-19	tension:soilMoisture	30.892426103	tension:soilMoisture	22:28:03.922000
-2018-02-19	tension:soilMoisture	30.864770737	tension:soilMoisture	22:38:04.057000
-2018-02-19	tension:soilMoisture	31.003730119	tension:soilMoisture	23:03:04.103000
-2018-02-19	tension:soilMoisture	30.948133554	tension:soilMoisture	23:13:04.071000
-2018-02-19	tension:soilMoisture	30.892426103	tension:soilMoisture	23:18:03.984000
-2018-02-20	tension:soilMoisture	31.114861007	tension:soilMoisture	01:18:04.199000
-2018-02-20	tension:soilMoisture	31.281947533	tension:soilMoisture	05:28:04.647000
-2018-02-20	tension:soilMoisture	31.393314279	tension:soilMoisture	05:48:04.690000
-2018-02-20	tension:soilMoisture	31.337409423	tension:soilMoisture	06:38:04.727000
-2018-02-20	tension:soilMoisture	31.281947533	tension:soilMoisture	06:48:04.780000
-2018-02-20	tension:soilMoisture	29.809199258	tension:soilMoisture	08:38:04.998000
-2018-02-20	tension:soilMoisture	29.282291926	tension:soilMoisture	11:13:05.185000
-2018-02-20	tension:soilMoisture	29.226877946	tension:soilMoisture	11:23:05.574000
-2018-02-20	tension:soilMoisture	29.171384151	tension:soilMoisture	11:33:05.921000
-2018-02-20	tension:soilMoisture	28.091605141	tension:soilMoisture	16:33:06.093000
-2018-02-20	tension:soilMoisture	28.063915650	tension:soilMoisture	17:13:05.903000
-2018-02-20	tension:soilMoisture	28.119103390	tension:soilMoisture	17:38:06.638000
-2018-02-20	tension:soilMoisture	28.202094868	tension:soilMoisture	17:48:06.576000
-2018-02-20	tension:soilMoisture	30.253466882	tension:soilMoisture	17:58:06.057000
-2018-02-20	tension:soilMoisture	29.753704264	tension:soilMoisture	18:28:06.531000
-2018-02-20	tension:soilMoisture	29.809199258	tension:soilMoisture	19:38:06.174000
-2018-02-20	tension:soilMoisture	29.809199258	tension:soilMoisture	19:53:06.286000
-2018-02-20	tension:soilMoisture	29.975916253	tension:soilMoisture	20:38:06.879000
-2018-02-20	tension:soilMoisture	29.809199258	tension:soilMoisture	20:48:06.373000
-2018-02-20	tension:soilMoisture	29.726148418	tension:soilMoisture	20:53:06.238000
-2018-02-21	tension:soilMoisture	29.670647931	tension:soilMoisture	02:03:06.774000
-2018-02-21	tension:soilMoisture	29.670647931	tension:soilMoisture	02:18:07.409000
-2018-02-21	tension:soilMoisture	29.753704264	tension:soilMoisture	02:23:06.773000
-2018-02-21	tension:soilMoisture	28.119103390	tension:soilMoisture	07:08:07.326000
-2018-02-21	tension:soilMoisture	28.119103390	tension:soilMoisture	07:33:07.995000
-2018-02-21	tension:soilMoisture	28.091605141	tension:soilMoisture	08:08:07.486000
-2018-02-21	tension:soilMoisture	26.268627104	tension:soilMoisture	13:53:08.043000
-2018-02-21	tension:soilMoisture	26.075667359	tension:soilMoisture	14:28:08.280000
-2018-02-21	tension:soilMoisture	26.075667359	tension:soilMoisture	14:43:08.327000
-2018-02-22	tension:soilMoisture	27.870152281	tension:soilMoisture	01:23:10.203000
-2018-02-22	tension:soilMoisture	28.645074087	tension:soilMoisture	19:13:11.293000
-2018-02-23	tension:soilMoisture	33.093239143	tension:soilMoisture	00:38:11.257000
-2018-04-05	tension:soilMoisture	102.816296030	tension:soilMoisture	08:49:55.305000
-2018-04-08	tension:soilMoisture	104.611215973	tension:soilMoisture	04:50:01.875000
-2018-04-08	tension:soilMoisture	98.521912449	tension:soilMoisture	05:50:02.797000
-2018-04-08	tension:soilMoisture	98.551836433	tension:soilMoisture	05:55:03.287000
-2018-04-08	tension:soilMoisture	97.958682143	tension:soilMoisture	07:45:03.147000
-2018-04-08	tension:soilMoisture	92.555128518	tension:soilMoisture	12:05:03.645000
-2018-04-08	tension:soilMoisture	83.592849581	tension:soilMoisture	14:40:03.923000
-2018-04-08	tension:soilMoisture	83.288490831	tension:soilMoisture	14:50:04.146000
-2018-04-08	tension:soilMoisture	83.014138605	tension:soilMoisture	15:00:03.899000
-2018-04-08	tension:soilMoisture	82.862097048	tension:soilMoisture	15:05:03.992000
-2018-04-09	tension:soilMoisture	101.589569208	tension:soilMoisture	06:00:05.479000
-2018-04-09	tension:soilMoisture	101.684701342	tension:soilMoisture	06:10:05.551000
-2018-04-09	tension:soilMoisture	101.841352777	tension:soilMoisture	07:50:05.903000
-2018-04-09	tension:soilMoisture	101.557895551	tension:soilMoisture	08:10:05.858000
-2018-04-09	tension:soilMoisture	101.433642270	tension:soilMoisture	08:20:05.812000
-2018-04-09	tension:soilMoisture	101.307422178	tension:soilMoisture	08:25:06.180000
-2018-04-09	tension:soilMoisture	101.055862819	tension:soilMoisture	08:45:05.740000
-2018-04-09	tension:soilMoisture	100.021640598	tension:soilMoisture	10:20:05.648000
-2018-04-09	tension:soilMoisture	99.835129323	tension:soilMoisture	10:35:06.038000
-2018-04-09	tension:soilMoisture	97.617323992	tension:soilMoisture	12:10:06.128000
-2018-04-09	tension:soilMoisture	97.367986652	tension:soilMoisture	12:20:06.224000
-2018-04-09	tension:soilMoisture	101.275913125	tension:soilMoisture	19:10:06.937000
-2018-04-09	tension:soilMoisture	100.241902367	tension:soilMoisture	19:30:06.951000
-2018-04-10	tension:soilMoisture	93.389286062	tension:soilMoisture	02:00:07.741000
-2018-04-10	tension:soilMoisture	92.369116210	tension:soilMoisture	02:50:07.696000
-2018-04-10	tension:soilMoisture	92.522811086	tension:soilMoisture	02:55:07.674000
-2018-04-10	tension:soilMoisture	91.875219872	tension:soilMoisture	03:15:07.774000
-2018-04-10	tension:soilMoisture	91.596527320	tension:soilMoisture	03:25:08.002000
-2018-04-10	tension:soilMoisture	91.628244901	tension:soilMoisture	03:35:07.763000
-2018-04-10	tension:soilMoisture	90.269886300	tension:soilMoisture	04:55:08.089000
-2018-04-10	tension:soilMoisture	84.721260443	tension:soilMoisture	06:00:08.087000
-2018-04-10	tension:soilMoisture	24.094468039	tension:soilMoisture	15:05:09.261000
-2018-04-10	tension:soilMoisture	23.874671297	tension:soilMoisture	17:05:08.912000
-2018-04-10	tension:soilMoisture	25.634802509	tension:soilMoisture	21:15:09.905000
-2018-04-10	tension:soilMoisture	25.744980509	tension:soilMoisture	22:15:09.715000
-2018-04-10	tension:soilMoisture	25.689900034	tension:soilMoisture	23:50:10.115000
-2018-04-11	tension:soilMoisture	26.820498151	tension:soilMoisture	01:50:10.482000
-2018-04-11	tension:soilMoisture	27.455474192	tension:soilMoisture	09:25:11.020000
-2018-04-11	tension:soilMoisture	27.234613933	tension:soilMoisture	12:05:11.202000
-2018-04-11	tension:soilMoisture	26.710086568	tension:soilMoisture	16:40:10.909000
-2018-04-11	tension:soilMoisture	27.732043179	tension:soilMoisture	23:20:12.834000
-2018-04-12	tension:soilMoisture	27.676694077	tension:soilMoisture	03:10:12.118000
-2018-04-12	tension:soilMoisture	27.566070244	tension:soilMoisture	05:05:13.274000
-2018-04-12	tension:soilMoisture	26.020503145	tension:soilMoisture	06:00:13.363000
-2018-04-12	tension:soilMoisture	26.048166201	tension:soilMoisture	06:05:13.743000
-2018-04-12	tension:soilMoisture	26.075667359	tension:soilMoisture	06:40:12.911000
-2018-04-12	tension:soilMoisture	24.974065715	tension:soilMoisture	12:05:13.585000
-2018-04-12	tension:soilMoisture	22.476203176	tension:soilMoisture	15:15:14.046000
-2018-04-12	tension:soilMoisture	22.284442816	tension:soilMoisture	15:45:14.172000
-2018-04-12	tension:soilMoisture	22.339232485	tension:soilMoisture	17:10:14.351000
-2018-04-12	tension:soilMoisture	23.984543521	tension:soilMoisture	22:25:14.930000
-2018-04-13	tension:soilMoisture	23.984543521	tension:soilMoisture	03:30:15.014000
-2018-04-13	tension:soilMoisture	23.078996834	tension:soilMoisture	06:00:15.603000
-2018-04-13	tension:soilMoisture	23.188792190	tension:soilMoisture	06:30:15.359000
-2018-04-13	tension:soilMoisture	22.038087172	tension:soilMoisture	10:55:16.508000
-2018-04-14	tension:soilMoisture	27.345137113	tension:soilMoisture	02:30:17.357000
-2018-04-14	tension:soilMoisture	28.645074087	tension:soilMoisture	05:50:18.860000
-2018-04-14	tension:soilMoisture	28.755928438	tension:soilMoisture	06:00:18.557000
-2018-04-14	tension:soilMoisture	29.420942135	tension:soilMoisture	10:00:18.514000
-2018-04-14	tension:soilMoisture	29.393127000	tension:soilMoisture	10:15:18.130000
-2018-04-14	tension:soilMoisture	29.365606795	tension:soilMoisture	10:55:18.674000
-2018-04-14	tension:soilMoisture	26.599536177	tension:soilMoisture	13:45:25.183000
-2018-04-14	tension:soilMoisture	26.268627104	tension:soilMoisture	14:05:18.391000
-2018-04-14	tension:soilMoisture	25.304319132	tension:soilMoisture	15:50:19.404000
-2018-04-14	tension:soilMoisture	25.249329979	tension:soilMoisture	16:10:19.247000
-2018-04-15	tension:soilMoisture	26.820498151	tension:soilMoisture	02:50:20.334000
-2018-04-15	tension:soilMoisture	26.847996283	tension:soilMoisture	03:00:20.589000
-2018-04-15	tension:soilMoisture	26.765201659	tension:soilMoisture	03:30:20.357000
-2018-04-15	tension:soilMoisture	26.654720144	tension:soilMoisture	04:15:20.983000
-2018-04-15	tension:soilMoisture	25.166705245	tension:soilMoisture	05:50:20.771000
-2018-04-15	tension:soilMoisture	25.276900274	tension:soilMoisture	06:15:20.406000
-2018-04-15	tension:soilMoisture	25.304319132	tension:soilMoisture	06:20:20.672000
-2018-04-15	tension:soilMoisture	22.804860469	tension:soilMoisture	17:05:22.117000
-2018-04-15	tension:soilMoisture	22.750163172	tension:soilMoisture	17:25:21.779000
-2018-04-16	tension:soilMoisture	22.503519793	tension:soilMoisture	03:25:22.422000
-2018-04-16	tension:soilMoisture	21.682532449	tension:soilMoisture	05:50:23.404000
-2018-04-16	tension:soilMoisture	21.709800900	tension:soilMoisture	05:55:23.228000
-2018-04-16	tension:soilMoisture	20.016545259	tension:soilMoisture	14:15:24.037000
-2018-04-16	tension:soilMoisture	19.689520731	tension:soilMoisture	15:20:23.046000
-2018-04-16	tension:soilMoisture	20.862602248	tension:soilMoisture	18:30:24.605000
-2018-04-16	tension:soilMoisture	21.163132559	tension:soilMoisture	18:45:24.017000
-2018-04-17	tension:soilMoisture	25.304319132	tension:soilMoisture	01:30:25.155000
-2018-04-17	tension:soilMoisture	25.579689052	tension:soilMoisture	05:50:25.659000
-2018-04-17	tension:soilMoisture	25.689900034	tension:soilMoisture	06:05:26.107000
-2018-04-17	tension:soilMoisture	24.204252052	tension:soilMoisture	12:10:25.519000
-2018-04-17	tension:soilMoisture	29.975916253	tension:soilMoisture	15:25:26.361000
-2018-04-18	tension:soilMoisture	48.196211750	tension:soilMoisture	00:55:28.042000
-2018-04-18	tension:soilMoisture	49.631306881	tension:soilMoisture	02:40:27.791000
-2018-04-18	tension:soilMoisture	49.258140645	tension:soilMoisture	05:55:28.152000
-2018-04-18	tension:soilMoisture	49.344284864	tension:soilMoisture	06:00:28.105000
-2018-04-18	tension:soilMoisture	49.430084629	tension:soilMoisture	06:10:28.628000
-2018-04-18	tension:soilMoisture	49.487430214	tension:soilMoisture	06:25:28.147000
-2018-04-18	tension:soilMoisture	49.516146863	tension:soilMoisture	06:30:28.166000
-2018-04-18	tension:soilMoisture	49.573668098	tension:soilMoisture	06:40:28.237000
-2018-04-18	tension:soilMoisture	49.544892810	tension:soilMoisture	06:55:28.402000
-2018-04-18	tension:soilMoisture	49.544892810	tension:soilMoisture	07:05:28.246000
-2018-04-18	tension:soilMoisture	49.085438298	tension:soilMoisture	07:55:28.348000
-2018-04-18	tension:soilMoisture	49.028307178	tension:soilMoisture	08:00:28.928000
-2018-04-18	tension:soilMoisture	68.616779647	tension:soilMoisture	23:50:30.068000
-2017-08-30	relativeHumidity	91.43	relativeHumidity	02:15:57.237000
-2017-08-30	relativeHumidity	89.11	relativeHumidity	08:30:57.901000
-2017-08-30	relativeHumidity	88.64	relativeHumidity	14:20:58.521000
-2017-09-01	relativeHumidity	95.5	relativeHumidity	03:31:02.439000
-2017-09-02	relativeHumidity	97.32	relativeHumidity	04:56:05.108000
-2017-09-02	relativeHumidity	97.93	relativeHumidity	05:16:05.143000
-2017-09-05	relativeHumidity	85.66	relativeHumidity	18:31:14.202000
-2017-09-15	relativeHumidity	96.01	relativeHumidity	08:11:38.056000
-2017-09-16	relativeHumidity	98.23	relativeHumidity	04:11:39.777000
-2017-10-08	relativeHumidity	70.73	relativeHumidity	15:27:33.071000
-2017-10-08	relativeHumidity	72.95	relativeHumidity	16:17:33.290000
-2017-10-09	relativeHumidity	84.25	relativeHumidity	17:47:35.604000
-2017-10-09	relativeHumidity	86.78	relativeHumidity	18:57:35.722000
-2017-10-09	relativeHumidity	88.48	relativeHumidity	19:27:35.778000
-2017-10-13	relativeHumidity	100	relativeHumidity	04:17:43.832000
-2017-10-27	relativeHumidity	83.86	relativeHumidity	16:13:18.393000
-2017-10-31	relativeHumidity	87.23	relativeHumidity	19:48:28.132000
-2017-11-02	relativeHumidity	58.44	relativeHumidity	05:23:31.079000
-2017-11-02	relativeHumidity	94.26	relativeHumidity	20:33:32.178000
-2017-11-04	relativeHumidity	98.81	relativeHumidity	18:18:37.121000
-2017-11-06	relativeHumidity	74.01	relativeHumidity	08:08:40.859000
-2017-11-07	relativeHumidity	89.28	relativeHumidity	03:23:42.881000
-2017-11-08	relativeHumidity	93.39	relativeHumidity	10:33:46.886000
-2017-11-08	relativeHumidity	94.26	relativeHumidity	11:28:47.248000
-2017-11-19	relativeHumidity	84.31	relativeHumidity	18:39:13.091000
-2017-11-20	relativeHumidity	83.43	relativeHumidity	03:59:14.032000
-2017-11-20	relativeHumidity	78.43	relativeHumidity	05:29:14.163000
-2017-11-20	relativeHumidity	95.69	relativeHumidity	19:19:15.539000
-2017-11-21	relativeHumidity	95.39	relativeHumidity	06:09:16.625000
-2017-11-23	relativeHumidity	39.95	relativeHumidity	04:24:21.304000
-2017-11-23	relativeHumidity	51.79	relativeHumidity	22:09:23.087000
-2017-11-24	relativeHumidity	98.33	relativeHumidity	09:44:24.342000
-2017-11-24	relativeHumidity	83.09	relativeHumidity	15:09:33.506000
-2018-01-26	relativeHumidity	89.97	relativeHumidity	02:22:00.041000
-2018-01-26	relativeHumidity	100	relativeHumidity	03:32:00.155000
-2018-01-26	relativeHumidity	77.91	relativeHumidity	11:52:01.040000
-2018-01-26	relativeHumidity	74.97	relativeHumidity	18:57:01.787000
-2018-01-27	relativeHumidity	79.41	relativeHumidity	04:47:02.834000
-2018-01-28	relativeHumidity	98.23	relativeHumidity	23:17:07.299000
-2018-01-29	relativeHumidity	80.33	relativeHumidity	15:22:08.986000
-2018-01-30	relativeHumidity	82.41	relativeHumidity	15:52:11.558000
-2018-01-30	relativeHumidity	84.68	relativeHumidity	16:32:11.632000
-2018-01-30	relativeHumidity	91.32	relativeHumidity	18:07:11.791000
-2018-01-30	relativeHumidity	90.16	relativeHumidity	20:52:12.083000
-2018-01-31	relativeHumidity	89.94	relativeHumidity	05:17:12.965000
-2018-01-31	relativeHumidity	89.91	relativeHumidity	05:57:13.051000
-2018-01-31	relativeHumidity	96.87	relativeHumidity	20:52:14.617000
-2018-02-01	relativeHumidity	89.56	relativeHumidity	08:02:15.790000
-2018-02-01	relativeHumidity	91.32	relativeHumidity	10:12:16.011000
-2018-02-01	relativeHumidity	88.62	relativeHumidity	12:27:16.249000
-2018-02-01	relativeHumidity	91.73	relativeHumidity	16:27:16.682000
-2018-02-01	relativeHumidity	91.34	relativeHumidity	17:57:16.839000
-2018-02-02	relativeHumidity	96.01	relativeHumidity	04:47:17.976000
-2018-02-02	relativeHumidity	93.17	relativeHumidity	06:17:18.145000
-2018-02-02	relativeHumidity	92.41	relativeHumidity	13:52:18.944000
-2018-02-02	relativeHumidity	92.74	relativeHumidity	19:02:19.493000
-2018-02-02	relativeHumidity	93.44	relativeHumidity	21:22:19.749000
-2018-02-02	relativeHumidity	92.14	relativeHumidity	23:32:19.975000
-2018-02-03	relativeHumidity	100	relativeHumidity	13:17:21.479000
-2018-02-03	relativeHumidity	98.12	relativeHumidity	14:22:22.110000
-2018-02-05	relativeHumidity	81.99	relativeHumidity	09:37:26.087000
-2018-02-05	relativeHumidity	75.7	relativeHumidity	13:37:26.500000
-2018-02-05	relativeHumidity	69.33	relativeHumidity	23:02:27.487000
-2018-02-06	relativeHumidity	76.98	relativeHumidity	00:27:27.628000
-2018-02-06	relativeHumidity	61	relativeHumidity	04:02:32.416000
-2018-02-06	relativeHumidity	59.83	relativeHumidity	10:12:28.648000
-2018-02-06	relativeHumidity	81.84	relativeHumidity	15:37:29.216000
-2018-02-06	relativeHumidity	94.91	relativeHumidity	21:12:29.811000
-2018-02-07	relativeHumidity	98.12	relativeHumidity	02:42:30.388000
-2018-02-07	relativeHumidity	95.18	relativeHumidity	06:32:30.792000
-2018-02-07	relativeHumidity	68.76	relativeHumidity	08:27:30.994000
-2018-02-08	relativeHumidity	91.43	relativeHumidity	18:47:34.908000
-2018-02-10	relativeHumidity	95.82	relativeHumidity	06:17:38.417000
-2018-02-10	relativeHumidity	90.11	relativeHumidity	10:57:38.903000
-2018-02-10	relativeHumidity	88.17	relativeHumidity	19:22:39.799000
-2018-02-10	relativeHumidity	87.28	relativeHumidity	19:32:39.806000
-2018-02-10	relativeHumidity	96.65	relativeHumidity	23:42:40.252000
-2018-02-11	relativeHumidity	91.26	relativeHumidity	21:12:42.493000
-2018-02-12	relativeHumidity	97.05	relativeHumidity	04:02:43.209000
-2018-02-12	relativeHumidity	96.84	relativeHumidity	05:37:43.381000
-2018-02-13	relativeHumidity	85.35	relativeHumidity	17:27:47.450000
-2018-02-14	relativeHumidity	93.96	relativeHumidity	19:32:50.328000
-2018-02-14	relativeHumidity	96.52	relativeHumidity	20:37:50.009000
-2018-02-15	relativeHumidity	71	relativeHumidity	13:07:51.761000
-2018-02-15	relativeHumidity	68.64	relativeHumidity	19:02:52.394000
-2018-02-15	relativeHumidity	82.55	relativeHumidity	20:02:52.477000
-2018-02-16	relativeHumidity	97.13	relativeHumidity	01:47:52.756000
-2018-02-16	relativeHumidity	91.54	relativeHumidity	14:02:54.372000
-2018-02-17	relativeHumidity	79.41	relativeHumidity	13:47:57.413000
-2018-02-17	relativeHumidity	70.82	relativeHumidity	15:12:57.026000
-2018-02-17	relativeHumidity	82.78	relativeHumidity	18:37:57.389000
-2018-02-18	relativeHumidity	81.59	relativeHumidity	14:32:59.474000
-2018-02-18	relativeHumidity	91.97	relativeHumidity	17:02:59.727000
-2018-02-20	relativeHumidity	96.73	relativeHumidity	09:08:05.054000
-2018-02-20	relativeHumidity	88.7	relativeHumidity	10:43:05.140000
-2018-02-20	relativeHumidity	87.17	relativeHumidity	11:13:05.186000
-2018-02-20	relativeHumidity	97.46	relativeHumidity	13:28:05.394000
-2018-02-20	relativeHumidity	79.04	relativeHumidity	15:23:05.688000
-2018-02-20	relativeHumidity	81.79	relativeHumidity	15:53:05.703000
-2018-02-20	relativeHumidity	84.45	relativeHumidity	16:08:05.758000
-2018-02-20	relativeHumidity	87.25	relativeHumidity	16:38:05.760000
-2018-02-20	relativeHumidity	88.78	relativeHumidity	16:48:05.962000
-2018-02-21	relativeHumidity	82.72	relativeHumidity	02:03:06.771000
-2018-02-21	relativeHumidity	85.77	relativeHumidity	02:23:06.775000
-2018-02-22	relativeHumidity	90.27	relativeHumidity	03:53:09.587000
-2018-02-23	relativeHumidity	81.7	relativeHumidity	00:38:11.257000
-2018-04-05	relativeHumidity	78.63	relativeHumidity	08:49:55.306000
-2018-04-08	relativeHumidity	98.31	relativeHumidity	04:50:01.881000
-2018-04-08	relativeHumidity	98.68	relativeHumidity	05:55:03.289000
-2018-04-08	relativeHumidity	98.76	relativeHumidity	06:00:03.527000
-2018-04-08	relativeHumidity	80.99	relativeHumidity	14:40:03.920000
-2018-04-08	relativeHumidity	86.67	relativeHumidity	15:00:03.893000
-2018-04-08	relativeHumidity	81.07	relativeHumidity	15:05:03.986000
-2018-04-09	relativeHumidity	97.16	relativeHumidity	04:00:05.394000
-2018-04-09	relativeHumidity	93.39	relativeHumidity	06:00:05.480000
-2018-04-09	relativeHumidity	93.12	relativeHumidity	06:10:05.548000
-2018-04-10	relativeHumidity	93.47	relativeHumidity	06:00:08.090000
-2018-04-10	relativeHumidity	70.1	relativeHumidity	15:05:09.254000
-2018-04-10	relativeHumidity	95.2	relativeHumidity	21:15:09.909000
-2018-04-10	relativeHumidity	95.34	relativeHumidity	23:50:10.116000
-2018-04-12	relativeHumidity	95.71	relativeHumidity	05:05:13.274000
-2018-04-12	relativeHumidity	78.11	relativeHumidity	12:05:13.585000
-2018-04-12	relativeHumidity	82.67	relativeHumidity	15:15:14.046000
-2018-04-12	relativeHumidity	76.49	relativeHumidity	17:15:14.356000
-2018-04-12	relativeHumidity	91.15	relativeHumidity	19:30:14.391000
-2018-04-12	relativeHumidity	93.99	relativeHumidity	22:00:14.630000
-2018-04-12	relativeHumidity	93.74	relativeHumidity	22:25:14.933000
-2018-04-12	relativeHumidity	93.61	relativeHumidity	23:20:14.765000
-2018-04-12	relativeHumidity	93.28	relativeHumidity	23:35:14.811000
-2018-04-12	relativeHumidity	94.1	relativeHumidity	23:55:14.938000
-2018-04-13	relativeHumidity	94.91	relativeHumidity	00:00:14.874000
-2018-04-13	relativeHumidity	95.42	relativeHumidity	00:05:14.957000
-2018-04-13	relativeHumidity	96.2	relativeHumidity	00:25:14.996000
-2018-04-14	relativeHumidity	98.39	relativeHumidity	08:40:18.375000
-2018-04-14	relativeHumidity	68.52	relativeHumidity	10:00:18.513000
-2018-04-14	relativeHumidity	77.3	relativeHumidity	13:45:25.182000
-2018-04-14	relativeHumidity	79.78	relativeHumidity	14:05:18.389000
-2018-04-15	relativeHumidity	90.08	relativeHumidity	04:15:20.984000
-2018-04-15	relativeHumidity	94.77	relativeHumidity	06:10:20.556000
-2018-04-15	relativeHumidity	67.08	relativeHumidity	17:05:22.117000
-2018-04-16	relativeHumidity	75.91	relativeHumidity	14:15:24.038000
-2018-04-16	relativeHumidity	80.82	relativeHumidity	15:20:23.045000
-2018-04-16	relativeHumidity	87.5	relativeHumidity	18:30:24.604000
-2018-04-17	relativeHumidity	100	relativeHumidity	01:30:25.154000
-2018-04-17	relativeHumidity	60.84	relativeHumidity	08:20:25.880000
-2018-04-17	relativeHumidity	56.26	relativeHumidity	12:10:25.519000
-2018-04-17	relativeHumidity	52.55	relativeHumidity	12:50:27.531000
-2018-04-17	relativeHumidity	60.35	relativeHumidity	15:25:26.361000
-2018-04-18	relativeHumidity	90.49	relativeHumidity	07:05:28.246000
-2018-04-18	relativeHumidity	95.63	relativeHumidity	23:50:30.068000
-2017-08-30	temperature:ambient	20.77	temperature:ambient	02:15:57.239000
-2017-08-30	temperature:ambient	21.93	temperature:ambient	08:30:57.901000
-2017-08-30	temperature:ambient	20.1	temperature:ambient	14:20:58.521000
-2017-09-01	temperature:ambient	15.14	temperature:ambient	03:31:02.440000
-2017-09-01	temperature:ambient	14.63	temperature:ambient	05:46:02.673000
-2017-09-02	temperature:ambient	13.73	temperature:ambient	04:56:05.107000
-2017-09-02	temperature:ambient	13.96	temperature:ambient	05:16:05.143000
-2017-09-05	temperature:ambient	21.46	temperature:ambient	18:31:14.207000
-2017-09-15	temperature:ambient	13.94	temperature:ambient	08:11:38.056000
-2017-09-16	temperature:ambient	11.66	temperature:ambient	04:11:39.777000
-2017-10-08	temperature:ambient	9.63	temperature:ambient	05:27:32.052000
-2017-10-08	temperature:ambient	20.58	temperature:ambient	15:27:33.071000
-2017-10-08	temperature:ambient	19.79	temperature:ambient	16:17:33.290000
-2017-10-09	temperature:ambient	12.07	temperature:ambient	07:37:34.616000
-2017-10-09	temperature:ambient	20.27	temperature:ambient	12:27:36.875000
-2017-10-09	temperature:ambient	17.57	temperature:ambient	17:47:35.604000
-2017-10-09	temperature:ambient	16.63	temperature:ambient	18:57:35.724000
-2017-10-09	temperature:ambient	16.09	temperature:ambient	19:27:35.778000
-2017-10-13	temperature:ambient	12.8	temperature:ambient	04:17:43.832000
-2017-10-27	temperature:ambient	19.33	temperature:ambient	16:13:18.394000
-2017-10-31	temperature:ambient	14.14	temperature:ambient	19:48:28.133000
-2017-11-02	temperature:ambient	18.75	temperature:ambient	05:23:31.082000
-2017-11-02	temperature:ambient	17.81	temperature:ambient	20:33:32.178000
-2017-11-03	temperature:ambient	13.43	temperature:ambient	23:28:35.126000
-2017-11-04	temperature:ambient	14.03	temperature:ambient	05:58:35.893000
-2017-11-06	temperature:ambient	13.01	temperature:ambient	08:08:40.860000
-2017-11-07	temperature:ambient	11.73	temperature:ambient	03:23:42.884000
-2017-11-08	temperature:ambient	10.51	temperature:ambient	10:33:45.886000
-2017-11-08	temperature:ambient	11.3	temperature:ambient	11:28:47.249000
-2017-11-19	temperature:ambient	4.79	temperature:ambient	05:59:12.825000
-2017-11-19	temperature:ambient	12.49	temperature:ambient	18:39:13.090000
-2017-11-20	temperature:ambient	8.03	temperature:ambient	03:59:14.034000
-2017-11-20	temperature:ambient	8.21	temperature:ambient	05:29:14.162000
-2017-11-20	temperature:ambient	9.37	temperature:ambient	19:19:15.541000
-2017-11-21	temperature:ambient	4.79	temperature:ambient	06:09:16.626000
-2017-11-24	temperature:ambient	14.27	temperature:ambient	09:44:24.342000
-2017-11-24	temperature:ambient	15.93	temperature:ambient	15:09:33.506000
-2018-01-25	temperature:ambient	7.69	temperature:ambient	17:06:59.054000
-2018-01-26	temperature:ambient	8.47	temperature:ambient	02:22:00.042000
-2018-01-26	temperature:ambient	7.82	temperature:ambient	03:32:00.155000
-2018-01-26	temperature:ambient	10.51	temperature:ambient	11:52:01.042000
-2018-01-26	temperature:ambient	10.8	temperature:ambient	18:57:01.786000
-2018-01-27	temperature:ambient	10.17	temperature:ambient	04:47:02.835000
-2018-01-28	temperature:ambient	5.25	temperature:ambient	01:22:05.213000
-2018-01-28	temperature:ambient	6.61	temperature:ambient	23:17:07.300000
-2018-01-30	temperature:ambient	11	temperature:ambient	15:52:11.558000
-2018-01-30	temperature:ambient	10.17	temperature:ambient	16:32:11.632000
-2018-01-30	temperature:ambient	9.28	temperature:ambient	18:07:11.792000
-2018-01-30	temperature:ambient	9.58	temperature:ambient	20:52:12.084000
-2018-01-31	temperature:ambient	8.92	temperature:ambient	05:17:12.966000
-2018-01-31	temperature:ambient	8.53	temperature:ambient	05:57:13.052000
-2018-01-31	temperature:ambient	9.82	temperature:ambient	20:52:14.617000
-2018-02-01	temperature:ambient	10.25	temperature:ambient	01:47:15.131000
-2018-02-01	temperature:ambient	9.09	temperature:ambient	08:02:15.789000
-2018-02-01	temperature:ambient	8.07	temperature:ambient	10:12:16.010000
-2018-02-01	temperature:ambient	7.61	temperature:ambient	12:27:16.250000
-2018-02-01	temperature:ambient	7.27	temperature:ambient	16:27:16.682000
-2018-02-01	temperature:ambient	7.64	temperature:ambient	17:57:16.839000
-2018-02-02	temperature:ambient	4.87	temperature:ambient	04:47:17.975000
-2018-02-02	temperature:ambient	5.37	temperature:ambient	06:17:18.145000
-2018-02-02	temperature:ambient	7.55	temperature:ambient	13:52:18.944000
-2018-02-02	temperature:ambient	6.11	temperature:ambient	19:02:19.493000
-2018-02-02	temperature:ambient	6.64	temperature:ambient	21:22:19.751000
-2018-02-02	temperature:ambient	6.75	temperature:ambient	23:32:19.976000
-2018-02-05	temperature:ambient	6.5	temperature:ambient	01:37:25.240000
-2018-02-05	temperature:ambient	5.79	temperature:ambient	02:27:25.334000
-2018-02-05	temperature:ambient	5.88	temperature:ambient	02:57:25.401000
-2018-02-05	temperature:ambient	7.93	temperature:ambient	09:37:26.084000
-2018-02-05	temperature:ambient	8.29	temperature:ambient	13:37:26.499000
-2018-02-05	temperature:ambient	7.11	temperature:ambient	23:02:27.490000
-2018-02-06	temperature:ambient	5.75	temperature:ambient	00:27:27.627000
-2018-02-06	temperature:ambient	7.31	temperature:ambient	15:37:29.216000
-2018-02-06	temperature:ambient	4.85	temperature:ambient	19:12:29.603000
-2018-02-06	temperature:ambient	5.07	temperature:ambient	21:12:29.812000
-2018-02-07	temperature:ambient	4.59	temperature:ambient	02:42:30.388000
-2018-02-07	temperature:ambient	5.33	temperature:ambient	06:32:30.792000
-2018-02-07	temperature:ambient	6.76	temperature:ambient	08:27:30.994000
-2018-02-08	temperature:ambient	5.75	temperature:ambient	18:47:34.909000
-2018-02-10	temperature:ambient	7.39	temperature:ambient	06:17:38.418000
-2018-02-10	temperature:ambient	9.77	temperature:ambient	10:57:38.903000
-2018-02-10	temperature:ambient	9.95	temperature:ambient	19:22:39.799000
-2018-02-10	temperature:ambient	9.97	temperature:ambient	19:32:39.808000
-2018-02-10	temperature:ambient	8.89	temperature:ambient	23:42:40.251000
-2018-02-11	temperature:ambient	9.23	temperature:ambient	21:12:42.494000
-2018-02-12	temperature:ambient	6.28	temperature:ambient	04:02:43.207000
-2018-02-12	temperature:ambient	5.5	temperature:ambient	05:37:43.381000
-2018-02-13	temperature:ambient	9.95	temperature:ambient	17:27:47.450000
-2018-02-14	temperature:ambient	10.77	temperature:ambient	19:32:50.329000
-2018-02-14	temperature:ambient	9.63	temperature:ambient	20:37:50.010000
-2018-02-15	temperature:ambient	11.18	temperature:ambient	09:12:51.335000
-2018-02-15	temperature:ambient	18.45	temperature:ambient	13:07:51.762000
-2018-02-15	temperature:ambient	17.44	temperature:ambient	19:02:52.393000
-2018-02-15	temperature:ambient	14.96	temperature:ambient	20:02:52.479000
-2018-02-15	temperature:ambient	13.73	temperature:ambient	20:42:52.564000
-2018-02-15	temperature:ambient	12.17	temperature:ambient	23:37:52.864000
-2018-02-16	temperature:ambient	12.03	temperature:ambient	01:47:52.756000
-2018-02-16	temperature:ambient	10.92	temperature:ambient	06:27:53.576000
-2018-02-16	temperature:ambient	15.29	temperature:ambient	14:02:54.371000
-2018-02-17	temperature:ambient	13.65	temperature:ambient	13:47:57.415000
-2018-02-17	temperature:ambient	13.41	temperature:ambient	15:12:57.026000
-2018-02-17	temperature:ambient	10.4	temperature:ambient	18:37:57.390000
-2018-02-17	temperature:ambient	7.97	temperature:ambient	23:57:57.948000
-2018-02-18	temperature:ambient	12.98	temperature:ambient	14:32:59.476000
-2018-02-18	temperature:ambient	12.23	temperature:ambient	17:02:59.729000
-2018-02-18	temperature:ambient	10.91	temperature:ambient	22:13:00.277000
-2018-02-19	temperature:ambient	10.95	temperature:ambient	02:18:00.708000
-2018-02-19	temperature:ambient	10.97	temperature:ambient	03:08:00.989000
-2018-02-19	temperature:ambient	11.95	temperature:ambient	15:48:03.337000
-2018-02-19	temperature:ambient	11.55	temperature:ambient	18:43:04.276000
-2018-02-19	temperature:ambient	11.38	temperature:ambient	22:03:04.780000
-2018-02-19	temperature:ambient	11.3	temperature:ambient	22:23:04.061000
-2018-02-19	temperature:ambient	11.13	temperature:ambient	22:28:03.924000
-2018-02-19	temperature:ambient	11.11	temperature:ambient	23:03:04.104000
-2018-02-19	temperature:ambient	11.27	temperature:ambient	23:18:03.984000
-2018-02-20	temperature:ambient	11.67	temperature:ambient	08:38:05.001000
-2018-02-20	temperature:ambient	11.54	temperature:ambient	09:08:05.059000
-2018-02-20	temperature:ambient	11.64	temperature:ambient	09:13:05.014000
-2018-02-20	temperature:ambient	13.32	temperature:ambient	10:43:05.142000
-2018-02-20	temperature:ambient	13.55	temperature:ambient	11:13:05.185000
-2018-02-20	temperature:ambient	11.88	temperature:ambient	13:28:05.400000
-2018-02-20	temperature:ambient	15.18	temperature:ambient	15:23:05.688000
-2018-02-20	temperature:ambient	13.64	temperature:ambient	15:53:05.702000
-2018-02-20	temperature:ambient	13.25	temperature:ambient	16:08:05.758000
-2018-02-20	temperature:ambient	12.78	temperature:ambient	16:38:05.759000
-2018-02-20	temperature:ambient	12.55	temperature:ambient	16:48:05.961000
-2018-02-21	temperature:ambient	10.71	temperature:ambient	02:03:06.771000
-2018-02-21	temperature:ambient	10.43	temperature:ambient	02:23:06.775000
-2018-02-23	temperature:ambient	4.27	temperature:ambient	00:38:11.257000
-2018-04-05	temperature:ambient	14.31	temperature:ambient	08:49:55.308000
-2018-04-08	temperature:ambient	11.58	temperature:ambient	04:50:01.881000
-2018-04-08	temperature:ambient	11.45	temperature:ambient	05:55:03.289000
-2018-04-08	temperature:ambient	11.43	temperature:ambient	06:00:03.526000
-2018-04-08	temperature:ambient	16.33	temperature:ambient	14:40:03.919000
-2018-04-08	temperature:ambient	16.29	temperature:ambient	15:00:03.891000
-2018-04-08	temperature:ambient	15.97	temperature:ambient	15:05:03.988000
-2018-04-09	temperature:ambient	11.52	temperature:ambient	06:00:05.481000
-2018-04-09	temperature:ambient	11.47	temperature:ambient	06:10:05.549000
-2018-04-10	temperature:ambient	13.33	temperature:ambient	15:05:09.258000
-2018-04-10	temperature:ambient	8.58	temperature:ambient	21:15:09.910000
-2018-04-10	temperature:ambient	9.17	temperature:ambient	23:50:10.115000
-2018-04-11	temperature:ambient	10.71	temperature:ambient	12:05:11.202000
-2018-04-11	temperature:ambient	11.23	temperature:ambient	16:10:11.557000
-2018-04-12	temperature:ambient	12.01	temperature:ambient	00:25:13.012000
-2018-04-12	temperature:ambient	11.18	temperature:ambient	05:05:13.273000
-2018-04-12	temperature:ambient	15.46	temperature:ambient	12:05:13.588000
-2018-04-12	temperature:ambient	15.03	temperature:ambient	15:15:14.046000
-2018-04-12	temperature:ambient	12.2	temperature:ambient	19:30:14.390000
-2018-04-12	temperature:ambient	11.96	temperature:ambient	22:25:14.931000
-2018-04-13	temperature:ambient	11.21	temperature:ambient	06:55:15.673000
-2018-04-13	temperature:ambient	11.73	temperature:ambient	22:35:16.912000
-2018-04-14	temperature:ambient	11.53	temperature:ambient	06:35:18.086000
-2018-04-14	temperature:ambient	11.6	temperature:ambient	07:15:18.180000
-2018-04-14	temperature:ambient	11.69	temperature:ambient	07:25:18.198000
-2018-04-14	temperature:ambient	18.38	temperature:ambient	10:00:18.513000
-2018-04-14	temperature:ambient	17.02	temperature:ambient	13:45:25.185000
-2018-04-14	temperature:ambient	16.48	temperature:ambient	14:05:18.391000
-2018-04-15	temperature:ambient	13.49	temperature:ambient	04:15:20.984000
-2018-04-15	temperature:ambient	12.62	temperature:ambient	06:10:20.556000
-2018-04-15	temperature:ambient	15.37	temperature:ambient	17:05:22.117000
-2018-04-16	temperature:ambient	10.33	temperature:ambient	05:55:23.228000
-2018-04-16	temperature:ambient	16.45	temperature:ambient	14:15:24.038000
-2018-04-16	temperature:ambient	15.82	temperature:ambient	15:20:23.046000
-2018-04-16	temperature:ambient	14.25	temperature:ambient	18:30:24.605000
-2018-04-17	temperature:ambient	10.31	temperature:ambient	01:30:25.153000
-2018-04-17	temperature:ambient	9.89	temperature:ambient	06:05:26.110000
-2018-04-17	temperature:ambient	10.87	temperature:ambient	06:20:25.597000
-2018-04-17	temperature:ambient	17.31	temperature:ambient	08:20:25.882000
-2018-04-17	temperature:ambient	21.29	temperature:ambient	12:10:25.520000
-2018-04-17	temperature:ambient	20.72	temperature:ambient	12:50:27.530000
-2018-04-17	temperature:ambient	20.6	temperature:ambient	15:25:26.362000
-2018-04-17	temperature:ambient	11.91	temperature:ambient	23:30:27.398000
-2018-04-17	temperature:ambient	12.03	temperature:ambient	23:45:27.428000
-2018-04-18	temperature:ambient	11.53	temperature:ambient	00:55:28.044000
-2018-04-18	temperature:ambient	11.02	temperature:ambient	06:10:28.628000
-2018-04-18	temperature:ambient	12.35	temperature:ambient	06:25:28.149000
-2018-04-18	temperature:ambient	12.53	temperature:ambient	06:30:28.166000
-2018-04-18	temperature:ambient	13.19	temperature:ambient	06:40:28.236000
-2018-04-18	temperature:ambient	14.75	temperature:ambient	07:05:28.246000
-2018-04-18	temperature:ambient	13.98	temperature:ambient	23:50:30.067000
-2017-10-08	temperature:ground	14.19	temperature:ground	05:27:32.052000
-2017-10-08	temperature:ground	13.54	temperature:ground	08:02:32.136000
-2017-10-08	temperature:ground	13.87	temperature:ground	10:02:51.314000
-2017-10-09	temperature:ground	17.09	temperature:ground	19:27:35.778000
-2017-10-11	temperature:ground	13.87	temperature:ground	11:32:39.730000
-2017-10-13	temperature:ground	14.51	temperature:ground	04:17:43.831000
-2017-10-31	temperature:ground	13.54	temperature:ground	19:48:28.132000
-2017-11-02	temperature:ground	14.83	temperature:ground	20:33:32.177000
-2017-11-03	temperature:ground	15.16	temperature:ground	13:28:34.731000
-2017-11-04	temperature:ground	14.83	temperature:ground	00:53:35.129000
-2017-11-05	temperature:ground	12.9	temperature:ground	04:08:38.122000
-2017-11-05	temperature:ground	12.58	temperature:ground	12:03:40.057000
-2017-11-07	temperature:ground	11.61	temperature:ground	03:23:42.880000
-2017-11-07	temperature:ground	12.58	temperature:ground	15:13:43.614000
-2017-11-08	temperature:ground	10.96	temperature:ground	13:28:46.236000
-2017-11-08	temperature:ground	11.29	temperature:ground	13:33:51.183000
-2017-11-10	temperature:ground	12.58	temperature:ground	13:43:51.546000
-2017-11-19	temperature:ground	8.7	temperature:ground	05:59:12.823000
-2017-11-19	temperature:ground	7.74	temperature:ground	09:59:13.505000
-2017-11-19	temperature:ground	9.35	temperature:ground	14:09:12.794000
-2017-11-19	temperature:ground	10	temperature:ground	18:39:13.089000
-2017-11-20	temperature:ground	9.35	temperature:ground	03:59:14.032000
-2017-11-20	temperature:ground	8.38	temperature:ground	05:29:14.162000
-2017-11-20	temperature:ground	9.67	temperature:ground	19:19:15.540000
-2017-11-21	temperature:ground	7.09	temperature:ground	10:29:17.450000
-2017-11-23	temperature:ground	10	temperature:ground	09:39:25.193000
-2017-11-23	temperature:ground	10.32	temperature:ground	09:54:25.322000
-2017-11-23	temperature:ground	10	temperature:ground	10:14:33.579000
-2017-11-24	temperature:ground	12.58	temperature:ground	15:09:33.506000
-2018-01-25	temperature:ground	9.67	temperature:ground	10:11:58.399000
-2018-01-25	temperature:ground	9.67	temperature:ground	10:21:58.342000
-2018-01-25	temperature:ground	9.35	temperature:ground	15:01:59.638000
-2018-01-26	temperature:ground	8.06	temperature:ground	12:52:00.795000
-2018-01-26	temperature:ground	8.38	temperature:ground	14:12:01.479000
-2018-01-26	temperature:ground	8.38	temperature:ground	16:07:01.934000
-2018-01-27	temperature:ground	7.41	temperature:ground	07:57:02.771000
-2018-01-28	temperature:ground	8.06	temperature:ground	01:22:05.214000
-2018-01-29	temperature:ground	7.74	temperature:ground	15:22:08.985000
-2018-01-30	temperature:ground	8.06	temperature:ground	13:02:10.980000
-2018-01-31	temperature:ground	8.06	temperature:ground	05:17:12.964000
-2018-01-31	temperature:ground	8.06	temperature:ground	05:57:13.051000
-2018-01-31	temperature:ground	7.74	temperature:ground	10:12:13.694000
-2018-01-31	temperature:ground	8.06	temperature:ground	10:17:13.923000
-2018-01-31	temperature:ground	8.38	temperature:ground	13:12:14.379000
-2018-01-31	temperature:ground	9.03	temperature:ground	14:12:14.253000
-2018-02-01	temperature:ground	9.03	temperature:ground	01:47:15.131000
-2018-02-01	temperature:ground	8.38	temperature:ground	10:57:16.616000
-2018-02-02	temperature:ground	6.77	temperature:ground	04:47:17.974000
-2018-02-02	temperature:ground	7.09	temperature:ground	19:02:19.491000
-2018-02-02	temperature:ground	5.8	temperature:ground	21:22:19.752000
-2018-02-03	temperature:ground	7.09	temperature:ground	14:17:22.122000
-2018-02-04	temperature:ground	6.77	temperature:ground	20:22:24.748000
-2018-02-05	temperature:ground	6.45	temperature:ground	14:37:27.035000
-2018-02-05	temperature:ground	6.77	temperature:ground	14:42:27.123000
-2018-02-05	temperature:ground	6.45	temperature:ground	20:37:27.247000
-2018-02-05	temperature:ground	6.45	temperature:ground	23:02:27.488000
-2018-02-07	temperature:ground	4.51	temperature:ground	06:32:30.791000
-2018-02-07	temperature:ground	4.83	temperature:ground	11:47:31.414000
-2018-02-07	temperature:ground	5.8	temperature:ground	16:17:32.195000
-2018-02-08	temperature:ground	6.12	temperature:ground	18:47:34.906000
-2018-02-10	temperature:ground	5.8	temperature:ground	06:17:38.416000
-2018-02-10	temperature:ground	6.12	temperature:ground	11:27:39.341000
-2018-02-10	temperature:ground	6.45	temperature:ground	13:02:39.420000
-2018-02-10	temperature:ground	8.7	temperature:ground	19:22:39.798000
-2018-02-10	temperature:ground	7.74	temperature:ground	19:32:39.807000
-2018-02-10	temperature:ground	7.74	temperature:ground	23:42:40.251000
-2018-02-12	temperature:ground	7.74	temperature:ground	04:02:43.205000
-2018-02-12	temperature:ground	11.29	temperature:ground	05:37:43.380000
-2018-02-12	temperature:ground	6.77	temperature:ground	08:42:43.974000
-2018-02-12	temperature:ground	6.77	temperature:ground	15:42:44.513000
-2018-02-13	temperature:ground	4.51	temperature:ground	12:02:46.886000
-2018-02-13	temperature:ground	5.16	temperature:ground	13:27:46.735000
-2018-02-13	temperature:ground	5.48	temperature:ground	14:37:47.422000
-2018-02-13	temperature:ground	6.12	temperature:ground	18:27:47.285000
-2018-02-14	temperature:ground	6.12	temperature:ground	05:47:48.470000
-2018-02-14	temperature:ground	7.09	temperature:ground	11:42:49.100000
-2018-02-14	temperature:ground	9.35	temperature:ground	16:52:49.702000
-2018-02-14	temperature:ground	9.03	temperature:ground	19:32:50.329000
-2018-02-14	temperature:ground	9.35	temperature:ground	20:37:50.012000
-2018-02-15	temperature:ground	7.09	temperature:ground	08:47:51.720000
-2018-02-15	temperature:ground	7.41	temperature:ground	10:42:51.948000
-2018-02-15	temperature:ground	7.41	temperature:ground	11:02:52.077000
-2018-02-15	temperature:ground	10	temperature:ground	14:57:52.404000
-2018-02-15	temperature:ground	10.64	temperature:ground	20:02:52.478000
-2018-02-15	temperature:ground	10.64	temperature:ground	23:37:52.864000
-2018-02-16	temperature:ground	9.35	temperature:ground	06:27:53.574000
-2018-02-16	temperature:ground	9.03	temperature:ground	07:47:53.798000
-2018-02-16	temperature:ground	9.35	temperature:ground	09:22:54.452000
-2018-02-16	temperature:ground	9.35	temperature:ground	09:42:53.967000
-2018-02-16	temperature:ground	10.96	temperature:ground	14:12:54.148000
-2018-02-17	temperature:ground	11.29	temperature:ground	18:37:57.388000
-2018-02-18	temperature:ground	9.03	temperature:ground	13:52:59.500000
-2018-02-18	temperature:ground	9.67	temperature:ground	17:02:59.728000
-2018-02-18	temperature:ground	9.67	temperature:ground	22:13:00.276000
-2018-02-19	temperature:ground	9.67	temperature:ground	03:08:00.989000
-2018-02-19	temperature:ground	9.35	temperature:ground	03:33:01.396000
-2018-02-19	temperature:ground	9.67	temperature:ground	10:48:01.667000
-2018-02-19	temperature:ground	10	temperature:ground	12:28:03.001000
-2018-02-19	temperature:ground	10.96	temperature:ground	22:03:04.780000
-2018-02-19	temperature:ground	10.32	temperature:ground	22:23:04.062000
-2018-02-19	temperature:ground	10.64	temperature:ground	22:28:03.921000
-2018-02-20	temperature:ground	8.7	temperature:ground	04:13:04.511000
-2018-02-20	temperature:ground	10.32	temperature:ground	04:48:04.494000
-2018-02-20	temperature:ground	10	temperature:ground	04:53:05.003000
-2018-02-20	temperature:ground	10	temperature:ground	05:48:04.695000
-2018-02-20	temperature:ground	10	temperature:ground	10:58:05.523000
-2018-02-20	temperature:ground	9.67	temperature:ground	11:03:06.101000
-2018-02-21	temperature:ground	10	temperature:ground	02:23:06.774000
-2018-02-21	temperature:ground	9.67	temperature:ground	13:43:08.201000
-2018-02-22	temperature:ground	8.7	temperature:ground	14:13:11.347000
-2018-02-22	temperature:ground	9.03	temperature:ground	14:38:10.873000
-2018-02-22	temperature:ground	9.35	temperature:ground	14:58:10.843000
-2018-04-05	temperature:ground	10.64	temperature:ground	08:49:55.305000
-2018-04-08	temperature:ground	11.61	temperature:ground	04:50:01.875000
-2018-04-08	temperature:ground	11.61	temperature:ground	09:45:03.137000
-2018-04-08	temperature:ground	12.9	temperature:ground	12:55:04.382000
-2018-04-08	temperature:ground	13.22	temperature:ground	13:10:04.124000
-2018-04-08	temperature:ground	15.16	temperature:ground	14:50:04.145000
-2018-04-08	temperature:ground	15.8	temperature:ground	15:30:03.674000
-2018-04-09	temperature:ground	12.58	temperature:ground	10:10:05.796000
-2018-04-09	temperature:ground	13.54	temperature:ground	13:10:06.673000
-2018-04-09	temperature:ground	13.22	temperature:ground	21:20:07.510000
-2018-04-09	temperature:ground	12.9	temperature:ground	21:25:07.184000
-2018-04-10	temperature:ground	11.93	temperature:ground	02:15:07.792000
-2018-04-10	temperature:ground	11.61	temperature:ground	02:35:07.784000
-2018-04-10	temperature:ground	12.25	temperature:ground	02:50:07.696000
-2018-04-10	temperature:ground	11.61	temperature:ground	02:55:07.674000
-2018-04-10	temperature:ground	11.61	temperature:ground	03:15:07.773000
-2018-04-10	temperature:ground	12.25	temperature:ground	03:20:07.931000
-2018-04-10	temperature:ground	10.32	temperature:ground	04:05:08.091000
-2018-04-10	temperature:ground	12.58	temperature:ground	18:00:09.067000
-2018-04-10	temperature:ground	11.93	temperature:ground	21:15:09.904000
-2018-04-10	temperature:ground	11.61	temperature:ground	23:50:10.115000
-2018-04-11	temperature:ground	10.32	temperature:ground	23:25:12.511000
-2018-04-12	temperature:ground	10.32	temperature:ground	01:45:12.696000
-2018-04-12	temperature:ground	10	temperature:ground	08:20:13.050000
-2018-04-12	temperature:ground	10.32	temperature:ground	08:30:13.146000
-2018-04-12	temperature:ground	10.64	temperature:ground	11:50:14.954000
-2018-04-12	temperature:ground	10.96	temperature:ground	12:25:13.918000
-2018-04-12	temperature:ground	11.93	temperature:ground	13:30:14.278000
-2018-04-12	temperature:ground	12.25	temperature:ground	13:45:13.936000
-2018-04-12	temperature:ground	13.54	temperature:ground	15:00:13.931000
-2018-04-12	temperature:ground	14.19	temperature:ground	15:50:13.689000
-2018-04-12	temperature:ground	14.51	temperature:ground	19:30:14.389000
-2018-04-12	temperature:ground	13.22	temperature:ground	22:25:14.932000
-2018-04-13	temperature:ground	11.29	temperature:ground	05:40:15.191000
-2018-04-13	temperature:ground	11.61	temperature:ground	10:35:20.280000
-2018-04-13	temperature:ground	11.93	temperature:ground	11:25:16.087000
-2018-04-13	temperature:ground	12.25	temperature:ground	12:05:16.711000
-2018-04-13	temperature:ground	12.58	temperature:ground	13:25:15.114000
-2018-04-13	temperature:ground	11.93	temperature:ground	22:35:16.913000
-2018-04-14	temperature:ground	11.61	temperature:ground	10:00:18.513000
-2018-04-14	temperature:ground	12.25	temperature:ground	12:30:26.763000
-2018-04-14	temperature:ground	13.87	temperature:ground	13:45:25.183000
-2018-04-14	temperature:ground	14.19	temperature:ground	14:05:18.390000
-2018-04-14	temperature:ground	16.12	temperature:ground	16:55:19.498000
-2018-04-14	temperature:ground	16.45	temperature:ground	17:00:19.457000
-2018-04-15	temperature:ground	12.9	temperature:ground	09:00:21.225000
-2018-04-15	temperature:ground	12.58	temperature:ground	09:05:20.968000
-2018-04-15	temperature:ground	12.9	temperature:ground	09:20:22.042000
-2018-04-15	temperature:ground	13.54	temperature:ground	11:45:35.197000
-2018-04-15	temperature:ground	13.87	temperature:ground	14:05:21.703000
-2018-04-16	temperature:ground	11.61	temperature:ground	07:50:23.379000
-2018-04-16	temperature:ground	11.61	temperature:ground	08:40:23.499000
-2018-04-16	temperature:ground	15.48	temperature:ground	15:20:23.046000
-2018-04-17	temperature:ground	13.87	temperature:ground	01:30:25.154000
-2018-04-17	temperature:ground	12.9	temperature:ground	03:55:24.779000
-2018-04-17	temperature:ground	11.93	temperature:ground	06:05:26.107000
-2018-04-17	temperature:ground	12.25	temperature:ground	12:10:25.520000
-2018-04-17	temperature:ground	12.9	temperature:ground	12:50:27.531000
-2018-04-18	temperature:ground	14.51	temperature:ground	00:55:28.043000
-2018-04-18	temperature:ground	12.9	temperature:ground	11:15:28.535000
+date	attribute	attrValue	time
+2017-08-30	tension:soilMoisture	506.124665432	02:15:57.236000
+2017-08-30	tension:soilMoisture	432.207194607	08:30:57.900000
+2017-08-30	tension:soilMoisture	419.523172570	14:20:58.523000
+2017-09-01	tension:soilMoisture	105.748852818	03:31:02.438000
+2017-09-01	tension:soilMoisture	86.033994452	05:46:02.671000
+2017-09-02	tension:soilMoisture	54.681320699	04:56:05.104000
+2017-09-02	tension:soilMoisture	54.739656116	05:16:05.143000
+2017-09-03	tension:soilMoisture	104.045058662	20:21:08.900000
+2017-09-03	tension:soilMoisture	104.706936450	21:51:09.331000
+2017-09-05	tension:soilMoisture	103.444810163	18:31:14.202000
+2017-09-06	tension:soilMoisture	135.288110636	20:41:17.361000
+2017-09-15	tension:soilMoisture	17.785072044	08:11:38.053000
+2017-09-16	tension:soilMoisture	33.651546724	04:11:39.777000
+2017-10-08	tension:soilMoisture	48.483373611	05:27:32.052000
+2017-10-08	tension:soilMoisture	45.993903458	15:27:33.072000
+2017-10-08	tension:soilMoisture	46.965097405	16:17:33.290000
+2017-10-09	tension:soilMoisture	59.806341276	07:37:34.616000
+2017-10-09	tension:soilMoisture	59.250180659	08:22:34.726000
+2017-10-09	tension:soilMoisture	63.266987397	12:17:35.325000
+2017-10-09	tension:soilMoisture	65.920933602	17:47:35.602000
+2017-10-09	tension:soilMoisture	66.098676709	18:27:35.677000
+2017-10-09	tension:soilMoisture	66.600801689	18:57:35.723000
+2017-10-09	tension:soilMoisture	67.134106119	19:27:35.778000
+2017-10-13	tension:soilMoisture	107.332430930	04:17:43.830000
+2017-10-27	tension:soilMoisture	165.091116779	15:48:18.123000
+2017-10-27	tension:soilMoisture	200.110711719	16:13:18.393000
+2017-10-31	tension:soilMoisture	206.694746957	17:33:27.718000
+2017-11-01	tension:soilMoisture	213.486997617	03:23:28.538000
+2017-11-02	tension:soilMoisture	189.973124943	05:23:31.081000
+2017-11-02	tension:soilMoisture	179.919007682	09:03:31.588000
+2017-11-02	tension:soilMoisture	180.951920722	20:33:32.178000
+2017-11-03	tension:soilMoisture	167.286737914	15:48:34.521000
+2017-11-03	tension:soilMoisture	189.430316987	23:28:35.125000
+2017-11-04	tension:soilMoisture	190.917123788	05:58:35.893000
+2017-11-04	tension:soilMoisture	185.791448930	18:18:37.121000
+2017-11-05	tension:soilMoisture	22.476203176	20:58:39.788000
+2017-11-06	tension:soilMoisture	23.984543521	08:08:40.855000
+2017-11-06	tension:soilMoisture	22.750163172	16:28:42.062000
+2017-11-07	tension:soilMoisture	22.859760381	03:23:42.879000
+2017-11-07	tension:soilMoisture	20.316632500	17:38:44.563000
+2017-11-08	tension:soilMoisture	25.634802509	10:33:46.883000
+2017-11-08	tension:soilMoisture	26.268627104	11:28:48.243000
+2017-11-09	tension:soilMoisture	28.839034832	07:08:47.979000
+2017-11-11	tension:soilMoisture	30.586656043	01:53:52.228000
+2017-11-19	tension:soilMoisture	42.322374682	05:59:12.824000
+2017-11-19	tension:soilMoisture	37.689229526	14:24:12.677000
+2017-11-19	tension:soilMoisture	39.379902918	16:09:12.939000
+2017-11-19	tension:soilMoisture	43.316179503	18:39:13.089000
+2017-11-20	tension:soilMoisture	48.024182456	03:59:14.032000
+2017-11-20	tension:soilMoisture	49.028307178	05:29:14.162000
+2017-11-20	tension:soilMoisture	49.430084629	19:19:15.540000
+2017-11-21	tension:soilMoisture	58.958062666	06:09:16.625000
+2017-11-21	tension:soilMoisture	55.638672380	10:29:17.448000
+2017-11-23	tension:soilMoisture	70.520127824	04:24:21.304000
+2017-11-24	tension:soilMoisture	80.433012492	09:44:24.342000
+2017-11-24	tension:soilMoisture	78.317264508	15:09:33.507000
+2018-01-25	tension:soilMoisture	25.855085801	17:06:59.053000
+2018-01-25	tension:soilMoisture	29.005180895	23:21:59.831000
+2018-01-26	tension:soilMoisture	29.448800013	02:22:00.040000
+2018-01-26	tension:soilMoisture	29.920175628	03:32:00.156000
+2018-01-26	tension:soilMoisture	30.308895655	08:47:00.768000
+2018-01-26	tension:soilMoisture	29.615059906	13:42:01.688000
+2018-01-26	tension:soilMoisture	29.670647931	17:12:01.610000
+2018-01-26	tension:soilMoisture	31.755134168	18:57:01.786000
+2018-01-27	tension:soilMoisture	31.476772821	04:47:02.834000
+2018-01-27	tension:soilMoisture	29.670647931	07:57:02.770000
+2018-01-28	tension:soilMoisture	28.478880836	01:22:05.214000
+2018-01-28	tension:soilMoisture	28.478880836	02:12:05.203000
+2018-01-29	tension:soilMoisture	21.846612346	15:22:08.984000
+2018-01-29	tension:soilMoisture	23.024142264	19:27:09.419000
+2018-01-30	tension:soilMoisture	22.640535625	05:52:10.548000
+2018-01-30	tension:soilMoisture	21.573045399	11:37:11.212000
+2018-01-30	tension:soilMoisture	25.001555038	15:52:11.557000
+2018-01-30	tension:soilMoisture	25.965316422	16:32:11.631000
+2018-01-30	tension:soilMoisture	29.531867247	18:07:11.790000
+2018-01-30	tension:soilMoisture	30.503536873	20:52:12.082000
+2018-01-31	tension:soilMoisture	30.670146087	05:12:12.985000
+2018-01-31	tension:soilMoisture	30.698058948	05:17:12.965000
+2018-01-31	tension:soilMoisture	30.642274711	05:57:13.052000
+2018-01-31	tension:soilMoisture	30.670146087	11:42:13.805000
+2018-01-31	tension:soilMoisture	30.781230137	12:17:13.792000
+2018-01-31	tension:soilMoisture	37.464063401	20:52:14.612000
+2018-02-01	tension:soilMoisture	20.671486990	01:47:15.130000
+2018-02-01	tension:soilMoisture	27.510796738	06:22:15.682000
+2018-02-01	tension:soilMoisture	26.737621494	10:12:16.008000
+2018-02-01	tension:soilMoisture	26.765201659	12:27:16.249000
+2018-02-01	tension:soilMoisture	26.765201659	16:27:16.681000
+2018-02-01	tension:soilMoisture	26.903127566	17:07:16.903000
+2018-02-01	tension:soilMoisture	29.005180895	17:57:16.839000
+2018-02-02	tension:soilMoisture	31.003730119	04:47:17.974000
+2018-02-02	tension:soilMoisture	29.698377096	08:52:18.440000
+2018-02-02	tension:soilMoisture	29.060659292	13:52:18.943000
+2018-02-02	tension:soilMoisture	30.948133554	19:02:19.489000
+2018-02-02	tension:soilMoisture	31.448818795	21:22:19.747000
+2018-02-02	tension:soilMoisture	31.448818795	23:32:19.973000
+2018-02-04	tension:soilMoisture	36.929968500	16:12:24.270000
+2018-02-05	tension:soilMoisture	40.029508503	02:27:25.334000
+2018-02-05	tension:soilMoisture	40.226942904	06:12:25.776000
+2018-02-05	tension:soilMoisture	38.167542703	09:37:26.082000
+2018-02-05	tension:soilMoisture	36.901594529	13:37:26.500000
+2018-02-05	tension:soilMoisture	39.041134116	20:37:27.247000
+2018-02-05	tension:soilMoisture	39.097521044	23:02:27.488000
+2018-02-06	tension:soilMoisture	39.041134116	00:27:27.627000
+2018-02-06	tension:soilMoisture	39.041134116	04:02:32.419000
+2018-02-06	tension:soilMoisture	35.834912287	10:12:28.648000
+2018-02-06	tension:soilMoisture	33.484049245	16:47:48.337000
+2018-02-06	tension:soilMoisture	37.238919298	19:12:29.602000
+2018-02-06	tension:soilMoisture	37.632818850	21:12:29.809000
+2018-02-07	tension:soilMoisture	39.097521044	02:42:30.386000
+2018-02-07	tension:soilMoisture	39.803136040	06:32:30.791000
+2018-02-07	tension:soilMoisture	37.295459148	08:27:30.993000
+2018-02-08	tension:soilMoisture	34.854121615	08:22:33.625000
+2018-02-08	tension:soilMoisture	34.210763631	18:47:34.906000
+2018-02-08	tension:soilMoisture	34.182565711	19:27:34.750000
+2018-02-10	tension:soilMoisture	30.781230137	06:17:38.417000
+2018-02-10	tension:soilMoisture	29.060659292	10:57:38.902000
+2018-02-10	tension:soilMoisture	30.781230137	19:32:39.807000
+2018-02-11	tension:soilMoisture	30.725741784	03:27:40.655000
+2018-02-11	tension:soilMoisture	30.725741784	03:42:40.734000
+2018-02-11	tension:soilMoisture	32.451522474	21:12:42.491000
+2018-02-12	tension:soilMoisture	34.406620159	04:02:43.207000
+2018-02-12	tension:soilMoisture	34.686170816	05:37:43.380000
+2018-02-12	tension:soilMoisture	37.182897138	23:32:45.264000
+2018-02-13	tension:soilMoisture	37.886258833	04:12:45.868000
+2018-02-13	tension:soilMoisture	34.266625486	13:22:46.732000
+2018-02-13	tension:soilMoisture	33.372322123	17:22:47.224000
+2018-02-13	tension:soilMoisture	33.344331629	17:27:47.450000
+2018-02-13	tension:soilMoisture	35.386464171	20:17:47.490000
+2018-02-14	tension:soilMoisture	32.730414435	07:17:48.632000
+2018-02-14	tension:soilMoisture	30.364490346	19:32:50.329000
+2018-02-14	tension:soilMoisture	30.419984504	20:37:50.009000
+2018-02-15	tension:soilMoisture	27.842581149	09:12:51.334000
+2018-02-15	tension:soilMoisture	24.726480037	14:12:51.877000
+2018-02-15	tension:soilMoisture	24.974065715	19:02:52.392000
+2018-02-15	tension:soilMoisture	24.781614462	20:42:52.562000
+2018-02-15	tension:soilMoisture	24.616595593	23:42:52.907000
+2018-02-16	tension:soilMoisture	24.644042605	01:47:52.755000
+2018-02-16	tension:soilMoisture	24.396664791	03:22:53.261000
+2018-02-16	tension:soilMoisture	24.176825627	06:27:53.574000
+2018-02-16	tension:soilMoisture	21.217718930	14:02:54.371000
+2018-02-16	tension:soilMoisture	22.695331600	18:47:54.974000
+2018-02-16	tension:soilMoisture	21.491094031	22:12:55.310000
+2018-02-16	tension:soilMoisture	21.381689583	22:57:55.326000
+2018-02-17	tension:soilMoisture	26.516886220	04:07:55.971000
+2018-02-17	tension:soilMoisture	25.359497092	14:52:57.005000
+2018-02-17	tension:soilMoisture	25.276900274	15:12:57.025000
+2018-02-17	tension:soilMoisture	25.166705245	15:32:57.143000
+2018-02-17	tension:soilMoisture	27.124137132	18:37:57.388000
+2018-02-17	tension:soilMoisture	27.759669156	23:02:57.998000
+2018-02-17	tension:soilMoisture	27.980876608	23:57:57.947000
+2018-02-18	tension:soilMoisture	28.008434439	01:27:58.158000
+2018-02-18	tension:soilMoisture	25.304319132	14:32:59.473000
+2018-02-18	tension:soilMoisture	25.249329979	14:37:59.512000
+2018-02-18	tension:soilMoisture	27.925426274	22:13:00.276000
+2018-02-18	tension:soilMoisture	28.617468310	23:53:00.470000
+2018-02-19	tension:soilMoisture	28.423509415	02:18:00.707000
+2018-02-19	tension:soilMoisture	28.534185606	03:08:00.988000
+2018-02-19	tension:soilMoisture	28.534185606	03:33:01.395000
+2018-02-19	tension:soilMoisture	28.645074087	08:58:01.394000
+2018-02-19	tension:soilMoisture	27.980876608	13:13:03.583000
+2018-02-19	tension:soilMoisture	27.842581149	13:38:02.929000
+2018-02-19	tension:soilMoisture	27.676694077	14:53:03.013000
+2018-02-19	tension:soilMoisture	29.892628253	18:43:04.276000
+2018-02-19	tension:soilMoisture	29.948024824	19:43:02.516000
+2018-02-19	tension:soilMoisture	30.586656043	21:33:04.015000
+2018-02-19	tension:soilMoisture	30.781230137	22:23:04.060000
+2018-02-19	tension:soilMoisture	30.892426103	22:28:03.922000
+2018-02-19	tension:soilMoisture	30.864770737	22:38:04.057000
+2018-02-19	tension:soilMoisture	31.003730119	23:03:04.103000
+2018-02-19	tension:soilMoisture	30.948133554	23:13:04.071000
+2018-02-19	tension:soilMoisture	30.892426103	23:18:03.984000
+2018-02-20	tension:soilMoisture	31.114861007	01:18:04.199000
+2018-02-20	tension:soilMoisture	31.281947533	05:28:04.647000
+2018-02-20	tension:soilMoisture	31.393314279	05:48:04.690000
+2018-02-20	tension:soilMoisture	31.337409423	06:38:04.727000
+2018-02-20	tension:soilMoisture	31.281947533	06:48:04.780000
+2018-02-20	tension:soilMoisture	29.809199258	08:38:04.998000
+2018-02-20	tension:soilMoisture	29.282291926	11:13:05.185000
+2018-02-20	tension:soilMoisture	29.226877946	11:23:05.574000
+2018-02-20	tension:soilMoisture	29.171384151	11:33:05.921000
+2018-02-20	tension:soilMoisture	28.091605141	16:33:06.093000
+2018-02-20	tension:soilMoisture	28.063915650	17:13:05.903000
+2018-02-20	tension:soilMoisture	28.119103390	17:38:06.638000
+2018-02-20	tension:soilMoisture	28.202094868	17:48:06.576000
+2018-02-20	tension:soilMoisture	30.253466882	17:58:06.057000
+2018-02-20	tension:soilMoisture	29.753704264	18:28:06.531000
+2018-02-20	tension:soilMoisture	29.809199258	19:38:06.174000
+2018-02-20	tension:soilMoisture	29.809199258	19:53:06.286000
+2018-02-20	tension:soilMoisture	29.975916253	20:38:06.879000
+2018-02-20	tension:soilMoisture	29.809199258	20:48:06.373000
+2018-02-20	tension:soilMoisture	29.726148418	20:53:06.238000
+2018-02-21	tension:soilMoisture	29.670647931	02:03:06.774000
+2018-02-21	tension:soilMoisture	29.670647931	02:18:07.409000
+2018-02-21	tension:soilMoisture	29.753704264	02:23:06.773000
+2018-02-21	tension:soilMoisture	28.119103390	07:08:07.326000
+2018-02-21	tension:soilMoisture	28.119103390	07:33:07.995000
+2018-02-21	tension:soilMoisture	28.091605141	08:08:07.486000
+2018-02-21	tension:soilMoisture	26.268627104	13:53:08.043000
+2018-02-21	tension:soilMoisture	26.075667359	14:28:08.280000
+2018-02-21	tension:soilMoisture	26.075667359	14:43:08.327000
+2018-02-22	tension:soilMoisture	27.870152281	01:23:10.203000
+2018-02-22	tension:soilMoisture	28.645074087	19:13:11.293000
+2018-02-23	tension:soilMoisture	33.093239143	00:38:11.257000
+2018-04-05	tension:soilMoisture	102.816296030	08:49:55.305000
+2018-04-08	tension:soilMoisture	104.611215973	04:50:01.875000
+2018-04-08	tension:soilMoisture	98.521912449	05:50:02.797000
+2018-04-08	tension:soilMoisture	98.551836433	05:55:03.287000
+2018-04-08	tension:soilMoisture	97.958682143	07:45:03.147000
+2018-04-08	tension:soilMoisture	92.555128518	12:05:03.645000
+2018-04-08	tension:soilMoisture	83.592849581	14:40:03.923000
+2018-04-08	tension:soilMoisture	83.288490831	14:50:04.146000
+2018-04-08	tension:soilMoisture	83.014138605	15:00:03.899000
+2018-04-08	tension:soilMoisture	82.862097048	15:05:03.992000
+2018-04-09	tension:soilMoisture	101.589569208	06:00:05.479000
+2018-04-09	tension:soilMoisture	101.684701342	06:10:05.551000
+2018-04-09	tension:soilMoisture	101.841352777	07:50:05.903000
+2018-04-09	tension:soilMoisture	101.557895551	08:10:05.858000
+2018-04-09	tension:soilMoisture	101.433642270	08:20:05.812000
+2018-04-09	tension:soilMoisture	101.307422178	08:25:06.180000
+2018-04-09	tension:soilMoisture	101.055862819	08:45:05.740000
+2018-04-09	tension:soilMoisture	100.021640598	10:20:05.648000
+2018-04-09	tension:soilMoisture	99.835129323	10:35:06.038000
+2018-04-09	tension:soilMoisture	97.617323992	12:10:06.128000
+2018-04-09	tension:soilMoisture	97.367986652	12:20:06.224000
+2018-04-09	tension:soilMoisture	101.275913125	19:10:06.937000
+2018-04-09	tension:soilMoisture	100.241902367	19:30:06.951000
+2018-04-10	tension:soilMoisture	93.389286062	02:00:07.741000
+2018-04-10	tension:soilMoisture	92.369116210	02:50:07.696000
+2018-04-10	tension:soilMoisture	92.522811086	02:55:07.674000
+2018-04-10	tension:soilMoisture	91.875219872	03:15:07.774000
+2018-04-10	tension:soilMoisture	91.596527320	03:25:08.002000
+2018-04-10	tension:soilMoisture	91.628244901	03:35:07.763000
+2018-04-10	tension:soilMoisture	90.269886300	04:55:08.089000
+2018-04-10	tension:soilMoisture	84.721260443	06:00:08.087000
+2018-04-10	tension:soilMoisture	24.094468039	15:05:09.261000
+2018-04-10	tension:soilMoisture	23.874671297	17:05:08.912000
+2018-04-10	tension:soilMoisture	25.634802509	21:15:09.905000
+2018-04-10	tension:soilMoisture	25.744980509	22:15:09.715000
+2018-04-10	tension:soilMoisture	25.689900034	23:50:10.115000
+2018-04-11	tension:soilMoisture	26.820498151	01:50:10.482000
+2018-04-11	tension:soilMoisture	27.455474192	09:25:11.020000
+2018-04-11	tension:soilMoisture	27.234613933	12:05:11.202000
+2018-04-11	tension:soilMoisture	26.710086568	16:40:10.909000
+2018-04-11	tension:soilMoisture	27.732043179	23:20:12.834000
+2018-04-12	tension:soilMoisture	27.676694077	03:10:12.118000
+2018-04-12	tension:soilMoisture	27.566070244	05:05:13.274000
+2018-04-12	tension:soilMoisture	26.020503145	06:00:13.363000
+2018-04-12	tension:soilMoisture	26.048166201	06:05:13.743000
+2018-04-12	tension:soilMoisture	26.075667359	06:40:12.911000
+2018-04-12	tension:soilMoisture	24.974065715	12:05:13.585000
+2018-04-12	tension:soilMoisture	22.476203176	15:15:14.046000
+2018-04-12	tension:soilMoisture	22.284442816	15:45:14.172000
+2018-04-12	tension:soilMoisture	22.339232485	17:10:14.351000
+2018-04-12	tension:soilMoisture	23.984543521	22:25:14.930000
+2018-04-13	tension:soilMoisture	23.984543521	03:30:15.014000
+2018-04-13	tension:soilMoisture	23.078996834	06:00:15.603000
+2018-04-13	tension:soilMoisture	23.188792190	06:30:15.359000
+2018-04-13	tension:soilMoisture	22.038087172	10:55:16.508000
+2018-04-14	tension:soilMoisture	27.345137113	02:30:17.357000
+2018-04-14	tension:soilMoisture	28.645074087	05:50:18.860000
+2018-04-14	tension:soilMoisture	28.755928438	06:00:18.557000
+2018-04-14	tension:soilMoisture	29.420942135	10:00:18.514000
+2018-04-14	tension:soilMoisture	29.393127000	10:15:18.130000
+2018-04-14	tension:soilMoisture	29.365606795	10:55:18.674000
+2018-04-14	tension:soilMoisture	26.599536177	13:45:25.183000
+2018-04-14	tension:soilMoisture	26.268627104	14:05:18.391000
+2018-04-14	tension:soilMoisture	25.304319132	15:50:19.404000
+2018-04-14	tension:soilMoisture	25.249329979	16:10:19.247000
+2018-04-15	tension:soilMoisture	26.820498151	02:50:20.334000
+2018-04-15	tension:soilMoisture	26.847996283	03:00:20.589000
+2018-04-15	tension:soilMoisture	26.765201659	03:30:20.357000
+2018-04-15	tension:soilMoisture	26.654720144	04:15:20.983000
+2018-04-15	tension:soilMoisture	25.166705245	05:50:20.771000
+2018-04-15	tension:soilMoisture	25.276900274	06:15:20.406000
+2018-04-15	tension:soilMoisture	25.304319132	06:20:20.672000
+2018-04-15	tension:soilMoisture	22.804860469	17:05:22.117000
+2018-04-15	tension:soilMoisture	22.750163172	17:25:21.779000
+2018-04-16	tension:soilMoisture	22.503519793	03:25:22.422000
+2018-04-16	tension:soilMoisture	21.682532449	05:50:23.404000
+2018-04-16	tension:soilMoisture	21.709800900	05:55:23.228000
+2018-04-16	tension:soilMoisture	20.016545259	14:15:24.037000
+2018-04-16	tension:soilMoisture	19.689520731	15:20:23.046000
+2018-04-16	tension:soilMoisture	20.862602248	18:30:24.605000
+2018-04-16	tension:soilMoisture	21.163132559	18:45:24.017000
+2018-04-17	tension:soilMoisture	25.304319132	01:30:25.155000
+2018-04-17	tension:soilMoisture	25.579689052	05:50:25.659000
+2018-04-17	tension:soilMoisture	25.689900034	06:05:26.107000
+2018-04-17	tension:soilMoisture	24.204252052	12:10:25.519000
+2018-04-17	tension:soilMoisture	29.975916253	15:25:26.361000
+2018-04-18	tension:soilMoisture	48.196211750	00:55:28.042000
+2018-04-18	tension:soilMoisture	49.631306881	02:40:27.791000
+2018-04-18	tension:soilMoisture	49.258140645	05:55:28.152000
+2018-04-18	tension:soilMoisture	49.344284864	06:00:28.105000
+2018-04-18	tension:soilMoisture	49.430084629	06:10:28.628000
+2018-04-18	tension:soilMoisture	49.487430214	06:25:28.147000
+2018-04-18	tension:soilMoisture	49.516146863	06:30:28.166000
+2018-04-18	tension:soilMoisture	49.573668098	06:40:28.237000
+2018-04-18	tension:soilMoisture	49.544892810	06:55:28.402000
+2018-04-18	tension:soilMoisture	49.544892810	07:05:28.246000
+2018-04-18	tension:soilMoisture	49.085438298	07:55:28.348000
+2018-04-18	tension:soilMoisture	49.028307178	08:00:28.928000
+2018-04-18	tension:soilMoisture	68.616779647	23:50:30.068000
+2018-04-20	tension:soilMoisture	95.562474205	17:55:34.453000
+2018-04-20	tension:soilMoisture	105.875877035	19:50:34.601000
+2018-04-21	tension:soilMoisture	118.656890212	05:30:35.638000
+2018-04-22	tension:soilMoisture	144.210124193	02:45:38.194000
+2018-04-22	tension:soilMoisture	140.617259742	05:20:38.433000
+2018-04-22	tension:soilMoisture	140.650750906	05:25:38.636000
+2018-04-22	tension:soilMoisture	140.986501210	05:35:38.163000
+2018-04-22	tension:soilMoisture	141.488767523	05:55:38.136000
+2018-04-22	tension:soilMoisture	141.692329694	06:05:38.193000
+2018-04-22	tension:soilMoisture	141.824094144	06:10:38.202000
+2018-04-22	tension:soilMoisture	131.746856222	16:20:38.684000
+2018-04-22	tension:soilMoisture	154.562686369	21:15:38.988000
+2018-04-23	tension:soilMoisture	162.695293858	02:10:40.897000
+2018-04-23	tension:soilMoisture	155.627740258	08:25:41.271000
+2018-04-23	tension:soilMoisture	151.899506226	12:25:41.848000
+2018-04-23	tension:soilMoisture	150.538600971	13:35:41.448000
+2018-04-23	tension:soilMoisture	150.676983651	14:50:41.660000
+2018-04-24	tension:soilMoisture	165.473201986	02:20:42.090000
+2018-04-24	tension:soilMoisture	166.972142842	22:30:45.572000
+2018-04-25	tension:soilMoisture	169.461349136	00:50:45.241000
+2018-04-25	tension:soilMoisture	169.881161352	01:15:45.394000
+2018-04-25	tension:soilMoisture	169.737000684	01:25:45.324000
+2018-04-25	tension:soilMoisture	170.158128295	01:30:45.575000
+2018-04-25	tension:soilMoisture	163.111259922	07:20:46.537000
+2017-08-30	relativeHumidity	91.43	02:15:57.237000
+2017-08-30	relativeHumidity	89.11	08:30:57.901000
+2017-08-30	relativeHumidity	88.64	14:20:58.521000
+2017-09-01	relativeHumidity	95.5	03:31:02.439000
+2017-09-02	relativeHumidity	97.32	04:56:05.108000
+2017-09-02	relativeHumidity	97.93	05:16:05.143000
+2017-09-05	relativeHumidity	85.66	18:31:14.202000
+2017-09-15	relativeHumidity	96.01	08:11:38.056000
+2017-09-16	relativeHumidity	98.23	04:11:39.777000
+2017-10-08	relativeHumidity	70.73	15:27:33.071000
+2017-10-08	relativeHumidity	72.95	16:17:33.290000
+2017-10-09	relativeHumidity	84.25	17:47:35.604000
+2017-10-09	relativeHumidity	86.78	18:57:35.722000
+2017-10-09	relativeHumidity	88.48	19:27:35.778000
+2017-10-13	relativeHumidity	100	04:17:43.832000
+2017-10-27	relativeHumidity	83.86	16:13:18.393000
+2017-10-31	relativeHumidity	87.23	19:48:28.132000
+2017-11-02	relativeHumidity	58.44	05:23:31.079000
+2017-11-02	relativeHumidity	94.26	20:33:32.178000
+2017-11-04	relativeHumidity	98.81	18:18:37.121000
+2017-11-06	relativeHumidity	74.01	08:08:40.859000
+2017-11-07	relativeHumidity	89.28	03:23:42.881000
+2017-11-08	relativeHumidity	93.39	10:33:46.886000
+2017-11-08	relativeHumidity	94.26	11:28:47.248000
+2017-11-19	relativeHumidity	84.31	18:39:13.091000
+2017-11-20	relativeHumidity	83.43	03:59:14.032000
+2017-11-20	relativeHumidity	78.43	05:29:14.163000
+2017-11-20	relativeHumidity	95.69	19:19:15.539000
+2017-11-21	relativeHumidity	95.39	06:09:16.625000
+2017-11-23	relativeHumidity	39.95	04:24:21.304000
+2017-11-23	relativeHumidity	51.79	22:09:23.087000
+2017-11-24	relativeHumidity	98.33	09:44:24.342000
+2017-11-24	relativeHumidity	83.09	15:09:33.506000
+2018-01-26	relativeHumidity	89.97	02:22:00.041000
+2018-01-26	relativeHumidity	100	03:32:00.155000
+2018-01-26	relativeHumidity	77.91	11:52:01.040000
+2018-01-26	relativeHumidity	74.97	18:57:01.787000
+2018-01-27	relativeHumidity	79.41	04:47:02.834000
+2018-01-28	relativeHumidity	98.23	23:17:07.299000
+2018-01-29	relativeHumidity	80.33	15:22:08.986000
+2018-01-30	relativeHumidity	82.41	15:52:11.558000
+2018-01-30	relativeHumidity	84.68	16:32:11.632000
+2018-01-30	relativeHumidity	91.32	18:07:11.791000
+2018-01-30	relativeHumidity	90.16	20:52:12.083000
+2018-01-31	relativeHumidity	89.94	05:17:12.965000
+2018-01-31	relativeHumidity	89.91	05:57:13.051000
+2018-01-31	relativeHumidity	96.87	20:52:14.617000
+2018-02-01	relativeHumidity	89.56	08:02:15.790000
+2018-02-01	relativeHumidity	91.32	10:12:16.011000
+2018-02-01	relativeHumidity	88.62	12:27:16.249000
+2018-02-01	relativeHumidity	91.73	16:27:16.682000
+2018-02-01	relativeHumidity	91.34	17:57:16.839000
+2018-02-02	relativeHumidity	96.01	04:47:17.976000
+2018-02-02	relativeHumidity	93.17	06:17:18.145000
+2018-02-02	relativeHumidity	92.41	13:52:18.944000
+2018-02-02	relativeHumidity	92.74	19:02:19.493000
+2018-02-02	relativeHumidity	93.44	21:22:19.749000
+2018-02-02	relativeHumidity	92.14	23:32:19.975000
+2018-02-03	relativeHumidity	100	13:17:21.479000
+2018-02-03	relativeHumidity	98.12	14:22:22.110000
+2018-02-05	relativeHumidity	81.99	09:37:26.087000
+2018-02-05	relativeHumidity	75.7	13:37:26.500000
+2018-02-05	relativeHumidity	69.33	23:02:27.487000
+2018-02-06	relativeHumidity	76.98	00:27:27.628000
+2018-02-06	relativeHumidity	61	04:02:32.416000
+2018-02-06	relativeHumidity	59.83	10:12:28.648000
+2018-02-06	relativeHumidity	81.84	15:37:29.216000
+2018-02-06	relativeHumidity	94.91	21:12:29.811000
+2018-02-07	relativeHumidity	98.12	02:42:30.388000
+2018-02-07	relativeHumidity	95.18	06:32:30.792000
+2018-02-07	relativeHumidity	68.76	08:27:30.994000
+2018-02-08	relativeHumidity	91.43	18:47:34.908000
+2018-02-10	relativeHumidity	95.82	06:17:38.417000
+2018-02-10	relativeHumidity	90.11	10:57:38.903000
+2018-02-10	relativeHumidity	88.17	19:22:39.799000
+2018-02-10	relativeHumidity	87.28	19:32:39.806000
+2018-02-10	relativeHumidity	96.65	23:42:40.252000
+2018-02-11	relativeHumidity	91.26	21:12:42.493000
+2018-02-12	relativeHumidity	97.05	04:02:43.209000
+2018-02-12	relativeHumidity	96.84	05:37:43.381000
+2018-02-13	relativeHumidity	85.35	17:27:47.450000
+2018-02-14	relativeHumidity	93.96	19:32:50.328000
+2018-02-14	relativeHumidity	96.52	20:37:50.009000
+2018-02-15	relativeHumidity	71	13:07:51.761000
+2018-02-15	relativeHumidity	68.64	19:02:52.394000
+2018-02-15	relativeHumidity	82.55	20:02:52.477000
+2018-02-16	relativeHumidity	97.13	01:47:52.756000
+2018-02-16	relativeHumidity	91.54	14:02:54.372000
+2018-02-17	relativeHumidity	79.41	13:47:57.413000
+2018-02-17	relativeHumidity	70.82	15:12:57.026000
+2018-02-17	relativeHumidity	82.78	18:37:57.389000
+2018-02-18	relativeHumidity	81.59	14:32:59.474000
+2018-02-18	relativeHumidity	91.97	17:02:59.727000
+2018-02-20	relativeHumidity	96.73	09:08:05.054000
+2018-02-20	relativeHumidity	88.7	10:43:05.140000
+2018-02-20	relativeHumidity	87.17	11:13:05.186000
+2018-02-20	relativeHumidity	97.46	13:28:05.394000
+2018-02-20	relativeHumidity	79.04	15:23:05.688000
+2018-02-20	relativeHumidity	81.79	15:53:05.703000
+2018-02-20	relativeHumidity	84.45	16:08:05.758000
+2018-02-20	relativeHumidity	87.25	16:38:05.760000
+2018-02-20	relativeHumidity	88.78	16:48:05.962000
+2018-02-21	relativeHumidity	82.72	02:03:06.771000
+2018-02-21	relativeHumidity	85.77	02:23:06.775000
+2018-02-22	relativeHumidity	90.27	03:53:09.587000
+2018-02-23	relativeHumidity	81.7	00:38:11.257000
+2018-04-05	relativeHumidity	78.63	08:49:55.306000
+2018-04-08	relativeHumidity	98.31	04:50:01.881000
+2018-04-08	relativeHumidity	98.68	05:55:03.289000
+2018-04-08	relativeHumidity	98.76	06:00:03.527000
+2018-04-08	relativeHumidity	80.99	14:40:03.920000
+2018-04-08	relativeHumidity	86.67	15:00:03.893000
+2018-04-08	relativeHumidity	81.07	15:05:03.986000
+2018-04-09	relativeHumidity	97.16	04:00:05.394000
+2018-04-09	relativeHumidity	93.39	06:00:05.480000
+2018-04-09	relativeHumidity	93.12	06:10:05.548000
+2018-04-10	relativeHumidity	93.47	06:00:08.090000
+2018-04-10	relativeHumidity	70.1	15:05:09.254000
+2018-04-10	relativeHumidity	95.2	21:15:09.909000
+2018-04-10	relativeHumidity	95.34	23:50:10.116000
+2018-04-12	relativeHumidity	95.71	05:05:13.274000
+2018-04-12	relativeHumidity	78.11	12:05:13.585000
+2018-04-12	relativeHumidity	82.67	15:15:14.046000
+2018-04-12	relativeHumidity	76.49	17:15:14.356000
+2018-04-12	relativeHumidity	91.15	19:30:14.391000
+2018-04-12	relativeHumidity	93.99	22:00:14.630000
+2018-04-12	relativeHumidity	93.74	22:25:14.933000
+2018-04-12	relativeHumidity	93.61	23:20:14.765000
+2018-04-12	relativeHumidity	93.28	23:35:14.811000
+2018-04-12	relativeHumidity	94.1	23:55:14.938000
+2018-04-13	relativeHumidity	94.91	00:00:14.874000
+2018-04-13	relativeHumidity	95.42	00:05:14.957000
+2018-04-13	relativeHumidity	96.2	00:25:14.996000
+2018-04-14	relativeHumidity	98.39	08:40:18.375000
+2018-04-14	relativeHumidity	68.52	10:00:18.513000
+2018-04-14	relativeHumidity	77.3	13:45:25.182000
+2018-04-14	relativeHumidity	79.78	14:05:18.389000
+2018-04-15	relativeHumidity	90.08	04:15:20.984000
+2018-04-15	relativeHumidity	94.77	06:10:20.556000
+2018-04-15	relativeHumidity	67.08	17:05:22.117000
+2018-04-16	relativeHumidity	75.91	14:15:24.038000
+2018-04-16	relativeHumidity	80.82	15:20:23.045000
+2018-04-16	relativeHumidity	87.5	18:30:24.604000
+2018-04-17	relativeHumidity	100	01:30:25.154000
+2018-04-17	relativeHumidity	60.84	08:20:25.880000
+2018-04-17	relativeHumidity	56.26	12:10:25.519000
+2018-04-17	relativeHumidity	52.55	12:50:27.531000
+2018-04-17	relativeHumidity	60.35	15:25:26.361000
+2018-04-18	relativeHumidity	90.49	07:05:28.246000
+2018-04-18	relativeHumidity	95.63	23:50:30.068000
+2018-04-20	relativeHumidity	74.01	17:55:34.456000
+2018-04-20	relativeHumidity	78.95	19:50:34.601000
+2018-04-21	relativeHumidity	95.07	05:30:35.639000
+2018-04-22	relativeHumidity	91.4	01:40:37.551000
+2018-04-22	relativeHumidity	96.89	02:45:38.194000
+2018-04-22	relativeHumidity	86.95	05:20:38.433000
+2018-04-22	relativeHumidity	86.84	05:25:38.637000
+2018-04-22	relativeHumidity	86.05	05:35:38.163000
+2018-04-22	relativeHumidity	83.46	05:55:38.136000
+2018-04-22	relativeHumidity	82.38	06:05:38.193000
+2018-04-22	relativeHumidity	82.3	06:10:38.202000
+2018-04-22	relativeHumidity	80.24	16:20:38.683000
+2018-04-22	relativeHumidity	100	21:15:38.988000
+2018-04-23	relativeHumidity	100	02:10:40.895000
+2018-04-23	relativeHumidity	98.44	05:35:41.093000
+2018-04-23	relativeHumidity	91.51	12:25:41.850000
+2018-04-24	relativeHumidity	96.36	02:20:42.091000
+2018-04-24	relativeHumidity	94.85	22:30:45.572000
+2018-04-24	relativeHumidity	94.23	22:50:44.983000
+2018-04-25	relativeHumidity	98.01	01:30:45.576000
+2017-08-30	temperature:ambient	20.77	02:15:57.239000
+2017-08-30	temperature:ambient	21.93	08:30:57.901000
+2017-08-30	temperature:ambient	20.1	14:20:58.521000
+2017-09-01	temperature:ambient	15.14	03:31:02.440000
+2017-09-01	temperature:ambient	14.63	05:46:02.673000
+2017-09-02	temperature:ambient	13.73	04:56:05.107000
+2017-09-02	temperature:ambient	13.96	05:16:05.143000
+2017-09-05	temperature:ambient	21.46	18:31:14.207000
+2017-09-15	temperature:ambient	13.94	08:11:38.056000
+2017-09-16	temperature:ambient	11.66	04:11:39.777000
+2017-10-08	temperature:ambient	9.63	05:27:32.052000
+2017-10-08	temperature:ambient	20.58	15:27:33.071000
+2017-10-08	temperature:ambient	19.79	16:17:33.290000
+2017-10-09	temperature:ambient	12.07	07:37:34.616000
+2017-10-09	temperature:ambient	20.27	12:27:36.875000
+2017-10-09	temperature:ambient	17.57	17:47:35.604000
+2017-10-09	temperature:ambient	16.63	18:57:35.724000
+2017-10-09	temperature:ambient	16.09	19:27:35.778000
+2017-10-13	temperature:ambient	12.8	04:17:43.832000
+2017-10-27	temperature:ambient	19.33	16:13:18.394000
+2017-10-31	temperature:ambient	14.14	19:48:28.133000
+2017-11-02	temperature:ambient	18.75	05:23:31.082000
+2017-11-02	temperature:ambient	17.81	20:33:32.178000
+2017-11-03	temperature:ambient	13.43	23:28:35.126000
+2017-11-04	temperature:ambient	14.03	05:58:35.893000
+2017-11-06	temperature:ambient	13.01	08:08:40.860000
+2017-11-07	temperature:ambient	11.73	03:23:42.884000
+2017-11-08	temperature:ambient	10.51	10:33:45.886000
+2017-11-08	temperature:ambient	11.3	11:28:47.249000
+2017-11-19	temperature:ambient	4.79	05:59:12.825000
+2017-11-19	temperature:ambient	12.49	18:39:13.090000
+2017-11-20	temperature:ambient	8.03	03:59:14.034000
+2017-11-20	temperature:ambient	8.21	05:29:14.162000
+2017-11-20	temperature:ambient	9.37	19:19:15.541000
+2017-11-21	temperature:ambient	4.79	06:09:16.626000
+2017-11-24	temperature:ambient	14.27	09:44:24.342000
+2017-11-24	temperature:ambient	15.93	15:09:33.506000
+2018-01-25	temperature:ambient	7.69	17:06:59.054000
+2018-01-26	temperature:ambient	8.47	02:22:00.042000
+2018-01-26	temperature:ambient	7.82	03:32:00.155000
+2018-01-26	temperature:ambient	10.51	11:52:01.042000
+2018-01-26	temperature:ambient	10.8	18:57:01.786000
+2018-01-27	temperature:ambient	10.17	04:47:02.835000
+2018-01-28	temperature:ambient	5.25	01:22:05.213000
+2018-01-28	temperature:ambient	6.61	23:17:07.300000
+2018-01-30	temperature:ambient	11	15:52:11.558000
+2018-01-30	temperature:ambient	10.17	16:32:11.632000
+2018-01-30	temperature:ambient	9.28	18:07:11.792000
+2018-01-30	temperature:ambient	9.58	20:52:12.084000
+2018-01-31	temperature:ambient	8.92	05:17:12.966000
+2018-01-31	temperature:ambient	8.53	05:57:13.052000
+2018-01-31	temperature:ambient	9.82	20:52:14.617000
+2018-02-01	temperature:ambient	10.25	01:47:15.131000
+2018-02-01	temperature:ambient	9.09	08:02:15.789000
+2018-02-01	temperature:ambient	8.07	10:12:16.010000
+2018-02-01	temperature:ambient	7.61	12:27:16.250000
+2018-02-01	temperature:ambient	7.27	16:27:16.682000
+2018-02-01	temperature:ambient	7.64	17:57:16.839000
+2018-02-02	temperature:ambient	4.87	04:47:17.975000
+2018-02-02	temperature:ambient	5.37	06:17:18.145000
+2018-02-02	temperature:ambient	7.55	13:52:18.944000
+2018-02-02	temperature:ambient	6.11	19:02:19.493000
+2018-02-02	temperature:ambient	6.64	21:22:19.751000
+2018-02-02	temperature:ambient	6.75	23:32:19.976000
+2018-02-05	temperature:ambient	6.5	01:37:25.240000
+2018-02-05	temperature:ambient	5.79	02:27:25.334000
+2018-02-05	temperature:ambient	5.88	02:57:25.401000
+2018-02-05	temperature:ambient	7.93	09:37:26.084000
+2018-02-05	temperature:ambient	8.29	13:37:26.499000
+2018-02-05	temperature:ambient	7.11	23:02:27.490000
+2018-02-06	temperature:ambient	5.75	00:27:27.627000
+2018-02-06	temperature:ambient	7.31	15:37:29.216000
+2018-02-06	temperature:ambient	4.85	19:12:29.603000
+2018-02-06	temperature:ambient	5.07	21:12:29.812000
+2018-02-07	temperature:ambient	4.59	02:42:30.388000
+2018-02-07	temperature:ambient	5.33	06:32:30.792000
+2018-02-07	temperature:ambient	6.76	08:27:30.994000
+2018-02-08	temperature:ambient	5.75	18:47:34.909000
+2018-02-10	temperature:ambient	7.39	06:17:38.418000
+2018-02-10	temperature:ambient	9.77	10:57:38.903000
+2018-02-10	temperature:ambient	9.95	19:22:39.799000
+2018-02-10	temperature:ambient	9.97	19:32:39.808000
+2018-02-10	temperature:ambient	8.89	23:42:40.251000
+2018-02-11	temperature:ambient	9.23	21:12:42.494000
+2018-02-12	temperature:ambient	6.28	04:02:43.207000
+2018-02-12	temperature:ambient	5.5	05:37:43.381000
+2018-02-13	temperature:ambient	9.95	17:27:47.450000
+2018-02-14	temperature:ambient	10.77	19:32:50.329000
+2018-02-14	temperature:ambient	9.63	20:37:50.010000
+2018-02-15	temperature:ambient	11.18	09:12:51.335000
+2018-02-15	temperature:ambient	18.45	13:07:51.762000
+2018-02-15	temperature:ambient	17.44	19:02:52.393000
+2018-02-15	temperature:ambient	14.96	20:02:52.479000
+2018-02-15	temperature:ambient	13.73	20:42:52.564000
+2018-02-15	temperature:ambient	12.17	23:37:52.864000
+2018-02-16	temperature:ambient	12.03	01:47:52.756000
+2018-02-16	temperature:ambient	10.92	06:27:53.576000
+2018-02-16	temperature:ambient	15.29	14:02:54.371000
+2018-02-17	temperature:ambient	13.65	13:47:57.415000
+2018-02-17	temperature:ambient	13.41	15:12:57.026000
+2018-02-17	temperature:ambient	10.4	18:37:57.390000
+2018-02-17	temperature:ambient	7.97	23:57:57.948000
+2018-02-18	temperature:ambient	12.98	14:32:59.476000
+2018-02-18	temperature:ambient	12.23	17:02:59.729000
+2018-02-18	temperature:ambient	10.91	22:13:00.277000
+2018-02-19	temperature:ambient	10.95	02:18:00.708000
+2018-02-19	temperature:ambient	10.97	03:08:00.989000
+2018-02-19	temperature:ambient	11.95	15:48:03.337000
+2018-02-19	temperature:ambient	11.55	18:43:04.276000
+2018-02-19	temperature:ambient	11.38	22:03:04.780000
+2018-02-19	temperature:ambient	11.3	22:23:04.061000
+2018-02-19	temperature:ambient	11.13	22:28:03.924000
+2018-02-19	temperature:ambient	11.11	23:03:04.104000
+2018-02-19	temperature:ambient	11.27	23:18:03.984000
+2018-02-20	temperature:ambient	11.67	08:38:05.001000
+2018-02-20	temperature:ambient	11.54	09:08:05.059000
+2018-02-20	temperature:ambient	11.64	09:13:05.014000
+2018-02-20	temperature:ambient	13.32	10:43:05.142000
+2018-02-20	temperature:ambient	13.55	11:13:05.185000
+2018-02-20	temperature:ambient	11.88	13:28:05.400000
+2018-02-20	temperature:ambient	15.18	15:23:05.688000
+2018-02-20	temperature:ambient	13.64	15:53:05.702000
+2018-02-20	temperature:ambient	13.25	16:08:05.758000
+2018-02-20	temperature:ambient	12.78	16:38:05.759000
+2018-02-20	temperature:ambient	12.55	16:48:05.961000
+2018-02-21	temperature:ambient	10.71	02:03:06.771000
+2018-02-21	temperature:ambient	10.43	02:23:06.775000
+2018-02-23	temperature:ambient	4.27	00:38:11.257000
+2018-04-05	temperature:ambient	14.31	08:49:55.308000
+2018-04-08	temperature:ambient	11.58	04:50:01.881000
+2018-04-08	temperature:ambient	11.45	05:55:03.289000
+2018-04-08	temperature:ambient	11.43	06:00:03.526000
+2018-04-08	temperature:ambient	16.33	14:40:03.919000
+2018-04-08	temperature:ambient	16.29	15:00:03.891000
+2018-04-08	temperature:ambient	15.97	15:05:03.988000
+2018-04-09	temperature:ambient	11.52	06:00:05.481000
+2018-04-09	temperature:ambient	11.47	06:10:05.549000
+2018-04-10	temperature:ambient	13.33	15:05:09.258000
+2018-04-10	temperature:ambient	8.58	21:15:09.910000
+2018-04-10	temperature:ambient	9.17	23:50:10.115000
+2018-04-11	temperature:ambient	10.71	12:05:11.202000
+2018-04-11	temperature:ambient	11.23	16:10:11.557000
+2018-04-12	temperature:ambient	12.01	00:25:13.012000
+2018-04-12	temperature:ambient	11.18	05:05:13.273000
+2018-04-12	temperature:ambient	15.46	12:05:13.588000
+2018-04-12	temperature:ambient	15.03	15:15:14.046000
+2018-04-12	temperature:ambient	12.2	19:30:14.390000
+2018-04-12	temperature:ambient	11.96	22:25:14.931000
+2018-04-13	temperature:ambient	11.21	06:55:15.673000
+2018-04-13	temperature:ambient	11.73	22:35:16.912000
+2018-04-14	temperature:ambient	11.53	06:35:18.086000
+2018-04-14	temperature:ambient	11.6	07:15:18.180000
+2018-04-14	temperature:ambient	11.69	07:25:18.198000
+2018-04-14	temperature:ambient	18.38	10:00:18.513000
+2018-04-14	temperature:ambient	17.02	13:45:25.185000
+2018-04-14	temperature:ambient	16.48	14:05:18.391000
+2018-04-15	temperature:ambient	13.49	04:15:20.984000
+2018-04-15	temperature:ambient	12.62	06:10:20.556000
+2018-04-15	temperature:ambient	15.37	17:05:22.117000
+2018-04-16	temperature:ambient	10.33	05:55:23.228000
+2018-04-16	temperature:ambient	16.45	14:15:24.038000
+2018-04-16	temperature:ambient	15.82	15:20:23.046000
+2018-04-16	temperature:ambient	14.25	18:30:24.605000
+2018-04-17	temperature:ambient	10.31	01:30:25.153000
+2018-04-17	temperature:ambient	9.89	06:05:26.110000
+2018-04-17	temperature:ambient	10.87	06:20:25.597000
+2018-04-17	temperature:ambient	17.31	08:20:25.882000
+2018-04-17	temperature:ambient	21.29	12:10:25.520000
+2018-04-17	temperature:ambient	20.72	12:50:27.530000
+2018-04-17	temperature:ambient	20.6	15:25:26.362000
+2018-04-17	temperature:ambient	11.91	23:30:27.398000
+2018-04-17	temperature:ambient	12.03	23:45:27.428000
+2018-04-18	temperature:ambient	11.53	00:55:28.044000
+2018-04-18	temperature:ambient	11.02	06:10:28.628000
+2018-04-18	temperature:ambient	12.35	06:25:28.149000
+2018-04-18	temperature:ambient	12.53	06:30:28.166000
+2018-04-18	temperature:ambient	13.19	06:40:28.236000
+2018-04-18	temperature:ambient	14.75	07:05:28.246000
+2018-04-18	temperature:ambient	13.98	23:50:30.067000
+2018-04-20	temperature:ambient	19.25	17:55:34.456000
+2018-04-20	temperature:ambient	17.45	19:50:34.601000
+2018-04-21	temperature:ambient	12.8	03:45:35.486000
+2018-04-21	temperature:ambient	13.15	05:30:35.639000
+2018-04-22	temperature:ambient	15.43	01:40:37.550000
+2018-04-22	temperature:ambient	14.95	02:45:38.197000
+2018-04-22	temperature:ambient	14.73	05:25:38.639000
+2018-04-22	temperature:ambient	14.95	05:35:38.164000
+2018-04-22	temperature:ambient	15.5	05:55:38.137000
+2018-04-22	temperature:ambient	15.8	06:05:38.193000
+2018-04-22	temperature:ambient	15.93	06:10:38.203000
+2018-04-22	temperature:ambient	17.61	16:20:38.683000
+2018-04-22	temperature:ambient	14.49	21:15:38.988000
+2018-04-23	temperature:ambient	14.32	02:10:40.897000
+2018-04-23	temperature:ambient	14.34	05:35:41.093000
+2018-04-23	temperature:ambient	16.09	12:25:41.849000
+2018-04-24	temperature:ambient	14.75	02:20:42.091000
+2018-04-24	temperature:ambient	15.49	22:30:45.572000
+2018-04-24	temperature:ambient	15.69	22:50:44.984000
+2018-04-25	temperature:ambient	14.88	01:25:45.322000
+2018-04-25	temperature:ambient	14.87	01:30:45.575000
+2018-04-25	temperature:ambient	14.81	03:25:45.757000
+2018-04-25	temperature:ambient	14.13	06:25:46.022000
+2017-10-08	temperature:ground	14.19	05:27:32.052000
+2017-10-08	temperature:ground	13.54	08:02:32.136000
+2017-10-08	temperature:ground	13.87	10:02:51.314000
+2017-10-09	temperature:ground	17.09	19:27:35.778000
+2017-10-11	temperature:ground	13.87	11:32:39.730000
+2017-10-13	temperature:ground	14.51	04:17:43.831000
+2017-10-31	temperature:ground	13.54	19:48:28.132000
+2017-11-02	temperature:ground	14.83	20:33:32.177000
+2017-11-03	temperature:ground	15.16	13:28:34.731000
+2017-11-04	temperature:ground	14.83	00:53:35.129000
+2017-11-05	temperature:ground	12.9	04:08:38.122000
+2017-11-05	temperature:ground	12.58	12:03:40.057000
+2017-11-07	temperature:ground	11.61	03:23:42.880000
+2017-11-07	temperature:ground	12.58	15:13:43.614000
+2017-11-08	temperature:ground	10.96	13:28:46.236000
+2017-11-08	temperature:ground	11.29	13:33:51.183000
+2017-11-10	temperature:ground	12.58	13:43:51.546000
+2017-11-19	temperature:ground	8.7	05:59:12.823000
+2017-11-19	temperature:ground	7.74	09:59:13.505000
+2017-11-19	temperature:ground	9.35	14:09:12.794000
+2017-11-19	temperature:ground	10	18:39:13.089000
+2017-11-20	temperature:ground	9.35	03:59:14.032000
+2017-11-20	temperature:ground	8.38	05:29:14.162000
+2017-11-20	temperature:ground	9.67	19:19:15.540000
+2017-11-21	temperature:ground	7.09	10:29:17.450000
+2017-11-23	temperature:ground	10	09:39:25.193000
+2017-11-23	temperature:ground	10.32	09:54:25.322000
+2017-11-23	temperature:ground	10	10:14:33.579000
+2017-11-24	temperature:ground	12.58	15:09:33.506000
+2018-01-25	temperature:ground	9.67	10:11:58.399000
+2018-01-25	temperature:ground	9.67	10:21:58.342000
+2018-01-25	temperature:ground	9.35	15:01:59.638000
+2018-01-26	temperature:ground	8.06	12:52:00.795000
+2018-01-26	temperature:ground	8.38	14:12:01.479000
+2018-01-26	temperature:ground	8.38	16:07:01.934000
+2018-01-27	temperature:ground	7.41	07:57:02.771000
+2018-01-28	temperature:ground	8.06	01:22:05.214000
+2018-01-29	temperature:ground	7.74	15:22:08.985000
+2018-01-30	temperature:ground	8.06	13:02:10.980000
+2018-01-31	temperature:ground	8.06	05:17:12.964000
+2018-01-31	temperature:ground	8.06	05:57:13.051000
+2018-01-31	temperature:ground	7.74	10:12:13.694000
+2018-01-31	temperature:ground	8.06	10:17:13.923000
+2018-01-31	temperature:ground	8.38	13:12:14.379000
+2018-01-31	temperature:ground	9.03	14:12:14.253000
+2018-02-01	temperature:ground	9.03	01:47:15.131000
+2018-02-01	temperature:ground	8.38	10:57:16.616000
+2018-02-02	temperature:ground	6.77	04:47:17.974000
+2018-02-02	temperature:ground	7.09	19:02:19.491000
+2018-02-02	temperature:ground	5.8	21:22:19.752000
+2018-02-03	temperature:ground	7.09	14:17:22.122000
+2018-02-04	temperature:ground	6.77	20:22:24.748000
+2018-02-05	temperature:ground	6.45	14:37:27.035000
+2018-02-05	temperature:ground	6.77	14:42:27.123000
+2018-02-05	temperature:ground	6.45	20:37:27.247000
+2018-02-05	temperature:ground	6.45	23:02:27.488000
+2018-02-07	temperature:ground	4.51	06:32:30.791000
+2018-02-07	temperature:ground	4.83	11:47:31.414000
+2018-02-07	temperature:ground	5.8	16:17:32.195000
+2018-02-08	temperature:ground	6.12	18:47:34.906000
+2018-02-10	temperature:ground	5.8	06:17:38.416000
+2018-02-10	temperature:ground	6.12	11:27:39.341000
+2018-02-10	temperature:ground	6.45	13:02:39.420000
+2018-02-10	temperature:ground	8.7	19:22:39.798000
+2018-02-10	temperature:ground	7.74	19:32:39.807000
+2018-02-10	temperature:ground	7.74	23:42:40.251000
+2018-02-12	temperature:ground	7.74	04:02:43.205000
+2018-02-12	temperature:ground	11.29	05:37:43.380000
+2018-02-12	temperature:ground	6.77	08:42:43.974000
+2018-02-12	temperature:ground	6.77	15:42:44.513000
+2018-02-13	temperature:ground	4.51	12:02:46.886000
+2018-02-13	temperature:ground	5.16	13:27:46.735000
+2018-02-13	temperature:ground	5.48	14:37:47.422000
+2018-02-13	temperature:ground	6.12	18:27:47.285000
+2018-02-14	temperature:ground	6.12	05:47:48.470000
+2018-02-14	temperature:ground	7.09	11:42:49.100000
+2018-02-14	temperature:ground	9.35	16:52:49.702000
+2018-02-14	temperature:ground	9.03	19:32:50.329000
+2018-02-14	temperature:ground	9.35	20:37:50.012000
+2018-02-15	temperature:ground	7.09	08:47:51.720000
+2018-02-15	temperature:ground	7.41	10:42:51.948000
+2018-02-15	temperature:ground	7.41	11:02:52.077000
+2018-02-15	temperature:ground	10	14:57:52.404000
+2018-02-15	temperature:ground	10.64	20:02:52.478000
+2018-02-15	temperature:ground	10.64	23:37:52.864000
+2018-02-16	temperature:ground	9.35	06:27:53.574000
+2018-02-16	temperature:ground	9.03	07:47:53.798000
+2018-02-16	temperature:ground	9.35	09:22:54.452000
+2018-02-16	temperature:ground	9.35	09:42:53.967000
+2018-02-16	temperature:ground	10.96	14:12:54.148000
+2018-02-17	temperature:ground	11.29	18:37:57.388000
+2018-02-18	temperature:ground	9.03	13:52:59.500000
+2018-02-18	temperature:ground	9.67	17:02:59.728000
+2018-02-18	temperature:ground	9.67	22:13:00.276000
+2018-02-19	temperature:ground	9.67	03:08:00.989000
+2018-02-19	temperature:ground	9.35	03:33:01.396000
+2018-02-19	temperature:ground	9.67	10:48:01.667000
+2018-02-19	temperature:ground	10	12:28:03.001000
+2018-02-19	temperature:ground	10.96	22:03:04.780000
+2018-02-19	temperature:ground	10.32	22:23:04.062000
+2018-02-19	temperature:ground	10.64	22:28:03.921000
+2018-02-20	temperature:ground	8.7	04:13:04.511000
+2018-02-20	temperature:ground	10.32	04:48:04.494000
+2018-02-20	temperature:ground	10	04:53:05.003000
+2018-02-20	temperature:ground	10	05:48:04.695000
+2018-02-20	temperature:ground	10	10:58:05.523000
+2018-02-20	temperature:ground	9.67	11:03:06.101000
+2018-02-21	temperature:ground	10	02:23:06.774000
+2018-02-21	temperature:ground	9.67	13:43:08.201000
+2018-02-22	temperature:ground	8.7	14:13:11.347000
+2018-02-22	temperature:ground	9.03	14:38:10.873000
+2018-02-22	temperature:ground	9.35	14:58:10.843000
+2018-04-05	temperature:ground	10.64	08:49:55.305000
+2018-04-08	temperature:ground	11.61	04:50:01.875000
+2018-04-08	temperature:ground	11.61	09:45:03.137000
+2018-04-08	temperature:ground	12.9	12:55:04.382000
+2018-04-08	temperature:ground	13.22	13:10:04.124000
+2018-04-08	temperature:ground	15.16	14:50:04.145000
+2018-04-08	temperature:ground	15.8	15:30:03.674000
+2018-04-09	temperature:ground	12.58	10:10:05.796000
+2018-04-09	temperature:ground	13.54	13:10:06.673000
+2018-04-09	temperature:ground	13.22	21:20:07.510000
+2018-04-09	temperature:ground	12.9	21:25:07.184000
+2018-04-10	temperature:ground	11.93	02:15:07.792000
+2018-04-10	temperature:ground	11.61	02:35:07.784000
+2018-04-10	temperature:ground	12.25	02:50:07.696000
+2018-04-10	temperature:ground	11.61	02:55:07.674000
+2018-04-10	temperature:ground	11.61	03:15:07.773000
+2018-04-10	temperature:ground	12.25	03:20:07.931000
+2018-04-10	temperature:ground	10.32	04:05:08.091000
+2018-04-10	temperature:ground	12.58	18:00:09.067000
+2018-04-10	temperature:ground	11.93	21:15:09.904000
+2018-04-10	temperature:ground	11.61	23:50:10.115000
+2018-04-11	temperature:ground	10.32	23:25:12.511000
+2018-04-12	temperature:ground	10.32	01:45:12.696000
+2018-04-12	temperature:ground	10	08:20:13.050000
+2018-04-12	temperature:ground	10.32	08:30:13.146000
+2018-04-12	temperature:ground	10.64	11:50:14.954000
+2018-04-12	temperature:ground	10.96	12:25:13.918000
+2018-04-12	temperature:ground	11.93	13:30:14.278000
+2018-04-12	temperature:ground	12.25	13:45:13.936000
+2018-04-12	temperature:ground	13.54	15:00:13.931000
+2018-04-12	temperature:ground	14.19	15:50:13.689000
+2018-04-12	temperature:ground	14.51	19:30:14.389000
+2018-04-12	temperature:ground	13.22	22:25:14.932000
+2018-04-13	temperature:ground	11.29	05:40:15.191000
+2018-04-13	temperature:ground	11.61	10:35:20.280000
+2018-04-13	temperature:ground	11.93	11:25:16.087000
+2018-04-13	temperature:ground	12.25	12:05:16.711000
+2018-04-13	temperature:ground	12.58	13:25:15.114000
+2018-04-13	temperature:ground	11.93	22:35:16.913000
+2018-04-14	temperature:ground	11.61	10:00:18.513000
+2018-04-14	temperature:ground	12.25	12:30:26.763000
+2018-04-14	temperature:ground	13.87	13:45:25.183000
+2018-04-14	temperature:ground	14.19	14:05:18.390000
+2018-04-14	temperature:ground	16.12	16:55:19.498000
+2018-04-14	temperature:ground	16.45	17:00:19.457000
+2018-04-15	temperature:ground	12.9	09:00:21.225000
+2018-04-15	temperature:ground	12.58	09:05:20.968000
+2018-04-15	temperature:ground	12.9	09:20:22.042000
+2018-04-15	temperature:ground	13.54	11:45:35.197000
+2018-04-15	temperature:ground	13.87	14:05:21.703000
+2018-04-16	temperature:ground	11.61	07:50:23.379000
+2018-04-16	temperature:ground	11.61	08:40:23.499000
+2018-04-16	temperature:ground	15.48	15:20:23.046000
+2018-04-17	temperature:ground	13.87	01:30:25.154000
+2018-04-17	temperature:ground	12.9	03:55:24.779000
+2018-04-17	temperature:ground	11.93	06:05:26.107000
+2018-04-17	temperature:ground	12.25	12:10:25.520000
+2018-04-17	temperature:ground	12.9	12:50:27.531000
+2018-04-18	temperature:ground	14.51	00:55:28.043000
+2018-04-18	temperature:ground	12.9	11:15:28.535000
+2018-04-20	temperature:ground	17.74	19:50:34.601000
+2018-04-20	temperature:ground	17.09	22:15:34.804000
+2018-04-22	temperature:ground	15.48	01:10:37.805000
+2018-04-22	temperature:ground	15.8	01:15:37.692000
+2018-04-22	temperature:ground	18.06	01:25:37.704000
+2018-04-22	temperature:ground	15.48	02:35:37.170000
+2018-04-22	temperature:ground	18.7	16:20:38.683000
+2018-04-23	temperature:ground	17.09	02:10:40.895000
+2018-04-24	temperature:ground	16.77	15:05:44.401000
+2018-04-24	temperature:ground	17.09	16:30:44.089000
+2018-04-24	temperature:ground	16.77	19:35:44.462000
+2018-04-25	temperature:ground	15.8	01:00:45.329000
+2018-04-25	temperature:ground	15.8	01:15:45.395000
+2018-04-25	temperature:ground	16.45	01:25:45.321000

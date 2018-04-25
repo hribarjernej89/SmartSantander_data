@@ -1,1367 +1,1481 @@
-date	attribute	attrValue	attribute	time
-2017-07-05	trafficIntensity	720	trafficIntensity	15:13:34.754000
-2017-07-05	trafficIntensity	300	trafficIntensity	17:38:36.205000
-2017-07-05	trafficIntensity	240	trafficIntensity	18:13:35.718000
-2017-07-06	trafficIntensity	180	trafficIntensity	20:02:36.295000
-2017-07-27	trafficIntensity	420	trafficIntensity	12:56:35.916000
-2017-08-02	trafficIntensity	660	trafficIntensity	09:11:50.120000
-2017-08-02	trafficIntensity	300	trafficIntensity	12:36:50.208000
-2017-08-21	trafficIntensity	0	trafficIntensity	23:26:39.481000
-2017-08-22	trafficIntensity	120	trafficIntensity	02:58:41.159000
-2017-08-27	trafficIntensity	0	trafficIntensity	06:20:53.164000
-2017-08-27	trafficIntensity	120	trafficIntensity	12:28:53.481000
-2017-08-28	trafficIntensity	240	trafficIntensity	06:09:56.571000
-2017-08-29	trafficIntensity	960	trafficIntensity	06:18:58.171000
-2017-09-01	trafficIntensity	0	trafficIntensity	03:49:05.642000
-2017-09-02	trafficIntensity	240	trafficIntensity	12:31:09.904000
-2017-09-05	trafficIntensity	120	trafficIntensity	03:38:16.045000
-2017-09-08	trafficIntensity	0	trafficIntensity	01:42:22.970000
-2017-09-08	trafficIntensity	600	trafficIntensity	12:56:26.199000
-2017-09-09	trafficIntensity	180	trafficIntensity	01:14:28.534000
-2017-09-09	trafficIntensity	60	trafficIntensity	01:54:27.717000
-2017-09-14	trafficIntensity	480	trafficIntensity	22:18:40.501000
-2017-09-16	trafficIntensity	180	trafficIntensity	00:55:45.451000
-2017-09-16	trafficIntensity	240	trafficIntensity	02:03:47.442000
-2017-09-16	trafficIntensity	120	trafficIntensity	02:11:47.567000
-2017-09-19	trafficIntensity	660	trafficIntensity	11:34:54.327000
-2017-09-20	trafficIntensity	420	trafficIntensity	19:00:55.524000
-2017-09-22	trafficIntensity	60	trafficIntensity	04:52:59.737000
-2017-09-25	trafficIntensity	660	trafficIntensity	16:36:07.969000
-2017-09-29	trafficIntensity	360	trafficIntensity	20:48:18.313000
-2017-09-29	trafficIntensity	360	trafficIntensity	21:01:18.605000
-2017-09-30	trafficIntensity	240	trafficIntensity	11:51:18.051000
-2017-09-30	trafficIntensity	180	trafficIntensity	12:15:21.589000
-2017-10-01	trafficIntensity	780	trafficIntensity	11:41:23.619000
-2017-10-02	trafficIntensity	0	trafficIntensity	22:03:22.325000
-2017-10-03	trafficIntensity	120	trafficIntensity	00:47:25.090000
-2017-10-03	trafficIntensity	60	trafficIntensity	01:13:25.794000
-2017-10-06	trafficIntensity	240	trafficIntensity	02:43:34.694000
-2017-10-06	trafficIntensity	600	trafficIntensity	16:54:35.474000
-2017-10-07	trafficIntensity	420	trafficIntensity	05:10:36.554000
-2017-10-07	trafficIntensity	60	trafficIntensity	08:00:40.956000
-2017-10-07	trafficIntensity	240	trafficIntensity	13:05:50.213000
-2017-10-10	trafficIntensity	600	trafficIntensity	06:10:43.670000
-2017-10-14	trafficIntensity	1080	trafficIntensity	12:44:57.839000
-2017-10-15	trafficIntensity	120	trafficIntensity	23:19:58.169000
-2017-10-20	trafficIntensity	420	trafficIntensity	08:28:06.922000
-2017-10-20	trafficIntensity	180	trafficIntensity	20:01:08.871000
-2017-10-21	trafficIntensity	180	trafficIntensity	22:49:13.585000
-2017-10-23	trafficIntensity	1200	trafficIntensity	10:05:14.597000
-2017-10-24	trafficIntensity	480	trafficIntensity	15:28:16.757000
-2017-10-24	trafficIntensity	540	trafficIntensity	18:45:13.650000
-2017-10-25	trafficIntensity	120	trafficIntensity	13:20:17.330000
-2017-10-31	trafficIntensity	300	trafficIntensity	04:22:32.839000
-2017-10-31	trafficIntensity	240	trafficIntensity	06:00:34.405000
-2017-11-04	trafficIntensity	360	trafficIntensity	08:03:45.656000
-2017-11-04	trafficIntensity	420	trafficIntensity	08:28:46.332000
-2017-11-05	trafficIntensity	0	trafficIntensity	06:53:46.809000
-2017-11-05	trafficIntensity	60	trafficIntensity	14:03:46.105000
-2017-11-08	trafficIntensity	420	trafficIntensity	07:51:52.369000
-2017-11-09	trafficIntensity	0	trafficIntensity	03:51:57.267000
-2017-11-10	trafficIntensity	240	trafficIntensity	23:58:01.610000
-2017-11-12	trafficIntensity	180	trafficIntensity	09:53:05.479000
-2017-11-13	trafficIntensity	960	trafficIntensity	03:02:02.043000
-2017-11-13	trafficIntensity	240	trafficIntensity	21:01:05.124000
-2017-11-14	trafficIntensity	360	trafficIntensity	12:22:09.097000
-2017-11-15	trafficIntensity	0	trafficIntensity	04:09:10.899000
-2017-11-16	trafficIntensity	540	trafficIntensity	12:22:12.244000
-2017-11-16	trafficIntensity	60	trafficIntensity	15:23:17.003000
-2017-11-17	trafficIntensity	120	trafficIntensity	21:54:14.856000
-2017-11-18	trafficIntensity	120	trafficIntensity	01:27:20.300000
-2017-11-19	trafficIntensity	0	trafficIntensity	07:56:19.167000
-2017-11-19	trafficIntensity	840	trafficIntensity	10:37:23.055000
-2017-11-22	trafficIntensity	0	trafficIntensity	04:05:26.642000
-2017-11-23	trafficIntensity	480	trafficIntensity	12:15:28.160000
-2017-11-23	trafficIntensity	180	trafficIntensity	14:54:32.175000
-2017-11-23	trafficIntensity	660	trafficIntensity	15:58:33.753000
-2017-11-25	trafficIntensity	480	trafficIntensity	08:16:36.031000
-2017-11-26	trafficIntensity	300	trafficIntensity	10:29:38.072000
-2017-11-30	trafficIntensity	300	trafficIntensity	14:18:46.755000
-2017-11-30	trafficIntensity	660	trafficIntensity	15:41:48.801000
-2017-12-01	trafficIntensity	300	trafficIntensity	23:37:50.097000
-2017-12-03	trafficIntensity	360	trafficIntensity	12:39:58.295000
-2017-12-04	trafficIntensity	120	trafficIntensity	18:26:56.104000
-2017-12-06	trafficIntensity	120	trafficIntensity	22:27:03.283000
-2017-12-07	trafficIntensity	600	trafficIntensity	14:51:03.810000
-2017-12-07	trafficIntensity	480	trafficIntensity	15:44:05.141000
-2017-12-09	trafficIntensity	0	trafficIntensity	03:11:09.868000
-2017-12-10	trafficIntensity	360	trafficIntensity	10:06:09.489000
-2017-12-13	trafficIntensity	0	trafficIntensity	02:26:17.184000
-2017-12-16	trafficIntensity	0	trafficIntensity	04:09:24.638000
-2017-12-18	trafficIntensity	120	trafficIntensity	23:27:29.882000
-2017-12-18	trafficIntensity	0	trafficIntensity	23:38:30.108000
-2017-12-19	trafficIntensity	0	trafficIntensity	01:16:31.779000
-2017-12-20	trafficIntensity	1320	trafficIntensity	20:38:35.455000
-2017-12-23	trafficIntensity	480	trafficIntensity	00:21:38.557000
-2017-12-23	trafficIntensity	540	trafficIntensity	00:31:40.927000
-2017-12-23	trafficIntensity	960	trafficIntensity	04:21:39.555000
-2017-12-23	trafficIntensity	600	trafficIntensity	06:19:42.168000
-2017-12-24	trafficIntensity	240	trafficIntensity	17:43:47.458000
-2017-12-27	trafficIntensity	660	trafficIntensity	09:44:50.105000
-2017-12-27	trafficIntensity	1020	trafficIntensity	10:24:50.705000
-2017-12-31	trafficIntensity	180	trafficIntensity	14:49:01.156000
-2018-01-01	trafficIntensity	0	trafficIntensity	23:21:08.378000
-2018-01-02	trafficIntensity	60	trafficIntensity	17:51:11.711000
-2018-01-10	trafficIntensity	240	trafficIntensity	09:40:25.526000
-2018-01-10	trafficIntensity	1620	trafficIntensity	10:04:26.062000
-2018-01-10	trafficIntensity	540	trafficIntensity	12:03:28.713000
-2018-01-10	trafficIntensity	240	trafficIntensity	12:40:29.394000
-2018-01-14	trafficIntensity	300	trafficIntensity	14:53:37.248000
-2018-01-24	trafficIntensity	0	trafficIntensity	06:01:01.597000
-2018-01-28	trafficIntensity	120	trafficIntensity	08:40:12.039000
-2018-01-29	trafficIntensity	540	trafficIntensity	19:08:16.392000
-2018-01-29	trafficIntensity	600	trafficIntensity	19:52:17.519000
-2018-01-31	trafficIntensity	120	trafficIntensity	04:19:20.440000
-2018-01-31	trafficIntensity	300	trafficIntensity	06:51:24.128000
-2018-02-02	trafficIntensity	120	trafficIntensity	23:27:30.963000
-2018-02-04	trafficIntensity	0	trafficIntensity	07:55:34.619000
-2018-02-04	trafficIntensity	240	trafficIntensity	08:19:35.239000
-2018-02-05	trafficIntensity	420	trafficIntensity	16:25:38.771000
-2018-02-07	trafficIntensity	0	trafficIntensity	01:08:41.252000
-2018-02-08	trafficIntensity	360	trafficIntensity	07:20:40.583000
-2018-02-09	trafficIntensity	780	trafficIntensity	15:15:44.018000
-2018-02-12	trafficIntensity	60	trafficIntensity	03:00:53.218000
-2018-02-13	trafficIntensity	600	trafficIntensity	21:02:52.808000
-2018-02-16	trafficIntensity	660	trafficIntensity	06:54:03.043000
-2018-02-17	trafficIntensity	420	trafficIntensity	19:47:14.241000
-2018-02-20	trafficIntensity	600	trafficIntensity	07:47:29.786000
-2018-02-20	trafficIntensity	480	trafficIntensity	08:07:30.708000
-2018-02-21	trafficIntensity	780	trafficIntensity	00:28:16.454000
-2018-02-21	trafficIntensity	1080	trafficIntensity	01:11:16.663000
-2018-02-21	trafficIntensity	60	trafficIntensity	01:28:16.729000
-2018-02-21	trafficIntensity	0	trafficIntensity	01:29:17.024000
-2018-02-21	trafficIntensity	60	trafficIntensity	01:44:17.833000
-2018-02-21	trafficIntensity	180	trafficIntensity	01:46:17.784000
-2018-02-22	trafficIntensity	540	trafficIntensity	00:21:19.712000
-2018-02-22	trafficIntensity	120	trafficIntensity	00:36:20.033000
-2018-02-22	trafficIntensity	360	trafficIntensity	00:48:20.136000
-2018-02-22	trafficIntensity	29	trafficIntensity	00:52:20.147000
-2018-02-22	trafficIntensity	300	trafficIntensity	03:58:29.387000
-2018-02-22	trafficIntensity	120	trafficIntensity	05:59:35.035000
-2018-02-22	trafficIntensity	120	trafficIntensity	06:04:35.274000
-2018-02-22	trafficIntensity	360	trafficIntensity	06:07:35.547000
-2018-02-22	trafficIntensity	60	trafficIntensity	06:10:35.445000
-2018-02-22	trafficIntensity	540	trafficIntensity	06:11:35.523000
-2018-02-22	trafficIntensity	160	trafficIntensity	06:14:35.696000
-2018-02-22	trafficIntensity	360	trafficIntensity	06:37:35.802000
-2018-02-23	trafficIntensity	0	trafficIntensity	00:05:24.872000
-2018-02-23	trafficIntensity	180	trafficIntensity	04:26:37.086000
-2018-02-23	trafficIntensity	240	trafficIntensity	04:29:37.202000
-2018-02-23	trafficIntensity	0	trafficIntensity	04:30:37.796000
-2018-02-23	trafficIntensity	180	trafficIntensity	04:35:37.891000
-2018-02-23	trafficIntensity	240	trafficIntensity	22:48:24.128000
-2018-02-23	trafficIntensity	0	trafficIntensity	22:52:25.059000
-2018-02-23	trafficIntensity	1680	trafficIntensity	22:57:25.219000
-2018-02-23	trafficIntensity	0	trafficIntensity	23:04:25.113000
-2018-02-23	trafficIntensity	360	trafficIntensity	23:06:25.131000
-2018-02-25	trafficIntensity	180	trafficIntensity	20:00:27.829000
-2018-02-25	trafficIntensity	0	trafficIntensity	20:21:28.961000
-2018-02-25	trafficIntensity	240	trafficIntensity	20:37:29.617000
-2018-02-25	trafficIntensity	300	trafficIntensity	20:41:29.746000
-2018-02-25	trafficIntensity	120	trafficIntensity	20:53:29.867000
-2018-02-25	trafficIntensity	120	trafficIntensity	21:00:29.997000
-2018-02-25	trafficIntensity	120	trafficIntensity	21:05:29.899000
-2018-02-25	trafficIntensity	240	trafficIntensity	21:13:31.092000
-2018-02-26	trafficIntensity	360	trafficIntensity	19:54:32.782000
-2018-02-26	trafficIntensity	300	trafficIntensity	20:41:34.433000
-2018-02-26	trafficIntensity	120	trafficIntensity	21:13:36.550000
-2018-02-26	trafficIntensity	180	trafficIntensity	21:23:36.915000
-2018-02-26	trafficIntensity	240	trafficIntensity	21:35:36.567000
-2018-02-26	trafficIntensity	180	trafficIntensity	21:55:37.491000
-2018-02-26	trafficIntensity	120	trafficIntensity	22:34:39.601000
-2018-02-28	trafficIntensity	120	trafficIntensity	00:24:50.408000
-2018-02-28	trafficIntensity	120	trafficIntensity	21:45:33.992000
-2018-02-28	trafficIntensity	60	trafficIntensity	23:09:37.964000
-2018-02-28	trafficIntensity	0	trafficIntensity	23:27:37.796000
-2018-03-01	trafficIntensity	240	trafficIntensity	04:47:53.308000
-2018-03-01	trafficIntensity	228	trafficIntensity	04:57:53.275000
-2018-03-01	trafficIntensity	240	trafficIntensity	05:09:53.340000
-2018-03-01	trafficIntensity	180	trafficIntensity	22:11:39.939000
-2018-03-01	trafficIntensity	169	trafficIntensity	22:14:40.096000
-2018-03-01	trafficIntensity	0	trafficIntensity	22:22:40.232000
-2018-03-02	trafficIntensity	840	trafficIntensity	18:50:36.826000
-2018-03-03	trafficIntensity	300	trafficIntensity	20:50:44.984000
-2018-03-03	trafficIntensity	360	trafficIntensity	20:54:45.210000
-2018-03-03	trafficIntensity	180	trafficIntensity	20:56:45.235000
-2018-03-03	trafficIntensity	240	trafficIntensity	21:01:44.975000
-2018-03-03	trafficIntensity	1080	trafficIntensity	21:05:45.147000
-2018-03-03	trafficIntensity	60	trafficIntensity	21:09:45.013000
-2018-03-03	trafficIntensity	120	trafficIntensity	22:48:50.603000
-2018-03-03	trafficIntensity	120	trafficIntensity	22:55:50.776000
-2018-03-04	trafficIntensity	0	trafficIntensity	02:00:59.595000
-2018-03-04	trafficIntensity	0	trafficIntensity	02:20:00.300000
-2018-03-04	trafficIntensity	0	trafficIntensity	02:35:00.757000
-2018-03-04	trafficIntensity	480	trafficIntensity	19:56:48.158000
-2018-03-05	trafficIntensity	240	trafficIntensity	07:55:37.362000
-2018-03-05	trafficIntensity	540	trafficIntensity	09:45:37.416000
-2018-03-05	trafficIntensity	660	trafficIntensity	18:24:49.300000
-2018-03-05	trafficIntensity	720	trafficIntensity	18:26:49.431000
-2018-03-05	trafficIntensity	1020	trafficIntensity	18:35:49.889000
-2018-03-05	trafficIntensity	1080	trafficIntensity	18:37:49.759000
-2018-03-05	trafficIntensity	780	trafficIntensity	18:39:49.728000
-2018-03-05	trafficIntensity	360	trafficIntensity	18:52:49.812000
-2018-03-06	trafficIntensity	540	trafficIntensity	17:50:51.752000
-2018-03-06	trafficIntensity	600	trafficIntensity	17:55:51.844000
-2018-03-06	trafficIntensity	360	trafficIntensity	17:58:52.010000
-2018-03-06	trafficIntensity	660	trafficIntensity	18:00:52.078000
-2018-03-06	trafficIntensity	600	trafficIntensity	18:02:52.274000
-2018-03-06	trafficIntensity	480	trafficIntensity	18:07:52.267000
-2018-03-06	trafficIntensity	240	trafficIntensity	18:09:52.481000
-2018-03-06	trafficIntensity	360	trafficIntensity	18:16:52.245000
-2018-03-08	trafficIntensity	660	trafficIntensity	17:21:56.632000
-2018-03-08	trafficIntensity	360	trafficIntensity	17:31:56.342000
-2018-03-08	trafficIntensity	240	trafficIntensity	17:37:57.277000
-2018-03-08	trafficIntensity	600	trafficIntensity	17:40:57.419000
-2018-03-08	trafficIntensity	0	trafficIntensity	17:43:57.348000
-2018-03-08	trafficIntensity	360	trafficIntensity	17:54:57.226000
-2018-03-08	trafficIntensity	240	trafficIntensity	17:56:57.333000
-2018-03-09	trafficIntensity	360	trafficIntensity	18:04:00.326000
-2018-03-09	trafficIntensity	540	trafficIntensity	18:07:59.752000
-2018-03-09	trafficIntensity	180	trafficIntensity	18:13:59.789000
-2018-03-09	trafficIntensity	840	trafficIntensity	18:15:59.800000
-2018-03-09	trafficIntensity	120	trafficIntensity	23:07:14.766000
-2018-03-10	trafficIntensity	540	trafficIntensity	17:25:01.285000
-2018-03-10	trafficIntensity	180	trafficIntensity	17:26:01.793000
-2018-03-10	trafficIntensity	600	trafficIntensity	17:40:02.228000
-2018-03-10	trafficIntensity	600	trafficIntensity	17:42:02.338000
-2018-03-10	trafficIntensity	300	trafficIntensity	17:50:02.312000
-2018-03-10	trafficIntensity	480	trafficIntensity	18:19:03.325000
-2018-03-11	trafficIntensity	420	trafficIntensity	17:11:04.278000
-2018-03-11	trafficIntensity	240	trafficIntensity	17:28:05.055000
-2018-03-11	trafficIntensity	1500	trafficIntensity	17:29:05.132000
-2018-03-12	trafficIntensity	660	trafficIntensity	16:21:06.386000
-2018-03-12	trafficIntensity	780	trafficIntensity	16:36:06.770000
-2018-03-12	trafficIntensity	1380	trafficIntensity	16:40:06.906000
-2018-03-12	trafficIntensity	780	trafficIntensity	16:45:07.116000
-2018-03-12	trafficIntensity	1080	trafficIntensity	16:55:07.289000
-2018-03-12	trafficIntensity	660	trafficIntensity	17:02:07.244000
-2018-03-13	trafficIntensity	300	trafficIntensity	16:55:09.194000
-2018-03-13	trafficIntensity	180	trafficIntensity	16:56:09.034000
-2018-03-13	trafficIntensity	780	trafficIntensity	17:13:09.921000
-2018-03-13	trafficIntensity	480	trafficIntensity	17:21:09.809000
-2018-03-13	trafficIntensity	1260	trafficIntensity	17:31:09.872000
-2018-03-13	trafficIntensity	600	trafficIntensity	18:49:14.006000
-2018-03-13	trafficIntensity	600	trafficIntensity	20:51:19.242000
-2018-03-14	trafficIntensity	360	trafficIntensity	16:42:11.776000
-2018-03-14	trafficIntensity	0	trafficIntensity	16:55:11.992000
-2018-03-14	trafficIntensity	420	trafficIntensity	17:14:12.479000
-2018-03-14	trafficIntensity	240	trafficIntensity	17:16:12.971000
-2018-03-14	trafficIntensity	240	trafficIntensity	17:18:13.002000
-2018-03-14	trafficIntensity	480	trafficIntensity	17:24:13.352000
-2018-03-14	trafficIntensity	180	trafficIntensity	17:29:13.531000
-2018-03-15	trafficIntensity	490	trafficIntensity	09:30:03.841000
-2018-03-15	trafficIntensity	300	trafficIntensity	16:00:12.748000
-2018-03-15	trafficIntensity	300	trafficIntensity	16:37:14.209000
-2018-03-15	trafficIntensity	120	trafficIntensity	16:45:14.572000
-2018-03-15	trafficIntensity	360	trafficIntensity	16:47:14.623000
-2018-03-15	trafficIntensity	1680	trafficIntensity	16:49:14.692000
-2018-03-15	trafficIntensity	360	trafficIntensity	16:56:14.948000
-2018-03-15	trafficIntensity	549	trafficIntensity	16:57:15.052000
-2018-03-15	trafficIntensity	2160	trafficIntensity	17:04:14.908000
-2018-03-15	trafficIntensity	502	trafficIntensity	19:00:20.576000
-2018-03-16	trafficIntensity	120	trafficIntensity	00:00:33.892000
-2018-03-16	trafficIntensity	540	trafficIntensity	16:05:16.456000
-2018-03-16	trafficIntensity	180	trafficIntensity	16:12:16.799000
-2018-03-16	trafficIntensity	480	trafficIntensity	16:34:17.754000
-2018-03-16	trafficIntensity	600	trafficIntensity	16:35:17.378000
-2018-03-16	trafficIntensity	540	trafficIntensity	16:39:17.316000
-2018-03-16	trafficIntensity	600	trafficIntensity	16:43:17.386000
-2018-03-16	trafficIntensity	240	trafficIntensity	16:47:17.417000
-2018-03-16	trafficIntensity	540	trafficIntensity	16:50:17.303000
-2018-03-16	trafficIntensity	240	trafficIntensity	21:38:31.724000
-2018-03-17	trafficIntensity	180	trafficIntensity	15:15:16.439000
-2018-03-17	trafficIntensity	420	trafficIntensity	16:27:19.558000
-2018-03-17	trafficIntensity	420	trafficIntensity	16:31:19.739000
-2018-03-17	trafficIntensity	300	trafficIntensity	16:34:20.078000
-2018-03-18	trafficIntensity	420	trafficIntensity	16:16:21.637000
-2018-03-18	trafficIntensity	240	trafficIntensity	16:22:21.955000
-2018-03-18	trafficIntensity	360	trafficIntensity	16:25:22.094000
-2018-03-18	trafficIntensity	240	trafficIntensity	16:27:22.118000
-2018-03-18	trafficIntensity	420	trafficIntensity	16:31:22.324000
-2018-03-18	trafficIntensity	0	trafficIntensity	16:41:22.345000
-2018-03-18	trafficIntensity	240	trafficIntensity	16:48:22.352000
-2018-03-18	trafficIntensity	60	trafficIntensity	16:50:22.461000
-2018-03-19	trafficIntensity	240	trafficIntensity	13:58:18.672000
-2018-03-19	trafficIntensity	600	trafficIntensity	15:50:24.240000
-2018-03-19	trafficIntensity	360	trafficIntensity	15:51:24.219000
-2018-03-19	trafficIntensity	480	trafficIntensity	16:06:24.997000
-2018-03-19	trafficIntensity	900	trafficIntensity	16:08:24.787000
-2018-03-19	trafficIntensity	480	trafficIntensity	16:21:24.918000
-2018-03-20	trafficIntensity	1140	trafficIntensity	15:40:26.715000
-2018-03-20	trafficIntensity	240	trafficIntensity	15:42:26.617000
-2018-03-20	trafficIntensity	240	trafficIntensity	15:58:27.381000
-2018-03-20	trafficIntensity	1260	trafficIntensity	18:06:33.529000
-2018-03-20	trafficIntensity	240	trafficIntensity	21:19:42.597000
-2018-03-21	trafficIntensity	480	trafficIntensity	15:00:28.733000
-2018-03-21	trafficIntensity	660	trafficIntensity	15:28:30.177000
-2018-03-21	trafficIntensity	120	trafficIntensity	15:32:29.803000
-2018-03-21	trafficIntensity	300	trafficIntensity	15:35:29.775000
-2018-03-21	trafficIntensity	360	trafficIntensity	15:36:29.916000
-2018-03-21	trafficIntensity	420	trafficIntensity	15:37:29.809000
-2018-03-21	trafficIntensity	180	trafficIntensity	15:38:29.813000
-2018-03-22	trafficIntensity	600	trafficIntensity	15:08:32.468000
-2018-03-22	trafficIntensity	120	trafficIntensity	15:16:32.940000
-2018-03-22	trafficIntensity	300	trafficIntensity	15:19:32.387000
-2018-03-22	trafficIntensity	540	trafficIntensity	15:29:33.510000
-2018-03-22	trafficIntensity	300	trafficIntensity	15:39:33.474000
-2018-03-23	trafficIntensity	420	trafficIntensity	13:45:31.672000
-2018-03-23	trafficIntensity	300	trafficIntensity	14:27:34.319000
-2018-03-23	trafficIntensity	360	trafficIntensity	14:32:34.639000
-2018-03-23	trafficIntensity	120	trafficIntensity	14:33:34.516000
-2018-03-23	trafficIntensity	120	trafficIntensity	14:37:34.703000
-2018-03-23	trafficIntensity	420	trafficIntensity	14:41:34.947000
-2018-03-23	trafficIntensity	240	trafficIntensity	14:55:35.681000
-2018-03-23	trafficIntensity	360	trafficIntensity	14:57:34.776000
-2018-03-23	trafficIntensity	540	trafficIntensity	14:58:34.792000
-2018-03-24	trafficIntensity	1140	trafficIntensity	13:52:36.620000
-2018-03-24	trafficIntensity	180	trafficIntensity	13:59:36.935000
-2018-03-24	trafficIntensity	120	trafficIntensity	14:00:36.974000
-2018-03-24	trafficIntensity	660	trafficIntensity	14:08:37.242000
-2018-03-24	trafficIntensity	360	trafficIntensity	14:20:37.318000
-2018-03-24	trafficIntensity	0	trafficIntensity	14:28:37.282000
-2018-03-25	trafficIntensity	120	trafficIntensity	13:40:38.764000
-2018-03-25	trafficIntensity	0	trafficIntensity	13:51:39.827000
-2018-03-25	trafficIntensity	180	trafficIntensity	13:56:39.716000
-2018-03-25	trafficIntensity	120	trafficIntensity	13:58:39.844000
-2018-03-25	trafficIntensity	300	trafficIntensity	14:02:39.751000
-2018-03-25	trafficIntensity	180	trafficIntensity	14:10:39.715000
-2018-03-26	trafficIntensity	240	trafficIntensity	13:03:41.598000
-2018-03-26	trafficIntensity	180	trafficIntensity	13:07:41.779000
-2018-03-26	trafficIntensity	300	trafficIntensity	13:19:42.379000
-2018-03-26	trafficIntensity	480	trafficIntensity	13:22:42.237000
-2018-03-26	trafficIntensity	120	trafficIntensity	13:26:42.138000
-2018-03-26	trafficIntensity	384	trafficIntensity	13:28:42.192000
-2018-03-26	trafficIntensity	300	trafficIntensity	13:44:43.403000
-2018-03-26	trafficIntensity	600	trafficIntensity	13:56:43.203000
-2018-03-27	trafficIntensity	600	trafficIntensity	12:44:43.570000
-2018-03-27	trafficIntensity	360	trafficIntensity	12:50:44.155000
-2018-03-27	trafficIntensity	660	trafficIntensity	12:55:44.320000
-2018-03-27	trafficIntensity	540	trafficIntensity	13:03:44.780000
-2018-03-27	trafficIntensity	120	trafficIntensity	13:22:44.746000
-2018-03-28	trafficIntensity	480	trafficIntensity	12:23:46.475000
-2018-03-28	trafficIntensity	780	trafficIntensity	12:44:47.181000
-2018-03-28	trafficIntensity	960	trafficIntensity	12:48:47.141000
-2018-03-28	trafficIntensity	480	trafficIntensity	12:49:47.092000
-2018-03-29	trafficIntensity	180	trafficIntensity	11:41:49.127000
-2018-03-29	trafficIntensity	420	trafficIntensity	11:52:49.753000
-2018-03-29	trafficIntensity	240	trafficIntensity	11:56:49.630000
-2018-03-30	trafficIntensity	660	trafficIntensity	11:03:51.362000
-2018-03-30	trafficIntensity	0	trafficIntensity	11:10:51.712000
-2018-03-30	trafficIntensity	600	trafficIntensity	11:28:52.010000
-2018-03-30	trafficIntensity	388	trafficIntensity	11:30:52.084000
-2018-03-30	trafficIntensity	360	trafficIntensity	11:34:52.836000
-2018-03-30	trafficIntensity	60	trafficIntensity	11:36:52.264000
-2018-03-31	trafficIntensity	660	trafficIntensity	10:55:53.755000
-2018-03-31	trafficIntensity	120	trafficIntensity	11:00:53.979000
-2018-03-31	trafficIntensity	720	trafficIntensity	11:07:54.541000
-2018-03-31	trafficIntensity	240	trafficIntensity	11:09:54.436000
-2018-03-31	trafficIntensity	240	trafficIntensity	11:25:54.605000
-2018-04-01	trafficIntensity	420	trafficIntensity	10:48:56.438000
-2018-04-01	trafficIntensity	420	trafficIntensity	11:01:56.233000
-2018-04-01	trafficIntensity	1140	trafficIntensity	11:03:57.248000
-2018-04-01	trafficIntensity	300	trafficIntensity	11:22:57.057000
-2018-04-02	trafficIntensity	900	trafficIntensity	10:35:58.863000
-2018-04-02	trafficIntensity	360	trafficIntensity	10:40:59.231000
-2018-04-02	trafficIntensity	420	trafficIntensity	10:47:59.430000
-2018-04-02	trafficIntensity	360	trafficIntensity	10:50:59.475000
-2018-04-02	trafficIntensity	540	trafficIntensity	10:51:59.535000
-2018-04-02	trafficIntensity	240	trafficIntensity	10:59:59.668000
-2018-04-03	trafficIntensity	120	trafficIntensity	10:19:01.613000
-2018-04-03	trafficIntensity	780	trafficIntensity	10:21:01.786000
-2018-04-03	trafficIntensity	600	trafficIntensity	10:34:02.023000
-2018-04-03	trafficIntensity	180	trafficIntensity	10:43:02.041000
-2018-04-03	trafficIntensity	600	trafficIntensity	11:10:03.102000
-2018-04-04	trafficIntensity	600	trafficIntensity	09:37:03.712000
-2018-04-04	trafficIntensity	480	trafficIntensity	10:00:04.577000
-2018-04-04	trafficIntensity	420	trafficIntensity	10:03:04.391000
-2018-04-04	trafficIntensity	420	trafficIntensity	10:07:04.512000
-2018-04-04	trafficIntensity	600	trafficIntensity	10:08:04.403000
-2018-04-04	trafficIntensity	300	trafficIntensity	10:09:04.416000
-2018-04-04	trafficIntensity	180	trafficIntensity	10:11:04.458000
-2018-04-04	trafficIntensity	300	trafficIntensity	10:16:04.650000
-2018-04-05	trafficIntensity	120	trafficIntensity	04:00:55.350000
-2018-04-05	trafficIntensity	1800	trafficIntensity	09:35:06.092000
-2018-04-05	trafficIntensity	600	trafficIntensity	09:42:06.361000
-2018-04-05	trafficIntensity	960	trafficIntensity	09:52:06.815000
-2018-04-05	trafficIntensity	180	trafficIntensity	10:04:07.012000
-2018-04-05	trafficIntensity	420	trafficIntensity	10:08:06.899000
-2018-04-05	trafficIntensity	300	trafficIntensity	10:13:06.914000
-2018-04-06	trafficIntensity	240	trafficIntensity	09:52:08.856000
-2018-04-06	trafficIntensity	360	trafficIntensity	09:56:08.572000
-2018-04-06	trafficIntensity	300	trafficIntensity	10:04:09.510000
-2018-04-06	trafficIntensity	600	trafficIntensity	10:15:09.490000
-2018-04-06	trafficIntensity	1680	trafficIntensity	10:18:09.407000
-2018-04-06	trafficIntensity	420	trafficIntensity	10:23:09.572000
-2018-04-06	trafficIntensity	600	trafficIntensity	15:14:24.642000
-2018-04-07	trafficIntensity	540	trafficIntensity	09:42:11.176000
-2018-04-07	trafficIntensity	360	trafficIntensity	10:03:11.927000
-2018-04-07	trafficIntensity	240	trafficIntensity	10:05:11.972000
-2018-04-08	trafficIntensity	240	trafficIntensity	09:57:13.895000
-2018-04-08	trafficIntensity	300	trafficIntensity	10:01:14.086000
-2018-04-08	trafficIntensity	300	trafficIntensity	10:06:14.374000
-2018-04-08	trafficIntensity	300	trafficIntensity	10:21:14.528000
-2018-04-09	trafficIntensity	120	trafficIntensity	10:03:16.961000
-2018-04-09	trafficIntensity	900	trafficIntensity	10:14:17.450000
-2018-04-09	trafficIntensity	402	trafficIntensity	10:18:17
-2018-04-10	trafficIntensity	420	trafficIntensity	10:14:19.338000
-2018-04-10	trafficIntensity	420	trafficIntensity	10:16:19.366000
-2018-04-10	trafficIntensity	240	trafficIntensity	10:18:19.502000
-2018-04-10	trafficIntensity	480	trafficIntensity	10:24:19.522000
-2018-04-10	trafficIntensity	360	trafficIntensity	10:33:19.452000
-2018-04-10	trafficIntensity	720	trafficIntensity	10:37:20.367000
-2018-04-10	trafficIntensity	780	trafficIntensity	10:46:20.523000
-2018-04-10	trafficIntensity	720	trafficIntensity	10:49:20.571000
-2018-04-11	trafficIntensity	300	trafficIntensity	10:04:20.937000
-2018-04-11	trafficIntensity	540	trafficIntensity	10:13:21.414000
-2018-04-11	trafficIntensity	360	trafficIntensity	10:18:21.601000
-2018-04-11	trafficIntensity	600	trafficIntensity	10:29:22.001000
-2018-04-11	trafficIntensity	300	trafficIntensity	10:32:22.018000
-2018-04-11	trafficIntensity	540	trafficIntensity	10:34:22.017000
-2018-04-11	trafficIntensity	360	trafficIntensity	10:37:22.042000
-2018-04-11	trafficIntensity	540	trafficIntensity	12:55:29.250000
-2018-04-12	trafficIntensity	420	trafficIntensity	09:36:23.422000
-2018-04-12	trafficIntensity	240	trafficIntensity	10:09:24.756000
-2018-04-12	trafficIntensity	300	trafficIntensity	10:11:24.841000
-2018-04-12	trafficIntensity	540	trafficIntensity	10:13:24.946000
-2018-04-12	trafficIntensity	240	trafficIntensity	10:30:25.745000
-2018-04-13	trafficIntensity	540	trafficIntensity	09:53:26.594000
-2018-04-13	trafficIntensity	503	trafficIntensity	09:54:25.980000
-2018-04-13	trafficIntensity	300	trafficIntensity	10:05:27.146000
-2018-04-13	trafficIntensity	1200	trafficIntensity	13:30:36.787000
-2018-04-14	trafficIntensity	240	trafficIntensity	09:48:28.863000
-2018-04-14	trafficIntensity	180	trafficIntensity	10:06:29.649000
-2018-04-14	trafficIntensity	240	trafficIntensity	10:23:29.506000
-2018-04-15	trafficIntensity	60	trafficIntensity	08:05:25.803000
-2018-04-15	trafficIntensity	540	trafficIntensity	10:01:31.656000
-2018-04-15	trafficIntensity	240	trafficIntensity	10:18:31.982000
-2018-04-15	trafficIntensity	540	trafficIntensity	10:27:31.989000
-2018-04-16	trafficIntensity	2040	trafficIntensity	09:56:34.209000
-2018-04-16	trafficIntensity	480	trafficIntensity	10:05:34.479000
-2018-04-16	trafficIntensity	420	trafficIntensity	10:13:34.539000
-2018-04-16	trafficIntensity	960	trafficIntensity	10:18:34.498000
-2018-04-17	trafficIntensity	300	trafficIntensity	10:24:37.134000
-2018-04-17	trafficIntensity	480	trafficIntensity	10:26:37.230000
-2018-04-17	trafficIntensity	180	trafficIntensity	11:49:41.158000
-2018-04-18	trafficIntensity	420	trafficIntensity	09:59:39.050000
-2018-04-18	trafficIntensity	556	trafficIntensity	10:02:39.135000
-2018-04-18	trafficIntensity	780	trafficIntensity	10:05:39.320000
-2018-04-18	trafficIntensity	420	trafficIntensity	10:08:39.425000
-2018-04-18	trafficIntensity	660	trafficIntensity	18:16:02.798000
-2018-04-19	trafficIntensity	300	trafficIntensity	09:51:41.558000
-2018-04-19	trafficIntensity	300	trafficIntensity	10:05:42.203000
-2018-04-19	trafficIntensity	540	trafficIntensity	10:09:42.163000
-2018-04-19	trafficIntensity	240	trafficIntensity	10:11:42.273000
-2018-04-19	trafficIntensity	780	trafficIntensity	10:16:42.469000
-2018-04-19	trafficIntensity	480	trafficIntensity	10:18:42.169000
-2018-04-19	trafficIntensity	900	trafficIntensity	10:58:44.481000
-2017-07-05	roadLoad	54	roadLoad	15:13:34.754000
-2017-07-05	roadLoad	15	roadLoad	17:38:36.205000
-2017-07-05	roadLoad	11	roadLoad	18:13:35.717000
-2017-07-06	roadLoad	6	roadLoad	02:47:35.499000
-2017-07-06	roadLoad	14	roadLoad	20:02:36.295000
-2017-07-14	roadLoad	7	roadLoad	23:02:58.850000
-2017-08-02	roadLoad	19	roadLoad	12:36:50.208000
-2017-08-22	roadLoad	7	roadLoad	02:58:41.157000
-2017-08-27	roadLoad	0	roadLoad	06:20:53.164000
-2017-08-27	roadLoad	14	roadLoad	12:28:53.480000
-2017-08-28	roadLoad	11	roadLoad	06:09:56.569000
-2017-08-29	roadLoad	62	roadLoad	06:18:58.171000
-2017-09-01	roadLoad	0	roadLoad	03:49:05.640000
-2017-09-02	roadLoad	18	roadLoad	12:31:09.904000
-2017-09-05	roadLoad	6	roadLoad	03:38:16.044000
-2017-09-08	roadLoad	0	roadLoad	01:42:22.968000
-2017-09-08	roadLoad	39	roadLoad	12:56:26.198000
-2017-09-09	roadLoad	8	roadLoad	01:14:28.532000
-2017-09-09	roadLoad	2	roadLoad	01:54:27.717000
-2017-09-14	roadLoad	20	roadLoad	22:18:40.499000
-2017-09-16	roadLoad	8	roadLoad	00:55:45.449000
-2017-09-16	roadLoad	11	roadLoad	02:03:47.469000
-2017-09-16	roadLoad	5	roadLoad	02:11:47.567000
-2017-09-20	roadLoad	36	roadLoad	19:00:55.522000
-2017-09-22	roadLoad	27	roadLoad	04:52:59.735000
-2017-09-25	roadLoad	40	roadLoad	16:36:07.968000
-2017-09-29	roadLoad	22	roadLoad	21:01:18.603000
-2017-09-30	roadLoad	46	roadLoad	11:51:18.051000
-2017-09-30	roadLoad	8	roadLoad	12:15:21.589000
-2017-10-02	roadLoad	0	roadLoad	22:03:22.323000
-2017-10-03	roadLoad	5	roadLoad	00:47:25.091000
-2017-10-03	roadLoad	2	roadLoad	01:13:25.792000
-2017-10-04	roadLoad	37	roadLoad	18:45:28.307000
-2017-10-06	roadLoad	9	roadLoad	02:43:34.693000
-2017-10-06	roadLoad	35	roadLoad	16:54:35.474000
-2017-10-07	roadLoad	18	roadLoad	05:10:36.554000
-2017-10-07	roadLoad	4	roadLoad	08:00:40.956000
-2017-10-07	roadLoad	25	roadLoad	13:05:50.214000
-2017-10-10	roadLoad	30	roadLoad	06:10:43.668000
-2017-10-15	roadLoad	6	roadLoad	23:19:58.169000
-2017-10-20	roadLoad	19	roadLoad	08:28:06.921000
-2017-10-20	roadLoad	9	roadLoad	20:01:08.869000
-2017-10-20	roadLoad	5	roadLoad	23:58:11.772000
-2017-10-21	roadLoad	20	roadLoad	22:49:13.584000
-2017-10-23	roadLoad	51	roadLoad	10:05:14.597000
-2017-10-24	roadLoad	42	roadLoad	15:28:16.756000
-2017-10-24	roadLoad	25	roadLoad	18:45:13.651000
-2017-10-25	roadLoad	14	roadLoad	13:20:17.327000
-2017-10-26	roadLoad	10	roadLoad	10:47:21.669000
-2017-10-31	roadLoad	14	roadLoad	04:22:32.835000
-2017-10-31	roadLoad	11	roadLoad	06:00:34.405000
-2017-11-04	roadLoad	30	roadLoad	08:28:46.332000
-2017-11-05	roadLoad	0	roadLoad	06:53:46.809000
-2017-11-05	roadLoad	32	roadLoad	14:03:46.105000
-2017-11-07	roadLoad	14	roadLoad	10:16:47.438000
-2017-11-08	roadLoad	30	roadLoad	07:51:52.368000
-2017-11-10	roadLoad	11	roadLoad	23:58:01.604000
-2017-11-12	roadLoad	16	roadLoad	09:53:05.478000
-2017-11-13	roadLoad	39	roadLoad	03:02:02.036000
-2017-11-13	roadLoad	43	roadLoad	16:41:04.895000
-2017-11-13	roadLoad	12	roadLoad	21:01:05.124000
-2017-11-14	roadLoad	18	roadLoad	12:22:09.096000
-2017-11-15	roadLoad	0	roadLoad	04:09:10.899000
-2017-11-16	roadLoad	30	roadLoad	12:22:12.244000
-2017-11-16	roadLoad	5	roadLoad	15:23:17.002000
-2017-11-17	roadLoad	7	roadLoad	21:54:14.856000
-2017-11-18	roadLoad	5	roadLoad	01:27:20.300000
-2017-11-19	roadLoad	0	roadLoad	07:56:19.167000
-2017-11-19	roadLoad	38	roadLoad	10:37:23.052000
-2017-11-20	roadLoad	52	roadLoad	19:49:25.587000
-2017-11-23	roadLoad	23	roadLoad	12:15:28.156000
-2017-11-23	roadLoad	25	roadLoad	14:54:32.173000
-2017-11-23	roadLoad	32	roadLoad	15:58:33.751000
-2017-11-24	roadLoad	22	roadLoad	21:01:34.098000
-2017-11-25	roadLoad	22	roadLoad	08:16:36.052000
-2017-11-26	roadLoad	24	roadLoad	10:29:38.072000
-2017-11-30	roadLoad	31	roadLoad	14:18:46.756000
-2017-11-30	roadLoad	34	roadLoad	15:41:48.802000
-2017-12-01	roadLoad	12	roadLoad	23:37:50.095000
-2017-12-03	roadLoad	23	roadLoad	12:39:58.294000
-2017-12-04	roadLoad	7	roadLoad	18:26:56.102000
-2017-12-06	roadLoad	14	roadLoad	22:27:03.279000
-2017-12-07	roadLoad	26	roadLoad	15:44:05.141000
-2017-12-09	roadLoad	0	roadLoad	03:11:09.865000
-2017-12-13	roadLoad	0	roadLoad	02:26:17.180000
-2017-12-14	roadLoad	21	roadLoad	15:59:18.719000
-2017-12-16	roadLoad	0	roadLoad	04:09:24.636000
-2017-12-18	roadLoad	5	roadLoad	23:27:29.877000
-2017-12-18	roadLoad	0	roadLoad	23:38:30.110000
-2017-12-19	roadLoad	0	roadLoad	01:16:31.780000
-2017-12-20	roadLoad	53	roadLoad	20:38:35.454000
-2017-12-23	roadLoad	19	roadLoad	00:21:38.556000
-2017-12-23	roadLoad	34	roadLoad	00:31:40.925000
-2017-12-23	roadLoad	38	roadLoad	04:21:39.555000
-2017-12-23	roadLoad	24	roadLoad	06:19:42.165000
-2017-12-24	roadLoad	12	roadLoad	17:43:47.456000
-2017-12-27	roadLoad	45	roadLoad	09:44:50.112000
-2017-12-27	roadLoad	47	roadLoad	10:24:50.698000
-2017-12-31	roadLoad	8	roadLoad	14:49:01.153000
-2018-01-01	roadLoad	0	roadLoad	23:21:08.377000
-2018-01-02	roadLoad	4	roadLoad	17:51:11.711000
-2018-01-08	roadLoad	44	roadLoad	14:01:30.121000
-2018-01-10	roadLoad	18	roadLoad	09:40:25.525000
-2018-01-10	roadLoad	64	roadLoad	10:04:26.061000
-2018-01-10	roadLoad	26	roadLoad	12:03:28.710000
-2018-01-10	roadLoad	27	roadLoad	12:40:29.393000
-2018-01-14	roadLoad	13	roadLoad	14:53:37.247000
-2018-01-24	roadLoad	0	roadLoad	06:01:01.595000
-2018-01-28	roadLoad	5	roadLoad	08:40:12.039000
-2018-01-29	roadLoad	43	roadLoad	19:08:16.391000
-2018-01-29	roadLoad	29	roadLoad	19:52:17.519000
-2018-01-31	roadLoad	6	roadLoad	04:19:20.434000
-2018-01-31	roadLoad	14	roadLoad	06:51:24.126000
-2018-02-02	roadLoad	7	roadLoad	23:27:30.962000
-2018-02-04	roadLoad	0	roadLoad	07:55:34.619000
-2018-02-04	roadLoad	11	roadLoad	08:19:35.236000
-2018-02-05	roadLoad	21	roadLoad	16:25:38.769000
-2018-02-07	roadLoad	0	roadLoad	01:08:41.251000
-2018-02-08	roadLoad	16	roadLoad	07:20:40.582000
-2018-02-09	roadLoad	40	roadLoad	15:15:44.016000
-2018-02-12	roadLoad	2	roadLoad	03:00:53.213000
-2018-02-13	roadLoad	35	roadLoad	21:02:52.805000
-2018-02-16	roadLoad	36	roadLoad	06:54:03.042000
-2018-02-17	roadLoad	36	roadLoad	19:47:14.238000
-2018-02-20	roadLoad	26	roadLoad	07:47:29.784000
-2018-02-20	roadLoad	33	roadLoad	08:05:29.849000
-2018-02-20	roadLoad	23	roadLoad	08:07:30.709000
-2018-02-21	roadLoad	31	roadLoad	00:28:16.454000
-2018-02-21	roadLoad	43	roadLoad	01:11:16.663000
-2018-02-21	roadLoad	2	roadLoad	01:28:16.729000
-2018-02-21	roadLoad	0	roadLoad	01:29:17.024000
-2018-02-21	roadLoad	2	roadLoad	01:44:17.833000
-2018-02-21	roadLoad	8	roadLoad	01:46:17.782000
-2018-02-22	roadLoad	6	roadLoad	00:36:20.027000
-2018-02-22	roadLoad	15	roadLoad	00:48:20.157000
-2018-02-22	roadLoad	11	roadLoad	00:52:20.145000
-2018-02-22	roadLoad	12	roadLoad	03:58:29.386000
-2018-02-22	roadLoad	5	roadLoad	05:59:35.033000
-2018-02-22	roadLoad	7	roadLoad	06:04:35.273000
-2018-02-22	roadLoad	16	roadLoad	06:07:35.544000
-2018-02-22	roadLoad	20	roadLoad	06:10:35.445000
-2018-02-22	roadLoad	23	roadLoad	06:11:35.521000
-2018-02-22	roadLoad	9	roadLoad	06:14:35.695000
-2018-02-22	roadLoad	19	roadLoad	06:37:35.795000
-2018-02-23	roadLoad	0	roadLoad	00:05:24.871000
-2018-02-23	roadLoad	9	roadLoad	04:26:37.084000
-2018-02-23	roadLoad	11	roadLoad	04:29:37.201000
-2018-02-23	roadLoad	0	roadLoad	04:30:37.795000
-2018-02-23	roadLoad	0	roadLoad	04:33:38.054000
-2018-02-23	roadLoad	9	roadLoad	04:35:37.889000
-2018-02-23	roadLoad	11	roadLoad	22:48:24.126000
-2018-02-23	roadLoad	13	roadLoad	22:50:25.004000
-2018-02-23	roadLoad	0	roadLoad	22:52:25.058000
-2018-02-23	roadLoad	68	roadLoad	22:57:25.216000
-2018-02-23	roadLoad	0	roadLoad	23:04:25.111000
-2018-02-23	roadLoad	16	roadLoad	23:06:25.128000
-2018-02-25	roadLoad	18	roadLoad	20:00:27.828000
-2018-02-25	roadLoad	0	roadLoad	20:21:28.959000
-2018-02-25	roadLoad	13	roadLoad	20:37:29.615000
-2018-02-25	roadLoad	15	roadLoad	20:41:29.743000
-2018-02-25	roadLoad	26	roadLoad	20:53:29.867000
-2018-02-25	roadLoad	38	roadLoad	21:00:29.996000
-2018-02-25	roadLoad	30	roadLoad	21:05:29.895000
-2018-02-26	roadLoad	16	roadLoad	19:54:32.781000
-2018-02-26	roadLoad	21	roadLoad	20:41:34.432000
-2018-02-26	roadLoad	8	roadLoad	21:23:36.912000
-2018-02-26	roadLoad	11	roadLoad	21:35:36.564000
-2018-02-26	roadLoad	9	roadLoad	21:55:37.489000
-2018-02-26	roadLoad	7	roadLoad	22:34:39.599000
-2018-02-28	roadLoad	19	roadLoad	00:24:50.405000
-2018-02-28	roadLoad	6	roadLoad	21:45:33.990000
-2018-02-28	roadLoad	0	roadLoad	23:27:37.788000
-2018-03-01	roadLoad	11	roadLoad	04:47:53.306000
-2018-03-01	roadLoad	16	roadLoad	04:57:53.271000
-2018-03-01	roadLoad	21	roadLoad	05:09:53.336000
-2018-03-01	roadLoad	10	roadLoad	22:11:39.936000
-2018-03-01	roadLoad	11	roadLoad	22:14:40.094000
-2018-03-01	roadLoad	0	roadLoad	22:22:40.229000
-2018-03-02	roadLoad	26	roadLoad	14:36:21.755000
-2018-03-03	roadLoad	14	roadLoad	20:48:43.928000
-2018-03-03	roadLoad	21	roadLoad	20:50:44.983000
-2018-03-03	roadLoad	30	roadLoad	20:54:45.207000
-2018-03-03	roadLoad	15	roadLoad	20:56:45.232000
-2018-03-03	roadLoad	11	roadLoad	21:01:44.971000
-2018-03-03	roadLoad	4	roadLoad	21:09:45.012000
-2018-03-03	roadLoad	5	roadLoad	22:48:50.603000
-2018-03-03	roadLoad	6	roadLoad	22:55:50.773000
-2018-03-04	roadLoad	0	roadLoad	02:20:00.295000
-2018-03-04	roadLoad	0	roadLoad	02:35:00.755000
-2018-03-04	roadLoad	26	roadLoad	19:56:48.154000
-2018-03-05	roadLoad	11	roadLoad	07:55:37.361000
-2018-03-05	roadLoad	28	roadLoad	09:45:37.415000
-2018-03-05	roadLoad	41	roadLoad	18:24:49.295000
-2018-03-05	roadLoad	36	roadLoad	18:26:49.430000
-2018-03-05	roadLoad	62	roadLoad	18:35:49.886000
-2018-03-05	roadLoad	48	roadLoad	18:37:49.756000
-2018-03-05	roadLoad	33	roadLoad	18:39:49.726000
-2018-03-05	roadLoad	18	roadLoad	18:52:49.812000
-2018-03-06	roadLoad	26	roadLoad	17:50:51.745000
-2018-03-06	roadLoad	46	roadLoad	17:51:51.963000
-2018-03-06	roadLoad	28	roadLoad	17:55:51.837000
-2018-03-06	roadLoad	16	roadLoad	17:58:52.009000
-2018-03-06	roadLoad	46	roadLoad	18:00:52.078000
-2018-03-06	roadLoad	35	roadLoad	18:02:52.272000
-2018-03-06	roadLoad	23	roadLoad	18:07:52.265000
-2018-03-06	roadLoad	11	roadLoad	18:09:52.479000
-2018-03-06	roadLoad	45	roadLoad	18:16:52.243000
-2018-03-08	roadLoad	33	roadLoad	17:21:56.631000
-2018-03-08	roadLoad	33	roadLoad	17:24:56.671000
-2018-03-08	roadLoad	24	roadLoad	17:31:56.338000
-2018-03-08	roadLoad	22	roadLoad	17:35:57.263000
-2018-03-08	roadLoad	12	roadLoad	17:37:57.275000
-2018-03-08	roadLoad	42	roadLoad	17:40:57.416000
-2018-03-08	roadLoad	16	roadLoad	17:54:57.222000
-2018-03-08	roadLoad	31	roadLoad	17:56:57.326000
-2018-03-09	roadLoad	41	roadLoad	18:07:59.752000
-2018-03-09	roadLoad	11	roadLoad	18:13:59.788000
-2018-03-09	roadLoad	38	roadLoad	18:15:59.794000
-2018-03-09	roadLoad	7	roadLoad	23:07:14.768000
-2018-03-10	roadLoad	25	roadLoad	17:17:01.499000
-2018-03-10	roadLoad	37	roadLoad	17:25:01.282000
-2018-03-10	roadLoad	10	roadLoad	17:26:01.792000
-2018-03-10	roadLoad	28	roadLoad	17:40:02.225000
-2018-03-10	roadLoad	28	roadLoad	17:42:02.333000
-2018-03-10	roadLoad	20	roadLoad	17:50:02.309000
-2018-03-10	roadLoad	22	roadLoad	18:19:03.324000
-2018-03-11	roadLoad	23	roadLoad	16:59:03.793000
-2018-03-11	roadLoad	24	roadLoad	17:11:04.276000
-2018-03-11	roadLoad	11	roadLoad	17:28:05.051000
-2018-03-11	roadLoad	69	roadLoad	17:29:05.130000
-2018-03-12	roadLoad	43	roadLoad	16:36:06.766000
-2018-03-12	roadLoad	61	roadLoad	16:40:06.904000
-2018-03-12	roadLoad	47	roadLoad	16:45:07.113000
-2018-03-12	roadLoad	47	roadLoad	16:55:07.285000
-2018-03-12	roadLoad	31	roadLoad	17:02:07.238000
-2018-03-13	roadLoad	8	roadLoad	16:56:09.026000
-2018-03-13	roadLoad	36	roadLoad	17:13:09.917000
-2018-03-13	roadLoad	30	roadLoad	17:21:09.803000
-2018-03-13	roadLoad	55	roadLoad	17:31:09.871000
-2018-03-13	roadLoad	38	roadLoad	20:51:19.235000
-2018-03-14	roadLoad	0	roadLoad	16:55:11.992000
-2018-03-14	roadLoad	36	roadLoad	17:16:12.970000
-2018-03-14	roadLoad	12	roadLoad	17:18:13
-2018-03-14	roadLoad	25	roadLoad	17:24:13.352000
-2018-03-14	roadLoad	23	roadLoad	17:29:13.529000
-2018-03-15	roadLoad	28	roadLoad	09:30:03.838000
-2018-03-15	roadLoad	18	roadLoad	16:00:12.746000
-2018-03-15	roadLoad	14	roadLoad	16:37:14.207000
-2018-03-15	roadLoad	7	roadLoad	16:45:14.568000
-2018-03-15	roadLoad	18	roadLoad	16:47:14.619000
-2018-03-15	roadLoad	84	roadLoad	16:49:14.689000
-2018-03-15	roadLoad	18	roadLoad	16:56:14.946000
-2018-03-15	roadLoad	29	roadLoad	16:57:15.052000
-2018-03-15	roadLoad	89	roadLoad	17:04:14.906000
-2018-03-15	roadLoad	28	roadLoad	19:00:20.572000
-2018-03-16	roadLoad	6	roadLoad	00:00:33.890000
-2018-03-16	roadLoad	34	roadLoad	16:05:16.455000
-2018-03-16	roadLoad	16	roadLoad	16:08:16.609000
-2018-03-16	roadLoad	15	roadLoad	16:12:16.800000
-2018-03-16	roadLoad	48	roadLoad	16:34:17.751000
-2018-03-16	roadLoad	27	roadLoad	16:35:17.376000
-2018-03-16	roadLoad	25	roadLoad	16:39:17.312000
-2018-03-16	roadLoad	26	roadLoad	16:43:17.384000
-2018-03-16	roadLoad	18	roadLoad	16:47:17.415000
-2018-03-16	roadLoad	28	roadLoad	16:50:17.301000
-2018-03-16	roadLoad	11	roadLoad	21:38:31.720000
-2018-03-17	roadLoad	9	roadLoad	15:15:16.435000
-2018-03-17	roadLoad	20	roadLoad	16:27:19.555000
-2018-03-17	roadLoad	29	roadLoad	16:31:19.739000
-2018-03-18	roadLoad	19	roadLoad	16:16:21.636000
-2018-03-18	roadLoad	13	roadLoad	16:22:21.952000
-2018-03-18	roadLoad	17	roadLoad	16:25:22.092000
-2018-03-18	roadLoad	15	roadLoad	16:27:22.116000
-2018-03-18	roadLoad	20	roadLoad	16:31:22.321000
-2018-03-18	roadLoad	0	roadLoad	16:41:22.341000
-2018-03-18	roadLoad	11	roadLoad	16:48:22.352000
-2018-03-18	roadLoad	4	roadLoad	16:50:22.456000
-2018-03-19	roadLoad	11	roadLoad	13:58:18.671000
-2018-03-19	roadLoad	45	roadLoad	15:50:24.238000
-2018-03-19	roadLoad	22	roadLoad	15:51:24.220000
-2018-03-19	roadLoad	36	roadLoad	16:21:24.916000
-2018-03-20	roadLoad	72	roadLoad	15:40:26.714000
-2018-03-20	roadLoad	22	roadLoad	15:48:27.103000
-2018-03-20	roadLoad	38	roadLoad	15:50:27.187000
-2018-03-20	roadLoad	11	roadLoad	15:58:27.377000
-2018-03-20	roadLoad	87	roadLoad	18:06:33.527000
-2018-03-21	roadLoad	28	roadLoad	15:00:28.731000
-2018-03-21	roadLoad	31	roadLoad	15:28:30.176000
-2018-03-21	roadLoad	6	roadLoad	15:32:29.801000
-2018-03-21	roadLoad	18	roadLoad	15:35:29.774000
-2018-03-21	roadLoad	22	roadLoad	15:36:29.915000
-2018-03-21	roadLoad	24	roadLoad	15:37:29.808000
-2018-03-21	roadLoad	23	roadLoad	15:38:29.811000
-2018-03-22	roadLoad	34	roadLoad	15:08:32.467000
-2018-03-22	roadLoad	6	roadLoad	15:16:32.938000
-2018-03-22	roadLoad	15	roadLoad	15:19:32.381000
-2018-03-22	roadLoad	37	roadLoad	15:29:33.508000
-2018-03-23	roadLoad	19	roadLoad	13:45:31.671000
-2018-03-23	roadLoad	21	roadLoad	14:27:34.317000
-2018-03-23	roadLoad	26	roadLoad	14:32:34.633000
-2018-03-23	roadLoad	14	roadLoad	14:33:34.515000
-2018-03-23	roadLoad	45	roadLoad	14:37:34.703000
-2018-03-23	roadLoad	25	roadLoad	14:41:34.943000
-2018-03-23	roadLoad	45	roadLoad	14:57:34.774000
-2018-03-23	roadLoad	25	roadLoad	14:58:34.792000
-2018-03-24	roadLoad	49	roadLoad	13:52:36.618000
-2018-03-24	roadLoad	18	roadLoad	13:59:36.933000
-2018-03-24	roadLoad	22	roadLoad	14:00:36.973000
-2018-03-24	roadLoad	47	roadLoad	14:08:37.241000
-2018-03-24	roadLoad	19	roadLoad	14:20:37.317000
-2018-03-24	roadLoad	8	roadLoad	14:27:37.433000
-2018-03-24	roadLoad	0	roadLoad	14:28:37.276000
-2018-03-25	roadLoad	6	roadLoad	13:40:38.763000
-2018-03-25	roadLoad	2	roadLoad	13:47:38.893000
-2018-03-25	roadLoad	0	roadLoad	13:51:39.823000
-2018-03-25	roadLoad	10	roadLoad	13:56:39.709000
-2018-03-25	roadLoad	14	roadLoad	14:02:39.748000
-2018-03-25	roadLoad	9	roadLoad	14:10:39.714000
-2018-03-26	roadLoad	29	roadLoad	13:03:41.598000
-2018-03-26	roadLoad	10	roadLoad	13:07:41.778000
-2018-03-26	roadLoad	14	roadLoad	13:19:42.378000
-2018-03-26	roadLoad	22	roadLoad	13:22:42.234000
-2018-03-26	roadLoad	7	roadLoad	13:26:42.136000
-2018-03-26	roadLoad	24	roadLoad	13:28:42.192000
-2018-03-26	roadLoad	34	roadLoad	13:32:42.194000
-2018-03-26	roadLoad	28	roadLoad	13:56:43.202000
-2018-03-27	roadLoad	28	roadLoad	12:44:43.569000
-2018-03-27	roadLoad	35	roadLoad	12:50:44.154000
-2018-03-27	roadLoad	33	roadLoad	12:55:44.318000
-2018-03-27	roadLoad	30	roadLoad	13:03:44.779000
-2018-03-27	roadLoad	25	roadLoad	13:04:44.804000
-2018-03-27	roadLoad	17	roadLoad	13:22:44.745000
-2018-03-28	roadLoad	28	roadLoad	12:23:46.475000
-2018-03-28	roadLoad	30	roadLoad	12:37:47.292000
-2018-03-28	roadLoad	53	roadLoad	12:44:47.178000
-2018-03-28	roadLoad	46	roadLoad	12:48:47.138000
-2018-03-28	roadLoad	21	roadLoad	12:49:47.089000
-2018-03-29	roadLoad	40	roadLoad	11:41:49.127000
-2018-03-29	roadLoad	46	roadLoad	11:56:49.629000
-2018-03-30	roadLoad	22	roadLoad	10:57:51.067000
-2018-03-30	roadLoad	30	roadLoad	11:03:51.361000
-2018-03-30	roadLoad	0	roadLoad	11:10:51.710000
-2018-03-30	roadLoad	34	roadLoad	11:28:52.006000
-2018-03-30	roadLoad	23	roadLoad	11:30:52.082000
-2018-03-30	roadLoad	33	roadLoad	11:34:52.834000
-2018-03-30	roadLoad	4	roadLoad	11:36:52.263000
-2018-03-30	roadLoad	15	roadLoad	14:45:01.448000
-2018-03-31	roadLoad	31	roadLoad	10:55:53.750000
-2018-03-31	roadLoad	7	roadLoad	11:00:53.976000
-2018-03-31	roadLoad	11	roadLoad	11:09:54.434000
-2018-03-31	roadLoad	11	roadLoad	11:25:54.603000
-2018-04-01	roadLoad	20	roadLoad	10:48:56.439000
-2018-04-01	roadLoad	45	roadLoad	10:56:56.779000
-2018-04-01	roadLoad	39	roadLoad	11:22:57.052000
-2018-04-02	roadLoad	50	roadLoad	10:35:58.862000
-2018-04-02	roadLoad	17	roadLoad	10:40:59.225000
-2018-04-02	roadLoad	6	roadLoad	10:43:59.233000
-2018-04-02	roadLoad	19	roadLoad	10:47:59.430000
-2018-04-02	roadLoad	60	roadLoad	10:50:59.472000
-2018-04-02	roadLoad	26	roadLoad	10:51:59.533000
-2018-04-02	roadLoad	26	roadLoad	10:59:59.668000
-2018-04-03	roadLoad	7	roadLoad	10:19:01.612000
-2018-04-03	roadLoad	56	roadLoad	10:21:01.783000
-2018-04-03	roadLoad	32	roadLoad	10:34:02.028000
-2018-04-03	roadLoad	11	roadLoad	10:43:02.038000
-2018-04-03	roadLoad	45	roadLoad	11:10:03.099000
-2018-04-04	roadLoad	27	roadLoad	09:37:03.712000
-2018-04-04	roadLoad	23	roadLoad	10:00:04.579000
-2018-04-04	roadLoad	31	roadLoad	10:03:04.389000
-2018-04-04	roadLoad	27	roadLoad	10:07:04.509000
-2018-04-04	roadLoad	59	roadLoad	10:08:04.401000
-2018-04-04	roadLoad	14	roadLoad	10:09:04.413000
-2018-04-04	roadLoad	8	roadLoad	10:11:04.457000
-2018-04-05	roadLoad	22	roadLoad	04:00:55.347000
-2018-04-05	roadLoad	76	roadLoad	09:35:06.091000
-2018-04-05	roadLoad	32	roadLoad	09:42:06.362000
-2018-04-05	roadLoad	43	roadLoad	09:52:06.812000
-2018-04-05	roadLoad	40	roadLoad	10:04:07.012000
-2018-04-05	roadLoad	20	roadLoad	10:08:06.896000
-2018-04-05	roadLoad	20	roadLoad	10:13:06.909000
-2018-04-06	roadLoad	37	roadLoad	09:44:08.511000
-2018-04-06	roadLoad	45	roadLoad	09:48:08.765000
-2018-04-06	roadLoad	16	roadLoad	09:52:08.854000
-2018-04-06	roadLoad	31	roadLoad	09:56:08.574000
-2018-04-06	roadLoad	22	roadLoad	10:04:09.511000
-2018-04-06	roadLoad	38	roadLoad	10:07:09.436000
-2018-04-06	roadLoad	40	roadLoad	10:15:09.488000
-2018-04-06	roadLoad	78	roadLoad	10:18:09.405000
-2018-04-07	roadLoad	33	roadLoad	09:42:11.176000
-2018-04-07	roadLoad	31	roadLoad	10:03:11.923000
-2018-04-07	roadLoad	36	roadLoad	10:05:11.972000
-2018-04-08	roadLoad	21	roadLoad	10:01:14.084000
-2018-04-08	roadLoad	18	roadLoad	10:06:14.374000
-2018-04-08	roadLoad	32	roadLoad	10:12:14.622000
-2018-04-08	roadLoad	29	roadLoad	10:21:14.527000
-2018-04-09	roadLoad	36	roadLoad	09:50:16.323000
-2018-04-09	roadLoad	25	roadLoad	10:03:16.961000
-2018-04-09	roadLoad	44	roadLoad	10:14:17.447000
-2018-04-10	roadLoad	20	roadLoad	10:14:19.338000
-2018-04-10	roadLoad	20	roadLoad	10:16:19.366000
-2018-04-10	roadLoad	26	roadLoad	10:18:19.502000
-2018-04-10	roadLoad	32	roadLoad	10:24:19.520000
-2018-04-10	roadLoad	17	roadLoad	10:33:19.453000
-2018-04-10	roadLoad	36	roadLoad	10:37:20.367000
-2018-04-10	roadLoad	48	roadLoad	10:46:20.523000
-2018-04-10	roadLoad	38	roadLoad	10:49:20.570000
-2018-04-11	roadLoad	12	roadLoad	10:04:20.936000
-2018-04-11	roadLoad	32	roadLoad	10:13:21.413000
-2018-04-11	roadLoad	32	roadLoad	10:18:21.600000
-2018-04-11	roadLoad	30	roadLoad	10:29:22.003000
-2018-04-11	roadLoad	15	roadLoad	10:32:22.017000
-2018-04-11	roadLoad	37	roadLoad	10:34:22.015000
-2018-04-11	roadLoad	25	roadLoad	12:55:29.250000
-2018-04-12	roadLoad	40	roadLoad	09:36:23.422000
-2018-04-12	roadLoad	22	roadLoad	10:09:24.757000
-2018-04-12	roadLoad	34	roadLoad	10:11:24.837000
-2018-04-12	roadLoad	44	roadLoad	10:13:24.942000
-2018-04-12	roadLoad	11	roadLoad	10:30:25.746000
-2018-04-13	roadLoad	47	roadLoad	09:51:26.469000
-2018-04-13	roadLoad	27	roadLoad	09:53:26.594000
-2018-04-13	roadLoad	28	roadLoad	09:54:25.981000
-2018-04-13	roadLoad	21	roadLoad	10:05:27.146000
-2018-04-13	roadLoad	55	roadLoad	13:30:36.787000
-2018-04-14	roadLoad	22	roadLoad	09:48:28.863000
-2018-04-14	roadLoad	17	roadLoad	10:06:29.648000
-2018-04-14	roadLoad	40	roadLoad	10:23:29.504000
-2018-04-15	roadLoad	5	roadLoad	08:05:25.803000
-2018-04-15	roadLoad	13	roadLoad	10:18:31.982000
-2018-04-15	roadLoad	26	roadLoad	10:27:31.989000
-2018-04-16	roadLoad	81	roadLoad	09:56:34.207000
-2018-04-16	roadLoad	23	roadLoad	10:05:34.480000
-2018-04-16	roadLoad	19	roadLoad	10:13:34.539000
-2018-04-16	roadLoad	46	roadLoad	10:18:34.496000
-2018-04-17	roadLoad	33	roadLoad	10:24:37.131000
-2018-04-17	roadLoad	24	roadLoad	10:26:37.230000
-2018-04-17	roadLoad	9	roadLoad	11:49:41.158000
-2018-04-18	roadLoad	52	roadLoad	09:59:39.050000
-2018-04-18	roadLoad	30	roadLoad	10:02:39.135000
-2018-04-18	roadLoad	35	roadLoad	10:05:39.321000
-2018-04-18	roadLoad	25	roadLoad	10:08:39.425000
-2018-04-18	roadLoad	19	roadLoad	10:29:39.643000
-2018-04-18	roadLoad	30	roadLoad	18:16:02.797000
-2018-04-19	roadLoad	24	roadLoad	10:09:42.163000
-2018-04-19	roadLoad	23	roadLoad	10:11:42.273000
-2018-04-19	roadLoad	43	roadLoad	10:16:42.469000
-2018-04-19	roadLoad	29	roadLoad	12:23:48.695000
-2017-07-05	roadOccupancy	37	roadOccupancy	15:13:34.756000
-2017-07-05	roadOccupancy	4	roadOccupancy	17:38:36.204000
-2017-07-05	roadOccupancy	2	roadOccupancy	18:13:35.717000
-2017-07-06	roadOccupancy	1	roadOccupancy	02:47:35.499000
-2017-07-06	roadOccupancy	8	roadOccupancy	20:02:36.296000
-2017-07-14	roadOccupancy	2	roadOccupancy	23:02:58.850000
-2017-07-27	roadOccupancy	84	roadOccupancy	18:31:36.488000
-2017-08-02	roadOccupancy	8	roadOccupancy	12:36:50.208000
-2017-08-22	roadOccupancy	2	roadOccupancy	02:58:41.159000
-2017-08-26	roadOccupancy	14	roadOccupancy	03:31:48.981000
-2017-08-26	roadOccupancy	2	roadOccupancy	22:40:54.516000
-2017-08-27	roadOccupancy	0	roadOccupancy	01:55:53.575000
-2017-08-27	roadOccupancy	0	roadOccupancy	06:20:53.164000
-2017-08-27	roadOccupancy	10	roadOccupancy	12:28:53.480000
-2017-08-28	roadOccupancy	2	roadOccupancy	01:54:54.682000
-2017-08-28	roadOccupancy	2	roadOccupancy	06:09:56.570000
-2017-08-29	roadOccupancy	40	roadOccupancy	06:18:58.171000
-2017-09-01	roadOccupancy	0	roadOccupancy	03:49:05.641000
-2017-09-02	roadOccupancy	10	roadOccupancy	12:31:09.904000
-2017-09-05	roadOccupancy	1	roadOccupancy	03:38:16.044000
-2017-09-08	roadOccupancy	21	roadOccupancy	12:56:26.196000
-2017-09-09	roadOccupancy	1	roadOccupancy	01:14:28.534000
-2017-09-09	roadOccupancy	0	roadOccupancy	01:54:27.718000
-2017-09-14	roadOccupancy	2	roadOccupancy	22:18:40.499000
-2017-09-16	roadOccupancy	1	roadOccupancy	00:55:45.453000
-2017-09-16	roadOccupancy	2	roadOccupancy	02:03:47.469000
-2017-09-20	roadOccupancy	24	roadOccupancy	19:00:55.522000
-2017-09-21	roadOccupancy	2	roadOccupancy	06:01:56.824000
-2017-09-22	roadOccupancy	25	roadOccupancy	04:52:59.736000
-2017-09-25	roadOccupancy	20	roadOccupancy	16:36:07.968000
-2017-09-29	roadOccupancy	9	roadOccupancy	21:01:18.605000
-2017-09-30	roadOccupancy	40	roadOccupancy	11:51:18.051000
-2017-09-30	roadOccupancy	1	roadOccupancy	12:15:21.590000
-2017-10-02	roadOccupancy	0	roadOccupancy	22:03:22.323000
-2017-10-04	roadOccupancy	27	roadOccupancy	18:45:28.309000
-2017-10-06	roadOccupancy	15	roadOccupancy	16:54:35.474000
-2017-10-07	roadOccupancy	13	roadOccupancy	05:35:37.322000
-2017-10-07	roadOccupancy	2	roadOccupancy	08:00:40.956000
-2017-10-07	roadOccupancy	17	roadOccupancy	13:05:50.212000
-2017-10-10	roadOccupancy	9	roadOccupancy	06:10:43.673000
-2017-10-11	roadOccupancy	5	roadOccupancy	16:38:47.744000
-2017-10-13	roadOccupancy	1	roadOccupancy	02:20:51.289000
-2017-10-15	roadOccupancy	1	roadOccupancy	23:19:58.169000
-2017-10-15	roadOccupancy	1	roadOccupancy	23:24:58.313000
-2017-10-20	roadOccupancy	3	roadOccupancy	08:28:06.921000
-2017-10-20	roadOccupancy	2	roadOccupancy	20:01:08.869000
-2017-10-20	roadOccupancy	0	roadOccupancy	23:58:11.772000
-2017-10-21	roadOccupancy	14	roadOccupancy	22:49:13.585000
-2017-10-23	roadOccupancy	9	roadOccupancy	10:05:14.597000
-2017-10-24	roadOccupancy	29	roadOccupancy	15:28:16.756000
-2017-10-24	roadOccupancy	5	roadOccupancy	18:45:13.650000
-2017-10-25	roadOccupancy	10	roadOccupancy	13:20:17.327000
-2017-10-26	roadOccupancy	3	roadOccupancy	10:47:21.670000
-2017-10-31	roadOccupancy	3	roadOccupancy	04:22:32.837000
-2017-11-05	roadOccupancy	30	roadOccupancy	14:03:46.103000
-2017-11-07	roadOccupancy	3	roadOccupancy	10:16:47.441000
-2017-11-08	roadOccupancy	16	roadOccupancy	07:51:52.368000
-2017-11-10	roadOccupancy	2	roadOccupancy	23:58:01.606000
-2017-11-12	roadOccupancy	10	roadOccupancy	09:53:05.479000
-2017-11-13	roadOccupancy	4	roadOccupancy	03:02:02.043000
-2017-11-13	roadOccupancy	26	roadOccupancy	16:41:04.895000
-2017-11-13	roadOccupancy	3	roadOccupancy	21:01:05.125000
-2017-11-14	roadOccupancy	5	roadOccupancy	12:22:09.097000
-2017-11-15	roadOccupancy	0	roadOccupancy	04:09:10.899000
-2017-11-15	roadOccupancy	9	roadOccupancy	04:45:11.911000
-2017-11-16	roadOccupancy	12	roadOccupancy	12:22:12.245000
-2017-11-16	roadOccupancy	3	roadOccupancy	15:23:17.002000
-2017-11-17	roadOccupancy	2	roadOccupancy	21:54:14.856000
-2017-11-18	roadOccupancy	0	roadOccupancy	01:27:20.301000
-2017-11-19	roadOccupancy	0	roadOccupancy	07:56:19.167000
-2017-11-19	roadOccupancy	8	roadOccupancy	10:37:23.055000
-2017-11-20	roadOccupancy	40	roadOccupancy	19:49:25.586000
-2017-11-22	roadOccupancy	0	roadOccupancy	03:26:25.819000
-2017-11-22	roadOccupancy	29	roadOccupancy	11:39:57.349000
-2017-11-23	roadOccupancy	6	roadOccupancy	12:15:28.157000
-2017-11-23	roadOccupancy	19	roadOccupancy	14:54:32.174000
-2017-11-23	roadOccupancy	9	roadOccupancy	15:58:33.752000
-2017-11-24	roadOccupancy	12	roadOccupancy	21:01:34.098000
-2017-11-25	roadOccupancy	0	roadOccupancy	02:44:38.219000
-2017-11-25	roadOccupancy	4	roadOccupancy	08:16:36.030000
-2017-11-26	roadOccupancy	14	roadOccupancy	10:29:38.071000
-2017-11-30	roadOccupancy	22	roadOccupancy	14:18:46.757000
-2017-11-30	roadOccupancy	11	roadOccupancy	15:41:48.800000
-2017-11-30	roadOccupancy	18	roadOccupancy	15:48:49.014000
-2017-12-01	roadOccupancy	1	roadOccupancy	23:37:50.095000
-2017-12-02	roadOccupancy	0	roadOccupancy	04:06:52.065000
-2017-12-02	roadOccupancy	2	roadOccupancy	07:51:52.010000
-2017-12-03	roadOccupancy	11	roadOccupancy	12:39:58.294000
-2017-12-04	roadOccupancy	2	roadOccupancy	18:26:56.105000
-2017-12-06	roadOccupancy	10	roadOccupancy	22:27:03.279000
-2017-12-07	roadOccupancy	9	roadOccupancy	15:44:05.142000
-2017-12-07	roadOccupancy	39	roadOccupancy	18:20:09.019000
-2017-12-09	roadOccupancy	0	roadOccupancy	03:11:09.867000
-2017-12-14	roadOccupancy	11	roadOccupancy	15:59:18.718000
-2017-12-16	roadOccupancy	0	roadOccupancy	04:09:24.636000
-2017-12-18	roadOccupancy	0	roadOccupancy	23:38:30.107000
-2017-12-19	roadOccupancy	0	roadOccupancy	01:16:31.778000
-2017-12-20	roadOccupancy	4	roadOccupancy	20:38:35.456000
-2017-12-23	roadOccupancy	2	roadOccupancy	04:21:39.556000
-2017-12-23	roadOccupancy	1	roadOccupancy	06:19:42.165000
-2017-12-24	roadOccupancy	3	roadOccupancy	17:43:47.458000
-2017-12-27	roadOccupancy	26	roadOccupancy	09:44:50.105000
-2017-12-27	roadOccupancy	13	roadOccupancy	10:24:50.700000
-2017-12-31	roadOccupancy	1	roadOccupancy	14:49:01.153000
-2017-12-31	roadOccupancy	17	roadOccupancy	23:11:07.938000
-2018-01-01	roadOccupancy	0	roadOccupancy	23:21:08.377000
-2018-01-02	roadOccupancy	2	roadOccupancy	17:51:11.711000
-2018-01-08	roadOccupancy	29	roadOccupancy	14:01:30.123000
-2018-01-10	roadOccupancy	10	roadOccupancy	09:40:25.524000
-2018-01-10	roadOccupancy	4	roadOccupancy	10:04:26.061000
-2018-01-10	roadOccupancy	6	roadOccupancy	12:03:28.710000
-2018-01-10	roadOccupancy	20	roadOccupancy	12:40:29.394000
-2018-01-14	roadOccupancy	2	roadOccupancy	14:53:37.249000
-2018-01-22	roadOccupancy	6	roadOccupancy	20:30:57.502000
-2018-01-24	roadOccupancy	0	roadOccupancy	06:01:01.596000
-2018-01-28	roadOccupancy	0	roadOccupancy	08:40:12.040000
-2018-01-29	roadOccupancy	28	roadOccupancy	19:08:16.391000
-2018-01-29	roadOccupancy	8	roadOccupancy	19:52:17.519000
-2018-01-31	roadOccupancy	1	roadOccupancy	04:19:20.439000
-2018-01-31	roadOccupancy	3	roadOccupancy	06:51:24.127000
-2018-02-02	roadOccupancy	2	roadOccupancy	23:27:30.963000
-2018-02-04	roadOccupancy	0	roadOccupancy	07:55:34.620000
-2018-02-04	roadOccupancy	2	roadOccupancy	08:19:35.237000
-2018-02-05	roadOccupancy	6	roadOccupancy	16:25:38.770000
-2018-02-05	roadOccupancy	30	roadOccupancy	18:02:41.288000
-2018-02-07	roadOccupancy	0	roadOccupancy	01:08:41.251000
-2018-02-08	roadOccupancy	3	roadOccupancy	07:20:40.583000
-2018-02-09	roadOccupancy	14	roadOccupancy	15:15:44.017000
-2018-02-13	roadOccupancy	16	roadOccupancy	21:02:52.808000
-2018-02-16	roadOccupancy	14	roadOccupancy	06:54:03.044000
-2018-02-17	roadOccupancy	24	roadOccupancy	19:47:14.238000
-2018-02-20	roadOccupancy	4	roadOccupancy	07:47:29.784000
-2018-02-20	roadOccupancy	3	roadOccupancy	08:04:30.620000
-2018-02-20	roadOccupancy	24	roadOccupancy	08:05:29.849000
-2018-02-20	roadOccupancy	6	roadOccupancy	08:07:30.709000
-2018-02-21	roadOccupancy	18	roadOccupancy	01:07:17.041000
-2018-02-21	roadOccupancy	2	roadOccupancy	01:11:16.663000
-2018-02-21	roadOccupancy	1	roadOccupancy	01:46:17.782000
-2018-02-22	roadOccupancy	0	roadOccupancy	00:25:19.991000
-2018-02-22	roadOccupancy	2	roadOccupancy	00:27:19.707000
-2018-02-22	roadOccupancy	1	roadOccupancy	00:36:20.027000
-2018-02-22	roadOccupancy	1	roadOccupancy	00:48:20.135000
-2018-02-22	roadOccupancy	10	roadOccupancy	00:52:20.145000
-2018-02-22	roadOccupancy	1	roadOccupancy	03:58:29.386000
-2018-02-22	roadOccupancy	0	roadOccupancy	05:59:35.035000
-2018-02-22	roadOccupancy	9	roadOccupancy	06:03:35.609000
-2018-02-22	roadOccupancy	2	roadOccupancy	06:04:35.274000
-2018-02-22	roadOccupancy	2	roadOccupancy	06:07:35.545000
-2018-02-22	roadOccupancy	18	roadOccupancy	06:10:35.444000
-2018-02-22	roadOccupancy	3	roadOccupancy	06:11:35.522000
-2018-02-22	roadOccupancy	3	roadOccupancy	06:14:35.695000
-2018-02-22	roadOccupancy	6	roadOccupancy	06:37:35.802000
-2018-02-23	roadOccupancy	0	roadOccupancy	00:05:24.871000
-2018-02-23	roadOccupancy	2	roadOccupancy	04:26:37.084000
-2018-02-23	roadOccupancy	2	roadOccupancy	04:29:37.201000
-2018-02-23	roadOccupancy	0	roadOccupancy	04:30:37.795000
-2018-02-23	roadOccupancy	2	roadOccupancy	04:35:37.890000
-2018-02-23	roadOccupancy	2	roadOccupancy	22:48:24.127000
-2018-02-23	roadOccupancy	7	roadOccupancy	22:50:25.004000
-2018-02-23	roadOccupancy	0	roadOccupancy	22:52:25.059000
-2018-02-23	roadOccupancy	10	roadOccupancy	22:57:25.217000
-2018-02-23	roadOccupancy	0	roadOccupancy	23:04:25.111000
-2018-02-23	roadOccupancy	2	roadOccupancy	23:06:25.129000
-2018-02-25	roadOccupancy	12	roadOccupancy	20:00:27.825000
-2018-02-25	roadOccupancy	0	roadOccupancy	20:21:28.959000
-2018-02-25	roadOccupancy	5	roadOccupancy	20:26:29.297000
-2018-02-25	roadOccupancy	4	roadOccupancy	20:35:29.654000
-2018-02-25	roadOccupancy	4	roadOccupancy	20:37:29.616000
-2018-02-25	roadOccupancy	2	roadOccupancy	20:39:29.809000
-2018-02-25	roadOccupancy	4	roadOccupancy	20:41:29.745000
-2018-02-25	roadOccupancy	22	roadOccupancy	20:53:29.867000
-2018-02-25	roadOccupancy	35	roadOccupancy	21:00:29.995000
-2018-02-25	roadOccupancy	27	roadOccupancy	21:05:29.898000
-2018-02-26	roadOccupancy	11	roadOccupancy	20:41:34.432000
-2018-02-26	roadOccupancy	1	roadOccupancy	21:23:36.915000
-2018-02-26	roadOccupancy	2	roadOccupancy	21:55:37.489000
-2018-02-27	roadOccupancy	0	roadOccupancy	23:01:46.802000
-2018-02-28	roadOccupancy	15	roadOccupancy	00:24:50.407000
-2018-02-28	roadOccupancy	1	roadOccupancy	21:45:33.992000
-2018-02-28	roadOccupancy	0	roadOccupancy	23:27:37.796000
-2018-03-01	roadOccupancy	1	roadOccupancy	04:42:53.203000
-2018-03-01	roadOccupancy	2	roadOccupancy	04:47:53.306000
-2018-03-01	roadOccupancy	8	roadOccupancy	04:57:53.271000
-2018-03-01	roadOccupancy	13	roadOccupancy	05:09:53.340000
-2018-03-01	roadOccupancy	3	roadOccupancy	22:11:39.937000
-2018-03-01	roadOccupancy	5	roadOccupancy	22:14:40.094000
-2018-03-02	roadOccupancy	4	roadOccupancy	14:36:21.759000
-2018-03-03	roadOccupancy	3	roadOccupancy	20:48:43.928000
-2018-03-03	roadOccupancy	19	roadOccupancy	20:54:45.207000
-2018-03-03	roadOccupancy	9	roadOccupancy	20:56:45.235000
-2018-03-03	roadOccupancy	2	roadOccupancy	21:01:44.972000
-2018-03-03	roadOccupancy	2	roadOccupancy	21:09:45.012000
-2018-03-03	roadOccupancy	2	roadOccupancy	22:37:50.390000
-2018-03-03	roadOccupancy	0	roadOccupancy	22:48:50.603000
-2018-03-03	roadOccupancy	1	roadOccupancy	22:55:50.775000
-2018-03-04	roadOccupancy	0	roadOccupancy	02:20:00.299000
-2018-03-04	roadOccupancy	0	roadOccupancy	02:35:00.757000
-2018-03-04	roadOccupancy	9	roadOccupancy	19:56:48.156000
-2018-03-05	roadOccupancy	2	roadOccupancy	07:55:37.361000
-2018-03-05	roadOccupancy	9	roadOccupancy	09:45:37.416000
-2018-03-05	roadOccupancy	21	roadOccupancy	18:24:49.299000
-2018-03-05	roadOccupancy	12	roadOccupancy	18:26:49.430000
-2018-03-05	roadOccupancy	37	roadOccupancy	18:35:49.889000
-2018-03-05	roadOccupancy	11	roadOccupancy	18:37:49.756000
-2018-03-05	roadOccupancy	4	roadOccupancy	18:39:49.726000
-2018-03-05	roadOccupancy	5	roadOccupancy	18:52:49.812000
-2018-03-06	roadOccupancy	7	roadOccupancy	17:50:51.745000
-2018-03-06	roadOccupancy	7	roadOccupancy	17:55:51.842000
-2018-03-06	roadOccupancy	2	roadOccupancy	17:58:52.008000
-2018-03-06	roadOccupancy	28	roadOccupancy	18:00:52.077000
-2018-03-06	roadOccupancy	15	roadOccupancy	18:02:52.274000
-2018-03-06	roadOccupancy	5	roadOccupancy	18:07:52.265000
-2018-03-06	roadOccupancy	2	roadOccupancy	18:09:52.479000
-2018-03-06	roadOccupancy	36	roadOccupancy	18:16:52.243000
-2018-03-08	roadOccupancy	7	roadOccupancy	17:24:56.671000
-2018-03-08	roadOccupancy	12	roadOccupancy	17:31:56.338000
-2018-03-08	roadOccupancy	12	roadOccupancy	17:35:57.264000
-2018-03-08	roadOccupancy	3	roadOccupancy	17:37:57.277000
-2018-03-08	roadOccupancy	24	roadOccupancy	17:40:57.418000
-2018-03-08	roadOccupancy	3	roadOccupancy	17:54:57.222000
-2018-03-08	roadOccupancy	24	roadOccupancy	17:56:57.332000
-2018-03-09	roadOccupancy	14	roadOccupancy	17:55:58.932000
-2018-03-09	roadOccupancy	25	roadOccupancy	18:07:59.754000
-2018-03-09	roadOccupancy	4	roadOccupancy	18:13:59.790000
-2018-03-09	roadOccupancy	9	roadOccupancy	18:15:59.800000
-2018-03-10	roadOccupancy	20	roadOccupancy	17:25:01.281000
-2018-03-10	roadOccupancy	3	roadOccupancy	17:26:01.790000
-2018-03-10	roadOccupancy	6	roadOccupancy	17:40:02.229000
-2018-03-10	roadOccupancy	7	roadOccupancy	17:42:02.334000
-2018-03-10	roadOccupancy	10	roadOccupancy	17:50:02.309000
-2018-03-10	roadOccupancy	4	roadOccupancy	18:19:03.323000
-2018-03-11	roadOccupancy	13	roadOccupancy	16:59:03.796000
-2018-03-11	roadOccupancy	9	roadOccupancy	17:11:04.277000
-2018-03-11	roadOccupancy	2	roadOccupancy	17:28:05.054000
-2018-03-11	roadOccupancy	27	roadOccupancy	17:29:05.133000
-2018-03-12	roadOccupancy	19	roadOccupancy	16:36:06.768000
-2018-03-12	roadOccupancy	16	roadOccupancy	16:40:06.908000
-2018-03-12	roadOccupancy	24	roadOccupancy	16:45:07.112000
-2018-03-12	roadOccupancy	9	roadOccupancy	16:55:07.285000
-2018-03-12	roadOccupancy	7	roadOccupancy	17:02:07.243000
-2018-03-13	roadOccupancy	1	roadOccupancy	16:56:09.032000
-2018-03-13	roadOccupancy	8	roadOccupancy	17:13:09.917000
-2018-03-13	roadOccupancy	14	roadOccupancy	17:21:09.809000
-2018-03-13	roadOccupancy	12	roadOccupancy	17:31:09.872000
-2018-03-13	roadOccupancy	19	roadOccupancy	18:49:14.006000
-2018-03-13	roadOccupancy	19	roadOccupancy	20:51:19.241000
-2018-03-14	roadOccupancy	0	roadOccupancy	16:55:11.990000
-2018-03-14	roadOccupancy	30	roadOccupancy	17:16:12.972000
-2018-03-14	roadOccupancy	3	roadOccupancy	17:18:13.004000
-2018-03-14	roadOccupancy	8	roadOccupancy	17:24:13.351000
-2018-03-14	roadOccupancy	17	roadOccupancy	17:29:13.532000
-2018-03-15	roadOccupancy	11	roadOccupancy	09:30:03.839000
-2018-03-15	roadOccupancy	7	roadOccupancy	16:00:12.749000
-2018-03-15	roadOccupancy	3	roadOccupancy	16:37:14.209000
-2018-03-15	roadOccupancy	12	roadOccupancy	16:38:14.399000
-2018-03-15	roadOccupancy	2	roadOccupancy	16:45:14.569000
-2018-03-15	roadOccupancy	5	roadOccupancy	16:47:14.622000
-2018-03-15	roadOccupancy	54	roadOccupancy	16:49:14.689000
-2018-03-15	roadOccupancy	10	roadOccupancy	16:53:14.969000
-2018-03-15	roadOccupancy	5	roadOccupancy	16:56:14.947000
-2018-03-15	roadOccupancy	10	roadOccupancy	16:57:15.052000
-2018-03-15	roadOccupancy	33	roadOccupancy	17:04:14.909000
-2018-03-15	roadOccupancy	11	roadOccupancy	19:00:20.572000
-2018-03-16	roadOccupancy	1	roadOccupancy	00:00:33.890000
-2018-03-16	roadOccupancy	17	roadOccupancy	16:05:16.451000
-2018-03-16	roadOccupancy	2	roadOccupancy	16:08:16.609000
-2018-03-16	roadOccupancy	9	roadOccupancy	16:12:16.797000
-2018-03-16	roadOccupancy	4	roadOccupancy	16:20:17.290000
-2018-03-16	roadOccupancy	36	roadOccupancy	16:34:17.753000
-2018-03-16	roadOccupancy	5	roadOccupancy	16:35:17.378000
-2018-03-16	roadOccupancy	5	roadOccupancy	16:39:17.312000
-2018-03-16	roadOccupancy	4	roadOccupancy	16:43:17.385000
-2018-03-16	roadOccupancy	10	roadOccupancy	16:47:17.416000
-2018-03-16	roadOccupancy	9	roadOccupancy	16:50:17.302000
-2018-03-16	roadOccupancy	2	roadOccupancy	21:38:31.724000
-2018-03-17	roadOccupancy	2	roadOccupancy	15:15:16.437000
-2018-03-17	roadOccupancy	5	roadOccupancy	16:21:19.001000
-2018-03-17	roadOccupancy	5	roadOccupancy	16:27:19.556000
-2018-03-17	roadOccupancy	15	roadOccupancy	16:31:19.739000
-2018-03-18	roadOccupancy	3	roadOccupancy	16:16:21.637000
-2018-03-18	roadOccupancy	4	roadOccupancy	16:22:21.955000
-2018-03-18	roadOccupancy	4	roadOccupancy	16:25:22.095000
-2018-03-18	roadOccupancy	6	roadOccupancy	16:27:22.118000
-2018-03-18	roadOccupancy	4	roadOccupancy	16:31:22.321000
-2018-03-18	roadOccupancy	0	roadOccupancy	16:41:22.344000
-2018-03-18	roadOccupancy	2	roadOccupancy	16:48:22.350000
-2018-03-18	roadOccupancy	2	roadOccupancy	16:50:22.457000
-2018-03-19	roadOccupancy	2	roadOccupancy	13:58:18.671000
-2018-03-19	roadOccupancy	29	roadOccupancy	15:50:24.239000
-2018-03-19	roadOccupancy	9	roadOccupancy	15:51:24.219000
-2018-03-19	roadOccupancy	29	roadOccupancy	16:07:25.063000
-2018-03-19	roadOccupancy	11	roadOccupancy	16:08:24.784000
-2018-03-19	roadOccupancy	21	roadOccupancy	16:21:24.917000
-2018-03-20	roadOccupancy	51	roadOccupancy	15:40:26.714000
-2018-03-20	roadOccupancy	7	roadOccupancy	15:48:27.104000
-2018-03-20	roadOccupancy	22	roadOccupancy	15:50:27.188000
-2018-03-20	roadOccupancy	2	roadOccupancy	15:58:27.378000
-2018-03-20	roadOccupancy	74	roadOccupancy	18:06:33.527000
-2018-03-20	roadOccupancy	1	roadOccupancy	23:01:47.598000
-2018-03-21	roadOccupancy	12	roadOccupancy	15:00:28.734000
-2018-03-21	roadOccupancy	1	roadOccupancy	15:32:29.801000
-2018-03-21	roadOccupancy	7	roadOccupancy	15:35:29.774000
-2018-03-21	roadOccupancy	9	roadOccupancy	15:36:29.915000
-2018-03-21	roadOccupancy	17	roadOccupancy	15:38:29.812000
-2018-03-22	roadOccupancy	14	roadOccupancy	15:08:32.467000
-2018-03-22	roadOccupancy	1	roadOccupancy	15:16:32.938000
-2018-03-22	roadOccupancy	4	roadOccupancy	15:19:32.387000
-2018-03-22	roadOccupancy	8	roadOccupancy	15:22:32.428000
-2018-03-22	roadOccupancy	21	roadOccupancy	15:29:33.510000
-2018-03-23	roadOccupancy	16	roadOccupancy	14:21:34.135000
-2018-03-23	roadOccupancy	11	roadOccupancy	14:27:34.317000
-2018-03-23	roadOccupancy	14	roadOccupancy	14:32:34.639000
-2018-03-23	roadOccupancy	10	roadOccupancy	14:33:34.516000
-2018-03-23	roadOccupancy	42	roadOccupancy	14:37:34.703000
-2018-03-23	roadOccupancy	10	roadOccupancy	14:41:34.947000
-2018-03-23	roadOccupancy	36	roadOccupancy	14:57:34.777000
-2018-03-24	roadOccupancy	10	roadOccupancy	13:52:36.620000
-2018-03-24	roadOccupancy	12	roadOccupancy	13:59:36.935000
-2018-03-24	roadOccupancy	18	roadOccupancy	14:00:36.973000
-2018-03-24	roadOccupancy	29	roadOccupancy	14:08:37.242000
-2018-03-24	roadOccupancy	6	roadOccupancy	14:20:37.315000
-2018-03-24	roadOccupancy	1	roadOccupancy	14:27:37.433000
-2018-03-24	roadOccupancy	0	roadOccupancy	14:28:37.283000
-2018-03-25	roadOccupancy	2	roadOccupancy	13:33:39.044000
-2018-03-25	roadOccupancy	1	roadOccupancy	13:40:38.763000
-2018-03-25	roadOccupancy	0	roadOccupancy	13:47:38.891000
-2018-03-25	roadOccupancy	0	roadOccupancy	13:51:39.824000
-2018-03-25	roadOccupancy	3	roadOccupancy	13:56:39.715000
-2018-03-25	roadOccupancy	3	roadOccupancy	14:02:39.750000
-2018-03-25	roadOccupancy	2	roadOccupancy	14:10:39.715000
-2018-03-26	roadOccupancy	22	roadOccupancy	13:03:41.597000
-2018-03-26	roadOccupancy	3	roadOccupancy	13:07:41.780000
-2018-03-26	roadOccupancy	3	roadOccupancy	13:11:42.100000
-2018-03-26	roadOccupancy	3	roadOccupancy	13:19:42.379000
-2018-03-26	roadOccupancy	4	roadOccupancy	13:22:42.234000
-2018-03-26	roadOccupancy	2	roadOccupancy	13:26:42.137000
-2018-03-26	roadOccupancy	12	roadOccupancy	13:32:42.196000
-2018-03-26	roadOccupancy	6	roadOccupancy	13:56:43.202000
-2018-03-27	roadOccupancy	7	roadOccupancy	12:44:43.570000
-2018-03-27	roadOccupancy	24	roadOccupancy	12:50:44.156000
-2018-03-27	roadOccupancy	10	roadOccupancy	12:55:44.318000
-2018-03-27	roadOccupancy	12	roadOccupancy	13:03:44.780000
-2018-03-27	roadOccupancy	5	roadOccupancy	13:04:44.805000
-2018-03-27	roadOccupancy	5	roadOccupancy	13:09:45.021000
-2018-03-27	roadOccupancy	13	roadOccupancy	13:22:44.745000
-2018-03-28	roadOccupancy	12	roadOccupancy	12:23:46.475000
-2018-03-28	roadOccupancy	21	roadOccupancy	12:37:47.292000
-2018-03-28	roadOccupancy	33	roadOccupancy	12:44:47.178000
-2018-03-28	roadOccupancy	15	roadOccupancy	12:48:47.138000
-2018-03-28	roadOccupancy	3	roadOccupancy	12:49:47.091000
-2018-03-29	roadOccupancy	19	roadOccupancy	10:00:43.458000
-2018-03-29	roadOccupancy	36	roadOccupancy	11:41:49.127000
-2018-03-29	roadOccupancy	4	roadOccupancy	11:45:49.398000
-2018-03-29	roadOccupancy	11	roadOccupancy	11:48:49.638000
-2018-03-29	roadOccupancy	40	roadOccupancy	11:56:49.629000
-2018-03-30	roadOccupancy	4	roadOccupancy	10:57:51.067000
-2018-03-30	roadOccupancy	6	roadOccupancy	11:03:51.361000
-2018-03-30	roadOccupancy	0	roadOccupancy	11:10:51.712000
-2018-03-30	roadOccupancy	14	roadOccupancy	11:28:52.010000
-2018-03-30	roadOccupancy	10	roadOccupancy	11:30:52.082000
-2018-03-30	roadOccupancy	22	roadOccupancy	11:34:52.834000
-2018-03-30	roadOccupancy	2	roadOccupancy	11:36:52.263000
-2018-03-30	roadOccupancy	6	roadOccupancy	14:45:01.460000
-2018-03-31	roadOccupancy	8	roadOccupancy	10:55:53.753000
-2018-03-31	roadOccupancy	2	roadOccupancy	11:00:53.977000
-2018-03-31	roadOccupancy	2	roadOccupancy	11:09:54.436000
-2018-03-31	roadOccupancy	2	roadOccupancy	11:25:54.604000
-2018-04-01	roadOccupancy	4	roadOccupancy	10:48:56.438000
-2018-04-01	roadOccupancy	34	roadOccupancy	10:56:56.783000
-2018-04-01	roadOccupancy	31	roadOccupancy	11:22:57.055000
-2018-04-02	roadOccupancy	5	roadOccupancy	10:26:58.520000
-2018-04-02	roadOccupancy	23	roadOccupancy	10:35:58.862000
-2018-04-02	roadOccupancy	4	roadOccupancy	10:40:59.226000
-2018-04-02	roadOccupancy	1	roadOccupancy	10:43:59.234000
-2018-04-02	roadOccupancy	3	roadOccupancy	10:47:59.431000
-2018-04-02	roadOccupancy	53	roadOccupancy	10:50:59.473000
-2018-04-02	roadOccupancy	6	roadOccupancy	10:51:59.535000
-2018-04-02	roadOccupancy	2	roadOccupancy	10:57:59.681000
-2018-04-03	roadOccupancy	3	roadOccupancy	10:19:01.612000
-2018-04-03	roadOccupancy	37	roadOccupancy	10:21:01.786000
-2018-04-03	roadOccupancy	11	roadOccupancy	10:34:02.026000
-2018-04-03	roadOccupancy	4	roadOccupancy	10:43:02.037000
-2018-04-03	roadOccupancy	28	roadOccupancy	11:10:03.100000
-2018-04-04	roadOccupancy	5	roadOccupancy	09:37:03.710000
-2018-04-04	roadOccupancy	18	roadOccupancy	10:03:04.397000
-2018-04-04	roadOccupancy	13	roadOccupancy	10:07:04.509000
-2018-04-04	roadOccupancy	47	roadOccupancy	10:08:04.404000
-2018-04-04	roadOccupancy	3	roadOccupancy	10:09:04.414000
-2018-04-05	roadOccupancy	18	roadOccupancy	04:00:55.350000
-2018-04-05	roadOccupancy	23	roadOccupancy	09:35:06.092000
-2018-04-05	roadOccupancy	12	roadOccupancy	09:42:06.361000
-2018-04-05	roadOccupancy	10	roadOccupancy	09:52:06.814000
-2018-04-05	roadOccupancy	35	roadOccupancy	10:04:07.012000
-2018-04-05	roadOccupancy	5	roadOccupancy	10:08:06.897000
-2018-04-05	roadOccupancy	10	roadOccupancy	10:13:06.914000
-2018-04-06	roadOccupancy	16	roadOccupancy	09:44:08.512000
-2018-04-06	roadOccupancy	30	roadOccupancy	09:48:08.765000
-2018-04-06	roadOccupancy	8	roadOccupancy	09:52:08.855000
-2018-04-06	roadOccupancy	20	roadOccupancy	09:56:08.572000
-2018-04-06	roadOccupancy	30	roadOccupancy	09:59:09.407000
-2018-04-06	roadOccupancy	12	roadOccupancy	10:04:09.511000
-2018-04-06	roadOccupancy	12	roadOccupancy	10:07:09.437000
-2018-04-06	roadOccupancy	22	roadOccupancy	10:15:09.491000
-2018-04-06	roadOccupancy	37	roadOccupancy	10:18:09.405000
-2018-04-07	roadOccupancy	16	roadOccupancy	09:42:11.176000
-2018-04-07	roadOccupancy	20	roadOccupancy	10:03:11.923000
-2018-04-07	roadOccupancy	30	roadOccupancy	10:05:11.972000
-2018-04-08	roadOccupancy	0	roadOccupancy	02:00:02.933000
-2018-04-08	roadOccupancy	28	roadOccupancy	09:57:13.894000
-2018-04-08	roadOccupancy	11	roadOccupancy	10:01:14.084000
-2018-04-08	roadOccupancy	7	roadOccupancy	10:06:14.374000
-2018-04-08	roadOccupancy	21	roadOccupancy	10:12:14.622000
-2018-04-08	roadOccupancy	20	roadOccupancy	10:21:14.528000
-2018-04-08	roadOccupancy	3	roadOccupancy	12:20:20.754000
-2018-04-09	roadOccupancy	29	roadOccupancy	09:50:16.324000
-2018-04-09	roadOccupancy	14	roadOccupancy	10:14:17.447000
-2018-04-10	roadOccupancy	33	roadOccupancy	09:58:18.816000
-2018-04-10	roadOccupancy	4	roadOccupancy	10:14:19.337000
-2018-04-10	roadOccupancy	5	roadOccupancy	10:16:19.367000
-2018-04-10	roadOccupancy	18	roadOccupancy	10:18:19.502000
-2018-04-10	roadOccupancy	16	roadOccupancy	10:24:19.521000
-2018-04-10	roadOccupancy	4	roadOccupancy	10:33:19.453000
-2018-04-10	roadOccupancy	11	roadOccupancy	10:37:20.366000
-2018-04-10	roadOccupancy	25	roadOccupancy	10:46:20.523000
-2018-04-10	roadOccupancy	14	roadOccupancy	10:49:20.570000
-2018-04-11	roadOccupancy	1	roadOccupancy	10:04:20.936000
-2018-04-11	roadOccupancy	14	roadOccupancy	10:13:21.413000
-2018-04-11	roadOccupancy	21	roadOccupancy	10:18:21.600000
-2018-04-11	roadOccupancy	28	roadOccupancy	10:23:21.950000
-2018-04-11	roadOccupancy	9	roadOccupancy	10:29:22.002000
-2018-04-11	roadOccupancy	4	roadOccupancy	10:32:22.017000
-2018-04-11	roadOccupancy	20	roadOccupancy	10:34:22.018000
-2018-04-11	roadOccupancy	5	roadOccupancy	12:55:29.250000
-2018-04-12	roadOccupancy	29	roadOccupancy	09:36:23.423000
-2018-04-12	roadOccupancy	25	roadOccupancy	10:11:24.837000
-2018-04-12	roadOccupancy	29	roadOccupancy	10:13:24.943000
-2018-04-12	roadOccupancy	17	roadOccupancy	10:23:24.572000
-2018-04-12	roadOccupancy	2	roadOccupancy	10:30:25.746000
-2018-04-13	roadOccupancy	35	roadOccupancy	09:51:26.470000
-2018-04-13	roadOccupancy	11	roadOccupancy	09:54:25.980000
-2018-04-13	roadOccupancy	11	roadOccupancy	10:05:27.146000
-2018-04-13	roadOccupancy	16	roadOccupancy	13:30:36.788000
-2018-04-14	roadOccupancy	14	roadOccupancy	09:48:28.862000
-2018-04-14	roadOccupancy	11	roadOccupancy	10:06:29.646000
-2018-04-14	roadOccupancy	34	roadOccupancy	10:23:29.503000
-2018-04-15	roadOccupancy	4	roadOccupancy	10:18:31.982000
-2018-04-15	roadOccupancy	7	roadOccupancy	10:27:31.990000
-2018-04-16	roadOccupancy	10	roadOccupancy	09:56:34.207000
-2018-04-16	roadOccupancy	6	roadOccupancy	10:05:34.480000
-2018-04-16	roadOccupancy	15	roadOccupancy	10:18:34.496000
-2018-04-17	roadOccupancy	24	roadOccupancy	10:24:37.131000
-2018-04-17	roadOccupancy	7	roadOccupancy	10:26:37.230000
-2018-04-17	roadOccupancy	2	roadOccupancy	11:49:41.158000
-2018-04-18	roadOccupancy	43	roadOccupancy	09:59:39.049000
-2018-04-18	roadOccupancy	11	roadOccupancy	10:02:39.135000
-2018-04-18	roadOccupancy	7	roadOccupancy	10:05:39.320000
-2018-04-18	roadOccupancy	10	roadOccupancy	10:08:39.426000
-2018-04-18	roadOccupancy	3	roadOccupancy	10:29:39.644000
-2018-04-18	roadOccupancy	6	roadOccupancy	18:16:02.800000
-2018-04-19	roadOccupancy	4	roadOccupancy	10:09:42.162000
-2018-04-19	roadOccupancy	15	roadOccupancy	10:11:42.274000
-2018-04-19	roadOccupancy	8	roadOccupancy	10:14:42.534000
-2018-04-19	roadOccupancy	19	roadOccupancy	10:16:42.469000
-2018-04-19	roadOccupancy	14	roadOccupancy	10:27:42.224000
-2018-04-19	roadOccupancy	8	roadOccupancy	12:23:48.695000
+date	attribute	attrValue	time
+2017-07-05	trafficIntensity	720	15:13:34.754000
+2017-07-05	trafficIntensity	300	17:38:36.205000
+2017-07-05	trafficIntensity	240	18:13:35.718000
+2017-07-06	trafficIntensity	180	20:02:36.295000
+2017-07-27	trafficIntensity	420	12:56:35.916000
+2017-08-02	trafficIntensity	660	09:11:50.120000
+2017-08-02	trafficIntensity	300	12:36:50.208000
+2017-08-21	trafficIntensity	0	23:26:39.481000
+2017-08-22	trafficIntensity	120	02:58:41.159000
+2017-08-27	trafficIntensity	0	06:20:53.164000
+2017-08-27	trafficIntensity	120	12:28:53.481000
+2017-08-28	trafficIntensity	240	06:09:56.571000
+2017-08-29	trafficIntensity	960	06:18:58.171000
+2017-09-01	trafficIntensity	0	03:49:05.642000
+2017-09-02	trafficIntensity	240	12:31:09.904000
+2017-09-05	trafficIntensity	120	03:38:16.045000
+2017-09-08	trafficIntensity	0	01:42:22.970000
+2017-09-08	trafficIntensity	600	12:56:26.199000
+2017-09-09	trafficIntensity	180	01:14:28.534000
+2017-09-09	trafficIntensity	60	01:54:27.717000
+2017-09-14	trafficIntensity	480	22:18:40.501000
+2017-09-16	trafficIntensity	180	00:55:45.451000
+2017-09-16	trafficIntensity	240	02:03:47.442000
+2017-09-16	trafficIntensity	120	02:11:47.567000
+2017-09-19	trafficIntensity	660	11:34:54.327000
+2017-09-20	trafficIntensity	420	19:00:55.524000
+2017-09-22	trafficIntensity	60	04:52:59.737000
+2017-09-25	trafficIntensity	660	16:36:07.969000
+2017-09-29	trafficIntensity	360	20:48:18.313000
+2017-09-29	trafficIntensity	360	21:01:18.605000
+2017-09-30	trafficIntensity	240	11:51:18.051000
+2017-09-30	trafficIntensity	180	12:15:21.589000
+2017-10-01	trafficIntensity	780	11:41:23.619000
+2017-10-02	trafficIntensity	0	22:03:22.325000
+2017-10-03	trafficIntensity	120	00:47:25.090000
+2017-10-03	trafficIntensity	60	01:13:25.794000
+2017-10-06	trafficIntensity	240	02:43:34.694000
+2017-10-06	trafficIntensity	600	16:54:35.474000
+2017-10-07	trafficIntensity	420	05:10:36.554000
+2017-10-07	trafficIntensity	60	08:00:40.956000
+2017-10-07	trafficIntensity	240	13:05:50.213000
+2017-10-10	trafficIntensity	600	06:10:43.670000
+2017-10-14	trafficIntensity	1080	12:44:57.839000
+2017-10-15	trafficIntensity	120	23:19:58.169000
+2017-10-20	trafficIntensity	420	08:28:06.922000
+2017-10-20	trafficIntensity	180	20:01:08.871000
+2017-10-21	trafficIntensity	180	22:49:13.585000
+2017-10-23	trafficIntensity	1200	10:05:14.597000
+2017-10-24	trafficIntensity	480	15:28:16.757000
+2017-10-24	trafficIntensity	540	18:45:13.650000
+2017-10-25	trafficIntensity	120	13:20:17.330000
+2017-10-31	trafficIntensity	300	04:22:32.839000
+2017-10-31	trafficIntensity	240	06:00:34.405000
+2017-11-04	trafficIntensity	360	08:03:45.656000
+2017-11-04	trafficIntensity	420	08:28:46.332000
+2017-11-05	trafficIntensity	0	06:53:46.809000
+2017-11-05	trafficIntensity	60	14:03:46.105000
+2017-11-08	trafficIntensity	420	07:51:52.369000
+2017-11-09	trafficIntensity	0	03:51:57.267000
+2017-11-10	trafficIntensity	240	23:58:01.610000
+2017-11-12	trafficIntensity	180	09:53:05.479000
+2017-11-13	trafficIntensity	960	03:02:02.043000
+2017-11-13	trafficIntensity	240	21:01:05.124000
+2017-11-14	trafficIntensity	360	12:22:09.097000
+2017-11-15	trafficIntensity	0	04:09:10.899000
+2017-11-16	trafficIntensity	540	12:22:12.244000
+2017-11-16	trafficIntensity	60	15:23:17.003000
+2017-11-17	trafficIntensity	120	21:54:14.856000
+2017-11-18	trafficIntensity	120	01:27:20.300000
+2017-11-19	trafficIntensity	0	07:56:19.167000
+2017-11-19	trafficIntensity	840	10:37:23.055000
+2017-11-22	trafficIntensity	0	04:05:26.642000
+2017-11-23	trafficIntensity	480	12:15:28.160000
+2017-11-23	trafficIntensity	180	14:54:32.175000
+2017-11-23	trafficIntensity	660	15:58:33.753000
+2017-11-25	trafficIntensity	480	08:16:36.031000
+2017-11-26	trafficIntensity	300	10:29:38.072000
+2017-11-30	trafficIntensity	300	14:18:46.755000
+2017-11-30	trafficIntensity	660	15:41:48.801000
+2017-12-01	trafficIntensity	300	23:37:50.097000
+2017-12-03	trafficIntensity	360	12:39:58.295000
+2017-12-04	trafficIntensity	120	18:26:56.104000
+2017-12-06	trafficIntensity	120	22:27:03.283000
+2017-12-07	trafficIntensity	600	14:51:03.810000
+2017-12-07	trafficIntensity	480	15:44:05.141000
+2017-12-09	trafficIntensity	0	03:11:09.868000
+2017-12-10	trafficIntensity	360	10:06:09.489000
+2017-12-13	trafficIntensity	0	02:26:17.184000
+2017-12-16	trafficIntensity	0	04:09:24.638000
+2017-12-18	trafficIntensity	120	23:27:29.882000
+2017-12-18	trafficIntensity	0	23:38:30.108000
+2017-12-19	trafficIntensity	0	01:16:31.779000
+2017-12-20	trafficIntensity	1320	20:38:35.455000
+2017-12-23	trafficIntensity	480	00:21:38.557000
+2017-12-23	trafficIntensity	540	00:31:40.927000
+2017-12-23	trafficIntensity	960	04:21:39.555000
+2017-12-23	trafficIntensity	600	06:19:42.168000
+2017-12-24	trafficIntensity	240	17:43:47.458000
+2017-12-27	trafficIntensity	660	09:44:50.105000
+2017-12-27	trafficIntensity	1020	10:24:50.705000
+2017-12-31	trafficIntensity	180	14:49:01.156000
+2018-01-01	trafficIntensity	0	23:21:08.378000
+2018-01-02	trafficIntensity	60	17:51:11.711000
+2018-01-10	trafficIntensity	240	09:40:25.526000
+2018-01-10	trafficIntensity	1620	10:04:26.062000
+2018-01-10	trafficIntensity	540	12:03:28.713000
+2018-01-10	trafficIntensity	240	12:40:29.394000
+2018-01-14	trafficIntensity	300	14:53:37.248000
+2018-01-24	trafficIntensity	0	06:01:01.597000
+2018-01-28	trafficIntensity	120	08:40:12.039000
+2018-01-29	trafficIntensity	540	19:08:16.392000
+2018-01-29	trafficIntensity	600	19:52:17.519000
+2018-01-31	trafficIntensity	120	04:19:20.440000
+2018-01-31	trafficIntensity	300	06:51:24.128000
+2018-02-02	trafficIntensity	120	23:27:30.963000
+2018-02-04	trafficIntensity	0	07:55:34.619000
+2018-02-04	trafficIntensity	240	08:19:35.239000
+2018-02-05	trafficIntensity	420	16:25:38.771000
+2018-02-07	trafficIntensity	0	01:08:41.252000
+2018-02-08	trafficIntensity	360	07:20:40.583000
+2018-02-09	trafficIntensity	780	15:15:44.018000
+2018-02-12	trafficIntensity	60	03:00:53.218000
+2018-02-13	trafficIntensity	600	21:02:52.808000
+2018-02-16	trafficIntensity	660	06:54:03.043000
+2018-02-17	trafficIntensity	420	19:47:14.241000
+2018-02-20	trafficIntensity	600	07:47:29.786000
+2018-02-20	trafficIntensity	480	08:07:30.708000
+2018-02-21	trafficIntensity	780	00:28:16.454000
+2018-02-21	trafficIntensity	1080	01:11:16.663000
+2018-02-21	trafficIntensity	60	01:28:16.729000
+2018-02-21	trafficIntensity	0	01:29:17.024000
+2018-02-21	trafficIntensity	60	01:44:17.833000
+2018-02-21	trafficIntensity	180	01:46:17.784000
+2018-02-22	trafficIntensity	540	00:21:19.712000
+2018-02-22	trafficIntensity	120	00:36:20.033000
+2018-02-22	trafficIntensity	360	00:48:20.136000
+2018-02-22	trafficIntensity	29	00:52:20.147000
+2018-02-22	trafficIntensity	300	03:58:29.387000
+2018-02-22	trafficIntensity	120	05:59:35.035000
+2018-02-22	trafficIntensity	120	06:04:35.274000
+2018-02-22	trafficIntensity	360	06:07:35.547000
+2018-02-22	trafficIntensity	60	06:10:35.445000
+2018-02-22	trafficIntensity	540	06:11:35.523000
+2018-02-22	trafficIntensity	160	06:14:35.696000
+2018-02-22	trafficIntensity	360	06:37:35.802000
+2018-02-23	trafficIntensity	0	00:05:24.872000
+2018-02-23	trafficIntensity	180	04:26:37.086000
+2018-02-23	trafficIntensity	240	04:29:37.202000
+2018-02-23	trafficIntensity	0	04:30:37.796000
+2018-02-23	trafficIntensity	180	04:35:37.891000
+2018-02-23	trafficIntensity	240	22:48:24.128000
+2018-02-23	trafficIntensity	0	22:52:25.059000
+2018-02-23	trafficIntensity	1680	22:57:25.219000
+2018-02-23	trafficIntensity	0	23:04:25.113000
+2018-02-23	trafficIntensity	360	23:06:25.131000
+2018-02-25	trafficIntensity	180	20:00:27.829000
+2018-02-25	trafficIntensity	0	20:21:28.961000
+2018-02-25	trafficIntensity	240	20:37:29.617000
+2018-02-25	trafficIntensity	300	20:41:29.746000
+2018-02-25	trafficIntensity	120	20:53:29.867000
+2018-02-25	trafficIntensity	120	21:00:29.997000
+2018-02-25	trafficIntensity	120	21:05:29.899000
+2018-02-25	trafficIntensity	240	21:13:31.092000
+2018-02-26	trafficIntensity	360	19:54:32.782000
+2018-02-26	trafficIntensity	300	20:41:34.433000
+2018-02-26	trafficIntensity	120	21:13:36.550000
+2018-02-26	trafficIntensity	180	21:23:36.915000
+2018-02-26	trafficIntensity	240	21:35:36.567000
+2018-02-26	trafficIntensity	180	21:55:37.491000
+2018-02-26	trafficIntensity	120	22:34:39.601000
+2018-02-28	trafficIntensity	120	00:24:50.408000
+2018-02-28	trafficIntensity	120	21:45:33.992000
+2018-02-28	trafficIntensity	60	23:09:37.964000
+2018-02-28	trafficIntensity	0	23:27:37.796000
+2018-03-01	trafficIntensity	240	04:47:53.308000
+2018-03-01	trafficIntensity	228	04:57:53.275000
+2018-03-01	trafficIntensity	240	05:09:53.340000
+2018-03-01	trafficIntensity	180	22:11:39.939000
+2018-03-01	trafficIntensity	169	22:14:40.096000
+2018-03-01	trafficIntensity	0	22:22:40.232000
+2018-03-02	trafficIntensity	840	18:50:36.826000
+2018-03-03	trafficIntensity	300	20:50:44.984000
+2018-03-03	trafficIntensity	360	20:54:45.210000
+2018-03-03	trafficIntensity	180	20:56:45.235000
+2018-03-03	trafficIntensity	240	21:01:44.975000
+2018-03-03	trafficIntensity	1080	21:05:45.147000
+2018-03-03	trafficIntensity	60	21:09:45.013000
+2018-03-03	trafficIntensity	120	22:48:50.603000
+2018-03-03	trafficIntensity	120	22:55:50.776000
+2018-03-04	trafficIntensity	0	02:00:59.595000
+2018-03-04	trafficIntensity	0	02:20:00.300000
+2018-03-04	trafficIntensity	0	02:35:00.757000
+2018-03-04	trafficIntensity	480	19:56:48.158000
+2018-03-05	trafficIntensity	240	07:55:37.362000
+2018-03-05	trafficIntensity	540	09:45:37.416000
+2018-03-05	trafficIntensity	660	18:24:49.300000
+2018-03-05	trafficIntensity	720	18:26:49.431000
+2018-03-05	trafficIntensity	1020	18:35:49.889000
+2018-03-05	trafficIntensity	1080	18:37:49.759000
+2018-03-05	trafficIntensity	780	18:39:49.728000
+2018-03-05	trafficIntensity	360	18:52:49.812000
+2018-03-06	trafficIntensity	540	17:50:51.752000
+2018-03-06	trafficIntensity	600	17:55:51.844000
+2018-03-06	trafficIntensity	360	17:58:52.010000
+2018-03-06	trafficIntensity	660	18:00:52.078000
+2018-03-06	trafficIntensity	600	18:02:52.274000
+2018-03-06	trafficIntensity	480	18:07:52.267000
+2018-03-06	trafficIntensity	240	18:09:52.481000
+2018-03-06	trafficIntensity	360	18:16:52.245000
+2018-03-08	trafficIntensity	660	17:21:56.632000
+2018-03-08	trafficIntensity	360	17:31:56.342000
+2018-03-08	trafficIntensity	240	17:37:57.277000
+2018-03-08	trafficIntensity	600	17:40:57.419000
+2018-03-08	trafficIntensity	0	17:43:57.348000
+2018-03-08	trafficIntensity	360	17:54:57.226000
+2018-03-08	trafficIntensity	240	17:56:57.333000
+2018-03-09	trafficIntensity	360	18:04:00.326000
+2018-03-09	trafficIntensity	540	18:07:59.752000
+2018-03-09	trafficIntensity	180	18:13:59.789000
+2018-03-09	trafficIntensity	840	18:15:59.800000
+2018-03-09	trafficIntensity	120	23:07:14.766000
+2018-03-10	trafficIntensity	540	17:25:01.285000
+2018-03-10	trafficIntensity	180	17:26:01.793000
+2018-03-10	trafficIntensity	600	17:40:02.228000
+2018-03-10	trafficIntensity	600	17:42:02.338000
+2018-03-10	trafficIntensity	300	17:50:02.312000
+2018-03-10	trafficIntensity	480	18:19:03.325000
+2018-03-11	trafficIntensity	420	17:11:04.278000
+2018-03-11	trafficIntensity	240	17:28:05.055000
+2018-03-11	trafficIntensity	1500	17:29:05.132000
+2018-03-12	trafficIntensity	660	16:21:06.386000
+2018-03-12	trafficIntensity	780	16:36:06.770000
+2018-03-12	trafficIntensity	1380	16:40:06.906000
+2018-03-12	trafficIntensity	780	16:45:07.116000
+2018-03-12	trafficIntensity	1080	16:55:07.289000
+2018-03-12	trafficIntensity	660	17:02:07.244000
+2018-03-13	trafficIntensity	300	16:55:09.194000
+2018-03-13	trafficIntensity	180	16:56:09.034000
+2018-03-13	trafficIntensity	780	17:13:09.921000
+2018-03-13	trafficIntensity	480	17:21:09.809000
+2018-03-13	trafficIntensity	1260	17:31:09.872000
+2018-03-13	trafficIntensity	600	18:49:14.006000
+2018-03-13	trafficIntensity	600	20:51:19.242000
+2018-03-14	trafficIntensity	360	16:42:11.776000
+2018-03-14	trafficIntensity	0	16:55:11.992000
+2018-03-14	trafficIntensity	420	17:14:12.479000
+2018-03-14	trafficIntensity	240	17:16:12.971000
+2018-03-14	trafficIntensity	240	17:18:13.002000
+2018-03-14	trafficIntensity	480	17:24:13.352000
+2018-03-14	trafficIntensity	180	17:29:13.531000
+2018-03-15	trafficIntensity	490	09:30:03.841000
+2018-03-15	trafficIntensity	300	16:00:12.748000
+2018-03-15	trafficIntensity	300	16:37:14.209000
+2018-03-15	trafficIntensity	120	16:45:14.572000
+2018-03-15	trafficIntensity	360	16:47:14.623000
+2018-03-15	trafficIntensity	1680	16:49:14.692000
+2018-03-15	trafficIntensity	360	16:56:14.948000
+2018-03-15	trafficIntensity	549	16:57:15.052000
+2018-03-15	trafficIntensity	2160	17:04:14.908000
+2018-03-15	trafficIntensity	502	19:00:20.576000
+2018-03-16	trafficIntensity	120	00:00:33.892000
+2018-03-16	trafficIntensity	540	16:05:16.456000
+2018-03-16	trafficIntensity	180	16:12:16.799000
+2018-03-16	trafficIntensity	480	16:34:17.754000
+2018-03-16	trafficIntensity	600	16:35:17.378000
+2018-03-16	trafficIntensity	540	16:39:17.316000
+2018-03-16	trafficIntensity	600	16:43:17.386000
+2018-03-16	trafficIntensity	240	16:47:17.417000
+2018-03-16	trafficIntensity	540	16:50:17.303000
+2018-03-16	trafficIntensity	240	21:38:31.724000
+2018-03-17	trafficIntensity	180	15:15:16.439000
+2018-03-17	trafficIntensity	420	16:27:19.558000
+2018-03-17	trafficIntensity	420	16:31:19.739000
+2018-03-17	trafficIntensity	300	16:34:20.078000
+2018-03-18	trafficIntensity	420	16:16:21.637000
+2018-03-18	trafficIntensity	240	16:22:21.955000
+2018-03-18	trafficIntensity	360	16:25:22.094000
+2018-03-18	trafficIntensity	240	16:27:22.118000
+2018-03-18	trafficIntensity	420	16:31:22.324000
+2018-03-18	trafficIntensity	0	16:41:22.345000
+2018-03-18	trafficIntensity	240	16:48:22.352000
+2018-03-18	trafficIntensity	60	16:50:22.461000
+2018-03-19	trafficIntensity	240	13:58:18.672000
+2018-03-19	trafficIntensity	600	15:50:24.240000
+2018-03-19	trafficIntensity	360	15:51:24.219000
+2018-03-19	trafficIntensity	480	16:06:24.997000
+2018-03-19	trafficIntensity	900	16:08:24.787000
+2018-03-19	trafficIntensity	480	16:21:24.918000
+2018-03-20	trafficIntensity	1140	15:40:26.715000
+2018-03-20	trafficIntensity	240	15:42:26.617000
+2018-03-20	trafficIntensity	240	15:58:27.381000
+2018-03-20	trafficIntensity	1260	18:06:33.529000
+2018-03-20	trafficIntensity	240	21:19:42.597000
+2018-03-21	trafficIntensity	480	15:00:28.733000
+2018-03-21	trafficIntensity	660	15:28:30.177000
+2018-03-21	trafficIntensity	120	15:32:29.803000
+2018-03-21	trafficIntensity	300	15:35:29.775000
+2018-03-21	trafficIntensity	360	15:36:29.916000
+2018-03-21	trafficIntensity	420	15:37:29.809000
+2018-03-21	trafficIntensity	180	15:38:29.813000
+2018-03-22	trafficIntensity	600	15:08:32.468000
+2018-03-22	trafficIntensity	120	15:16:32.940000
+2018-03-22	trafficIntensity	300	15:19:32.387000
+2018-03-22	trafficIntensity	540	15:29:33.510000
+2018-03-22	trafficIntensity	300	15:39:33.474000
+2018-03-23	trafficIntensity	420	13:45:31.672000
+2018-03-23	trafficIntensity	300	14:27:34.319000
+2018-03-23	trafficIntensity	360	14:32:34.639000
+2018-03-23	trafficIntensity	120	14:33:34.516000
+2018-03-23	trafficIntensity	120	14:37:34.703000
+2018-03-23	trafficIntensity	420	14:41:34.947000
+2018-03-23	trafficIntensity	240	14:55:35.681000
+2018-03-23	trafficIntensity	360	14:57:34.776000
+2018-03-23	trafficIntensity	540	14:58:34.792000
+2018-03-24	trafficIntensity	1140	13:52:36.620000
+2018-03-24	trafficIntensity	180	13:59:36.935000
+2018-03-24	trafficIntensity	120	14:00:36.974000
+2018-03-24	trafficIntensity	660	14:08:37.242000
+2018-03-24	trafficIntensity	360	14:20:37.318000
+2018-03-24	trafficIntensity	0	14:28:37.282000
+2018-03-25	trafficIntensity	120	13:40:38.764000
+2018-03-25	trafficIntensity	0	13:51:39.827000
+2018-03-25	trafficIntensity	180	13:56:39.716000
+2018-03-25	trafficIntensity	120	13:58:39.844000
+2018-03-25	trafficIntensity	300	14:02:39.751000
+2018-03-25	trafficIntensity	180	14:10:39.715000
+2018-03-26	trafficIntensity	240	13:03:41.598000
+2018-03-26	trafficIntensity	180	13:07:41.779000
+2018-03-26	trafficIntensity	300	13:19:42.379000
+2018-03-26	trafficIntensity	480	13:22:42.237000
+2018-03-26	trafficIntensity	120	13:26:42.138000
+2018-03-26	trafficIntensity	384	13:28:42.192000
+2018-03-26	trafficIntensity	300	13:44:43.403000
+2018-03-26	trafficIntensity	600	13:56:43.203000
+2018-03-27	trafficIntensity	600	12:44:43.570000
+2018-03-27	trafficIntensity	360	12:50:44.155000
+2018-03-27	trafficIntensity	660	12:55:44.320000
+2018-03-27	trafficIntensity	540	13:03:44.780000
+2018-03-27	trafficIntensity	120	13:22:44.746000
+2018-03-28	trafficIntensity	480	12:23:46.475000
+2018-03-28	trafficIntensity	780	12:44:47.181000
+2018-03-28	trafficIntensity	960	12:48:47.141000
+2018-03-28	trafficIntensity	480	12:49:47.092000
+2018-03-29	trafficIntensity	180	11:41:49.127000
+2018-03-29	trafficIntensity	420	11:52:49.753000
+2018-03-29	trafficIntensity	240	11:56:49.630000
+2018-03-30	trafficIntensity	660	11:03:51.362000
+2018-03-30	trafficIntensity	0	11:10:51.712000
+2018-03-30	trafficIntensity	600	11:28:52.010000
+2018-03-30	trafficIntensity	388	11:30:52.084000
+2018-03-30	trafficIntensity	360	11:34:52.836000
+2018-03-30	trafficIntensity	60	11:36:52.264000
+2018-03-31	trafficIntensity	660	10:55:53.755000
+2018-03-31	trafficIntensity	120	11:00:53.979000
+2018-03-31	trafficIntensity	720	11:07:54.541000
+2018-03-31	trafficIntensity	240	11:09:54.436000
+2018-03-31	trafficIntensity	240	11:25:54.605000
+2018-04-01	trafficIntensity	420	10:48:56.438000
+2018-04-01	trafficIntensity	420	11:01:56.233000
+2018-04-01	trafficIntensity	1140	11:03:57.248000
+2018-04-01	trafficIntensity	300	11:22:57.057000
+2018-04-02	trafficIntensity	900	10:35:58.863000
+2018-04-02	trafficIntensity	360	10:40:59.231000
+2018-04-02	trafficIntensity	420	10:47:59.430000
+2018-04-02	trafficIntensity	360	10:50:59.475000
+2018-04-02	trafficIntensity	540	10:51:59.535000
+2018-04-02	trafficIntensity	240	10:59:59.668000
+2018-04-03	trafficIntensity	120	10:19:01.613000
+2018-04-03	trafficIntensity	780	10:21:01.786000
+2018-04-03	trafficIntensity	600	10:34:02.023000
+2018-04-03	trafficIntensity	180	10:43:02.041000
+2018-04-03	trafficIntensity	600	11:10:03.102000
+2018-04-04	trafficIntensity	600	09:37:03.712000
+2018-04-04	trafficIntensity	480	10:00:04.577000
+2018-04-04	trafficIntensity	420	10:03:04.391000
+2018-04-04	trafficIntensity	420	10:07:04.512000
+2018-04-04	trafficIntensity	600	10:08:04.403000
+2018-04-04	trafficIntensity	300	10:09:04.416000
+2018-04-04	trafficIntensity	180	10:11:04.458000
+2018-04-04	trafficIntensity	300	10:16:04.650000
+2018-04-05	trafficIntensity	120	04:00:55.350000
+2018-04-05	trafficIntensity	1800	09:35:06.092000
+2018-04-05	trafficIntensity	600	09:42:06.361000
+2018-04-05	trafficIntensity	960	09:52:06.815000
+2018-04-05	trafficIntensity	180	10:04:07.012000
+2018-04-05	trafficIntensity	420	10:08:06.899000
+2018-04-05	trafficIntensity	300	10:13:06.914000
+2018-04-06	trafficIntensity	240	09:52:08.856000
+2018-04-06	trafficIntensity	360	09:56:08.572000
+2018-04-06	trafficIntensity	300	10:04:09.510000
+2018-04-06	trafficIntensity	600	10:15:09.490000
+2018-04-06	trafficIntensity	1680	10:18:09.407000
+2018-04-06	trafficIntensity	420	10:23:09.572000
+2018-04-06	trafficIntensity	600	15:14:24.642000
+2018-04-07	trafficIntensity	540	09:42:11.176000
+2018-04-07	trafficIntensity	360	10:03:11.927000
+2018-04-07	trafficIntensity	240	10:05:11.972000
+2018-04-08	trafficIntensity	240	09:57:13.895000
+2018-04-08	trafficIntensity	300	10:01:14.086000
+2018-04-08	trafficIntensity	300	10:06:14.374000
+2018-04-08	trafficIntensity	300	10:21:14.528000
+2018-04-09	trafficIntensity	120	10:03:16.961000
+2018-04-09	trafficIntensity	900	10:14:17.450000
+2018-04-09	trafficIntensity	402	10:18:17
+2018-04-10	trafficIntensity	420	10:14:19.338000
+2018-04-10	trafficIntensity	420	10:16:19.366000
+2018-04-10	trafficIntensity	240	10:18:19.502000
+2018-04-10	trafficIntensity	480	10:24:19.522000
+2018-04-10	trafficIntensity	360	10:33:19.452000
+2018-04-10	trafficIntensity	720	10:37:20.367000
+2018-04-10	trafficIntensity	780	10:46:20.523000
+2018-04-10	trafficIntensity	720	10:49:20.571000
+2018-04-11	trafficIntensity	300	10:04:20.937000
+2018-04-11	trafficIntensity	540	10:13:21.414000
+2018-04-11	trafficIntensity	360	10:18:21.601000
+2018-04-11	trafficIntensity	600	10:29:22.001000
+2018-04-11	trafficIntensity	300	10:32:22.018000
+2018-04-11	trafficIntensity	540	10:34:22.017000
+2018-04-11	trafficIntensity	360	10:37:22.042000
+2018-04-11	trafficIntensity	540	12:55:29.250000
+2018-04-12	trafficIntensity	420	09:36:23.422000
+2018-04-12	trafficIntensity	240	10:09:24.756000
+2018-04-12	trafficIntensity	300	10:11:24.841000
+2018-04-12	trafficIntensity	540	10:13:24.946000
+2018-04-12	trafficIntensity	240	10:30:25.745000
+2018-04-13	trafficIntensity	540	09:53:26.594000
+2018-04-13	trafficIntensity	503	09:54:25.980000
+2018-04-13	trafficIntensity	300	10:05:27.146000
+2018-04-13	trafficIntensity	1200	13:30:36.787000
+2018-04-14	trafficIntensity	240	09:48:28.863000
+2018-04-14	trafficIntensity	180	10:06:29.649000
+2018-04-14	trafficIntensity	240	10:23:29.506000
+2018-04-15	trafficIntensity	60	08:05:25.803000
+2018-04-15	trafficIntensity	540	10:01:31.656000
+2018-04-15	trafficIntensity	240	10:18:31.982000
+2018-04-15	trafficIntensity	540	10:27:31.989000
+2018-04-16	trafficIntensity	2040	09:56:34.209000
+2018-04-16	trafficIntensity	480	10:05:34.479000
+2018-04-16	trafficIntensity	420	10:13:34.539000
+2018-04-16	trafficIntensity	960	10:18:34.498000
+2018-04-17	trafficIntensity	300	10:24:37.134000
+2018-04-17	trafficIntensity	480	10:26:37.230000
+2018-04-17	trafficIntensity	180	11:49:41.158000
+2018-04-18	trafficIntensity	420	09:59:39.050000
+2018-04-18	trafficIntensity	556	10:02:39.135000
+2018-04-18	trafficIntensity	780	10:05:39.320000
+2018-04-18	trafficIntensity	420	10:08:39.425000
+2018-04-18	trafficIntensity	660	18:16:02.798000
+2018-04-19	trafficIntensity	300	09:51:41.558000
+2018-04-19	trafficIntensity	300	10:05:42.203000
+2018-04-19	trafficIntensity	540	10:09:42.163000
+2018-04-19	trafficIntensity	240	10:11:42.273000
+2018-04-19	trafficIntensity	780	10:16:42.469000
+2018-04-19	trafficIntensity	480	10:18:42.169000
+2018-04-19	trafficIntensity	900	10:58:44.481000
+2018-04-20	trafficIntensity	1500	09:48:43.809000
+2018-04-20	trafficIntensity	660	09:51:43.937000
+2018-04-20	trafficIntensity	2400	09:54:44.086000
+2018-04-20	trafficIntensity	900	10:00:44.370000
+2018-04-20	trafficIntensity	780	10:09:44.598000
+2018-04-20	trafficIntensity	300	10:24:44.556000
+2018-04-20	trafficIntensity	600	11:21:48.091000
+2018-04-20	trafficIntensity	780	13:26:53.835000
+2018-04-21	trafficIntensity	720	09:36:46.452000
+2018-04-21	trafficIntensity	360	10:06:47.223000
+2018-04-22	trafficIntensity	120	09:31:49.445000
+2018-04-22	trafficIntensity	300	09:32:49.433000
+2018-04-22	trafficIntensity	120	09:34:49.635000
+2018-04-22	trafficIntensity	180	09:35:49.542000
+2018-04-22	trafficIntensity	120	09:39:49.807000
+2018-04-22	trafficIntensity	120	09:42:49.857000
+2018-04-22	trafficIntensity	240	09:49:49.679000
+2018-04-22	trafficIntensity	480	09:51:49.603000
+2018-04-22	trafficIntensity	120	09:55:49.857000
+2018-04-22	trafficIntensity	300	11:32:54.815000
+2018-04-22	trafficIntensity	360	14:12:02.226000
+2018-04-23	trafficIntensity	180	09:17:51.335000
+2018-04-23	trafficIntensity	420	09:19:51.378000
+2018-04-23	trafficIntensity	300	09:24:51.689000
+2018-04-23	trafficIntensity	540	09:32:51.885000
+2018-04-23	trafficIntensity	840	09:39:52.129000
+2018-04-23	trafficIntensity	1020	09:56:52.115000
+2018-04-23	trafficIntensity	540	14:00:05.282000
+2018-04-24	trafficIntensity	780	09:17:54.069000
+2018-04-24	trafficIntensity	780	09:24:53.716000
+2018-04-24	trafficIntensity	660	09:26:54.413000
+2018-04-24	trafficIntensity	1020	09:28:54.588000
+2018-04-24	trafficIntensity	540	09:44:54.628000
+2018-04-24	trafficIntensity	360	09:46:54.645000
+2018-04-25	trafficIntensity	528	08:50:56.347000
+2018-04-25	trafficIntensity	540	08:53:56.493000
+2018-04-25	trafficIntensity	300	09:01:56.810000
+2018-04-25	trafficIntensity	551	09:03:56.916000
+2018-04-25	trafficIntensity	660	09:10:57.159000
+2017-07-05	roadLoad	54	15:13:34.754000
+2017-07-05	roadLoad	15	17:38:36.205000
+2017-07-05	roadLoad	11	18:13:35.717000
+2017-07-06	roadLoad	6	02:47:35.499000
+2017-07-06	roadLoad	14	20:02:36.295000
+2017-07-14	roadLoad	7	23:02:58.850000
+2017-08-02	roadLoad	19	12:36:50.208000
+2017-08-22	roadLoad	7	02:58:41.157000
+2017-08-27	roadLoad	0	06:20:53.164000
+2017-08-27	roadLoad	14	12:28:53.480000
+2017-08-28	roadLoad	11	06:09:56.569000
+2017-08-29	roadLoad	62	06:18:58.171000
+2017-09-01	roadLoad	0	03:49:05.640000
+2017-09-02	roadLoad	18	12:31:09.904000
+2017-09-05	roadLoad	6	03:38:16.044000
+2017-09-08	roadLoad	0	01:42:22.968000
+2017-09-08	roadLoad	39	12:56:26.198000
+2017-09-09	roadLoad	8	01:14:28.532000
+2017-09-09	roadLoad	2	01:54:27.717000
+2017-09-14	roadLoad	20	22:18:40.499000
+2017-09-16	roadLoad	8	00:55:45.449000
+2017-09-16	roadLoad	11	02:03:47.469000
+2017-09-16	roadLoad	5	02:11:47.567000
+2017-09-20	roadLoad	36	19:00:55.522000
+2017-09-22	roadLoad	27	04:52:59.735000
+2017-09-25	roadLoad	40	16:36:07.968000
+2017-09-29	roadLoad	22	21:01:18.603000
+2017-09-30	roadLoad	46	11:51:18.051000
+2017-09-30	roadLoad	8	12:15:21.589000
+2017-10-02	roadLoad	0	22:03:22.323000
+2017-10-03	roadLoad	5	00:47:25.091000
+2017-10-03	roadLoad	2	01:13:25.792000
+2017-10-04	roadLoad	37	18:45:28.307000
+2017-10-06	roadLoad	9	02:43:34.693000
+2017-10-06	roadLoad	35	16:54:35.474000
+2017-10-07	roadLoad	18	05:10:36.554000
+2017-10-07	roadLoad	4	08:00:40.956000
+2017-10-07	roadLoad	25	13:05:50.214000
+2017-10-10	roadLoad	30	06:10:43.668000
+2017-10-15	roadLoad	6	23:19:58.169000
+2017-10-20	roadLoad	19	08:28:06.921000
+2017-10-20	roadLoad	9	20:01:08.869000
+2017-10-20	roadLoad	5	23:58:11.772000
+2017-10-21	roadLoad	20	22:49:13.584000
+2017-10-23	roadLoad	51	10:05:14.597000
+2017-10-24	roadLoad	42	15:28:16.756000
+2017-10-24	roadLoad	25	18:45:13.651000
+2017-10-25	roadLoad	14	13:20:17.327000
+2017-10-26	roadLoad	10	10:47:21.669000
+2017-10-31	roadLoad	14	04:22:32.835000
+2017-10-31	roadLoad	11	06:00:34.405000
+2017-11-04	roadLoad	30	08:28:46.332000
+2017-11-05	roadLoad	0	06:53:46.809000
+2017-11-05	roadLoad	32	14:03:46.105000
+2017-11-07	roadLoad	14	10:16:47.438000
+2017-11-08	roadLoad	30	07:51:52.368000
+2017-11-10	roadLoad	11	23:58:01.604000
+2017-11-12	roadLoad	16	09:53:05.478000
+2017-11-13	roadLoad	39	03:02:02.036000
+2017-11-13	roadLoad	43	16:41:04.895000
+2017-11-13	roadLoad	12	21:01:05.124000
+2017-11-14	roadLoad	18	12:22:09.096000
+2017-11-15	roadLoad	0	04:09:10.899000
+2017-11-16	roadLoad	30	12:22:12.244000
+2017-11-16	roadLoad	5	15:23:17.002000
+2017-11-17	roadLoad	7	21:54:14.856000
+2017-11-18	roadLoad	5	01:27:20.300000
+2017-11-19	roadLoad	0	07:56:19.167000
+2017-11-19	roadLoad	38	10:37:23.052000
+2017-11-20	roadLoad	52	19:49:25.587000
+2017-11-23	roadLoad	23	12:15:28.156000
+2017-11-23	roadLoad	25	14:54:32.173000
+2017-11-23	roadLoad	32	15:58:33.751000
+2017-11-24	roadLoad	22	21:01:34.098000
+2017-11-25	roadLoad	22	08:16:36.052000
+2017-11-26	roadLoad	24	10:29:38.072000
+2017-11-30	roadLoad	31	14:18:46.756000
+2017-11-30	roadLoad	34	15:41:48.802000
+2017-12-01	roadLoad	12	23:37:50.095000
+2017-12-03	roadLoad	23	12:39:58.294000
+2017-12-04	roadLoad	7	18:26:56.102000
+2017-12-06	roadLoad	14	22:27:03.279000
+2017-12-07	roadLoad	26	15:44:05.141000
+2017-12-09	roadLoad	0	03:11:09.865000
+2017-12-13	roadLoad	0	02:26:17.180000
+2017-12-14	roadLoad	21	15:59:18.719000
+2017-12-16	roadLoad	0	04:09:24.636000
+2017-12-18	roadLoad	5	23:27:29.877000
+2017-12-18	roadLoad	0	23:38:30.110000
+2017-12-19	roadLoad	0	01:16:31.780000
+2017-12-20	roadLoad	53	20:38:35.454000
+2017-12-23	roadLoad	19	00:21:38.556000
+2017-12-23	roadLoad	34	00:31:40.925000
+2017-12-23	roadLoad	38	04:21:39.555000
+2017-12-23	roadLoad	24	06:19:42.165000
+2017-12-24	roadLoad	12	17:43:47.456000
+2017-12-27	roadLoad	45	09:44:50.112000
+2017-12-27	roadLoad	47	10:24:50.698000
+2017-12-31	roadLoad	8	14:49:01.153000
+2018-01-01	roadLoad	0	23:21:08.377000
+2018-01-02	roadLoad	4	17:51:11.711000
+2018-01-08	roadLoad	44	14:01:30.121000
+2018-01-10	roadLoad	18	09:40:25.525000
+2018-01-10	roadLoad	64	10:04:26.061000
+2018-01-10	roadLoad	26	12:03:28.710000
+2018-01-10	roadLoad	27	12:40:29.393000
+2018-01-14	roadLoad	13	14:53:37.247000
+2018-01-24	roadLoad	0	06:01:01.595000
+2018-01-28	roadLoad	5	08:40:12.039000
+2018-01-29	roadLoad	43	19:08:16.391000
+2018-01-29	roadLoad	29	19:52:17.519000
+2018-01-31	roadLoad	6	04:19:20.434000
+2018-01-31	roadLoad	14	06:51:24.126000
+2018-02-02	roadLoad	7	23:27:30.962000
+2018-02-04	roadLoad	0	07:55:34.619000
+2018-02-04	roadLoad	11	08:19:35.236000
+2018-02-05	roadLoad	21	16:25:38.769000
+2018-02-07	roadLoad	0	01:08:41.251000
+2018-02-08	roadLoad	16	07:20:40.582000
+2018-02-09	roadLoad	40	15:15:44.016000
+2018-02-12	roadLoad	2	03:00:53.213000
+2018-02-13	roadLoad	35	21:02:52.805000
+2018-02-16	roadLoad	36	06:54:03.042000
+2018-02-17	roadLoad	36	19:47:14.238000
+2018-02-20	roadLoad	26	07:47:29.784000
+2018-02-20	roadLoad	33	08:05:29.849000
+2018-02-20	roadLoad	23	08:07:30.709000
+2018-02-21	roadLoad	31	00:28:16.454000
+2018-02-21	roadLoad	43	01:11:16.663000
+2018-02-21	roadLoad	2	01:28:16.729000
+2018-02-21	roadLoad	0	01:29:17.024000
+2018-02-21	roadLoad	2	01:44:17.833000
+2018-02-21	roadLoad	8	01:46:17.782000
+2018-02-22	roadLoad	6	00:36:20.027000
+2018-02-22	roadLoad	15	00:48:20.157000
+2018-02-22	roadLoad	11	00:52:20.145000
+2018-02-22	roadLoad	12	03:58:29.386000
+2018-02-22	roadLoad	5	05:59:35.033000
+2018-02-22	roadLoad	7	06:04:35.273000
+2018-02-22	roadLoad	16	06:07:35.544000
+2018-02-22	roadLoad	20	06:10:35.445000
+2018-02-22	roadLoad	23	06:11:35.521000
+2018-02-22	roadLoad	9	06:14:35.695000
+2018-02-22	roadLoad	19	06:37:35.795000
+2018-02-23	roadLoad	0	00:05:24.871000
+2018-02-23	roadLoad	9	04:26:37.084000
+2018-02-23	roadLoad	11	04:29:37.201000
+2018-02-23	roadLoad	0	04:30:37.795000
+2018-02-23	roadLoad	0	04:33:38.054000
+2018-02-23	roadLoad	9	04:35:37.889000
+2018-02-23	roadLoad	11	22:48:24.126000
+2018-02-23	roadLoad	13	22:50:25.004000
+2018-02-23	roadLoad	0	22:52:25.058000
+2018-02-23	roadLoad	68	22:57:25.216000
+2018-02-23	roadLoad	0	23:04:25.111000
+2018-02-23	roadLoad	16	23:06:25.128000
+2018-02-25	roadLoad	18	20:00:27.828000
+2018-02-25	roadLoad	0	20:21:28.959000
+2018-02-25	roadLoad	13	20:37:29.615000
+2018-02-25	roadLoad	15	20:41:29.743000
+2018-02-25	roadLoad	26	20:53:29.867000
+2018-02-25	roadLoad	38	21:00:29.996000
+2018-02-25	roadLoad	30	21:05:29.895000
+2018-02-26	roadLoad	16	19:54:32.781000
+2018-02-26	roadLoad	21	20:41:34.432000
+2018-02-26	roadLoad	8	21:23:36.912000
+2018-02-26	roadLoad	11	21:35:36.564000
+2018-02-26	roadLoad	9	21:55:37.489000
+2018-02-26	roadLoad	7	22:34:39.599000
+2018-02-28	roadLoad	19	00:24:50.405000
+2018-02-28	roadLoad	6	21:45:33.990000
+2018-02-28	roadLoad	0	23:27:37.788000
+2018-03-01	roadLoad	11	04:47:53.306000
+2018-03-01	roadLoad	16	04:57:53.271000
+2018-03-01	roadLoad	21	05:09:53.336000
+2018-03-01	roadLoad	10	22:11:39.936000
+2018-03-01	roadLoad	11	22:14:40.094000
+2018-03-01	roadLoad	0	22:22:40.229000
+2018-03-02	roadLoad	26	14:36:21.755000
+2018-03-03	roadLoad	14	20:48:43.928000
+2018-03-03	roadLoad	21	20:50:44.983000
+2018-03-03	roadLoad	30	20:54:45.207000
+2018-03-03	roadLoad	15	20:56:45.232000
+2018-03-03	roadLoad	11	21:01:44.971000
+2018-03-03	roadLoad	4	21:09:45.012000
+2018-03-03	roadLoad	5	22:48:50.603000
+2018-03-03	roadLoad	6	22:55:50.773000
+2018-03-04	roadLoad	0	02:20:00.295000
+2018-03-04	roadLoad	0	02:35:00.755000
+2018-03-04	roadLoad	26	19:56:48.154000
+2018-03-05	roadLoad	11	07:55:37.361000
+2018-03-05	roadLoad	28	09:45:37.415000
+2018-03-05	roadLoad	41	18:24:49.295000
+2018-03-05	roadLoad	36	18:26:49.430000
+2018-03-05	roadLoad	62	18:35:49.886000
+2018-03-05	roadLoad	48	18:37:49.756000
+2018-03-05	roadLoad	33	18:39:49.726000
+2018-03-05	roadLoad	18	18:52:49.812000
+2018-03-06	roadLoad	26	17:50:51.745000
+2018-03-06	roadLoad	46	17:51:51.963000
+2018-03-06	roadLoad	28	17:55:51.837000
+2018-03-06	roadLoad	16	17:58:52.009000
+2018-03-06	roadLoad	46	18:00:52.078000
+2018-03-06	roadLoad	35	18:02:52.272000
+2018-03-06	roadLoad	23	18:07:52.265000
+2018-03-06	roadLoad	11	18:09:52.479000
+2018-03-06	roadLoad	45	18:16:52.243000
+2018-03-08	roadLoad	33	17:21:56.631000
+2018-03-08	roadLoad	33	17:24:56.671000
+2018-03-08	roadLoad	24	17:31:56.338000
+2018-03-08	roadLoad	22	17:35:57.263000
+2018-03-08	roadLoad	12	17:37:57.275000
+2018-03-08	roadLoad	42	17:40:57.416000
+2018-03-08	roadLoad	16	17:54:57.222000
+2018-03-08	roadLoad	31	17:56:57.326000
+2018-03-09	roadLoad	41	18:07:59.752000
+2018-03-09	roadLoad	11	18:13:59.788000
+2018-03-09	roadLoad	38	18:15:59.794000
+2018-03-09	roadLoad	7	23:07:14.768000
+2018-03-10	roadLoad	25	17:17:01.499000
+2018-03-10	roadLoad	37	17:25:01.282000
+2018-03-10	roadLoad	10	17:26:01.792000
+2018-03-10	roadLoad	28	17:40:02.225000
+2018-03-10	roadLoad	28	17:42:02.333000
+2018-03-10	roadLoad	20	17:50:02.309000
+2018-03-10	roadLoad	22	18:19:03.324000
+2018-03-11	roadLoad	23	16:59:03.793000
+2018-03-11	roadLoad	24	17:11:04.276000
+2018-03-11	roadLoad	11	17:28:05.051000
+2018-03-11	roadLoad	69	17:29:05.130000
+2018-03-12	roadLoad	43	16:36:06.766000
+2018-03-12	roadLoad	61	16:40:06.904000
+2018-03-12	roadLoad	47	16:45:07.113000
+2018-03-12	roadLoad	47	16:55:07.285000
+2018-03-12	roadLoad	31	17:02:07.238000
+2018-03-13	roadLoad	8	16:56:09.026000
+2018-03-13	roadLoad	36	17:13:09.917000
+2018-03-13	roadLoad	30	17:21:09.803000
+2018-03-13	roadLoad	55	17:31:09.871000
+2018-03-13	roadLoad	38	20:51:19.235000
+2018-03-14	roadLoad	0	16:55:11.992000
+2018-03-14	roadLoad	36	17:16:12.970000
+2018-03-14	roadLoad	12	17:18:13
+2018-03-14	roadLoad	25	17:24:13.352000
+2018-03-14	roadLoad	23	17:29:13.529000
+2018-03-15	roadLoad	28	09:30:03.838000
+2018-03-15	roadLoad	18	16:00:12.746000
+2018-03-15	roadLoad	14	16:37:14.207000
+2018-03-15	roadLoad	7	16:45:14.568000
+2018-03-15	roadLoad	18	16:47:14.619000
+2018-03-15	roadLoad	84	16:49:14.689000
+2018-03-15	roadLoad	18	16:56:14.946000
+2018-03-15	roadLoad	29	16:57:15.052000
+2018-03-15	roadLoad	89	17:04:14.906000
+2018-03-15	roadLoad	28	19:00:20.572000
+2018-03-16	roadLoad	6	00:00:33.890000
+2018-03-16	roadLoad	34	16:05:16.455000
+2018-03-16	roadLoad	16	16:08:16.609000
+2018-03-16	roadLoad	15	16:12:16.800000
+2018-03-16	roadLoad	48	16:34:17.751000
+2018-03-16	roadLoad	27	16:35:17.376000
+2018-03-16	roadLoad	25	16:39:17.312000
+2018-03-16	roadLoad	26	16:43:17.384000
+2018-03-16	roadLoad	18	16:47:17.415000
+2018-03-16	roadLoad	28	16:50:17.301000
+2018-03-16	roadLoad	11	21:38:31.720000
+2018-03-17	roadLoad	9	15:15:16.435000
+2018-03-17	roadLoad	20	16:27:19.555000
+2018-03-17	roadLoad	29	16:31:19.739000
+2018-03-18	roadLoad	19	16:16:21.636000
+2018-03-18	roadLoad	13	16:22:21.952000
+2018-03-18	roadLoad	17	16:25:22.092000
+2018-03-18	roadLoad	15	16:27:22.116000
+2018-03-18	roadLoad	20	16:31:22.321000
+2018-03-18	roadLoad	0	16:41:22.341000
+2018-03-18	roadLoad	11	16:48:22.352000
+2018-03-18	roadLoad	4	16:50:22.456000
+2018-03-19	roadLoad	11	13:58:18.671000
+2018-03-19	roadLoad	45	15:50:24.238000
+2018-03-19	roadLoad	22	15:51:24.220000
+2018-03-19	roadLoad	36	16:21:24.916000
+2018-03-20	roadLoad	72	15:40:26.714000
+2018-03-20	roadLoad	22	15:48:27.103000
+2018-03-20	roadLoad	38	15:50:27.187000
+2018-03-20	roadLoad	11	15:58:27.377000
+2018-03-20	roadLoad	87	18:06:33.527000
+2018-03-21	roadLoad	28	15:00:28.731000
+2018-03-21	roadLoad	31	15:28:30.176000
+2018-03-21	roadLoad	6	15:32:29.801000
+2018-03-21	roadLoad	18	15:35:29.774000
+2018-03-21	roadLoad	22	15:36:29.915000
+2018-03-21	roadLoad	24	15:37:29.808000
+2018-03-21	roadLoad	23	15:38:29.811000
+2018-03-22	roadLoad	34	15:08:32.467000
+2018-03-22	roadLoad	6	15:16:32.938000
+2018-03-22	roadLoad	15	15:19:32.381000
+2018-03-22	roadLoad	37	15:29:33.508000
+2018-03-23	roadLoad	19	13:45:31.671000
+2018-03-23	roadLoad	21	14:27:34.317000
+2018-03-23	roadLoad	26	14:32:34.633000
+2018-03-23	roadLoad	14	14:33:34.515000
+2018-03-23	roadLoad	45	14:37:34.703000
+2018-03-23	roadLoad	25	14:41:34.943000
+2018-03-23	roadLoad	45	14:57:34.774000
+2018-03-23	roadLoad	25	14:58:34.792000
+2018-03-24	roadLoad	49	13:52:36.618000
+2018-03-24	roadLoad	18	13:59:36.933000
+2018-03-24	roadLoad	22	14:00:36.973000
+2018-03-24	roadLoad	47	14:08:37.241000
+2018-03-24	roadLoad	19	14:20:37.317000
+2018-03-24	roadLoad	8	14:27:37.433000
+2018-03-24	roadLoad	0	14:28:37.276000
+2018-03-25	roadLoad	6	13:40:38.763000
+2018-03-25	roadLoad	2	13:47:38.893000
+2018-03-25	roadLoad	0	13:51:39.823000
+2018-03-25	roadLoad	10	13:56:39.709000
+2018-03-25	roadLoad	14	14:02:39.748000
+2018-03-25	roadLoad	9	14:10:39.714000
+2018-03-26	roadLoad	29	13:03:41.598000
+2018-03-26	roadLoad	10	13:07:41.778000
+2018-03-26	roadLoad	14	13:19:42.378000
+2018-03-26	roadLoad	22	13:22:42.234000
+2018-03-26	roadLoad	7	13:26:42.136000
+2018-03-26	roadLoad	24	13:28:42.192000
+2018-03-26	roadLoad	34	13:32:42.194000
+2018-03-26	roadLoad	28	13:56:43.202000
+2018-03-27	roadLoad	28	12:44:43.569000
+2018-03-27	roadLoad	35	12:50:44.154000
+2018-03-27	roadLoad	33	12:55:44.318000
+2018-03-27	roadLoad	30	13:03:44.779000
+2018-03-27	roadLoad	25	13:04:44.804000
+2018-03-27	roadLoad	17	13:22:44.745000
+2018-03-28	roadLoad	28	12:23:46.475000
+2018-03-28	roadLoad	30	12:37:47.292000
+2018-03-28	roadLoad	53	12:44:47.178000
+2018-03-28	roadLoad	46	12:48:47.138000
+2018-03-28	roadLoad	21	12:49:47.089000
+2018-03-29	roadLoad	40	11:41:49.127000
+2018-03-29	roadLoad	46	11:56:49.629000
+2018-03-30	roadLoad	22	10:57:51.067000
+2018-03-30	roadLoad	30	11:03:51.361000
+2018-03-30	roadLoad	0	11:10:51.710000
+2018-03-30	roadLoad	34	11:28:52.006000
+2018-03-30	roadLoad	23	11:30:52.082000
+2018-03-30	roadLoad	33	11:34:52.834000
+2018-03-30	roadLoad	4	11:36:52.263000
+2018-03-30	roadLoad	15	14:45:01.448000
+2018-03-31	roadLoad	31	10:55:53.750000
+2018-03-31	roadLoad	7	11:00:53.976000
+2018-03-31	roadLoad	11	11:09:54.434000
+2018-03-31	roadLoad	11	11:25:54.603000
+2018-04-01	roadLoad	20	10:48:56.439000
+2018-04-01	roadLoad	45	10:56:56.779000
+2018-04-01	roadLoad	39	11:22:57.052000
+2018-04-02	roadLoad	50	10:35:58.862000
+2018-04-02	roadLoad	17	10:40:59.225000
+2018-04-02	roadLoad	6	10:43:59.233000
+2018-04-02	roadLoad	19	10:47:59.430000
+2018-04-02	roadLoad	60	10:50:59.472000
+2018-04-02	roadLoad	26	10:51:59.533000
+2018-04-02	roadLoad	26	10:59:59.668000
+2018-04-03	roadLoad	7	10:19:01.612000
+2018-04-03	roadLoad	56	10:21:01.783000
+2018-04-03	roadLoad	32	10:34:02.028000
+2018-04-03	roadLoad	11	10:43:02.038000
+2018-04-03	roadLoad	45	11:10:03.099000
+2018-04-04	roadLoad	27	09:37:03.712000
+2018-04-04	roadLoad	23	10:00:04.579000
+2018-04-04	roadLoad	31	10:03:04.389000
+2018-04-04	roadLoad	27	10:07:04.509000
+2018-04-04	roadLoad	59	10:08:04.401000
+2018-04-04	roadLoad	14	10:09:04.413000
+2018-04-04	roadLoad	8	10:11:04.457000
+2018-04-05	roadLoad	22	04:00:55.347000
+2018-04-05	roadLoad	76	09:35:06.091000
+2018-04-05	roadLoad	32	09:42:06.362000
+2018-04-05	roadLoad	43	09:52:06.812000
+2018-04-05	roadLoad	40	10:04:07.012000
+2018-04-05	roadLoad	20	10:08:06.896000
+2018-04-05	roadLoad	20	10:13:06.909000
+2018-04-06	roadLoad	37	09:44:08.511000
+2018-04-06	roadLoad	45	09:48:08.765000
+2018-04-06	roadLoad	16	09:52:08.854000
+2018-04-06	roadLoad	31	09:56:08.574000
+2018-04-06	roadLoad	22	10:04:09.511000
+2018-04-06	roadLoad	38	10:07:09.436000
+2018-04-06	roadLoad	40	10:15:09.488000
+2018-04-06	roadLoad	78	10:18:09.405000
+2018-04-07	roadLoad	33	09:42:11.176000
+2018-04-07	roadLoad	31	10:03:11.923000
+2018-04-07	roadLoad	36	10:05:11.972000
+2018-04-08	roadLoad	21	10:01:14.084000
+2018-04-08	roadLoad	18	10:06:14.374000
+2018-04-08	roadLoad	32	10:12:14.622000
+2018-04-08	roadLoad	29	10:21:14.527000
+2018-04-09	roadLoad	36	09:50:16.323000
+2018-04-09	roadLoad	25	10:03:16.961000
+2018-04-09	roadLoad	44	10:14:17.447000
+2018-04-10	roadLoad	20	10:14:19.338000
+2018-04-10	roadLoad	20	10:16:19.366000
+2018-04-10	roadLoad	26	10:18:19.502000
+2018-04-10	roadLoad	32	10:24:19.520000
+2018-04-10	roadLoad	17	10:33:19.453000
+2018-04-10	roadLoad	36	10:37:20.367000
+2018-04-10	roadLoad	48	10:46:20.523000
+2018-04-10	roadLoad	38	10:49:20.570000
+2018-04-11	roadLoad	12	10:04:20.936000
+2018-04-11	roadLoad	32	10:13:21.413000
+2018-04-11	roadLoad	32	10:18:21.600000
+2018-04-11	roadLoad	30	10:29:22.003000
+2018-04-11	roadLoad	15	10:32:22.017000
+2018-04-11	roadLoad	37	10:34:22.015000
+2018-04-11	roadLoad	25	12:55:29.250000
+2018-04-12	roadLoad	40	09:36:23.422000
+2018-04-12	roadLoad	22	10:09:24.757000
+2018-04-12	roadLoad	34	10:11:24.837000
+2018-04-12	roadLoad	44	10:13:24.942000
+2018-04-12	roadLoad	11	10:30:25.746000
+2018-04-13	roadLoad	47	09:51:26.469000
+2018-04-13	roadLoad	27	09:53:26.594000
+2018-04-13	roadLoad	28	09:54:25.981000
+2018-04-13	roadLoad	21	10:05:27.146000
+2018-04-13	roadLoad	55	13:30:36.787000
+2018-04-14	roadLoad	22	09:48:28.863000
+2018-04-14	roadLoad	17	10:06:29.648000
+2018-04-14	roadLoad	40	10:23:29.504000
+2018-04-15	roadLoad	5	08:05:25.803000
+2018-04-15	roadLoad	13	10:18:31.982000
+2018-04-15	roadLoad	26	10:27:31.989000
+2018-04-16	roadLoad	81	09:56:34.207000
+2018-04-16	roadLoad	23	10:05:34.480000
+2018-04-16	roadLoad	19	10:13:34.539000
+2018-04-16	roadLoad	46	10:18:34.496000
+2018-04-17	roadLoad	33	10:24:37.131000
+2018-04-17	roadLoad	24	10:26:37.230000
+2018-04-17	roadLoad	9	11:49:41.158000
+2018-04-18	roadLoad	52	09:59:39.050000
+2018-04-18	roadLoad	30	10:02:39.135000
+2018-04-18	roadLoad	35	10:05:39.321000
+2018-04-18	roadLoad	25	10:08:39.425000
+2018-04-18	roadLoad	19	10:29:39.643000
+2018-04-18	roadLoad	30	18:16:02.797000
+2018-04-19	roadLoad	24	10:09:42.163000
+2018-04-19	roadLoad	23	10:11:42.273000
+2018-04-19	roadLoad	43	10:16:42.469000
+2018-04-19	roadLoad	29	12:23:48.695000
+2018-04-20	roadLoad	73	09:48:43.809000
+2018-04-20	roadLoad	36	09:51:43.937000
+2018-04-20	roadLoad	95	09:54:44.087000
+2018-04-20	roadLoad	48	10:00:44.370000
+2018-04-20	roadLoad	35	10:09:44.597000
+2018-04-20	roadLoad	14	10:24:44.554000
+2018-04-20	roadLoad	44	11:21:48.091000
+2018-04-20	roadLoad	38	13:26:53.832000
+2018-04-21	roadLoad	42	09:36:46.453000
+2018-04-21	roadLoad	36	10:06:47.223000
+2018-04-22	roadLoad	6	09:31:49.447000
+2018-04-22	roadLoad	13	09:32:49.431000
+2018-04-22	roadLoad	6	09:34:49.635000
+2018-04-22	roadLoad	13	09:35:49.540000
+2018-04-22	roadLoad	5	09:39:49.806000
+2018-04-22	roadLoad	19	09:42:49.856000
+2018-04-22	roadLoad	11	09:49:49.680000
+2018-04-22	roadLoad	23	09:51:49.602000
+2018-04-22	roadLoad	16	09:55:49.856000
+2018-04-22	roadLoad	17	11:32:54.816000
+2018-04-22	roadLoad	20	16:45:09.348000
+2018-04-23	roadLoad	8	09:17:51.335000
+2018-04-23	roadLoad	20	09:19:51.378000
+2018-04-23	roadLoad	34	09:32:51.885000
+2018-04-23	roadLoad	38	09:39:52.130000
+2018-04-23	roadLoad	48	09:56:52.115000
+2018-04-23	roadLoad	29	14:00:05.283000
+2018-04-24	roadLoad	45	09:17:54.070000
+2018-04-24	roadLoad	41	09:26:54.413000
+2018-04-24	roadLoad	46	09:28:54.588000
+2018-04-24	roadLoad	25	09:44:54.624000
+2018-04-24	roadLoad	40	09:46:54.644000
+2018-04-25	roadLoad	29	08:50:56.345000
+2018-04-25	roadLoad	64	08:53:56.493000
+2018-04-25	roadLoad	23	09:01:56.808000
+2018-04-25	roadLoad	29	09:03:56.914000
+2018-04-25	roadLoad	43	09:10:57.153000
+2017-07-05	roadOccupancy	37	15:13:34.756000
+2017-07-05	roadOccupancy	4	17:38:36.204000
+2017-07-05	roadOccupancy	2	18:13:35.717000
+2017-07-06	roadOccupancy	1	02:47:35.499000
+2017-07-06	roadOccupancy	8	20:02:36.296000
+2017-07-14	roadOccupancy	2	23:02:58.850000
+2017-07-27	roadOccupancy	84	18:31:36.488000
+2017-08-02	roadOccupancy	8	12:36:50.208000
+2017-08-22	roadOccupancy	2	02:58:41.159000
+2017-08-26	roadOccupancy	14	03:31:48.981000
+2017-08-26	roadOccupancy	2	22:40:54.516000
+2017-08-27	roadOccupancy	0	01:55:53.575000
+2017-08-27	roadOccupancy	0	06:20:53.164000
+2017-08-27	roadOccupancy	10	12:28:53.480000
+2017-08-28	roadOccupancy	2	01:54:54.682000
+2017-08-28	roadOccupancy	2	06:09:56.570000
+2017-08-29	roadOccupancy	40	06:18:58.171000
+2017-09-01	roadOccupancy	0	03:49:05.641000
+2017-09-02	roadOccupancy	10	12:31:09.904000
+2017-09-05	roadOccupancy	1	03:38:16.044000
+2017-09-08	roadOccupancy	21	12:56:26.196000
+2017-09-09	roadOccupancy	1	01:14:28.534000
+2017-09-09	roadOccupancy	0	01:54:27.718000
+2017-09-14	roadOccupancy	2	22:18:40.499000
+2017-09-16	roadOccupancy	1	00:55:45.453000
+2017-09-16	roadOccupancy	2	02:03:47.469000
+2017-09-20	roadOccupancy	24	19:00:55.522000
+2017-09-21	roadOccupancy	2	06:01:56.824000
+2017-09-22	roadOccupancy	25	04:52:59.736000
+2017-09-25	roadOccupancy	20	16:36:07.968000
+2017-09-29	roadOccupancy	9	21:01:18.605000
+2017-09-30	roadOccupancy	40	11:51:18.051000
+2017-09-30	roadOccupancy	1	12:15:21.590000
+2017-10-02	roadOccupancy	0	22:03:22.323000
+2017-10-04	roadOccupancy	27	18:45:28.309000
+2017-10-06	roadOccupancy	15	16:54:35.474000
+2017-10-07	roadOccupancy	13	05:35:37.322000
+2017-10-07	roadOccupancy	2	08:00:40.956000
+2017-10-07	roadOccupancy	17	13:05:50.212000
+2017-10-10	roadOccupancy	9	06:10:43.673000
+2017-10-11	roadOccupancy	5	16:38:47.744000
+2017-10-13	roadOccupancy	1	02:20:51.289000
+2017-10-15	roadOccupancy	1	23:19:58.169000
+2017-10-15	roadOccupancy	1	23:24:58.313000
+2017-10-20	roadOccupancy	3	08:28:06.921000
+2017-10-20	roadOccupancy	2	20:01:08.869000
+2017-10-20	roadOccupancy	0	23:58:11.772000
+2017-10-21	roadOccupancy	14	22:49:13.585000
+2017-10-23	roadOccupancy	9	10:05:14.597000
+2017-10-24	roadOccupancy	29	15:28:16.756000
+2017-10-24	roadOccupancy	5	18:45:13.650000
+2017-10-25	roadOccupancy	10	13:20:17.327000
+2017-10-26	roadOccupancy	3	10:47:21.670000
+2017-10-31	roadOccupancy	3	04:22:32.837000
+2017-11-05	roadOccupancy	30	14:03:46.103000
+2017-11-07	roadOccupancy	3	10:16:47.441000
+2017-11-08	roadOccupancy	16	07:51:52.368000
+2017-11-10	roadOccupancy	2	23:58:01.606000
+2017-11-12	roadOccupancy	10	09:53:05.479000
+2017-11-13	roadOccupancy	4	03:02:02.043000
+2017-11-13	roadOccupancy	26	16:41:04.895000
+2017-11-13	roadOccupancy	3	21:01:05.125000
+2017-11-14	roadOccupancy	5	12:22:09.097000
+2017-11-15	roadOccupancy	0	04:09:10.899000
+2017-11-15	roadOccupancy	9	04:45:11.911000
+2017-11-16	roadOccupancy	12	12:22:12.245000
+2017-11-16	roadOccupancy	3	15:23:17.002000
+2017-11-17	roadOccupancy	2	21:54:14.856000
+2017-11-18	roadOccupancy	0	01:27:20.301000
+2017-11-19	roadOccupancy	0	07:56:19.167000
+2017-11-19	roadOccupancy	8	10:37:23.055000
+2017-11-20	roadOccupancy	40	19:49:25.586000
+2017-11-22	roadOccupancy	0	03:26:25.819000
+2017-11-22	roadOccupancy	29	11:39:57.349000
+2017-11-23	roadOccupancy	6	12:15:28.157000
+2017-11-23	roadOccupancy	19	14:54:32.174000
+2017-11-23	roadOccupancy	9	15:58:33.752000
+2017-11-24	roadOccupancy	12	21:01:34.098000
+2017-11-25	roadOccupancy	0	02:44:38.219000
+2017-11-25	roadOccupancy	4	08:16:36.030000
+2017-11-26	roadOccupancy	14	10:29:38.071000
+2017-11-30	roadOccupancy	22	14:18:46.757000
+2017-11-30	roadOccupancy	11	15:41:48.800000
+2017-11-30	roadOccupancy	18	15:48:49.014000
+2017-12-01	roadOccupancy	1	23:37:50.095000
+2017-12-02	roadOccupancy	0	04:06:52.065000
+2017-12-02	roadOccupancy	2	07:51:52.010000
+2017-12-03	roadOccupancy	11	12:39:58.294000
+2017-12-04	roadOccupancy	2	18:26:56.105000
+2017-12-06	roadOccupancy	10	22:27:03.279000
+2017-12-07	roadOccupancy	9	15:44:05.142000
+2017-12-07	roadOccupancy	39	18:20:09.019000
+2017-12-09	roadOccupancy	0	03:11:09.867000
+2017-12-14	roadOccupancy	11	15:59:18.718000
+2017-12-16	roadOccupancy	0	04:09:24.636000
+2017-12-18	roadOccupancy	0	23:38:30.107000
+2017-12-19	roadOccupancy	0	01:16:31.778000
+2017-12-20	roadOccupancy	4	20:38:35.456000
+2017-12-23	roadOccupancy	2	04:21:39.556000
+2017-12-23	roadOccupancy	1	06:19:42.165000
+2017-12-24	roadOccupancy	3	17:43:47.458000
+2017-12-27	roadOccupancy	26	09:44:50.105000
+2017-12-27	roadOccupancy	13	10:24:50.700000
+2017-12-31	roadOccupancy	1	14:49:01.153000
+2017-12-31	roadOccupancy	17	23:11:07.938000
+2018-01-01	roadOccupancy	0	23:21:08.377000
+2018-01-02	roadOccupancy	2	17:51:11.711000
+2018-01-08	roadOccupancy	29	14:01:30.123000
+2018-01-10	roadOccupancy	10	09:40:25.524000
+2018-01-10	roadOccupancy	4	10:04:26.061000
+2018-01-10	roadOccupancy	6	12:03:28.710000
+2018-01-10	roadOccupancy	20	12:40:29.394000
+2018-01-14	roadOccupancy	2	14:53:37.249000
+2018-01-22	roadOccupancy	6	20:30:57.502000
+2018-01-24	roadOccupancy	0	06:01:01.596000
+2018-01-28	roadOccupancy	0	08:40:12.040000
+2018-01-29	roadOccupancy	28	19:08:16.391000
+2018-01-29	roadOccupancy	8	19:52:17.519000
+2018-01-31	roadOccupancy	1	04:19:20.439000
+2018-01-31	roadOccupancy	3	06:51:24.127000
+2018-02-02	roadOccupancy	2	23:27:30.963000
+2018-02-04	roadOccupancy	0	07:55:34.620000
+2018-02-04	roadOccupancy	2	08:19:35.237000
+2018-02-05	roadOccupancy	6	16:25:38.770000
+2018-02-05	roadOccupancy	30	18:02:41.288000
+2018-02-07	roadOccupancy	0	01:08:41.251000
+2018-02-08	roadOccupancy	3	07:20:40.583000
+2018-02-09	roadOccupancy	14	15:15:44.017000
+2018-02-13	roadOccupancy	16	21:02:52.808000
+2018-02-16	roadOccupancy	14	06:54:03.044000
+2018-02-17	roadOccupancy	24	19:47:14.238000
+2018-02-20	roadOccupancy	4	07:47:29.784000
+2018-02-20	roadOccupancy	3	08:04:30.620000
+2018-02-20	roadOccupancy	24	08:05:29.849000
+2018-02-20	roadOccupancy	6	08:07:30.709000
+2018-02-21	roadOccupancy	18	01:07:17.041000
+2018-02-21	roadOccupancy	2	01:11:16.663000
+2018-02-21	roadOccupancy	1	01:46:17.782000
+2018-02-22	roadOccupancy	0	00:25:19.991000
+2018-02-22	roadOccupancy	2	00:27:19.707000
+2018-02-22	roadOccupancy	1	00:36:20.027000
+2018-02-22	roadOccupancy	1	00:48:20.135000
+2018-02-22	roadOccupancy	10	00:52:20.145000
+2018-02-22	roadOccupancy	1	03:58:29.386000
+2018-02-22	roadOccupancy	0	05:59:35.035000
+2018-02-22	roadOccupancy	9	06:03:35.609000
+2018-02-22	roadOccupancy	2	06:04:35.274000
+2018-02-22	roadOccupancy	2	06:07:35.545000
+2018-02-22	roadOccupancy	18	06:10:35.444000
+2018-02-22	roadOccupancy	3	06:11:35.522000
+2018-02-22	roadOccupancy	3	06:14:35.695000
+2018-02-22	roadOccupancy	6	06:37:35.802000
+2018-02-23	roadOccupancy	0	00:05:24.871000
+2018-02-23	roadOccupancy	2	04:26:37.084000
+2018-02-23	roadOccupancy	2	04:29:37.201000
+2018-02-23	roadOccupancy	0	04:30:37.795000
+2018-02-23	roadOccupancy	2	04:35:37.890000
+2018-02-23	roadOccupancy	2	22:48:24.127000
+2018-02-23	roadOccupancy	7	22:50:25.004000
+2018-02-23	roadOccupancy	0	22:52:25.059000
+2018-02-23	roadOccupancy	10	22:57:25.217000
+2018-02-23	roadOccupancy	0	23:04:25.111000
+2018-02-23	roadOccupancy	2	23:06:25.129000
+2018-02-25	roadOccupancy	12	20:00:27.825000
+2018-02-25	roadOccupancy	0	20:21:28.959000
+2018-02-25	roadOccupancy	5	20:26:29.297000
+2018-02-25	roadOccupancy	4	20:35:29.654000
+2018-02-25	roadOccupancy	4	20:37:29.616000
+2018-02-25	roadOccupancy	2	20:39:29.809000
+2018-02-25	roadOccupancy	4	20:41:29.745000
+2018-02-25	roadOccupancy	22	20:53:29.867000
+2018-02-25	roadOccupancy	35	21:00:29.995000
+2018-02-25	roadOccupancy	27	21:05:29.898000
+2018-02-26	roadOccupancy	11	20:41:34.432000
+2018-02-26	roadOccupancy	1	21:23:36.915000
+2018-02-26	roadOccupancy	2	21:55:37.489000
+2018-02-27	roadOccupancy	0	23:01:46.802000
+2018-02-28	roadOccupancy	15	00:24:50.407000
+2018-02-28	roadOccupancy	1	21:45:33.992000
+2018-02-28	roadOccupancy	0	23:27:37.796000
+2018-03-01	roadOccupancy	1	04:42:53.203000
+2018-03-01	roadOccupancy	2	04:47:53.306000
+2018-03-01	roadOccupancy	8	04:57:53.271000
+2018-03-01	roadOccupancy	13	05:09:53.340000
+2018-03-01	roadOccupancy	3	22:11:39.937000
+2018-03-01	roadOccupancy	5	22:14:40.094000
+2018-03-02	roadOccupancy	4	14:36:21.759000
+2018-03-03	roadOccupancy	3	20:48:43.928000
+2018-03-03	roadOccupancy	19	20:54:45.207000
+2018-03-03	roadOccupancy	9	20:56:45.235000
+2018-03-03	roadOccupancy	2	21:01:44.972000
+2018-03-03	roadOccupancy	2	21:09:45.012000
+2018-03-03	roadOccupancy	2	22:37:50.390000
+2018-03-03	roadOccupancy	0	22:48:50.603000
+2018-03-03	roadOccupancy	1	22:55:50.775000
+2018-03-04	roadOccupancy	0	02:20:00.299000
+2018-03-04	roadOccupancy	0	02:35:00.757000
+2018-03-04	roadOccupancy	9	19:56:48.156000
+2018-03-05	roadOccupancy	2	07:55:37.361000
+2018-03-05	roadOccupancy	9	09:45:37.416000
+2018-03-05	roadOccupancy	21	18:24:49.299000
+2018-03-05	roadOccupancy	12	18:26:49.430000
+2018-03-05	roadOccupancy	37	18:35:49.889000
+2018-03-05	roadOccupancy	11	18:37:49.756000
+2018-03-05	roadOccupancy	4	18:39:49.726000
+2018-03-05	roadOccupancy	5	18:52:49.812000
+2018-03-06	roadOccupancy	7	17:50:51.745000
+2018-03-06	roadOccupancy	7	17:55:51.842000
+2018-03-06	roadOccupancy	2	17:58:52.008000
+2018-03-06	roadOccupancy	28	18:00:52.077000
+2018-03-06	roadOccupancy	15	18:02:52.274000
+2018-03-06	roadOccupancy	5	18:07:52.265000
+2018-03-06	roadOccupancy	2	18:09:52.479000
+2018-03-06	roadOccupancy	36	18:16:52.243000
+2018-03-08	roadOccupancy	7	17:24:56.671000
+2018-03-08	roadOccupancy	12	17:31:56.338000
+2018-03-08	roadOccupancy	12	17:35:57.264000
+2018-03-08	roadOccupancy	3	17:37:57.277000
+2018-03-08	roadOccupancy	24	17:40:57.418000
+2018-03-08	roadOccupancy	3	17:54:57.222000
+2018-03-08	roadOccupancy	24	17:56:57.332000
+2018-03-09	roadOccupancy	14	17:55:58.932000
+2018-03-09	roadOccupancy	25	18:07:59.754000
+2018-03-09	roadOccupancy	4	18:13:59.790000
+2018-03-09	roadOccupancy	9	18:15:59.800000
+2018-03-10	roadOccupancy	20	17:25:01.281000
+2018-03-10	roadOccupancy	3	17:26:01.790000
+2018-03-10	roadOccupancy	6	17:40:02.229000
+2018-03-10	roadOccupancy	7	17:42:02.334000
+2018-03-10	roadOccupancy	10	17:50:02.309000
+2018-03-10	roadOccupancy	4	18:19:03.323000
+2018-03-11	roadOccupancy	13	16:59:03.796000
+2018-03-11	roadOccupancy	9	17:11:04.277000
+2018-03-11	roadOccupancy	2	17:28:05.054000
+2018-03-11	roadOccupancy	27	17:29:05.133000
+2018-03-12	roadOccupancy	19	16:36:06.768000
+2018-03-12	roadOccupancy	16	16:40:06.908000
+2018-03-12	roadOccupancy	24	16:45:07.112000
+2018-03-12	roadOccupancy	9	16:55:07.285000
+2018-03-12	roadOccupancy	7	17:02:07.243000
+2018-03-13	roadOccupancy	1	16:56:09.032000
+2018-03-13	roadOccupancy	8	17:13:09.917000
+2018-03-13	roadOccupancy	14	17:21:09.809000
+2018-03-13	roadOccupancy	12	17:31:09.872000
+2018-03-13	roadOccupancy	19	18:49:14.006000
+2018-03-13	roadOccupancy	19	20:51:19.241000
+2018-03-14	roadOccupancy	0	16:55:11.990000
+2018-03-14	roadOccupancy	30	17:16:12.972000
+2018-03-14	roadOccupancy	3	17:18:13.004000
+2018-03-14	roadOccupancy	8	17:24:13.351000
+2018-03-14	roadOccupancy	17	17:29:13.532000
+2018-03-15	roadOccupancy	11	09:30:03.839000
+2018-03-15	roadOccupancy	7	16:00:12.749000
+2018-03-15	roadOccupancy	3	16:37:14.209000
+2018-03-15	roadOccupancy	12	16:38:14.399000
+2018-03-15	roadOccupancy	2	16:45:14.569000
+2018-03-15	roadOccupancy	5	16:47:14.622000
+2018-03-15	roadOccupancy	54	16:49:14.689000
+2018-03-15	roadOccupancy	10	16:53:14.969000
+2018-03-15	roadOccupancy	5	16:56:14.947000
+2018-03-15	roadOccupancy	10	16:57:15.052000
+2018-03-15	roadOccupancy	33	17:04:14.909000
+2018-03-15	roadOccupancy	11	19:00:20.572000
+2018-03-16	roadOccupancy	1	00:00:33.890000
+2018-03-16	roadOccupancy	17	16:05:16.451000
+2018-03-16	roadOccupancy	2	16:08:16.609000
+2018-03-16	roadOccupancy	9	16:12:16.797000
+2018-03-16	roadOccupancy	4	16:20:17.290000
+2018-03-16	roadOccupancy	36	16:34:17.753000
+2018-03-16	roadOccupancy	5	16:35:17.378000
+2018-03-16	roadOccupancy	5	16:39:17.312000
+2018-03-16	roadOccupancy	4	16:43:17.385000
+2018-03-16	roadOccupancy	10	16:47:17.416000
+2018-03-16	roadOccupancy	9	16:50:17.302000
+2018-03-16	roadOccupancy	2	21:38:31.724000
+2018-03-17	roadOccupancy	2	15:15:16.437000
+2018-03-17	roadOccupancy	5	16:21:19.001000
+2018-03-17	roadOccupancy	5	16:27:19.556000
+2018-03-17	roadOccupancy	15	16:31:19.739000
+2018-03-18	roadOccupancy	3	16:16:21.637000
+2018-03-18	roadOccupancy	4	16:22:21.955000
+2018-03-18	roadOccupancy	4	16:25:22.095000
+2018-03-18	roadOccupancy	6	16:27:22.118000
+2018-03-18	roadOccupancy	4	16:31:22.321000
+2018-03-18	roadOccupancy	0	16:41:22.344000
+2018-03-18	roadOccupancy	2	16:48:22.350000
+2018-03-18	roadOccupancy	2	16:50:22.457000
+2018-03-19	roadOccupancy	2	13:58:18.671000
+2018-03-19	roadOccupancy	29	15:50:24.239000
+2018-03-19	roadOccupancy	9	15:51:24.219000
+2018-03-19	roadOccupancy	29	16:07:25.063000
+2018-03-19	roadOccupancy	11	16:08:24.784000
+2018-03-19	roadOccupancy	21	16:21:24.917000
+2018-03-20	roadOccupancy	51	15:40:26.714000
+2018-03-20	roadOccupancy	7	15:48:27.104000
+2018-03-20	roadOccupancy	22	15:50:27.188000
+2018-03-20	roadOccupancy	2	15:58:27.378000
+2018-03-20	roadOccupancy	74	18:06:33.527000
+2018-03-20	roadOccupancy	1	23:01:47.598000
+2018-03-21	roadOccupancy	12	15:00:28.734000
+2018-03-21	roadOccupancy	1	15:32:29.801000
+2018-03-21	roadOccupancy	7	15:35:29.774000
+2018-03-21	roadOccupancy	9	15:36:29.915000
+2018-03-21	roadOccupancy	17	15:38:29.812000
+2018-03-22	roadOccupancy	14	15:08:32.467000
+2018-03-22	roadOccupancy	1	15:16:32.938000
+2018-03-22	roadOccupancy	4	15:19:32.387000
+2018-03-22	roadOccupancy	8	15:22:32.428000
+2018-03-22	roadOccupancy	21	15:29:33.510000
+2018-03-23	roadOccupancy	16	14:21:34.135000
+2018-03-23	roadOccupancy	11	14:27:34.317000
+2018-03-23	roadOccupancy	14	14:32:34.639000
+2018-03-23	roadOccupancy	10	14:33:34.516000
+2018-03-23	roadOccupancy	42	14:37:34.703000
+2018-03-23	roadOccupancy	10	14:41:34.947000
+2018-03-23	roadOccupancy	36	14:57:34.777000
+2018-03-24	roadOccupancy	10	13:52:36.620000
+2018-03-24	roadOccupancy	12	13:59:36.935000
+2018-03-24	roadOccupancy	18	14:00:36.973000
+2018-03-24	roadOccupancy	29	14:08:37.242000
+2018-03-24	roadOccupancy	6	14:20:37.315000
+2018-03-24	roadOccupancy	1	14:27:37.433000
+2018-03-24	roadOccupancy	0	14:28:37.283000
+2018-03-25	roadOccupancy	2	13:33:39.044000
+2018-03-25	roadOccupancy	1	13:40:38.763000
+2018-03-25	roadOccupancy	0	13:47:38.891000
+2018-03-25	roadOccupancy	0	13:51:39.824000
+2018-03-25	roadOccupancy	3	13:56:39.715000
+2018-03-25	roadOccupancy	3	14:02:39.750000
+2018-03-25	roadOccupancy	2	14:10:39.715000
+2018-03-26	roadOccupancy	22	13:03:41.597000
+2018-03-26	roadOccupancy	3	13:07:41.780000
+2018-03-26	roadOccupancy	3	13:11:42.100000
+2018-03-26	roadOccupancy	3	13:19:42.379000
+2018-03-26	roadOccupancy	4	13:22:42.234000
+2018-03-26	roadOccupancy	2	13:26:42.137000
+2018-03-26	roadOccupancy	12	13:32:42.196000
+2018-03-26	roadOccupancy	6	13:56:43.202000
+2018-03-27	roadOccupancy	7	12:44:43.570000
+2018-03-27	roadOccupancy	24	12:50:44.156000
+2018-03-27	roadOccupancy	10	12:55:44.318000
+2018-03-27	roadOccupancy	12	13:03:44.780000
+2018-03-27	roadOccupancy	5	13:04:44.805000
+2018-03-27	roadOccupancy	5	13:09:45.021000
+2018-03-27	roadOccupancy	13	13:22:44.745000
+2018-03-28	roadOccupancy	12	12:23:46.475000
+2018-03-28	roadOccupancy	21	12:37:47.292000
+2018-03-28	roadOccupancy	33	12:44:47.178000
+2018-03-28	roadOccupancy	15	12:48:47.138000
+2018-03-28	roadOccupancy	3	12:49:47.091000
+2018-03-29	roadOccupancy	19	10:00:43.458000
+2018-03-29	roadOccupancy	36	11:41:49.127000
+2018-03-29	roadOccupancy	4	11:45:49.398000
+2018-03-29	roadOccupancy	11	11:48:49.638000
+2018-03-29	roadOccupancy	40	11:56:49.629000
+2018-03-30	roadOccupancy	4	10:57:51.067000
+2018-03-30	roadOccupancy	6	11:03:51.361000
+2018-03-30	roadOccupancy	0	11:10:51.712000
+2018-03-30	roadOccupancy	14	11:28:52.010000
+2018-03-30	roadOccupancy	10	11:30:52.082000
+2018-03-30	roadOccupancy	22	11:34:52.834000
+2018-03-30	roadOccupancy	2	11:36:52.263000
+2018-03-30	roadOccupancy	6	14:45:01.460000
+2018-03-31	roadOccupancy	8	10:55:53.753000
+2018-03-31	roadOccupancy	2	11:00:53.977000
+2018-03-31	roadOccupancy	2	11:09:54.436000
+2018-03-31	roadOccupancy	2	11:25:54.604000
+2018-04-01	roadOccupancy	4	10:48:56.438000
+2018-04-01	roadOccupancy	34	10:56:56.783000
+2018-04-01	roadOccupancy	31	11:22:57.055000
+2018-04-02	roadOccupancy	5	10:26:58.520000
+2018-04-02	roadOccupancy	23	10:35:58.862000
+2018-04-02	roadOccupancy	4	10:40:59.226000
+2018-04-02	roadOccupancy	1	10:43:59.234000
+2018-04-02	roadOccupancy	3	10:47:59.431000
+2018-04-02	roadOccupancy	53	10:50:59.473000
+2018-04-02	roadOccupancy	6	10:51:59.535000
+2018-04-02	roadOccupancy	2	10:57:59.681000
+2018-04-03	roadOccupancy	3	10:19:01.612000
+2018-04-03	roadOccupancy	37	10:21:01.786000
+2018-04-03	roadOccupancy	11	10:34:02.026000
+2018-04-03	roadOccupancy	4	10:43:02.037000
+2018-04-03	roadOccupancy	28	11:10:03.100000
+2018-04-04	roadOccupancy	5	09:37:03.710000
+2018-04-04	roadOccupancy	18	10:03:04.397000
+2018-04-04	roadOccupancy	13	10:07:04.509000
+2018-04-04	roadOccupancy	47	10:08:04.404000
+2018-04-04	roadOccupancy	3	10:09:04.414000
+2018-04-05	roadOccupancy	18	04:00:55.350000
+2018-04-05	roadOccupancy	23	09:35:06.092000
+2018-04-05	roadOccupancy	12	09:42:06.361000
+2018-04-05	roadOccupancy	10	09:52:06.814000
+2018-04-05	roadOccupancy	35	10:04:07.012000
+2018-04-05	roadOccupancy	5	10:08:06.897000
+2018-04-05	roadOccupancy	10	10:13:06.914000
+2018-04-06	roadOccupancy	16	09:44:08.512000
+2018-04-06	roadOccupancy	30	09:48:08.765000
+2018-04-06	roadOccupancy	8	09:52:08.855000
+2018-04-06	roadOccupancy	20	09:56:08.572000
+2018-04-06	roadOccupancy	30	09:59:09.407000
+2018-04-06	roadOccupancy	12	10:04:09.511000
+2018-04-06	roadOccupancy	12	10:07:09.437000
+2018-04-06	roadOccupancy	22	10:15:09.491000
+2018-04-06	roadOccupancy	37	10:18:09.405000
+2018-04-07	roadOccupancy	16	09:42:11.176000
+2018-04-07	roadOccupancy	20	10:03:11.923000
+2018-04-07	roadOccupancy	30	10:05:11.972000
+2018-04-08	roadOccupancy	0	02:00:02.933000
+2018-04-08	roadOccupancy	28	09:57:13.894000
+2018-04-08	roadOccupancy	11	10:01:14.084000
+2018-04-08	roadOccupancy	7	10:06:14.374000
+2018-04-08	roadOccupancy	21	10:12:14.622000
+2018-04-08	roadOccupancy	20	10:21:14.528000
+2018-04-08	roadOccupancy	3	12:20:20.754000
+2018-04-09	roadOccupancy	29	09:50:16.324000
+2018-04-09	roadOccupancy	14	10:14:17.447000
+2018-04-10	roadOccupancy	33	09:58:18.816000
+2018-04-10	roadOccupancy	4	10:14:19.337000
+2018-04-10	roadOccupancy	5	10:16:19.367000
+2018-04-10	roadOccupancy	18	10:18:19.502000
+2018-04-10	roadOccupancy	16	10:24:19.521000
+2018-04-10	roadOccupancy	4	10:33:19.453000
+2018-04-10	roadOccupancy	11	10:37:20.366000
+2018-04-10	roadOccupancy	25	10:46:20.523000
+2018-04-10	roadOccupancy	14	10:49:20.570000
+2018-04-11	roadOccupancy	1	10:04:20.936000
+2018-04-11	roadOccupancy	14	10:13:21.413000
+2018-04-11	roadOccupancy	21	10:18:21.600000
+2018-04-11	roadOccupancy	28	10:23:21.950000
+2018-04-11	roadOccupancy	9	10:29:22.002000
+2018-04-11	roadOccupancy	4	10:32:22.017000
+2018-04-11	roadOccupancy	20	10:34:22.018000
+2018-04-11	roadOccupancy	5	12:55:29.250000
+2018-04-12	roadOccupancy	29	09:36:23.423000
+2018-04-12	roadOccupancy	25	10:11:24.837000
+2018-04-12	roadOccupancy	29	10:13:24.943000
+2018-04-12	roadOccupancy	17	10:23:24.572000
+2018-04-12	roadOccupancy	2	10:30:25.746000
+2018-04-13	roadOccupancy	35	09:51:26.470000
+2018-04-13	roadOccupancy	11	09:54:25.980000
+2018-04-13	roadOccupancy	11	10:05:27.146000
+2018-04-13	roadOccupancy	16	13:30:36.788000
+2018-04-14	roadOccupancy	14	09:48:28.862000
+2018-04-14	roadOccupancy	11	10:06:29.646000
+2018-04-14	roadOccupancy	34	10:23:29.503000
+2018-04-15	roadOccupancy	4	10:18:31.982000
+2018-04-15	roadOccupancy	7	10:27:31.990000
+2018-04-16	roadOccupancy	10	09:56:34.207000
+2018-04-16	roadOccupancy	6	10:05:34.480000
+2018-04-16	roadOccupancy	15	10:18:34.496000
+2018-04-17	roadOccupancy	24	10:24:37.131000
+2018-04-17	roadOccupancy	7	10:26:37.230000
+2018-04-17	roadOccupancy	2	11:49:41.158000
+2018-04-18	roadOccupancy	43	09:59:39.049000
+2018-04-18	roadOccupancy	11	10:02:39.135000
+2018-04-18	roadOccupancy	7	10:05:39.320000
+2018-04-18	roadOccupancy	10	10:08:39.426000
+2018-04-18	roadOccupancy	3	10:29:39.644000
+2018-04-18	roadOccupancy	6	18:16:02.800000
+2018-04-19	roadOccupancy	4	10:09:42.162000
+2018-04-19	roadOccupancy	15	10:11:42.274000
+2018-04-19	roadOccupancy	8	10:14:42.534000
+2018-04-19	roadOccupancy	19	10:16:42.469000
+2018-04-19	roadOccupancy	14	10:27:42.224000
+2018-04-19	roadOccupancy	8	12:23:48.695000
+2018-04-20	roadOccupancy	36	09:48:43.809000
+2018-04-20	roadOccupancy	14	09:51:43.937000
+2018-04-20	roadOccupancy	29	09:54:44.085000
+2018-04-20	roadOccupancy	21	10:00:44.370000
+2018-04-20	roadOccupancy	7	10:09:44.598000
+2018-04-20	roadOccupancy	3	10:24:44.553000
+2018-04-20	roadOccupancy	27	11:21:48.091000
+2018-04-20	roadOccupancy	12	13:26:53.832000
+2018-04-21	roadOccupancy	13	09:32:46.414000
+2018-04-21	roadOccupancy	20	09:36:46.451000
+2018-04-21	roadOccupancy	26	10:06:47.224000
+2018-04-22	roadOccupancy	1	09:31:49.444000
+2018-04-22	roadOccupancy	2	09:32:49.431000
+2018-04-22	roadOccupancy	1	09:34:49.636000
+2018-04-22	roadOccupancy	7	09:35:49.540000
+2018-04-22	roadOccupancy	0	09:39:49.807000
+2018-04-22	roadOccupancy	15	09:42:49.856000
+2018-04-22	roadOccupancy	2	09:49:49.679000
+2018-04-22	roadOccupancy	6	09:51:49.604000
+2018-04-22	roadOccupancy	12	09:55:49.856000
+2018-04-22	roadOccupancy	6	11:32:54.815000
+2018-04-22	roadOccupancy	4	16:45:09.349000
+2018-04-23	roadOccupancy	1	09:17:51.334000
+2018-04-23	roadOccupancy	4	09:19:51.378000
+2018-04-23	roadOccupancy	9	09:39:52.129000
+2018-04-23	roadOccupancy	4	09:48:52.201000
+2018-04-23	roadOccupancy	14	09:56:52.116000
+2018-04-23	roadOccupancy	10	14:00:05.285000
+2018-04-24	roadOccupancy	21	09:17:54.070000
+2018-04-24	roadOccupancy	21	09:26:54.412000
+2018-04-24	roadOccupancy	5	09:44:54.624000
+2018-04-24	roadOccupancy	30	09:46:54.644000
+2018-04-25	roadOccupancy	11	08:50:56.345000
+2018-04-25	roadOccupancy	55	08:53:56.494000
+2018-04-25	roadOccupancy	3	08:58:56.228000
+2018-04-25	roadOccupancy	13	09:01:56.809000
+2018-04-25	roadOccupancy	10	09:03:56.915000
+2018-04-25	roadOccupancy	23	09:10:57.153000

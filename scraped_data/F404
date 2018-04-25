@@ -1,354 +1,360 @@
-date	attribute	attrValue	attribute	time
-2017-11-05	soundPressureLevel:ambient	50	soundPressureLevel:ambient	11:38:39.853000
-2017-11-10	soundPressureLevel:ambient	50	soundPressureLevel:ambient	01:48:49.812000
-2017-11-10	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	16:48:51.311000
-2017-11-15	soundPressureLevel:ambient	50	soundPressureLevel:ambient	17:09:03.342000
-2017-11-16	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:29:05.873000
-2017-11-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:54:09.437000
-2017-11-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	17:29:10.596000
-2017-11-19	soundPressureLevel:ambient	67.5	soundPressureLevel:ambient	20:24:13.265000
-2017-11-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	01:54:21.343000
-2017-11-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	20:24:22.892000
-2017-11-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:54:25.174000
-2017-11-28	soundPressureLevel:ambient	59	soundPressureLevel:ambient	19:54:34.926000
-2017-11-28	soundPressureLevel:ambient	50	soundPressureLevel:ambient	20:59:35.042000
-2017-11-29	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:44:37.020000
-2017-11-29	soundPressureLevel:ambient	56.2	soundPressureLevel:ambient	18:14:37.192000
-2017-11-30	soundPressureLevel:ambient	55	soundPressureLevel:ambient	15:54:39.349000
-2017-11-30	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:09:39.690000
-2017-12-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:09:44.555000
-2017-12-04	soundPressureLevel:ambient	50	soundPressureLevel:ambient	11:14:48.570000
-2017-12-05	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:44:51.764000
-2017-12-05	soundPressureLevel:ambient	52	soundPressureLevel:ambient	20:19:51.924000
-2017-12-06	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	15:59:53.910000
-2017-12-09	soundPressureLevel:ambient	51	soundPressureLevel:ambient	09:50:00.487000
-2017-12-09	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	14:15:00.935000
-2017-12-09	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	17:45:01.280000
-2017-12-10	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	17:00:03.610000
-2017-12-11	soundPressureLevel:ambient	51	soundPressureLevel:ambient	15:45:06.322000
-2017-12-15	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	06:50:14.630000
-2017-12-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:25:22.911000
-2017-12-18	soundPressureLevel:ambient	56.2	soundPressureLevel:ambient	18:30:23.091000
-2017-12-19	soundPressureLevel:ambient	51	soundPressureLevel:ambient	01:35:23.442000
-2017-12-19	soundPressureLevel:ambient	61.1	soundPressureLevel:ambient	03:10:24.265000
-2017-12-19	soundPressureLevel:ambient	52	soundPressureLevel:ambient	07:25:24.411000
-2017-12-20	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	02:10:26.427000
-2017-12-21	soundPressureLevel:ambient	50	soundPressureLevel:ambient	01:45:28.767000
-2017-12-21	soundPressureLevel:ambient	51	soundPressureLevel:ambient	09:10:29.497000
-2017-12-22	soundPressureLevel:ambient	50	soundPressureLevel:ambient	02:40:31.328000
-2017-12-24	soundPressureLevel:ambient	55	soundPressureLevel:ambient	18:40:38.043000
-2017-12-25	soundPressureLevel:ambient	57.1	soundPressureLevel:ambient	21:15:40.812000
-2017-12-26	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	18:15:43.001000
-2017-12-26	soundPressureLevel:ambient	92.4	soundPressureLevel:ambient	19:10:43.116000
-2017-12-27	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	08:45:44.518000
-2017-12-27	soundPressureLevel:ambient	58.4	soundPressureLevel:ambient	16:40:45.348000
-2017-12-28	soundPressureLevel:ambient	50	soundPressureLevel:ambient	23:40:48.659000
-2017-12-29	soundPressureLevel:ambient	53	soundPressureLevel:ambient	20:10:50.765000
-2017-12-29	soundPressureLevel:ambient	56.5	soundPressureLevel:ambient	21:40:50.916000
-2017-12-30	soundPressureLevel:ambient	52	soundPressureLevel:ambient	17:55:53.089000
-2017-12-31	soundPressureLevel:ambient	68.5	soundPressureLevel:ambient	05:00:54.209000
-2017-12-31	soundPressureLevel:ambient	57.1	soundPressureLevel:ambient	05:25:54.257000
-2017-12-31	soundPressureLevel:ambient	50	soundPressureLevel:ambient	10:20:57.782000
-2018-01-01	soundPressureLevel:ambient	51	soundPressureLevel:ambient	19:00:58.218000
-2018-01-01	soundPressureLevel:ambient	55.9	soundPressureLevel:ambient	20:30:58.377000
-2018-01-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	00:21:02.577000
-2018-01-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	11:35:59.955000
-2018-01-03	soundPressureLevel:ambient	50	soundPressureLevel:ambient	12:26:02.585000
-2018-01-04	soundPressureLevel:ambient	55	soundPressureLevel:ambient	21:46:06.104000
-2018-01-04	soundPressureLevel:ambient	50	soundPressureLevel:ambient	22:26:06.184000
-2018-01-05	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	11:56:07.635000
-2018-01-05	soundPressureLevel:ambient	57.5	soundPressureLevel:ambient	12:26:07.709000
-2018-01-06	soundPressureLevel:ambient	56.8	soundPressureLevel:ambient	16:51:10.714000
-2018-01-06	soundPressureLevel:ambient	51	soundPressureLevel:ambient	22:06:11.252000
-2018-01-07	soundPressureLevel:ambient	53	soundPressureLevel:ambient	15:46:13.114000
-2018-01-09	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	01:21:16.694000
-2018-01-10	soundPressureLevel:ambient	51	soundPressureLevel:ambient	12:21:20.368000
-2018-01-10	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:01:20.736000
-2018-01-11	soundPressureLevel:ambient	64.4	soundPressureLevel:ambient	02:16:21.892000
-2018-01-11	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	16:16:23.332000
-2018-01-11	soundPressureLevel:ambient	54	soundPressureLevel:ambient	16:46:23.380000
-2018-01-11	soundPressureLevel:ambient	54	soundPressureLevel:ambient	18:51:23.600000
-2018-01-12	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	13:36:25.602000
-2018-01-13	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	13:41:28.159000
-2018-01-13	soundPressureLevel:ambient	50	soundPressureLevel:ambient	15:46:28.420000
-2018-01-13	soundPressureLevel:ambient	56.2	soundPressureLevel:ambient	23:11:29.163000
-2018-01-14	soundPressureLevel:ambient	56.5	soundPressureLevel:ambient	23:01:31.668000
-2018-01-15	soundPressureLevel:ambient	59	soundPressureLevel:ambient	03:21:37.412000
-2018-01-15	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	15:46:33.446000
-2018-01-16	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	09:46:35.373000
-2018-01-17	soundPressureLevel:ambient	51	soundPressureLevel:ambient	12:06:38.166000
-2018-01-19	soundPressureLevel:ambient	54	soundPressureLevel:ambient	06:36:46.681000
-2018-01-19	soundPressureLevel:ambient	53	soundPressureLevel:ambient	18:51:43.989000
-2018-01-22	soundPressureLevel:ambient	51	soundPressureLevel:ambient	11:26:50.829000
-2018-01-22	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:51:51.625000
-2018-01-22	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:51:51.721000
-2018-01-23	soundPressureLevel:ambient	51	soundPressureLevel:ambient	18:16:54.088000
-2018-01-25	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	07:56:58.087000
-2018-01-25	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:02:03.195000
-2018-01-25	soundPressureLevel:ambient	58.7	soundPressureLevel:ambient	16:27:03.980000
-2018-01-26	soundPressureLevel:ambient	59.3	soundPressureLevel:ambient	04:02:05.437000
-2018-01-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	12:52:08.693000
-2018-02-01	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	04:47:20.460000
-2018-02-01	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:12:21.675000
-2018-02-01	soundPressureLevel:ambient	55.9	soundPressureLevel:ambient	17:37:21.804000
-2018-02-02	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	19:47:25.578000
-2018-02-03	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	00:17:25.069000
-2018-02-03	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	20:22:27.203000
-2018-02-04	soundPressureLevel:ambient	60.5	soundPressureLevel:ambient	10:37:29.702000
-2018-02-05	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	01:32:31.231000
-2018-02-06	soundPressureLevel:ambient	53	soundPressureLevel:ambient	13:52:37.065000
-2018-02-08	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	06:27:39.372000
-2018-02-08	soundPressureLevel:ambient	55	soundPressureLevel:ambient	06:52:39.937000
-2018-02-08	soundPressureLevel:ambient	52	soundPressureLevel:ambient	14:27:39.182000
-2018-02-09	soundPressureLevel:ambient	53	soundPressureLevel:ambient	14:32:41.751000
-2018-02-09	soundPressureLevel:ambient	51	soundPressureLevel:ambient	16:07:41.911000
-2018-02-11	soundPressureLevel:ambient	51	soundPressureLevel:ambient	14:02:46.763000
-2018-02-11	soundPressureLevel:ambient	50	soundPressureLevel:ambient	15:52:46.965000
-2018-02-12	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	16:12:49.500000
-2018-02-12	soundPressureLevel:ambient	51	soundPressureLevel:ambient	19:02:49.793000
-2018-02-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	04:38:00.268000
-2018-02-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:43:01.393000
-2018-02-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	23:18:04.575000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	04:23:04.597000
-2018-02-20	soundPressureLevel:ambient	56.2	soundPressureLevel:ambient	05:08:04.792000
-2018-02-20	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	08:53:05.156000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:23:04.976000
-2018-02-20	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	09:28:05.139000
-2018-02-20	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	09:33:05.014000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:38:05.222000
-2018-02-20	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	09:53:05.192000
-2018-02-20	soundPressureLevel:ambient	53	soundPressureLevel:ambient	10:58:05.136000
-2018-02-20	soundPressureLevel:ambient	52	soundPressureLevel:ambient	12:18:05.512000
-2018-02-20	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	12:48:05.341000
-2018-02-20	soundPressureLevel:ambient	54	soundPressureLevel:ambient	12:58:05.344000
-2018-02-20	soundPressureLevel:ambient	61.4	soundPressureLevel:ambient	13:13:05.425000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	13:33:05.644000
-2018-02-20	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	13:53:05.485000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	13:58:05.654000
-2018-02-20	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	14:08:05.610000
-2018-02-20	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	16:13:05.790000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:18:05.689000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	17:18:05.989000
-2018-02-20	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	18:53:06.066000
-2018-02-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:18:06.256000
-2018-02-20	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	19:58:06.192000
-2018-02-21	soundPressureLevel:ambient	57.5	soundPressureLevel:ambient	03:28:06.872000
-2018-02-21	soundPressureLevel:ambient	50	soundPressureLevel:ambient	03:33:07.118000
-2018-02-21	soundPressureLevel:ambient	53	soundPressureLevel:ambient	09:13:07.478000
-2018-02-21	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	09:33:07.712000
-2018-02-21	soundPressureLevel:ambient	58.1	soundPressureLevel:ambient	09:53:07.719000
-2018-02-22	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	06:48:09.873000
-2018-02-22	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:43:10.206000
-2018-02-22	soundPressureLevel:ambient	50	soundPressureLevel:ambient	08:38:10.095000
-2018-02-22	soundPressureLevel:ambient	52	soundPressureLevel:ambient	09:48:10.234000
-2018-02-22	soundPressureLevel:ambient	55.6	soundPressureLevel:ambient	10:53:10.271000
-2018-02-23	soundPressureLevel:ambient	59.3	soundPressureLevel:ambient	03:28:12.039000
-2018-02-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	03:33:12.117000
-2018-02-23	soundPressureLevel:ambient	55	soundPressureLevel:ambient	06:43:12.349000
-2018-02-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:03:12.447000
-2018-02-23	soundPressureLevel:ambient	51	soundPressureLevel:ambient	09:03:12.744000
-2018-02-23	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	12:23:13.120000
-2018-02-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:28:13.535000
-2018-02-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:08:13.669000
-2018-02-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:33:15.118000
-2018-02-24	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	08:18:15.661000
-2018-02-24	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	09:18:15.226000
-2018-02-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:23:15.248000
-2018-02-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	14:08:15.745000
-2018-02-24	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	17:23:16.163000
-2018-02-24	soundPressureLevel:ambient	54	soundPressureLevel:ambient	20:38:16.454000
-2018-02-25	soundPressureLevel:ambient	52	soundPressureLevel:ambient	15:33:18.510000
-2018-02-25	soundPressureLevel:ambient	50	soundPressureLevel:ambient	15:38:18.461000
-2018-02-26	soundPressureLevel:ambient	52	soundPressureLevel:ambient	07:23:20.477000
-2018-02-26	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:28:20.149000
-2018-02-26	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	07:43:20.114000
-2018-02-27	soundPressureLevel:ambient	53	soundPressureLevel:ambient	06:03:22.562000
-2018-02-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:08:22.838000
-2018-02-27	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	06:43:22.532000
-2018-02-27	soundPressureLevel:ambient	52	soundPressureLevel:ambient	07:28:22.848000
-2018-02-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:43:22.702000
-2018-02-27	soundPressureLevel:ambient	51	soundPressureLevel:ambient	08:48:22.864000
-2018-02-27	soundPressureLevel:ambient	56.2	soundPressureLevel:ambient	08:53:22.827000
-2018-02-27	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	10:13:22.837000
-2018-02-27	soundPressureLevel:ambient	59	soundPressureLevel:ambient	10:48:22.918000
-2018-02-27	soundPressureLevel:ambient	51	soundPressureLevel:ambient	12:53:23.281000
-2018-02-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	14:13:23.360000
-2018-02-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:13:23.515000
-2018-02-27	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	17:13:23.595000
-2018-02-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:38:23.814000
-2018-02-27	soundPressureLevel:ambient	58.7	soundPressureLevel:ambient	21:33:23.993000
-2018-02-28	soundPressureLevel:ambient	55.6	soundPressureLevel:ambient	06:48:24.635000
-2018-03-01	soundPressureLevel:ambient	54.5	soundPressureLevel:ambient	12:43:28.180000
-2018-03-01	soundPressureLevel:ambient	56.8	soundPressureLevel:ambient	12:53:28.253000
-2018-03-01	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	12:58:28.155000
-2018-03-01	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	13:28:28.279000
-2018-03-01	soundPressureLevel:ambient	50	soundPressureLevel:ambient	13:38:28.507000
-2018-03-02	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	07:18:31.066000
-2018-03-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	16:58:31.125000
-2018-03-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	17:48:31.202000
-2018-03-03	soundPressureLevel:ambient	56.5	soundPressureLevel:ambient	05:23:32.526000
-2018-03-03	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:23:32.595000
-2018-03-03	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	07:48:33.411000
-2018-03-03	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:53:32.635000
-2018-03-03	soundPressureLevel:ambient	50	soundPressureLevel:ambient	08:53:33.276000
-2018-03-03	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	10:33:33.009000
-2018-03-04	soundPressureLevel:ambient	57.8	soundPressureLevel:ambient	06:38:35.093000
-2018-03-04	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	17:23:36.308000
-2018-03-05	soundPressureLevel:ambient	58.4	soundPressureLevel:ambient	01:28:37.990000
-2018-03-05	soundPressureLevel:ambient	50	soundPressureLevel:ambient	01:38:37.029000
-2018-03-05	soundPressureLevel:ambient	61.7	soundPressureLevel:ambient	01:53:37.058000
-2018-03-05	soundPressureLevel:ambient	50	soundPressureLevel:ambient	02:03:37.224000
-2018-03-05	soundPressureLevel:ambient	52	soundPressureLevel:ambient	21:23:39.276000
-2018-03-06	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:38:39.971000
-2018-03-06	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:58:39.993000
-2018-03-06	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:48:40.053000
-2018-03-06	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	07:48:40.176000
-2018-03-06	soundPressureLevel:ambient	50	soundPressureLevel:ambient	08:23:40.288000
-2018-03-07	soundPressureLevel:ambient	56.8	soundPressureLevel:ambient	08:38:42.777000
-2018-03-07	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	23:13:44.257000
-2018-03-07	soundPressureLevel:ambient	50	soundPressureLevel:ambient	23:18:44.430000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	13:38:48.277000
-2018-03-09	soundPressureLevel:ambient	60.2	soundPressureLevel:ambient	13:48:48.739000
-2018-03-09	soundPressureLevel:ambient	61.1	soundPressureLevel:ambient	14:23:48.414000
-2018-03-09	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	14:33:48.480000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	15:03:48.466000
-2018-03-09	soundPressureLevel:ambient	51	soundPressureLevel:ambient	15:23:48.492000
-2018-03-09	soundPressureLevel:ambient	51	soundPressureLevel:ambient	16:23:48.759000
-2018-03-09	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	16:38:48.874000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	17:03:48.863000
-2018-03-09	soundPressureLevel:ambient	65.9	soundPressureLevel:ambient	19:23:48.987000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	19:28:48.964000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	21:23:49.304000
-2018-03-09	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	21:38:49.191000
-2018-03-09	soundPressureLevel:ambient	59.6	soundPressureLevel:ambient	21:43:49.383000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	23:03:49.403000
-2018-03-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	23:13:49.835000
-2018-03-09	soundPressureLevel:ambient	59	soundPressureLevel:ambient	23:58:49.458000
-2018-03-10	soundPressureLevel:ambient	81.8	soundPressureLevel:ambient	00:38:49.544000
-2018-03-10	soundPressureLevel:ambient	67.9	soundPressureLevel:ambient	00:48:49.479000
-2018-03-11	soundPressureLevel:ambient	50	soundPressureLevel:ambient	13:03:53.653000
-2018-03-14	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	12:34:00.906000
-2018-03-14	soundPressureLevel:ambient	68.5	soundPressureLevel:ambient	12:39:00.854000
-2018-03-17	soundPressureLevel:ambient	51	soundPressureLevel:ambient	08:19:07.956000
-2018-03-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	15:14:08.762000
-2018-03-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	17:39:09.007000
-2018-03-17	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	17:44:08.935000
-2018-03-17	soundPressureLevel:ambient	54.5	soundPressureLevel:ambient	19:19:09.190000
-2018-03-17	soundPressureLevel:ambient	55.6	soundPressureLevel:ambient	19:24:09.335000
-2018-03-17	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	19:59:09.198000
-2018-03-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	21:24:09.509000
-2018-03-17	soundPressureLevel:ambient	58.4	soundPressureLevel:ambient	21:59:09.442000
-2018-03-17	soundPressureLevel:ambient	53	soundPressureLevel:ambient	22:09:09.508000
-2018-03-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	22:14:10.132000
-2018-03-17	soundPressureLevel:ambient	50	soundPressureLevel:ambient	22:24:09.696000
-2018-03-18	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	00:04:09.604000
-2018-03-18	soundPressureLevel:ambient	54	soundPressureLevel:ambient	01:44:09.861000
-2018-03-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	01:49:09.941000
-2018-03-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:39:10.289000
-2018-03-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:49:11.049000
-2018-03-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	08:54:11.123000
-2018-03-19	soundPressureLevel:ambient	56.5	soundPressureLevel:ambient	11:49:13.719000
-2018-03-19	soundPressureLevel:ambient	60.2	soundPressureLevel:ambient	11:54:13.936000
-2018-03-19	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	11:59:14.076000
-2018-03-20	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	06:34:15.485000
-2018-03-20	soundPressureLevel:ambient	55.9	soundPressureLevel:ambient	06:49:15.525000
-2018-03-20	soundPressureLevel:ambient	52	soundPressureLevel:ambient	06:54:15.422000
-2018-03-20	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	07:49:15.438000
-2018-03-20	soundPressureLevel:ambient	54	soundPressureLevel:ambient	08:29:15.636000
-2018-03-20	soundPressureLevel:ambient	51	soundPressureLevel:ambient	08:34:15.570000
-2018-03-20	soundPressureLevel:ambient	52	soundPressureLevel:ambient	08:39:15.534000
-2018-03-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:19:15.641000
-2018-03-20	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	09:34:15.916000
-2018-03-20	soundPressureLevel:ambient	52	soundPressureLevel:ambient	09:54:15.888000
-2018-03-20	soundPressureLevel:ambient	53	soundPressureLevel:ambient	10:09:15.863000
-2018-03-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	10:14:15.850000
-2018-03-20	soundPressureLevel:ambient	55	soundPressureLevel:ambient	10:24:15.982000
-2018-03-20	soundPressureLevel:ambient	56.5	soundPressureLevel:ambient	10:34:15.798000
-2018-03-20	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	10:54:15.882000
-2018-03-20	soundPressureLevel:ambient	50	soundPressureLevel:ambient	11:09:15.791000
-2018-03-20	soundPressureLevel:ambient	54	soundPressureLevel:ambient	11:34:16.235000
-2018-03-21	soundPressureLevel:ambient	61.4	soundPressureLevel:ambient	02:29:17.857000
-2018-03-21	soundPressureLevel:ambient	50	soundPressureLevel:ambient	02:34:17.974000
-2018-03-22	soundPressureLevel:ambient	50	soundPressureLevel:ambient	10:49:21.112000
-2018-03-23	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	10:19:23.336000
-2018-03-23	soundPressureLevel:ambient	50	soundPressureLevel:ambient	10:24:24.150000
-2018-03-24	soundPressureLevel:ambient	55.6	soundPressureLevel:ambient	06:59:25.692000
-2018-03-24	soundPressureLevel:ambient	51	soundPressureLevel:ambient	07:14:25.476000
-2018-03-24	soundPressureLevel:ambient	54	soundPressureLevel:ambient	07:39:25.846000
-2018-03-24	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	07:49:25.573000
-2018-03-24	soundPressureLevel:ambient	57.8	soundPressureLevel:ambient	07:59:25.798000
-2018-03-24	soundPressureLevel:ambient	52	soundPressureLevel:ambient	08:09:25.781000
-2018-03-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	08:39:25.772000
-2018-03-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	08:59:25.705000
-2018-03-24	soundPressureLevel:ambient	52.5	soundPressureLevel:ambient	09:04:25.931000
-2018-03-24	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:09:25.695000
-2018-03-25	soundPressureLevel:ambient	58.7	soundPressureLevel:ambient	01:54:27.605000
-2018-03-25	soundPressureLevel:ambient	60.2	soundPressureLevel:ambient	06:39:28.198000
-2018-03-25	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	09:54:28.396000
-2018-03-25	soundPressureLevel:ambient	53	soundPressureLevel:ambient	10:04:28.335000
-2018-03-26	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:09:30.784000
-2018-03-26	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	09:39:31.741000
-2018-03-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	01:04:32.779000
-2018-03-27	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	05:54:32.858000
-2018-03-27	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	06:04:33.083000
-2018-03-27	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	06:09:32.973000
-2018-03-27	soundPressureLevel:ambient	52	soundPressureLevel:ambient	06:19:33.102000
-2018-03-27	soundPressureLevel:ambient	52	soundPressureLevel:ambient	07:09:33.217000
-2018-03-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:14:32.997000
-2018-03-27	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:39:33.278000
-2018-03-28	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:24:35.608000
-2018-03-28	soundPressureLevel:ambient	58.1	soundPressureLevel:ambient	07:34:35.626000
-2018-03-29	soundPressureLevel:ambient	51	soundPressureLevel:ambient	06:34:38.180000
-2018-03-29	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:49:37.999000
-2018-03-29	soundPressureLevel:ambient	55	soundPressureLevel:ambient	07:04:38.118000
-2018-03-31	soundPressureLevel:ambient	51	soundPressureLevel:ambient	05:19:42.991000
-2018-03-31	soundPressureLevel:ambient	53	soundPressureLevel:ambient	06:54:43.080000
-2018-03-31	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:19:44.168000
-2018-04-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:19:48.148000
-2018-04-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	07:54:48.371000
-2018-04-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:04:48.374000
-2018-04-02	soundPressureLevel:ambient	55.6	soundPressureLevel:ambient	09:14:48.419000
-2018-04-02	soundPressureLevel:ambient	50	soundPressureLevel:ambient	09:34:48.818000
-2018-04-03	soundPressureLevel:ambient	55	soundPressureLevel:ambient	05:29:50.525000
-2018-04-03	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	05:44:50.530000
-2018-04-03	soundPressureLevel:ambient	55.9	soundPressureLevel:ambient	05:49:50.609000
-2018-04-04	soundPressureLevel:ambient	55.9	soundPressureLevel:ambient	06:34:54.029000
-2018-04-05	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:29:55.551000
-2018-04-05	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:09:56.537000
-2018-04-05	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	15:24:56.625000
-2018-04-07	soundPressureLevel:ambient	50	soundPressureLevel:ambient	02:25:00.152000
-2018-04-07	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	04:25:00.509000
-2018-04-07	soundPressureLevel:ambient	51	soundPressureLevel:ambient	04:55:00.352000
-2018-04-07	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	18:10:01.737000
-2018-04-08	soundPressureLevel:ambient	50	soundPressureLevel:ambient	00:20:02.439000
-2018-04-08	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	16:50:04.182000
-2018-04-08	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:10:04.290000
-2018-04-08	soundPressureLevel:ambient	50	soundPressureLevel:ambient	18:25:04.264000
-2018-04-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:00:05.501000
-2018-04-09	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	06:05:06.146000
-2018-04-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:10:05.730000
-2018-04-09	soundPressureLevel:ambient	50	soundPressureLevel:ambient	13:20:06.302000
-2018-04-09	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	15:00:06.434000
-2018-04-11	soundPressureLevel:ambient	54	soundPressureLevel:ambient	05:20:10.534000
-2018-04-11	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	08:40:10.918000
-2018-04-11	soundPressureLevel:ambient	59	soundPressureLevel:ambient	08:45:10.822000
-2018-04-11	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	09:25:10.926000
-2018-04-11	soundPressureLevel:ambient	50	soundPressureLevel:ambient	10:50:11.222000
-2018-04-11	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	10:55:11.174000
-2018-04-11	soundPressureLevel:ambient	53	soundPressureLevel:ambient	11:40:11.236000
-2018-04-12	soundPressureLevel:ambient	55.9	soundPressureLevel:ambient	04:55:13.015000
-2018-04-12	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	05:40:13.252000
-2018-04-12	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:45:13.243000
-2018-04-13	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	05:50:15.468000
-2018-04-13	soundPressureLevel:ambient	53.5	soundPressureLevel:ambient	08:10:15.697000
-2018-04-13	soundPressureLevel:ambient	50	soundPressureLevel:ambient	11:55:16.132000
-2018-04-13	soundPressureLevel:ambient	54.5	soundPressureLevel:ambient	15:00:16.574000
-2018-04-14	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:35:18.245000
-2018-04-14	soundPressureLevel:ambient	50.5	soundPressureLevel:ambient	07:25:18.340000
-2018-04-16	soundPressureLevel:ambient	57.8	soundPressureLevel:ambient	05:55:23.249000
-2018-04-16	soundPressureLevel:ambient	55.3	soundPressureLevel:ambient	06:20:24.694000
-2018-04-18	soundPressureLevel:ambient	51.5	soundPressureLevel:ambient	05:55:28.213000
-2018-04-18	soundPressureLevel:ambient	50	soundPressureLevel:ambient	06:00:28.134000
-2018-04-19	soundPressureLevel:ambient	50	soundPressureLevel:ambient	04:15:30.407000
-2018-04-19	soundPressureLevel:ambient	58.4	soundPressureLevel:ambient	05:30:30.648000
-2018-04-19	soundPressureLevel:ambient	50	soundPressureLevel:ambient	05:45:31
+date	attribute	attrValue	time
+2017-11-05	soundPressureLevel:ambient	50	11:38:39.853000
+2017-11-10	soundPressureLevel:ambient	50	01:48:49.812000
+2017-11-10	soundPressureLevel:ambient	51.5	16:48:51.311000
+2017-11-15	soundPressureLevel:ambient	50	17:09:03.342000
+2017-11-16	soundPressureLevel:ambient	50	18:29:05.873000
+2017-11-18	soundPressureLevel:ambient	50	05:54:09.437000
+2017-11-18	soundPressureLevel:ambient	50	17:29:10.596000
+2017-11-19	soundPressureLevel:ambient	67.5	20:24:13.265000
+2017-11-23	soundPressureLevel:ambient	50	01:54:21.343000
+2017-11-23	soundPressureLevel:ambient	50	20:24:22.892000
+2017-11-24	soundPressureLevel:ambient	50	18:54:25.174000
+2017-11-28	soundPressureLevel:ambient	59	19:54:34.926000
+2017-11-28	soundPressureLevel:ambient	50	20:59:35.042000
+2017-11-29	soundPressureLevel:ambient	50	16:44:37.020000
+2017-11-29	soundPressureLevel:ambient	56.2	18:14:37.192000
+2017-11-30	soundPressureLevel:ambient	55	15:54:39.349000
+2017-11-30	soundPressureLevel:ambient	50	19:09:39.690000
+2017-12-02	soundPressureLevel:ambient	50	19:09:44.555000
+2017-12-04	soundPressureLevel:ambient	50	11:14:48.570000
+2017-12-05	soundPressureLevel:ambient	50	18:44:51.764000
+2017-12-05	soundPressureLevel:ambient	52	20:19:51.924000
+2017-12-06	soundPressureLevel:ambient	53.5	15:59:53.910000
+2017-12-09	soundPressureLevel:ambient	51	09:50:00.487000
+2017-12-09	soundPressureLevel:ambient	51.5	14:15:00.935000
+2017-12-09	soundPressureLevel:ambient	51.5	17:45:01.280000
+2017-12-10	soundPressureLevel:ambient	55.3	17:00:03.610000
+2017-12-11	soundPressureLevel:ambient	51	15:45:06.322000
+2017-12-15	soundPressureLevel:ambient	50.5	06:50:14.630000
+2017-12-18	soundPressureLevel:ambient	50	16:25:22.911000
+2017-12-18	soundPressureLevel:ambient	56.2	18:30:23.091000
+2017-12-19	soundPressureLevel:ambient	51	01:35:23.442000
+2017-12-19	soundPressureLevel:ambient	61.1	03:10:24.265000
+2017-12-19	soundPressureLevel:ambient	52	07:25:24.411000
+2017-12-20	soundPressureLevel:ambient	50.5	02:10:26.427000
+2017-12-21	soundPressureLevel:ambient	50	01:45:28.767000
+2017-12-21	soundPressureLevel:ambient	51	09:10:29.497000
+2017-12-22	soundPressureLevel:ambient	50	02:40:31.328000
+2017-12-24	soundPressureLevel:ambient	55	18:40:38.043000
+2017-12-25	soundPressureLevel:ambient	57.1	21:15:40.812000
+2017-12-26	soundPressureLevel:ambient	51.5	18:15:43.001000
+2017-12-26	soundPressureLevel:ambient	92.4	19:10:43.116000
+2017-12-27	soundPressureLevel:ambient	52.5	08:45:44.518000
+2017-12-27	soundPressureLevel:ambient	58.4	16:40:45.348000
+2017-12-28	soundPressureLevel:ambient	50	23:40:48.659000
+2017-12-29	soundPressureLevel:ambient	53	20:10:50.765000
+2017-12-29	soundPressureLevel:ambient	56.5	21:40:50.916000
+2017-12-30	soundPressureLevel:ambient	52	17:55:53.089000
+2017-12-31	soundPressureLevel:ambient	68.5	05:00:54.209000
+2017-12-31	soundPressureLevel:ambient	57.1	05:25:54.257000
+2017-12-31	soundPressureLevel:ambient	50	10:20:57.782000
+2018-01-01	soundPressureLevel:ambient	51	19:00:58.218000
+2018-01-01	soundPressureLevel:ambient	55.9	20:30:58.377000
+2018-01-02	soundPressureLevel:ambient	50	00:21:02.577000
+2018-01-02	soundPressureLevel:ambient	50	11:35:59.955000
+2018-01-03	soundPressureLevel:ambient	50	12:26:02.585000
+2018-01-04	soundPressureLevel:ambient	55	21:46:06.104000
+2018-01-04	soundPressureLevel:ambient	50	22:26:06.184000
+2018-01-05	soundPressureLevel:ambient	50.5	11:56:07.635000
+2018-01-05	soundPressureLevel:ambient	57.5	12:26:07.709000
+2018-01-06	soundPressureLevel:ambient	56.8	16:51:10.714000
+2018-01-06	soundPressureLevel:ambient	51	22:06:11.252000
+2018-01-07	soundPressureLevel:ambient	53	15:46:13.114000
+2018-01-09	soundPressureLevel:ambient	50.5	01:21:16.694000
+2018-01-10	soundPressureLevel:ambient	51	12:21:20.368000
+2018-01-10	soundPressureLevel:ambient	50	16:01:20.736000
+2018-01-11	soundPressureLevel:ambient	64.4	02:16:21.892000
+2018-01-11	soundPressureLevel:ambient	53.5	16:16:23.332000
+2018-01-11	soundPressureLevel:ambient	54	16:46:23.380000
+2018-01-11	soundPressureLevel:ambient	54	18:51:23.600000
+2018-01-12	soundPressureLevel:ambient	50.5	13:36:25.602000
+2018-01-13	soundPressureLevel:ambient	53.5	13:41:28.159000
+2018-01-13	soundPressureLevel:ambient	50	15:46:28.420000
+2018-01-13	soundPressureLevel:ambient	56.2	23:11:29.163000
+2018-01-14	soundPressureLevel:ambient	56.5	23:01:31.668000
+2018-01-15	soundPressureLevel:ambient	59	03:21:37.412000
+2018-01-15	soundPressureLevel:ambient	50.5	15:46:33.446000
+2018-01-16	soundPressureLevel:ambient	55.3	09:46:35.373000
+2018-01-17	soundPressureLevel:ambient	51	12:06:38.166000
+2018-01-19	soundPressureLevel:ambient	54	06:36:46.681000
+2018-01-19	soundPressureLevel:ambient	53	18:51:43.989000
+2018-01-22	soundPressureLevel:ambient	51	11:26:50.829000
+2018-01-22	soundPressureLevel:ambient	50	18:51:51.625000
+2018-01-22	soundPressureLevel:ambient	50	19:51:51.721000
+2018-01-23	soundPressureLevel:ambient	51	18:16:54.088000
+2018-01-25	soundPressureLevel:ambient	52.5	07:56:58.087000
+2018-01-25	soundPressureLevel:ambient	50	09:02:03.195000
+2018-01-25	soundPressureLevel:ambient	58.7	16:27:03.980000
+2018-01-26	soundPressureLevel:ambient	59.3	04:02:05.437000
+2018-01-27	soundPressureLevel:ambient	50	12:52:08.693000
+2018-02-01	soundPressureLevel:ambient	50.5	04:47:20.460000
+2018-02-01	soundPressureLevel:ambient	50	16:12:21.675000
+2018-02-01	soundPressureLevel:ambient	55.9	17:37:21.804000
+2018-02-02	soundPressureLevel:ambient	53.5	19:47:25.578000
+2018-02-03	soundPressureLevel:ambient	53.5	00:17:25.069000
+2018-02-03	soundPressureLevel:ambient	51.5	20:22:27.203000
+2018-02-04	soundPressureLevel:ambient	60.5	10:37:29.702000
+2018-02-05	soundPressureLevel:ambient	52.5	01:32:31.231000
+2018-02-06	soundPressureLevel:ambient	53	13:52:37.065000
+2018-02-08	soundPressureLevel:ambient	53.5	06:27:39.372000
+2018-02-08	soundPressureLevel:ambient	55	06:52:39.937000
+2018-02-08	soundPressureLevel:ambient	52	14:27:39.182000
+2018-02-09	soundPressureLevel:ambient	53	14:32:41.751000
+2018-02-09	soundPressureLevel:ambient	51	16:07:41.911000
+2018-02-11	soundPressureLevel:ambient	51	14:02:46.763000
+2018-02-11	soundPressureLevel:ambient	50	15:52:46.965000
+2018-02-12	soundPressureLevel:ambient	50.5	16:12:49.500000
+2018-02-12	soundPressureLevel:ambient	51	19:02:49.793000
+2018-02-17	soundPressureLevel:ambient	50	04:38:00.268000
+2018-02-17	soundPressureLevel:ambient	50	18:43:01.393000
+2018-02-18	soundPressureLevel:ambient	50	23:18:04.575000
+2018-02-20	soundPressureLevel:ambient	50	04:23:04.597000
+2018-02-20	soundPressureLevel:ambient	56.2	05:08:04.792000
+2018-02-20	soundPressureLevel:ambient	53.5	08:53:05.156000
+2018-02-20	soundPressureLevel:ambient	50	09:23:04.976000
+2018-02-20	soundPressureLevel:ambient	50.5	09:28:05.139000
+2018-02-20	soundPressureLevel:ambient	52.5	09:33:05.014000
+2018-02-20	soundPressureLevel:ambient	50	09:38:05.222000
+2018-02-20	soundPressureLevel:ambient	52.5	09:53:05.192000
+2018-02-20	soundPressureLevel:ambient	53	10:58:05.136000
+2018-02-20	soundPressureLevel:ambient	52	12:18:05.512000
+2018-02-20	soundPressureLevel:ambient	55.3	12:48:05.341000
+2018-02-20	soundPressureLevel:ambient	54	12:58:05.344000
+2018-02-20	soundPressureLevel:ambient	61.4	13:13:05.425000
+2018-02-20	soundPressureLevel:ambient	50	13:33:05.644000
+2018-02-20	soundPressureLevel:ambient	52.5	13:53:05.485000
+2018-02-20	soundPressureLevel:ambient	50	13:58:05.654000
+2018-02-20	soundPressureLevel:ambient	53.5	14:08:05.610000
+2018-02-20	soundPressureLevel:ambient	50.5	16:13:05.790000
+2018-02-20	soundPressureLevel:ambient	50	16:18:05.689000
+2018-02-20	soundPressureLevel:ambient	50	17:18:05.989000
+2018-02-20	soundPressureLevel:ambient	55.3	18:53:06.066000
+2018-02-20	soundPressureLevel:ambient	50	19:18:06.256000
+2018-02-20	soundPressureLevel:ambient	53.5	19:58:06.192000
+2018-02-21	soundPressureLevel:ambient	57.5	03:28:06.872000
+2018-02-21	soundPressureLevel:ambient	50	03:33:07.118000
+2018-02-21	soundPressureLevel:ambient	53	09:13:07.478000
+2018-02-21	soundPressureLevel:ambient	50.5	09:33:07.712000
+2018-02-21	soundPressureLevel:ambient	58.1	09:53:07.719000
+2018-02-22	soundPressureLevel:ambient	50.5	06:48:09.873000
+2018-02-22	soundPressureLevel:ambient	50	07:43:10.206000
+2018-02-22	soundPressureLevel:ambient	50	08:38:10.095000
+2018-02-22	soundPressureLevel:ambient	52	09:48:10.234000
+2018-02-22	soundPressureLevel:ambient	55.6	10:53:10.271000
+2018-02-23	soundPressureLevel:ambient	59.3	03:28:12.039000
+2018-02-23	soundPressureLevel:ambient	50	03:33:12.117000
+2018-02-23	soundPressureLevel:ambient	55	06:43:12.349000
+2018-02-23	soundPressureLevel:ambient	50	07:03:12.447000
+2018-02-23	soundPressureLevel:ambient	51	09:03:12.744000
+2018-02-23	soundPressureLevel:ambient	51.5	12:23:13.120000
+2018-02-23	soundPressureLevel:ambient	50	16:28:13.535000
+2018-02-23	soundPressureLevel:ambient	50	19:08:13.669000
+2018-02-24	soundPressureLevel:ambient	50	07:33:15.118000
+2018-02-24	soundPressureLevel:ambient	51.5	08:18:15.661000
+2018-02-24	soundPressureLevel:ambient	52.5	09:18:15.226000
+2018-02-24	soundPressureLevel:ambient	50	09:23:15.248000
+2018-02-24	soundPressureLevel:ambient	50	14:08:15.745000
+2018-02-24	soundPressureLevel:ambient	51.5	17:23:16.163000
+2018-02-24	soundPressureLevel:ambient	54	20:38:16.454000
+2018-02-25	soundPressureLevel:ambient	52	15:33:18.510000
+2018-02-25	soundPressureLevel:ambient	50	15:38:18.461000
+2018-02-26	soundPressureLevel:ambient	52	07:23:20.477000
+2018-02-26	soundPressureLevel:ambient	50	07:28:20.149000
+2018-02-26	soundPressureLevel:ambient	50.5	07:43:20.114000
+2018-02-27	soundPressureLevel:ambient	53	06:03:22.562000
+2018-02-27	soundPressureLevel:ambient	50	06:08:22.838000
+2018-02-27	soundPressureLevel:ambient	50.5	06:43:22.532000
+2018-02-27	soundPressureLevel:ambient	52	07:28:22.848000
+2018-02-27	soundPressureLevel:ambient	50	07:43:22.702000
+2018-02-27	soundPressureLevel:ambient	51	08:48:22.864000
+2018-02-27	soundPressureLevel:ambient	56.2	08:53:22.827000
+2018-02-27	soundPressureLevel:ambient	51.5	10:13:22.837000
+2018-02-27	soundPressureLevel:ambient	59	10:48:22.918000
+2018-02-27	soundPressureLevel:ambient	51	12:53:23.281000
+2018-02-27	soundPressureLevel:ambient	50	14:13:23.360000
+2018-02-27	soundPressureLevel:ambient	50	16:13:23.515000
+2018-02-27	soundPressureLevel:ambient	50.5	17:13:23.595000
+2018-02-27	soundPressureLevel:ambient	50	19:38:23.814000
+2018-02-27	soundPressureLevel:ambient	58.7	21:33:23.993000
+2018-02-28	soundPressureLevel:ambient	55.6	06:48:24.635000
+2018-03-01	soundPressureLevel:ambient	54.5	12:43:28.180000
+2018-03-01	soundPressureLevel:ambient	56.8	12:53:28.253000
+2018-03-01	soundPressureLevel:ambient	51.5	12:58:28.155000
+2018-03-01	soundPressureLevel:ambient	53.5	13:28:28.279000
+2018-03-01	soundPressureLevel:ambient	50	13:38:28.507000
+2018-03-02	soundPressureLevel:ambient	51.5	07:18:31.066000
+2018-03-02	soundPressureLevel:ambient	50	16:58:31.125000
+2018-03-02	soundPressureLevel:ambient	50	17:48:31.202000
+2018-03-03	soundPressureLevel:ambient	56.5	05:23:32.526000
+2018-03-03	soundPressureLevel:ambient	50	07:23:32.595000
+2018-03-03	soundPressureLevel:ambient	55.3	07:48:33.411000
+2018-03-03	soundPressureLevel:ambient	50	07:53:32.635000
+2018-03-03	soundPressureLevel:ambient	50	08:53:33.276000
+2018-03-03	soundPressureLevel:ambient	50.5	10:33:33.009000
+2018-03-04	soundPressureLevel:ambient	57.8	06:38:35.093000
+2018-03-04	soundPressureLevel:ambient	51.5	17:23:36.308000
+2018-03-05	soundPressureLevel:ambient	58.4	01:28:37.990000
+2018-03-05	soundPressureLevel:ambient	50	01:38:37.029000
+2018-03-05	soundPressureLevel:ambient	61.7	01:53:37.058000
+2018-03-05	soundPressureLevel:ambient	50	02:03:37.224000
+2018-03-05	soundPressureLevel:ambient	52	21:23:39.276000
+2018-03-06	soundPressureLevel:ambient	50	05:38:39.971000
+2018-03-06	soundPressureLevel:ambient	50	05:58:39.993000
+2018-03-06	soundPressureLevel:ambient	50	06:48:40.053000
+2018-03-06	soundPressureLevel:ambient	51.5	07:48:40.176000
+2018-03-06	soundPressureLevel:ambient	50	08:23:40.288000
+2018-03-07	soundPressureLevel:ambient	56.8	08:38:42.777000
+2018-03-07	soundPressureLevel:ambient	51.5	23:13:44.257000
+2018-03-07	soundPressureLevel:ambient	50	23:18:44.430000
+2018-03-09	soundPressureLevel:ambient	50	13:38:48.277000
+2018-03-09	soundPressureLevel:ambient	60.2	13:48:48.739000
+2018-03-09	soundPressureLevel:ambient	61.1	14:23:48.414000
+2018-03-09	soundPressureLevel:ambient	50.5	14:33:48.480000
+2018-03-09	soundPressureLevel:ambient	50	15:03:48.466000
+2018-03-09	soundPressureLevel:ambient	51	15:23:48.492000
+2018-03-09	soundPressureLevel:ambient	51	16:23:48.759000
+2018-03-09	soundPressureLevel:ambient	55.3	16:38:48.874000
+2018-03-09	soundPressureLevel:ambient	50	17:03:48.863000
+2018-03-09	soundPressureLevel:ambient	65.9	19:23:48.987000
+2018-03-09	soundPressureLevel:ambient	50	19:28:48.964000
+2018-03-09	soundPressureLevel:ambient	50	21:23:49.304000
+2018-03-09	soundPressureLevel:ambient	50.5	21:38:49.191000
+2018-03-09	soundPressureLevel:ambient	59.6	21:43:49.383000
+2018-03-09	soundPressureLevel:ambient	50	23:03:49.403000
+2018-03-09	soundPressureLevel:ambient	50	23:13:49.835000
+2018-03-09	soundPressureLevel:ambient	59	23:58:49.458000
+2018-03-10	soundPressureLevel:ambient	81.8	00:38:49.544000
+2018-03-10	soundPressureLevel:ambient	67.9	00:48:49.479000
+2018-03-11	soundPressureLevel:ambient	50	13:03:53.653000
+2018-03-14	soundPressureLevel:ambient	52.5	12:34:00.906000
+2018-03-14	soundPressureLevel:ambient	68.5	12:39:00.854000
+2018-03-17	soundPressureLevel:ambient	51	08:19:07.956000
+2018-03-17	soundPressureLevel:ambient	50	15:14:08.762000
+2018-03-17	soundPressureLevel:ambient	50	17:39:09.007000
+2018-03-17	soundPressureLevel:ambient	50.5	17:44:08.935000
+2018-03-17	soundPressureLevel:ambient	54.5	19:19:09.190000
+2018-03-17	soundPressureLevel:ambient	55.6	19:24:09.335000
+2018-03-17	soundPressureLevel:ambient	52.5	19:59:09.198000
+2018-03-17	soundPressureLevel:ambient	50	21:24:09.509000
+2018-03-17	soundPressureLevel:ambient	58.4	21:59:09.442000
+2018-03-17	soundPressureLevel:ambient	53	22:09:09.508000
+2018-03-17	soundPressureLevel:ambient	50	22:14:10.132000
+2018-03-17	soundPressureLevel:ambient	50	22:24:09.696000
+2018-03-18	soundPressureLevel:ambient	50.5	00:04:09.604000
+2018-03-18	soundPressureLevel:ambient	54	01:44:09.861000
+2018-03-18	soundPressureLevel:ambient	50	01:49:09.941000
+2018-03-18	soundPressureLevel:ambient	50	05:39:10.289000
+2018-03-18	soundPressureLevel:ambient	50	05:49:11.049000
+2018-03-18	soundPressureLevel:ambient	50	08:54:11.123000
+2018-03-19	soundPressureLevel:ambient	56.5	11:49:13.719000
+2018-03-19	soundPressureLevel:ambient	60.2	11:54:13.936000
+2018-03-19	soundPressureLevel:ambient	53.5	11:59:14.076000
+2018-03-20	soundPressureLevel:ambient	53.5	06:34:15.485000
+2018-03-20	soundPressureLevel:ambient	55.9	06:49:15.525000
+2018-03-20	soundPressureLevel:ambient	52	06:54:15.422000
+2018-03-20	soundPressureLevel:ambient	53.5	07:49:15.438000
+2018-03-20	soundPressureLevel:ambient	54	08:29:15.636000
+2018-03-20	soundPressureLevel:ambient	51	08:34:15.570000
+2018-03-20	soundPressureLevel:ambient	52	08:39:15.534000
+2018-03-20	soundPressureLevel:ambient	50	09:19:15.641000
+2018-03-20	soundPressureLevel:ambient	51.5	09:34:15.916000
+2018-03-20	soundPressureLevel:ambient	52	09:54:15.888000
+2018-03-20	soundPressureLevel:ambient	53	10:09:15.863000
+2018-03-20	soundPressureLevel:ambient	50	10:14:15.850000
+2018-03-20	soundPressureLevel:ambient	55	10:24:15.982000
+2018-03-20	soundPressureLevel:ambient	56.5	10:34:15.798000
+2018-03-20	soundPressureLevel:ambient	51.5	10:54:15.882000
+2018-03-20	soundPressureLevel:ambient	50	11:09:15.791000
+2018-03-20	soundPressureLevel:ambient	54	11:34:16.235000
+2018-03-21	soundPressureLevel:ambient	61.4	02:29:17.857000
+2018-03-21	soundPressureLevel:ambient	50	02:34:17.974000
+2018-03-22	soundPressureLevel:ambient	50	10:49:21.112000
+2018-03-23	soundPressureLevel:ambient	50.5	10:19:23.336000
+2018-03-23	soundPressureLevel:ambient	50	10:24:24.150000
+2018-03-24	soundPressureLevel:ambient	55.6	06:59:25.692000
+2018-03-24	soundPressureLevel:ambient	51	07:14:25.476000
+2018-03-24	soundPressureLevel:ambient	54	07:39:25.846000
+2018-03-24	soundPressureLevel:ambient	53.5	07:49:25.573000
+2018-03-24	soundPressureLevel:ambient	57.8	07:59:25.798000
+2018-03-24	soundPressureLevel:ambient	52	08:09:25.781000
+2018-03-24	soundPressureLevel:ambient	50	08:39:25.772000
+2018-03-24	soundPressureLevel:ambient	50	08:59:25.705000
+2018-03-24	soundPressureLevel:ambient	52.5	09:04:25.931000
+2018-03-24	soundPressureLevel:ambient	50	09:09:25.695000
+2018-03-25	soundPressureLevel:ambient	58.7	01:54:27.605000
+2018-03-25	soundPressureLevel:ambient	60.2	06:39:28.198000
+2018-03-25	soundPressureLevel:ambient	55.3	09:54:28.396000
+2018-03-25	soundPressureLevel:ambient	53	10:04:28.335000
+2018-03-26	soundPressureLevel:ambient	50	09:09:30.784000
+2018-03-26	soundPressureLevel:ambient	53.5	09:39:31.741000
+2018-03-27	soundPressureLevel:ambient	50	01:04:32.779000
+2018-03-27	soundPressureLevel:ambient	51.5	05:54:32.858000
+2018-03-27	soundPressureLevel:ambient	50.5	06:04:33.083000
+2018-03-27	soundPressureLevel:ambient	51.5	06:09:32.973000
+2018-03-27	soundPressureLevel:ambient	52	06:19:33.102000
+2018-03-27	soundPressureLevel:ambient	52	07:09:33.217000
+2018-03-27	soundPressureLevel:ambient	50	07:14:32.997000
+2018-03-27	soundPressureLevel:ambient	50	07:39:33.278000
+2018-03-28	soundPressureLevel:ambient	50	07:24:35.608000
+2018-03-28	soundPressureLevel:ambient	58.1	07:34:35.626000
+2018-03-29	soundPressureLevel:ambient	51	06:34:38.180000
+2018-03-29	soundPressureLevel:ambient	50	06:49:37.999000
+2018-03-29	soundPressureLevel:ambient	55	07:04:38.118000
+2018-03-31	soundPressureLevel:ambient	51	05:19:42.991000
+2018-03-31	soundPressureLevel:ambient	53	06:54:43.080000
+2018-03-31	soundPressureLevel:ambient	50	07:19:44.168000
+2018-04-02	soundPressureLevel:ambient	50	06:19:48.148000
+2018-04-02	soundPressureLevel:ambient	50	07:54:48.371000
+2018-04-02	soundPressureLevel:ambient	50	09:04:48.374000
+2018-04-02	soundPressureLevel:ambient	55.6	09:14:48.419000
+2018-04-02	soundPressureLevel:ambient	50	09:34:48.818000
+2018-04-03	soundPressureLevel:ambient	55	05:29:50.525000
+2018-04-03	soundPressureLevel:ambient	53.5	05:44:50.530000
+2018-04-03	soundPressureLevel:ambient	55.9	05:49:50.609000
+2018-04-04	soundPressureLevel:ambient	55.9	06:34:54.029000
+2018-04-05	soundPressureLevel:ambient	50	05:29:55.551000
+2018-04-05	soundPressureLevel:ambient	50	06:09:56.537000
+2018-04-05	soundPressureLevel:ambient	50.5	15:24:56.625000
+2018-04-07	soundPressureLevel:ambient	50	02:25:00.152000
+2018-04-07	soundPressureLevel:ambient	51.5	04:25:00.509000
+2018-04-07	soundPressureLevel:ambient	51	04:55:00.352000
+2018-04-07	soundPressureLevel:ambient	51.5	18:10:01.737000
+2018-04-08	soundPressureLevel:ambient	50	00:20:02.439000
+2018-04-08	soundPressureLevel:ambient	53.5	16:50:04.182000
+2018-04-08	soundPressureLevel:ambient	50	18:10:04.290000
+2018-04-08	soundPressureLevel:ambient	50	18:25:04.264000
+2018-04-09	soundPressureLevel:ambient	50	06:00:05.501000
+2018-04-09	soundPressureLevel:ambient	50.5	06:05:06.146000
+2018-04-09	soundPressureLevel:ambient	50	06:10:05.730000
+2018-04-09	soundPressureLevel:ambient	50	13:20:06.302000
+2018-04-09	soundPressureLevel:ambient	50.5	15:00:06.434000
+2018-04-11	soundPressureLevel:ambient	54	05:20:10.534000
+2018-04-11	soundPressureLevel:ambient	51.5	08:40:10.918000
+2018-04-11	soundPressureLevel:ambient	59	08:45:10.822000
+2018-04-11	soundPressureLevel:ambient	50.5	09:25:10.926000
+2018-04-11	soundPressureLevel:ambient	50	10:50:11.222000
+2018-04-11	soundPressureLevel:ambient	55.3	10:55:11.174000
+2018-04-11	soundPressureLevel:ambient	53	11:40:11.236000
+2018-04-12	soundPressureLevel:ambient	55.9	04:55:13.015000
+2018-04-12	soundPressureLevel:ambient	51.5	05:40:13.252000
+2018-04-12	soundPressureLevel:ambient	50	05:45:13.243000
+2018-04-13	soundPressureLevel:ambient	51.5	05:50:15.468000
+2018-04-13	soundPressureLevel:ambient	53.5	08:10:15.697000
+2018-04-13	soundPressureLevel:ambient	50	11:55:16.132000
+2018-04-13	soundPressureLevel:ambient	54.5	15:00:16.574000
+2018-04-14	soundPressureLevel:ambient	50	06:35:18.245000
+2018-04-14	soundPressureLevel:ambient	50.5	07:25:18.340000
+2018-04-16	soundPressureLevel:ambient	57.8	05:55:23.249000
+2018-04-16	soundPressureLevel:ambient	55.3	06:20:24.694000
+2018-04-18	soundPressureLevel:ambient	51.5	05:55:28.213000
+2018-04-18	soundPressureLevel:ambient	50	06:00:28.134000
+2018-04-19	soundPressureLevel:ambient	50	04:15:30.407000
+2018-04-19	soundPressureLevel:ambient	58.4	05:30:30.648000
+2018-04-19	soundPressureLevel:ambient	50	05:45:31
+2018-04-20	soundPressureLevel:ambient	50	05:50:33.439000
+2018-04-20	soundPressureLevel:ambient	58.4	12:40:33.899000
+2018-04-21	soundPressureLevel:ambient	55	06:05:35.583000
+2018-04-21	soundPressureLevel:ambient	50.5	16:50:36.948000
+2018-04-24	soundPressureLevel:ambient	52	08:15:43.008000
+2018-04-25	soundPressureLevel:ambient	55	06:50:45.884000

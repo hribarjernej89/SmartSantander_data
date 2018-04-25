@@ -1,67 +1,67 @@
-date	attribute	attrValue	attribute	time
-2017-07-05	temperature:ambient	21.1	temperature:ambient	11:48:30.743000
-2017-07-07	temperature:ambient	20.3	temperature:ambient	09:43:36.894000
-2017-07-29	temperature:ambient	24.3	temperature:ambient	03:24:37.053000
-2017-07-30	temperature:ambient	22.9	temperature:ambient	17:44:41.030000
-2017-08-30	temperature:ambient	22.3	temperature:ambient	07:45:58.825000
-2017-09-05	temperature:ambient	25.6	temperature:ambient	09:26:14.153000
-2017-10-10	temperature:ambient	22.6	temperature:ambient	10:52:51.750000
-2017-10-12	temperature:ambient	21.5	temperature:ambient	19:37:43.813000
-2017-10-26	temperature:ambient	21.4	temperature:ambient	17:13:16.636000
-2017-07-05	position:altitude	7	position:altitude	11:48:30.743000
-2017-07-07	position:altitude	13	position:altitude	09:43:36.892000
-2017-09-05	position:altitude	11	position:altitude	09:26:14.153000
-2017-10-10	position:altitude	14	position:altitude	10:52:51.751000
-2017-10-22	position:altitude	48	position:altitude	08:23:06.283000
-2017-07-07	speed:instantaneous	22	speed:instantaneous	09:43:36.892000
-2017-07-07	chemicalAgentAtmosphericConcentration:airParticles	0.08	chemicalAgentAtmosphericConcentration:airParticles	09:43:36.893000
-2017-08-05	chemicalAgentAtmosphericConcentration:airParticles	0.04	chemicalAgentAtmosphericConcentration:airParticles	17:44:55.992000
-2017-08-10	chemicalAgentAtmosphericConcentration:airParticles	0.03	chemicalAgentAtmosphericConcentration:airParticles	19:20:08.647000
-2017-08-11	chemicalAgentAtmosphericConcentration:airParticles	0.02	chemicalAgentAtmosphericConcentration:airParticles	15:10:10.714000
-2017-08-12	chemicalAgentAtmosphericConcentration:airParticles	0.01	chemicalAgentAtmosphericConcentration:airParticles	17:00:13.399000
-2017-08-14	chemicalAgentAtmosphericConcentration:airParticles	0.03	chemicalAgentAtmosphericConcentration:airParticles	15:15:18.623000
-2017-08-20	chemicalAgentAtmosphericConcentration:airParticles	0.03	chemicalAgentAtmosphericConcentration:airParticles	14:15:33.183000
-2017-08-22	chemicalAgentAtmosphericConcentration:airParticles	0.12	chemicalAgentAtmosphericConcentration:airParticles	13:35:38.159000
-2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.03	chemicalAgentAtmosphericConcentration:airParticles	03:05:43.113000
-2017-08-26	chemicalAgentAtmosphericConcentration:airParticles	0.02	chemicalAgentAtmosphericConcentration:airParticles	18:00:48.846000
-2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.03	chemicalAgentAtmosphericConcentration:airParticles	04:20:49.847000
-2017-09-30	chemicalAgentAtmosphericConcentration:airParticles	0.01	chemicalAgentAtmosphericConcentration:airParticles	00:22:13.642000
-2017-10-02	chemicalAgentAtmosphericConcentration:airParticles	0.01	chemicalAgentAtmosphericConcentration:airParticles	20:12:20.312000
-2017-10-10	chemicalAgentAtmosphericConcentration:airParticles	0.02	chemicalAgentAtmosphericConcentration:airParticles	10:52:51.754000
-2017-10-13	chemicalAgentAtmosphericConcentration:airParticles	0.02	chemicalAgentAtmosphericConcentration:airParticles	03:47:43.687000
-2017-10-15	chemicalAgentAtmosphericConcentration:airParticles	0.02	chemicalAgentAtmosphericConcentration:airParticles	05:07:49.408000
-2017-07-07	direction:heading	244	direction:heading	09:43:36.894000
-2017-07-07	relativeHumidity	79	relativeHumidity	09:43:36.895000
-2017-08-02	relativeHumidity	65	relativeHumidity	12:19:47.914000
-2017-08-14	relativeHumidity	64	relativeHumidity	00:40:16.696000
-2017-09-05	relativeHumidity	68	relativeHumidity	09:26:14.153000
-2017-09-07	relativeHumidity	69	relativeHumidity	07:11:17.986000
-2017-10-02	relativeHumidity	71	relativeHumidity	05:17:19.857000
-2017-10-02	relativeHumidity	87	relativeHumidity	13:12:19.686000
-2017-10-12	relativeHumidity	69	relativeHumidity	19:37:43.812000
-2017-10-22	relativeHumidity	65	relativeHumidity	08:23:06.282000
-2017-07-08	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	01:18:38.649000
-2017-08-04	chemicalAgentAtmosphericConcentration:CO	0.4	chemicalAgentAtmosphericConcentration:CO	22:14:54.598000
-2017-08-10	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	21:55:09.847000
-2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.3	chemicalAgentAtmosphericConcentration:CO	00:35:10.026000
-2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	01:10:10.092000
-2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	02:10:09.381000
-2017-08-28	chemicalAgentAtmosphericConcentration:CO	0.7	chemicalAgentAtmosphericConcentration:CO	22:35:54.357000
-2017-09-05	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	20:26:14.402000
-2017-09-06	chemicalAgentAtmosphericConcentration:CO	0.1	chemicalAgentAtmosphericConcentration:CO	04:51:15.285000
-2017-09-07	chemicalAgentAtmosphericConcentration:CO	2.7	chemicalAgentAtmosphericConcentration:CO	08:51:19.224000
-2017-09-29	chemicalAgentAtmosphericConcentration:CO	0.7	chemicalAgentAtmosphericConcentration:CO	19:12:13.251000
-2017-09-29	chemicalAgentAtmosphericConcentration:CO	1.2	chemicalAgentAtmosphericConcentration:CO	19:37:13.312000
-2017-09-29	chemicalAgentAtmosphericConcentration:CO	3.6	chemicalAgentAtmosphericConcentration:CO	20:27:13.483000
-2017-10-13	chemicalAgentAtmosphericConcentration:CO	0.2	chemicalAgentAtmosphericConcentration:CO	20:17:46.350000
-2017-07-29	chemicalAgentAtmosphericConcentration:O3	8	chemicalAgentAtmosphericConcentration:O3	16:24:38.431000
-2017-08-02	chemicalAgentAtmosphericConcentration:O3	7	chemicalAgentAtmosphericConcentration:O3	12:19:47.913000
-2017-09-04	chemicalAgentAtmosphericConcentration:O3	5	chemicalAgentAtmosphericConcentration:O3	19:56:11.746000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	5	chemicalAgentAtmosphericConcentration:O3	13:42:15.975000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	6	chemicalAgentAtmosphericConcentration:O3	13:52:15.957000
-2017-09-30	chemicalAgentAtmosphericConcentration:O3	6	chemicalAgentAtmosphericConcentration:O3	15:47:16.175000
-2017-10-02	chemicalAgentAtmosphericConcentration:O3	4	chemicalAgentAtmosphericConcentration:O3	20:12:20.312000
-2017-10-10	chemicalAgentAtmosphericConcentration:O3	4	chemicalAgentAtmosphericConcentration:O3	10:52:51.750000
-2017-10-23	chemicalAgentAtmosphericConcentration:O3	4	chemicalAgentAtmosphericConcentration:O3	13:03:08.206000
-2017-08-01	mileage:total	11777	mileage:total	08:29:45.046000
-2017-08-30	mileage:total	12090	mileage:total	05:00:57.571000
+date	attribute	attrValue	time
+2017-07-05	temperature:ambient	21.1	11:48:30.743000
+2017-07-07	temperature:ambient	20.3	09:43:36.894000
+2017-07-29	temperature:ambient	24.3	03:24:37.053000
+2017-07-30	temperature:ambient	22.9	17:44:41.030000
+2017-08-30	temperature:ambient	22.3	07:45:58.825000
+2017-09-05	temperature:ambient	25.6	09:26:14.153000
+2017-10-10	temperature:ambient	22.6	10:52:51.750000
+2017-10-12	temperature:ambient	21.5	19:37:43.813000
+2017-10-26	temperature:ambient	21.4	17:13:16.636000
+2017-07-05	position:altitude	7	11:48:30.743000
+2017-07-07	position:altitude	13	09:43:36.892000
+2017-09-05	position:altitude	11	09:26:14.153000
+2017-10-10	position:altitude	14	10:52:51.751000
+2017-10-22	position:altitude	48	08:23:06.283000
+2017-07-07	speed:instantaneous	22	09:43:36.892000
+2017-07-07	chemicalAgentAtmosphericConcentration:airParticles	0.08	09:43:36.893000
+2017-08-05	chemicalAgentAtmosphericConcentration:airParticles	0.04	17:44:55.992000
+2017-08-10	chemicalAgentAtmosphericConcentration:airParticles	0.03	19:20:08.647000
+2017-08-11	chemicalAgentAtmosphericConcentration:airParticles	0.02	15:10:10.714000
+2017-08-12	chemicalAgentAtmosphericConcentration:airParticles	0.01	17:00:13.399000
+2017-08-14	chemicalAgentAtmosphericConcentration:airParticles	0.03	15:15:18.623000
+2017-08-20	chemicalAgentAtmosphericConcentration:airParticles	0.03	14:15:33.183000
+2017-08-22	chemicalAgentAtmosphericConcentration:airParticles	0.12	13:35:38.159000
+2017-08-24	chemicalAgentAtmosphericConcentration:airParticles	0.03	03:05:43.113000
+2017-08-26	chemicalAgentAtmosphericConcentration:airParticles	0.02	18:00:48.846000
+2017-08-27	chemicalAgentAtmosphericConcentration:airParticles	0.03	04:20:49.847000
+2017-09-30	chemicalAgentAtmosphericConcentration:airParticles	0.01	00:22:13.642000
+2017-10-02	chemicalAgentAtmosphericConcentration:airParticles	0.01	20:12:20.312000
+2017-10-10	chemicalAgentAtmosphericConcentration:airParticles	0.02	10:52:51.754000
+2017-10-13	chemicalAgentAtmosphericConcentration:airParticles	0.02	03:47:43.687000
+2017-10-15	chemicalAgentAtmosphericConcentration:airParticles	0.02	05:07:49.408000
+2017-07-07	direction:heading	244	09:43:36.894000
+2017-07-07	relativeHumidity	79	09:43:36.895000
+2017-08-02	relativeHumidity	65	12:19:47.914000
+2017-08-14	relativeHumidity	64	00:40:16.696000
+2017-09-05	relativeHumidity	68	09:26:14.153000
+2017-09-07	relativeHumidity	69	07:11:17.986000
+2017-10-02	relativeHumidity	71	05:17:19.857000
+2017-10-02	relativeHumidity	87	13:12:19.686000
+2017-10-12	relativeHumidity	69	19:37:43.812000
+2017-10-22	relativeHumidity	65	08:23:06.282000
+2017-07-08	chemicalAgentAtmosphericConcentration:CO	0.2	01:18:38.649000
+2017-08-04	chemicalAgentAtmosphericConcentration:CO	0.4	22:14:54.598000
+2017-08-10	chemicalAgentAtmosphericConcentration:CO	0.2	21:55:09.847000
+2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.3	00:35:10.026000
+2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.2	01:10:10.092000
+2017-08-11	chemicalAgentAtmosphericConcentration:CO	0.1	02:10:09.381000
+2017-08-28	chemicalAgentAtmosphericConcentration:CO	0.7	22:35:54.357000
+2017-09-05	chemicalAgentAtmosphericConcentration:CO	0.2	20:26:14.402000
+2017-09-06	chemicalAgentAtmosphericConcentration:CO	0.1	04:51:15.285000
+2017-09-07	chemicalAgentAtmosphericConcentration:CO	2.7	08:51:19.224000
+2017-09-29	chemicalAgentAtmosphericConcentration:CO	0.7	19:12:13.251000
+2017-09-29	chemicalAgentAtmosphericConcentration:CO	1.2	19:37:13.312000
+2017-09-29	chemicalAgentAtmosphericConcentration:CO	3.6	20:27:13.483000
+2017-10-13	chemicalAgentAtmosphericConcentration:CO	0.2	20:17:46.350000
+2017-07-29	chemicalAgentAtmosphericConcentration:O3	8	16:24:38.431000
+2017-08-02	chemicalAgentAtmosphericConcentration:O3	7	12:19:47.913000
+2017-09-04	chemicalAgentAtmosphericConcentration:O3	5	19:56:11.746000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	5	13:42:15.975000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	6	13:52:15.957000
+2017-09-30	chemicalAgentAtmosphericConcentration:O3	6	15:47:16.175000
+2017-10-02	chemicalAgentAtmosphericConcentration:O3	4	20:12:20.312000
+2017-10-10	chemicalAgentAtmosphericConcentration:O3	4	10:52:51.750000
+2017-10-23	chemicalAgentAtmosphericConcentration:O3	4	13:03:08.206000
+2017-08-01	mileage:total	11777	08:29:45.046000
+2017-08-30	mileage:total	12090	05:00:57.571000

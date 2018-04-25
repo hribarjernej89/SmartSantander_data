@@ -1,55 +1,55 @@
-date	attribute	attrValue	attribute	time
-2017-07-07	temperature:ambient	21.59	temperature:ambient	00:38:35.019000
-2017-07-07	temperature:ambient	19.97	temperature:ambient	03:48:35.039000
-2017-07-07	temperature:ambient	19.93	temperature:ambient	06:13:35.910000
-2017-07-07	temperature:ambient	20.32	temperature:ambient	07:18:35.971000
-2017-07-07	temperature:ambient	20.42	temperature:ambient	07:48:35.694000
-2017-07-07	temperature:ambient	21.44	temperature:ambient	10:28:35.981000
-2017-07-07	temperature:ambient	20.95	temperature:ambient	18:28:36.970000
-2017-07-27	temperature:ambient	20.71	temperature:ambient	00:54:32.040000
-2017-07-27	temperature:ambient	25.89	temperature:ambient	16:19:33.781000
-2017-07-27	temperature:ambient	22.43	temperature:ambient	20:14:33.573000
-2017-07-27	temperature:ambient	20.59	temperature:ambient	23:29:34.187000
-2017-07-28	temperature:ambient	22.49	temperature:ambient	22:39:36.019000
-2017-07-30	temperature:ambient	24.57	temperature:ambient	00:54:39.179000
-2017-07-30	temperature:ambient	24.34	temperature:ambient	01:04:39.577000
-2017-08-01	temperature:ambient	22.15	temperature:ambient	19:44:46.789000
-2017-08-01	temperature:ambient	21.52	temperature:ambient	22:54:46.605000
-2017-08-01	temperature:ambient	21.43	temperature:ambient	23:04:46.641000
-2017-08-01	temperature:ambient	21.27	temperature:ambient	23:34:46.566000
-2017-08-02	temperature:ambient	19.57	temperature:ambient	03:34:47.323000
-2017-08-02	temperature:ambient	19.13	temperature:ambient	05:04:47.504000
-2017-08-02	temperature:ambient	30.02	temperature:ambient	16:54:48.390000
-2017-08-02	temperature:ambient	23.59	temperature:ambient	19:24:48.601000
-2017-08-02	temperature:ambient	23.31	temperature:ambient	19:39:48.684000
-2017-08-02	temperature:ambient	23.29	temperature:ambient	20:39:48.657000
-2017-08-02	temperature:ambient	22.98	temperature:ambient	21:44:49.159000
-2017-08-02	temperature:ambient	22.22	temperature:ambient	22:29:48.979000
-2017-08-03	temperature:ambient	21.45	temperature:ambient	00:14:49.297000
-2017-08-03	temperature:ambient	21.28	temperature:ambient	00:34:49.186000
-2017-08-03	temperature:ambient	21.23	temperature:ambient	00:39:49.343000
-2017-07-07	relativeHumidity	85.41	relativeHumidity	02:38:35.024000
-2017-07-07	relativeHumidity	86.92	relativeHumidity	03:53:35.400000
-2017-07-07	relativeHumidity	86.5	relativeHumidity	04:43:35.521000
-2017-07-07	relativeHumidity	87.34	relativeHumidity	05:13:35.490000
-2017-07-07	relativeHumidity	86.22	relativeHumidity	07:18:35.972000
-2017-07-07	relativeHumidity	80.73	relativeHumidity	10:28:35.990000
-2017-07-07	relativeHumidity	78.89	relativeHumidity	16:38:36.961000
-2017-07-07	relativeHumidity	82.13	relativeHumidity	18:18:36.280000
-2017-07-07	relativeHumidity	83.63	relativeHumidity	19:58:36.843000
-2017-07-26	relativeHumidity	74.21	relativeHumidity	22:14:31.890000
-2017-07-26	relativeHumidity	74.42	relativeHumidity	22:29:31.453000
-2017-07-27	relativeHumidity	78.26	relativeHumidity	00:54:32.038000
-2017-07-27	relativeHumidity	84.62	relativeHumidity	23:29:34.184000
-2017-07-28	relativeHumidity	79.76	relativeHumidity	22:59:36.827000
-2017-08-01	relativeHumidity	89.91	relativeHumidity	01:24:44.003000
-2017-08-01	relativeHumidity	89.34	relativeHumidity	02:29:44.568000
-2017-08-01	relativeHumidity	76.46	relativeHumidity	22:29:46.394000
-2017-08-02	relativeHumidity	50.4	relativeHumidity	16:54:48.390000
-2017-08-02	relativeHumidity	73.57	relativeHumidity	19:39:48.684000
-2017-08-02	relativeHumidity	73.62	relativeHumidity	19:59:49.033000
-2017-08-02	relativeHumidity	80.87	relativeHumidity	22:29:48.978000
-2017-08-02	relativeHumidity	82.92	relativeHumidity	23:54:48.859000
-2017-08-02	relativeHumidity	83.04	relativeHumidity	23:59:49.147000
-2017-08-03	relativeHumidity	83.63	relativeHumidity	00:34:49.186000
-2017-08-03	relativeHumidity	86.97	relativeHumidity	05:39:49.954000
+date	attribute	attrValue	time
+2017-07-07	temperature:ambient	21.59	00:38:35.019000
+2017-07-07	temperature:ambient	19.97	03:48:35.039000
+2017-07-07	temperature:ambient	19.93	06:13:35.910000
+2017-07-07	temperature:ambient	20.32	07:18:35.971000
+2017-07-07	temperature:ambient	20.42	07:48:35.694000
+2017-07-07	temperature:ambient	21.44	10:28:35.981000
+2017-07-07	temperature:ambient	20.95	18:28:36.970000
+2017-07-27	temperature:ambient	20.71	00:54:32.040000
+2017-07-27	temperature:ambient	25.89	16:19:33.781000
+2017-07-27	temperature:ambient	22.43	20:14:33.573000
+2017-07-27	temperature:ambient	20.59	23:29:34.187000
+2017-07-28	temperature:ambient	22.49	22:39:36.019000
+2017-07-30	temperature:ambient	24.57	00:54:39.179000
+2017-07-30	temperature:ambient	24.34	01:04:39.577000
+2017-08-01	temperature:ambient	22.15	19:44:46.789000
+2017-08-01	temperature:ambient	21.52	22:54:46.605000
+2017-08-01	temperature:ambient	21.43	23:04:46.641000
+2017-08-01	temperature:ambient	21.27	23:34:46.566000
+2017-08-02	temperature:ambient	19.57	03:34:47.323000
+2017-08-02	temperature:ambient	19.13	05:04:47.504000
+2017-08-02	temperature:ambient	30.02	16:54:48.390000
+2017-08-02	temperature:ambient	23.59	19:24:48.601000
+2017-08-02	temperature:ambient	23.31	19:39:48.684000
+2017-08-02	temperature:ambient	23.29	20:39:48.657000
+2017-08-02	temperature:ambient	22.98	21:44:49.159000
+2017-08-02	temperature:ambient	22.22	22:29:48.979000
+2017-08-03	temperature:ambient	21.45	00:14:49.297000
+2017-08-03	temperature:ambient	21.28	00:34:49.186000
+2017-08-03	temperature:ambient	21.23	00:39:49.343000
+2017-07-07	relativeHumidity	85.41	02:38:35.024000
+2017-07-07	relativeHumidity	86.92	03:53:35.400000
+2017-07-07	relativeHumidity	86.5	04:43:35.521000
+2017-07-07	relativeHumidity	87.34	05:13:35.490000
+2017-07-07	relativeHumidity	86.22	07:18:35.972000
+2017-07-07	relativeHumidity	80.73	10:28:35.990000
+2017-07-07	relativeHumidity	78.89	16:38:36.961000
+2017-07-07	relativeHumidity	82.13	18:18:36.280000
+2017-07-07	relativeHumidity	83.63	19:58:36.843000
+2017-07-26	relativeHumidity	74.21	22:14:31.890000
+2017-07-26	relativeHumidity	74.42	22:29:31.453000
+2017-07-27	relativeHumidity	78.26	00:54:32.038000
+2017-07-27	relativeHumidity	84.62	23:29:34.184000
+2017-07-28	relativeHumidity	79.76	22:59:36.827000
+2017-08-01	relativeHumidity	89.91	01:24:44.003000
+2017-08-01	relativeHumidity	89.34	02:29:44.568000
+2017-08-01	relativeHumidity	76.46	22:29:46.394000
+2017-08-02	relativeHumidity	50.4	16:54:48.390000
+2017-08-02	relativeHumidity	73.57	19:39:48.684000
+2017-08-02	relativeHumidity	73.62	19:59:49.033000
+2017-08-02	relativeHumidity	80.87	22:29:48.978000
+2017-08-02	relativeHumidity	82.92	23:54:48.859000
+2017-08-02	relativeHumidity	83.04	23:59:49.147000
+2017-08-03	relativeHumidity	83.63	00:34:49.186000
+2017-08-03	relativeHumidity	86.97	05:39:49.954000

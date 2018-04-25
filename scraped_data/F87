@@ -1,14 +1,14 @@
-date	attribute	attrValue	attribute	time
-2017-07-26	temperature:ambient	20.32	temperature:ambient	19:09:32.246000
-2017-07-27	temperature:ambient	20.38	temperature:ambient	00:24:32.026000
-2017-07-28	temperature:ambient	19.61	temperature:ambient	01:09:35.461000
-2017-07-28	temperature:ambient	19.54	temperature:ambient	01:44:36.232000
-2017-07-30	temperature:ambient	20.25	temperature:ambient	19:04:42.255000
-2017-08-08	temperature:ambient	19.48	temperature:ambient	10:20:02.702000
-2017-08-09	temperature:ambient	16.58	temperature:ambient	00:30:04.178000
-2017-08-09	temperature:ambient	18.45	temperature:ambient	19:05:07.111000
-2017-08-10	temperature:ambient	21.61	temperature:ambient	16:10:09.309000
-2017-08-11	temperature:ambient	17.93	temperature:ambient	07:55:11.140000
-2017-08-11	temperature:ambient	23.29	temperature:ambient	13:20:11.518000
-2017-08-11	temperature:ambient	18.51	temperature:ambient	21:45:11.938000
-2017-08-12	temperature:ambient	15.41	temperature:ambient	04:40:13.124000
+date	attribute	attrValue	time
+2017-07-26	temperature:ambient	20.32	19:09:32.246000
+2017-07-27	temperature:ambient	20.38	00:24:32.026000
+2017-07-28	temperature:ambient	19.61	01:09:35.461000
+2017-07-28	temperature:ambient	19.54	01:44:36.232000
+2017-07-30	temperature:ambient	20.25	19:04:42.255000
+2017-08-08	temperature:ambient	19.48	10:20:02.702000
+2017-08-09	temperature:ambient	16.58	00:30:04.178000
+2017-08-09	temperature:ambient	18.45	19:05:07.111000
+2017-08-10	temperature:ambient	21.61	16:10:09.309000
+2017-08-11	temperature:ambient	17.93	07:55:11.140000
+2017-08-11	temperature:ambient	23.29	13:20:11.518000
+2017-08-11	temperature:ambient	18.51	21:45:11.938000
+2017-08-12	temperature:ambient	15.41	04:40:13.124000

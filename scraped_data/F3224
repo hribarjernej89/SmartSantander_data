@@ -1,661 +1,957 @@
-date	attribute	attrValue	attribute	time
-2017-11-07	rainFall	0	rainFall	12:23:43.310000
-2017-11-07	temperature:ambient	-39.7	temperature:ambient	12:23:43.310000
-2017-11-07	wind:direction	S	wind:direction	12:23:43.311000
-2017-11-07	wind:direction	W	wind:direction	15:03:43.923000
-2017-11-07	wind:direction	S	wind:direction	16:18:43.799000
-2017-11-07	wind:direction	SE	wind:direction	22:33:44.942000
-2017-11-07	wind:direction	E	wind:direction	22:43:44.904000
-2017-11-07	wind:direction	N	wind:direction	22:53:45.279000
-2017-11-07	wind:direction	E	wind:direction	22:58:45.027000
-2017-11-07	wind:direction	SE	wind:direction	23:08:44.407000
-2017-11-07	wind:direction	N	wind:direction	23:48:44.705000
-2017-11-08	wind:direction	W	wind:direction	00:28:45.501000
-2017-11-08	wind:direction	N	wind:direction	00:33:44.972000
-2017-11-08	wind:direction	W	wind:direction	00:58:45.360000
-2017-11-08	wind:direction	NE	wind:direction	01:58:45.284000
-2017-11-08	wind:direction	W	wind:direction	03:18:45.333000
-2017-11-08	wind:direction	SW	wind:direction	03:28:44.902000
-2017-11-08	wind:direction	W	wind:direction	03:33:45.205000
-2017-11-08	wind:direction	WSW	wind:direction	03:48:45.292000
-2017-11-08	wind:direction	N	wind:direction	03:58:45.786000
-2017-11-08	wind:direction	W	wind:direction	04:08:45.271000
-2017-11-08	wind:direction	ESE	wind:direction	04:13:45.437000
-2017-11-08	wind:direction	SE	wind:direction	04:53:45.466000
-2017-11-08	wind:direction	S	wind:direction	04:58:45.815000
-2017-11-08	wind:direction	SE	wind:direction	06:28:46.445000
-2017-11-08	wind:direction	W	wind:direction	09:58:46.182000
-2017-11-08	wind:direction	N	wind:direction	11:08:45.822000
-2017-11-08	wind:direction	W	wind:direction	11:13:55.368000
-2017-11-20	wind:direction	E	wind:direction	11:24:14.540000
-2017-11-20	wind:direction	ENE	wind:direction	11:34:15.502000
-2017-11-20	wind:direction	NE	wind:direction	11:49:15.578000
-2017-11-20	wind:direction	E	wind:direction	11:59:14.569000
-2017-11-20	wind:direction	S	wind:direction	14:09:15.066000
-2017-11-20	wind:direction	SSE	wind:direction	16:44:15.534000
-2017-11-20	wind:direction	SW	wind:direction	16:49:15.800000
-2017-11-20	wind:direction	S	wind:direction	17:14:16.028000
-2017-11-20	wind:direction	SW	wind:direction	18:29:15.961000
-2017-11-20	wind:direction	SSW	wind:direction	18:49:15.470000
-2017-11-20	wind:direction	SW	wind:direction	18:54:16.077000
-2017-11-20	wind:direction	SSW	wind:direction	19:09:15.562000
-2017-11-20	wind:direction	SW	wind:direction	19:14:16.137000
-2017-11-20	wind:direction	S	wind:direction	19:19:15.559000
-2017-11-20	wind:direction	SSW	wind:direction	19:44:16.122000
-2017-11-20	wind:direction	SW	wind:direction	20:29:15.593000
-2017-11-20	wind:direction	W	wind:direction	22:14:15.527000
-2017-11-20	wind:direction	N	wind:direction	22:49:15.549000
-2017-11-21	wind:direction	W	wind:direction	00:34:16.750000
-2017-11-21	wind:direction	N	wind:direction	00:59:16.526000
-2018-04-12	wind:direction	NNE	wind:direction	15:05:14.571000
-2018-04-12	wind:direction	NE	wind:direction	15:25:14.641000
-2018-04-12	wind:direction	E	wind:direction	16:10:14.109000
-2018-04-12	wind:direction	NE	wind:direction	17:15:14.490000
-2018-04-12	wind:direction	E	wind:direction	17:35:14.412000
-2018-04-12	wind:direction	ENE	wind:direction	18:35:14.584000
-2018-04-12	wind:direction	E	wind:direction	18:40:14.908000
-2018-04-12	wind:direction	NE	wind:direction	18:45:14.454000
-2018-04-12	wind:direction	E	wind:direction	19:00:14.477000
-2018-04-12	wind:direction	E	wind:direction	19:20:14.964000
-2018-04-12	wind:direction	ENE	wind:direction	20:10:14.432000
-2018-04-12	wind:direction	E	wind:direction	21:30:15.158000
-2018-04-13	wind:direction	ENE	wind:direction	03:00:15.119000
-2018-04-13	wind:direction	E	wind:direction	03:05:15.137000
-2018-04-13	wind:direction	SE	wind:direction	10:20:16.243000
-2018-04-14	wind:direction	N	wind:direction	01:45:16.544000
-2018-04-16	wind:direction	SE	wind:direction	10:45:24.312000
-2018-04-16	wind:direction	E	wind:direction	12:25:24.130000
-2018-04-16	wind:direction	NE	wind:direction	15:20:23.169000
-2018-04-16	wind:direction	E	wind:direction	16:40:23.460000
-2018-04-16	wind:direction	NE	wind:direction	19:00:24.267000
-2018-04-16	wind:direction	E	wind:direction	22:55:24.385000
-2018-04-17	wind:direction	W	wind:direction	08:20:26.020000
-2018-04-17	wind:direction	S	wind:direction	09:45:32.343000
-2018-04-17	wind:direction	SSW	wind:direction	10:30:26.566000
-2018-04-17	wind:direction	SW	wind:direction	10:35:30.497000
-2018-04-17	wind:direction	E	wind:direction	12:30:26.661000
-2018-04-17	wind:direction	NE	wind:direction	15:15:26.797000
-2018-04-17	wind:direction	E	wind:direction	20:45:26.866000
-2018-04-17	wind:direction	SE	wind:direction	20:50:27.860000
-2018-04-18	wind:direction	ESE	wind:direction	07:25:28.470000
-2018-04-18	wind:direction	E	wind:direction	08:25:28.244000
-2018-04-18	wind:direction	ENE	wind:direction	10:00:29.336000
-2018-04-18	wind:direction	E	wind:direction	10:05:28.786000
-2018-04-18	wind:direction	S	wind:direction	10:10:29.170000
-2018-04-18	wind:direction	W	wind:direction	10:30:28.764000
-2018-04-18	wind:direction	SW	wind:direction	10:40:29.302000
-2018-04-18	wind:direction	SW	wind:direction	10:50:29.061000
-2018-04-18	wind:direction	S	wind:direction	11:00:29.164000
-2018-04-18	wind:direction	SSW	wind:direction	11:05:28.664000
-2018-04-18	wind:direction	SW	wind:direction	11:10:29.126000
-2018-04-18	wind:direction	S	wind:direction	11:20:28.625000
-2018-04-18	wind:direction	SSW	wind:direction	11:30:29.535000
-2018-04-18	wind:direction	SW	wind:direction	11:35:28.743000
-2018-04-18	wind:direction	SSW	wind:direction	11:45:28.909000
-2018-04-18	wind:direction	SW	wind:direction	11:50:28.804000
-2018-04-18	wind:direction	S	wind:direction	11:55:28.719000
-2018-04-18	wind:direction	SSW	wind:direction	12:00:29.179000
-2018-04-18	wind:direction	W	wind:direction	15:10:29.410000
-2018-04-18	wind:direction	SW	wind:direction	16:35:29.564000
-2018-04-18	wind:direction	SSW	wind:direction	23:05:30.643000
-2018-04-19	wind:direction	S	wind:direction	11:05:31.225000
-2018-04-19	wind:direction	E	wind:direction	16:45:31.956000
-2018-04-19	wind:direction	W	wind:direction	18:55:31.902000
-2018-04-19	wind:direction	S	wind:direction	19:05:32.112000
-2017-11-07	humidity:relative	-2.08	humidity:relative	12:23:43.311000
-2017-11-07	atmosphericPressure	1096.73	atmosphericPressure	14:23:44.472000
-2017-11-07	atmosphericPressure	1094.29	atmosphericPressure	14:33:44.020000
-2017-11-07	atmosphericPressure	1095.51	atmosphericPressure	16:23:44.051000
-2017-11-07	atmosphericPressure	1094.29	atmosphericPressure	16:28:43.898000
-2017-11-07	atmosphericPressure	1095.51	atmosphericPressure	17:13:44.600000
-2017-11-07	atmosphericPressure	1094.29	atmosphericPressure	17:53:44.009000
-2017-11-07	atmosphericPressure	1095.51	atmosphericPressure	17:58:44.653000
-2017-11-07	atmosphericPressure	1096.73	atmosphericPressure	20:33:44.126000
-2017-11-07	atmosphericPressure	1097.95	atmosphericPressure	21:28:44.336000
-2017-11-07	atmosphericPressure	1099.18	atmosphericPressure	22:33:44.941000
-2017-11-07	atmosphericPressure	1097.95	atmosphericPressure	22:53:45.278000
-2017-11-07	atmosphericPressure	1096.73	atmosphericPressure	22:58:45.022000
-2017-11-07	atmosphericPressure	1097.95	atmosphericPressure	23:08:44.406000
-2017-11-07	atmosphericPressure	1096.73	atmosphericPressure	23:13:44.398000
-2017-11-07	atmosphericPressure	1099.18	atmosphericPressure	23:58:45.169000
-2017-11-08	atmosphericPressure	1096.73	atmosphericPressure	00:28:45.499000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	00:33:44.972000
-2017-11-08	atmosphericPressure	1096.73	atmosphericPressure	00:58:45.359000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	01:13:45.031000
-2017-11-08	atmosphericPressure	1096.73	atmosphericPressure	01:53:44.828000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	01:58:45.284000
-2017-11-08	atmosphericPressure	1100.4	atmosphericPressure	03:23:45.004000
-2017-11-08	atmosphericPressure	1099.18	atmosphericPressure	03:28:44.901000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	03:58:45.787000
-2017-11-08	atmosphericPressure	1099.18	atmosphericPressure	04:08:45.268000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	04:18:45.116000
-2017-11-08	atmosphericPressure	1099.18	atmosphericPressure	04:33:45.245000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	06:53:45.212000
-2017-11-08	atmosphericPressure	1099.18	atmosphericPressure	07:13:46.337000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	10:13:45.709000
-2017-11-08	atmosphericPressure	1099.18	atmosphericPressure	10:18:49.840000
-2017-11-08	atmosphericPressure	1097.95	atmosphericPressure	10:38:45.550000
-2017-11-08	atmosphericPressure	1099.18	atmosphericPressure	11:08:45.825000
-2017-11-20	atmosphericPressure	1097.95	atmosphericPressure	11:24:14.538000
-2017-11-20	atmosphericPressure	1096.73	atmosphericPressure	11:29:15.073000
-2017-11-20	atmosphericPressure	1097.95	atmosphericPressure	11:44:14.964000
-2017-11-20	atmosphericPressure	1096.73	atmosphericPressure	11:49:15.576000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	14:14:15.463000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	14:54:15.092000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	16:54:15.328000
-2017-11-20	atmosphericPressure	1093.07	atmosphericPressure	16:59:15.755000
-2017-11-20	atmosphericPressure	1091.84	atmosphericPressure	17:09:15.990000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	17:14:16.027000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	17:54:16.255000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	17:59:15.437000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	18:54:16.077000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	18:59:15.879000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	19:19:15.559000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	19:24:16.003000
-2017-11-20	atmosphericPressure	1096.73	atmosphericPressure	20:09:15.765000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	20:14:16.163000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	21:14:15.389000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	21:19:15.739000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	21:49:16.145000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	22:14:15.527000
-2017-11-20	atmosphericPressure	1096.73	atmosphericPressure	22:19:15.713000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	22:24:15.620000
-2017-11-20	atmosphericPressure	1096.73	atmosphericPressure	22:49:15.548000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	22:54:16.127000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	22:59:16.370000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	23:09:16.263000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	23:44:16.126000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	23:49:16.011000
-2017-11-20	atmosphericPressure	1094.29	atmosphericPressure	23:54:16.021000
-2017-11-20	atmosphericPressure	1095.51	atmosphericPressure	23:59:16.311000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	00:24:15.952000
-2017-11-21	atmosphericPressure	1095.51	atmosphericPressure	00:29:16.083000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	00:39:16.835000
-2017-11-21	atmosphericPressure	1095.51	atmosphericPressure	01:44:16.321000
-2017-11-21	atmosphericPressure	1093.07	atmosphericPressure	03:29:16.565000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	03:39:16.427000
-2017-11-21	atmosphericPressure	1093.07	atmosphericPressure	03:44:16.510000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	04:44:16.637000
-2017-11-21	atmosphericPressure	1093.07	atmosphericPressure	04:49:16.902000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	05:09:16.924000
-2017-11-21	atmosphericPressure	1093.07	atmosphericPressure	05:19:17.188000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	05:49:16.847000
-2017-11-21	atmosphericPressure	1093.07	atmosphericPressure	05:54:16.764000
-2017-11-21	atmosphericPressure	1094.29	atmosphericPressure	06:09:16.642000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	11:10:13.929000
-2018-04-12	atmosphericPressure	1075.96	atmosphericPressure	11:15:14.367000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	11:45:14.252000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	12:25:14.052000
-2018-04-12	atmosphericPressure	1075.96	atmosphericPressure	12:30:14.272000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	12:35:13.670000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	13:20:13.822000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	13:30:14.399000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	13:40:13.897000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	13:45:14.075000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	13:50:20.926000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	14:00:14.484000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	14:15:13.794000
-2018-04-12	atmosphericPressure	1072.29	atmosphericPressure	14:35:13.736000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	14:40:14.524000
-2018-04-12	atmosphericPressure	1072.29	atmosphericPressure	14:55:13.810000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	15:00:14.061000
-2018-04-12	atmosphericPressure	1072.29	atmosphericPressure	15:05:14.573000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	15:30:14.314000
-2018-04-12	atmosphericPressure	1069.85	atmosphericPressure	16:15:14.389000
-2018-04-12	atmosphericPressure	1072.29	atmosphericPressure	16:35:14.784000
-2018-04-12	atmosphericPressure	1071.07	atmosphericPressure	17:35:14.413000
-2018-04-12	atmosphericPressure	1071.07	atmosphericPressure	18:10:14.201000
-2018-04-12	atmosphericPressure	1072.29	atmosphericPressure	18:35:14.583000
-2018-04-12	atmosphericPressure	1071.07	atmosphericPressure	18:45:14.452000
-2018-04-12	atmosphericPressure	1069.85	atmosphericPressure	18:55:15.153000
-2018-04-12	atmosphericPressure	1072.29	atmosphericPressure	19:05:14.207000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	20:10:14.432000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	22:50:15.575000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	23:00:15.129000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	23:05:15.486000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	23:10:15.489000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	23:15:15.230000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	23:20:14.895000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	23:30:15.263000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	23:40:15.147000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	23:45:15.263000
-2018-04-12	atmosphericPressure	1074.74	atmosphericPressure	23:50:15.431000
-2018-04-12	atmosphericPressure	1073.52	atmosphericPressure	23:55:15.057000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	00:15:15.288000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	00:20:15.055000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	00:25:15.120000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	01:00:14.891000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	01:45:15.145000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	01:50:15.447000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	02:00:15.205000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	02:05:15.293000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	02:50:15.388000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	02:55:15.995000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	03:05:15.137000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	03:10:14.955000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	03:20:15.985000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	03:35:15.664000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	03:40:15.919000
-2018-04-13	atmosphericPressure	1075.96	atmosphericPressure	03:50:15.209000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	03:55:15.176000
-2018-04-13	atmosphericPressure	1075.96	atmosphericPressure	04:00:14.991000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	04:05:15.881000
-2018-04-13	atmosphericPressure	1075.96	atmosphericPressure	04:35:15.554000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	04:40:15.961000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	04:45:15.564000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	04:50:16.129000
-2018-04-13	atmosphericPressure	1072.29	atmosphericPressure	04:55:15.729000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	05:00:16.234000
-2018-04-13	atmosphericPressure	1073.52	atmosphericPressure	05:05:15.833000
-2018-04-13	atmosphericPressure	1072.29	atmosphericPressure	05:10:15.827000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	06:00:15.729000
-2018-04-13	atmosphericPressure	1077.18	atmosphericPressure	06:10:16.040000
-2018-04-13	atmosphericPressure	1074.74	atmosphericPressure	06:20:15.470000
-2018-04-13	atmosphericPressure	1075.96	atmosphericPressure	06:30:15.476000
-2018-04-13	atmosphericPressure	1075.96	atmosphericPressure	07:35:15.679000
-2018-04-13	atmosphericPressure	1077.18	atmosphericPressure	07:40:16.368000
-2018-04-13	atmosphericPressure	1078.4	atmosphericPressure	10:20:16.242000
-2018-04-13	atmosphericPressure	1079.63	atmosphericPressure	10:35:20.421000
-2018-04-13	atmosphericPressure	1078.4	atmosphericPressure	11:30:16.702000
-2018-04-13	atmosphericPressure	1079.63	atmosphericPressure	11:35:16.613000
-2018-04-13	atmosphericPressure	1078.4	atmosphericPressure	11:55:16.114000
-2018-04-13	atmosphericPressure	1080.85	atmosphericPressure	12:10:16.709000
-2018-04-13	atmosphericPressure	1079.63	atmosphericPressure	12:15:16.646000
-2018-04-13	atmosphericPressure	1085.74	atmosphericPressure	20:30:16.115000
-2018-04-13	atmosphericPressure	1086.96	atmosphericPressure	21:40:17.028000
-2018-04-13	atmosphericPressure	1088.18	atmosphericPressure	22:10:17.584000
-2018-04-13	atmosphericPressure	1086.96	atmosphericPressure	22:15:17.828000
-2018-04-13	atmosphericPressure	1088.18	atmosphericPressure	23:40:17.631000
-2018-04-14	atmosphericPressure	1086.96	atmosphericPressure	00:45:17.654000
-2018-04-14	atmosphericPressure	1088.18	atmosphericPressure	00:50:17.508000
-2018-04-14	atmosphericPressure	1089.4	atmosphericPressure	02:40:18.092000
-2018-04-14	atmosphericPressure	1088.18	atmosphericPressure	05:30:18.199000
-2018-04-14	atmosphericPressure	1089.4	atmosphericPressure	05:45:18.202000
-2018-04-14	atmosphericPressure	1088.18	atmosphericPressure	06:05:18.289000
-2018-04-14	atmosphericPressure	1089.4	atmosphericPressure	06:10:18.715000
-2018-04-14	atmosphericPressure	1090.62	atmosphericPressure	07:25:18.323000
-2018-04-14	atmosphericPressure	1088.18	atmosphericPressure	07:35:21.083000
-2018-04-14	atmosphericPressure	1089.4	atmosphericPressure	07:50:18.412000
-2018-04-14	atmosphericPressure	1090.62	atmosphericPressure	08:05:18.517000
-2018-04-14	atmosphericPressure	1089.4	atmosphericPressure	08:20:18.628000
-2018-04-14	atmosphericPressure	1090.62	atmosphericPressure	08:25:18.635000
-2018-04-14	atmosphericPressure	1089.4	atmosphericPressure	08:30:18.831000
-2018-04-14	atmosphericPressure	1090.62	atmosphericPressure	08:35:18.865000
-2018-04-16	atmosphericPressure	1093.07	atmosphericPressure	10:55:32.849000
-2018-04-16	atmosphericPressure	1093.07	atmosphericPressure	11:25:24.410000
-2018-04-16	atmosphericPressure	1091.84	atmosphericPressure	14:05:24.374000
-2018-04-16	atmosphericPressure	1090.62	atmosphericPressure	16:20:24.921000
-2018-04-16	atmosphericPressure	1090.62	atmosphericPressure	19:20:24.995000
-2018-04-16	atmosphericPressure	1091.84	atmosphericPressure	19:40:24.454000
-2018-04-16	atmosphericPressure	1090.62	atmosphericPressure	19:45:25.123000
-2018-04-16	atmosphericPressure	1091.84	atmosphericPressure	20:20:24.737000
-2018-04-16	atmosphericPressure	1090.62	atmosphericPressure	20:30:24.886000
-2018-04-16	atmosphericPressure	1091.84	atmosphericPressure	23:00:25.409000
-2018-04-16	atmosphericPressure	1090.62	atmosphericPressure	23:05:25.489000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	00:25:25.650000
-2018-04-17	atmosphericPressure	1091.84	atmosphericPressure	00:30:25.648000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	02:40:24.931000
-2018-04-17	atmosphericPressure	1091.84	atmosphericPressure	02:45:25.661000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	03:25:25.794000
-2018-04-17	atmosphericPressure	1094.29	atmosphericPressure	03:55:24.909000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	04:15:24.945000
-2018-04-17	atmosphericPressure	1091.84	atmosphericPressure	05:50:25.802000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	06:05:26.239000
-2018-04-17	atmosphericPressure	1091.84	atmosphericPressure	06:10:27.309000
-2018-04-17	atmosphericPressure	1091.84	atmosphericPressure	06:25:26.435000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	06:30:25.980000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	07:05:26.215000
-2018-04-17	atmosphericPressure	1094.29	atmosphericPressure	07:10:26.456000
-2018-04-17	atmosphericPressure	1093.07	atmosphericPressure	07:15:26.172000
-2018-04-17	atmosphericPressure	1094.29	atmosphericPressure	07:20:26.056000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	08:10:26.509000
-2018-04-17	atmosphericPressure	1094.29	atmosphericPressure	08:15:25.798000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	08:30:28.487000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	09:00:32.421000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	09:40:25.984000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	09:50:26.366000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	10:25:26.265000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	10:30:26.566000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	10:35:30.496000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	10:45:26.930000
-2018-04-17	atmosphericPressure	1094.29	atmosphericPressure	10:55:26.791000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	11:00:26.362000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	11:45:26.390000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	15:20:26.994000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	21:25:28.033000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	22:05:27.425000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	22:10:27.477000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	22:15:28.064000
-2018-04-17	atmosphericPressure	1096.73	atmosphericPressure	23:00:27.803000
-2018-04-17	atmosphericPressure	1095.51	atmosphericPressure	23:15:28.070000
-2018-04-18	atmosphericPressure	1096.73	atmosphericPressure	00:00:28.077000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	00:25:28.245000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	00:40:28.213000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	00:45:28.043000
-2018-04-18	atmosphericPressure	1096.73	atmosphericPressure	01:25:27.541000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	01:30:27.434000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	01:35:27.921000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	01:40:28.248000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	02:10:28.254000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	02:25:28.125000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	02:30:28.299000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	02:35:28.159000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	02:40:27.926000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	03:00:28.380000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	03:20:27.891000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	03:45:28.565000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	03:50:28.710000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	04:00:27.875000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	04:05:28.132000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	04:15:28.550000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	04:25:28.259000
-2018-04-18	atmosphericPressure	1091.84	atmosphericPressure	04:40:28.035000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	04:50:27.864000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	05:05:28.785000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	05:10:28.388000
-2018-04-18	atmosphericPressure	1091.84	atmosphericPressure	05:25:27.945000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	05:30:28.554000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	05:40:28.430000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	05:50:28.595000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	05:55:28.327000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	06:00:28.278000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	06:10:28.785000
-2018-04-18	atmosphericPressure	1091.84	atmosphericPressure	06:50:29.062000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	06:55:28.541000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	07:40:28.464000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	07:45:29.051000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	07:50:28.545000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	08:00:29.046000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	08:05:28.877000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	08:15:29.112000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	08:25:28.245000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	08:50:28.618000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	09:25:29.062000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	09:30:29.047000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	09:35:29.425000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	09:40:28.949000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	09:45:28.939000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	10:05:28.787000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	10:10:29.168000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	11:00:29.164000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	11:05:28.664000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	11:20:28.625000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	12:00:29.180000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	12:05:29.209000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	16:45:29.201000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	16:50:29.899000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	20:00:29.558000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	20:05:30.225000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	20:25:29.380000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	20:30:30.180000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	21:05:29.807000
-2018-04-18	atmosphericPressure	1093.07	atmosphericPressure	21:25:29.517000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	21:30:29.676000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	21:55:29.842000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	22:00:30.385000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	23:15:29.786000
-2018-04-18	atmosphericPressure	1094.29	atmosphericPressure	23:40:30.701000
-2018-04-18	atmosphericPressure	1095.51	atmosphericPressure	23:45:30.740000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	00:10:29.868000
-2018-04-19	atmosphericPressure	1093.07	atmosphericPressure	01:10:30.027000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	01:15:31.417000
-2018-04-19	atmosphericPressure	1093.07	atmosphericPressure	01:20:30.337000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	01:25:30.169000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	02:05:30.564000
-2018-04-19	atmosphericPressure	1091.84	atmosphericPressure	02:15:30.699000
-2018-04-19	atmosphericPressure	1093.07	atmosphericPressure	03:20:31.339000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	04:20:30.966000
-2018-04-19	atmosphericPressure	1093.07	atmosphericPressure	06:25:30.854000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	06:30:30.699000
-2018-04-19	atmosphericPressure	1095.51	atmosphericPressure	11:05:31.224000
-2018-04-19	atmosphericPressure	1094.29	atmosphericPressure	12:05:30.892000
-2018-04-19	atmosphericPressure	1093.07	atmosphericPressure	16:45:31.958000
-2018-04-19	atmosphericPressure	1091.84	atmosphericPressure	18:55:31.903000
-2017-11-07	solarRadiation	49.05	solarRadiation	14:23:44.473000
-2017-11-07	solarRadiation	32.7	solarRadiation	14:33:44.021000
-2017-11-07	solarRadiation	16.35	solarRadiation	15:03:43.922000
-2017-11-07	solarRadiation	0	solarRadiation	16:18:43.803000
-2017-11-08	solarRadiation	32.7	solarRadiation	09:58:46.184000
-2017-11-08	solarRadiation	49.05	solarRadiation	10:18:49.842000
-2017-11-08	solarRadiation	16.35	solarRadiation	10:33:45.895000
-2017-11-08	solarRadiation	32.7	solarRadiation	11:08:45.826000
-2017-11-08	solarRadiation	98.1	solarRadiation	11:13:55.370000
-2017-11-08	solarRadiation	179.85	solarRadiation	11:19:06.618000
-2017-11-20	solarRadiation	277.95	solarRadiation	11:49:15.580000
-2017-11-20	solarRadiation	294.3	solarRadiation	12:04:14.488000
-2017-11-20	solarRadiation	261.6	solarRadiation	14:09:15.067000
-2017-11-20	solarRadiation	212.55	solarRadiation	14:14:15.465000
-2017-11-20	solarRadiation	130.8	solarRadiation	14:39:23.786000
-2017-11-20	solarRadiation	98.1	solarRadiation	14:44:42.011000
-2017-11-20	solarRadiation	114.45	solarRadiation	14:54:15.092000
-2017-11-20	solarRadiation	0	solarRadiation	16:44:15.535000
-2018-04-12	solarRadiation	474.15	solarRadiation	11:20:16.007000
-2018-04-12	solarRadiation	343.35	solarRadiation	11:30:16.595000
-2018-04-12	solarRadiation	539.55	solarRadiation	11:40:13.464000
-2018-04-12	solarRadiation	588.6	solarRadiation	11:50:15.075000
-2018-04-12	solarRadiation	539.55	solarRadiation	12:10:14.208000
-2018-04-12	solarRadiation	490.5	solarRadiation	12:15:13.940000
-2018-04-12	solarRadiation	425.1	solarRadiation	12:20:14.260000
-2018-04-12	solarRadiation	490.5	solarRadiation	12:25:14.052000
-2018-04-12	solarRadiation	474.15	solarRadiation	12:30:14.268000
-2018-04-12	solarRadiation	539.55	solarRadiation	12:35:13.670000
-2018-04-12	solarRadiation	523.2	solarRadiation	12:40:16.520000
-2018-04-12	solarRadiation	490.5	solarRadiation	12:50:14.183000
-2018-04-12	solarRadiation	474.15	solarRadiation	13:25:14.222000
-2018-04-12	solarRadiation	425.1	solarRadiation	13:30:14.398000
-2018-04-12	solarRadiation	457.8	solarRadiation	13:35:14.585000
-2018-04-12	solarRadiation	441.45	solarRadiation	13:40:13.897000
-2018-04-12	solarRadiation	457.8	solarRadiation	13:45:14.075000
-2018-04-12	solarRadiation	408.75	solarRadiation	14:00:14.485000
-2018-04-12	solarRadiation	457.8	solarRadiation	14:05:14.033000
-2018-04-12	solarRadiation	441.45	solarRadiation	14:25:14.647000
-2018-04-12	solarRadiation	425.1	solarRadiation	14:30:19.632000
-2018-04-12	solarRadiation	425.1	solarRadiation	14:40:14.524000
-2018-04-12	solarRadiation	408.75	solarRadiation	14:45:14.605000
-2018-04-12	solarRadiation	376.05	solarRadiation	14:50:13.982000
-2018-04-12	solarRadiation	343.35	solarRadiation	15:00:14.057000
-2018-04-12	solarRadiation	228.9	solarRadiation	15:05:14.580000
-2018-04-12	solarRadiation	343.35	solarRadiation	15:10:15.983000
-2018-04-12	solarRadiation	277.95	solarRadiation	15:20:14.301000
-2018-04-12	solarRadiation	310.65	solarRadiation	15:45:14.300000
-2018-04-12	solarRadiation	277.95	solarRadiation	16:00:14.399000
-2018-04-12	solarRadiation	261.6	solarRadiation	16:05:14.718000
-2018-04-12	solarRadiation	228.9	solarRadiation	16:10:14.107000
-2018-04-12	solarRadiation	212.55	solarRadiation	16:15:14.390000
-2018-04-12	solarRadiation	179.85	solarRadiation	16:35:14.784000
-2018-04-12	solarRadiation	196.2	solarRadiation	16:40:14.488000
-2018-04-12	solarRadiation	179.85	solarRadiation	16:45:14.509000
-2018-04-12	solarRadiation	163.5	solarRadiation	16:50:14.495000
-2018-04-12	solarRadiation	130.8	solarRadiation	17:10:14.474000
-2018-04-12	solarRadiation	114.45	solarRadiation	17:15:14.490000
-2018-04-12	solarRadiation	98.1	solarRadiation	17:20:14.508000
-2018-04-12	solarRadiation	32.7	solarRadiation	17:30:14.578000
-2018-04-12	solarRadiation	65.4	solarRadiation	17:35:14.412000
-2018-04-12	solarRadiation	49.05	solarRadiation	17:50:14.720000
-2018-04-12	solarRadiation	16.35	solarRadiation	18:10:14.202000
-2018-04-12	solarRadiation	0	solarRadiation	18:30:14.728000
-2018-04-13	solarRadiation	16.35	solarRadiation	06:20:15.471000
-2018-04-13	solarRadiation	32.7	solarRadiation	06:45:15.907000
-2018-04-13	solarRadiation	49.05	solarRadiation	06:55:15.786000
-2018-04-13	solarRadiation	65.4	solarRadiation	07:00:16.534000
-2018-04-13	solarRadiation	147.15	solarRadiation	07:35:15.681000
-2018-04-13	solarRadiation	114.45	solarRadiation	07:40:16.368000
-2018-04-13	solarRadiation	65.4	solarRadiation	08:05:16.304000
-2018-04-13	solarRadiation	114.45	solarRadiation	08:15:16.440000
-2018-04-13	solarRadiation	294.3	solarRadiation	10:20:16.242000
-2018-04-13	solarRadiation	245.25	solarRadiation	10:25:16.351000
-2018-04-13	solarRadiation	294.3	solarRadiation	10:30:16.414000
-2018-04-13	solarRadiation	425.1	solarRadiation	10:35:20.420000
-2018-04-13	solarRadiation	359.7	solarRadiation	10:45:17.328000
-2018-04-13	solarRadiation	441.45	solarRadiation	11:25:16.213000
-2018-04-13	solarRadiation	425.1	solarRadiation	11:30:16.702000
-2018-04-13	solarRadiation	327	solarRadiation	11:35:16.613000
-2018-04-13	solarRadiation	245.25	solarRadiation	11:40:16.763000
-2018-04-13	solarRadiation	261.6	solarRadiation	11:45:17.051000
-2018-04-13	solarRadiation	245.25	solarRadiation	11:50:16.853000
-2018-04-13	solarRadiation	261.6	solarRadiation	11:55:16.114000
-2018-04-13	solarRadiation	327	solarRadiation	12:20:16.963000
-2018-04-13	solarRadiation	0	solarRadiation	20:30:16.115000
-2018-04-14	solarRadiation	16.35	solarRadiation	07:20:18.668000
-2018-04-14	solarRadiation	32.7	solarRadiation	07:35:21.085000
-2018-04-14	solarRadiation	49.05	solarRadiation	07:50:18.412000
-2018-04-14	solarRadiation	65.4	solarRadiation	07:55:19.075000
-2018-04-14	solarRadiation	81.75	solarRadiation	08:00:18.608000
-2018-04-14	solarRadiation	98.1	solarRadiation	08:05:18.518000
-2018-04-14	solarRadiation	114.45	solarRadiation	08:25:18.635000
-2018-04-14	solarRadiation	212.55	solarRadiation	08:35:18.865000
-2018-04-14	solarRadiation	310.65	solarRadiation	08:40:18.506000
-2018-04-16	solarRadiation	572.25	solarRadiation	11:25:24.410000
-2018-04-16	solarRadiation	474.15	solarRadiation	14:05:24.374000
-2018-04-16	solarRadiation	343.35	solarRadiation	15:20:23.169000
-2018-04-16	solarRadiation	212.55	solarRadiation	16:20:24.922000
-2018-04-16	solarRadiation	16.35	solarRadiation	18:20:24.530000
-2018-04-16	solarRadiation	0	solarRadiation	19:00:24.269000
-2018-04-17	solarRadiation	16.35	solarRadiation	05:55:25.738000
-2018-04-17	solarRadiation	49.05	solarRadiation	06:10:27.309000
-2018-04-17	solarRadiation	81.75	solarRadiation	06:25:26.438000
-2018-04-17	solarRadiation	98.1	solarRadiation	06:30:25.980000
-2018-04-17	solarRadiation	130.8	solarRadiation	06:45:26.013000
-2018-04-17	solarRadiation	147.15	solarRadiation	06:50:25.706000
-2018-04-17	solarRadiation	163.5	solarRadiation	06:55:25.993000
-2018-04-17	solarRadiation	179.85	solarRadiation	07:05:26.215000
-2018-04-17	solarRadiation	196.2	solarRadiation	07:10:26.456000
-2018-04-17	solarRadiation	212.55	solarRadiation	07:15:26.172000
-2018-04-17	solarRadiation	228.9	solarRadiation	07:25:25.751000
-2018-04-17	solarRadiation	245.25	solarRadiation	07:30:25.827000
-2018-04-17	solarRadiation	261.6	solarRadiation	07:40:25.788000
-2018-04-17	solarRadiation	277.95	solarRadiation	07:45:25.926000
-2018-04-17	solarRadiation	294.3	solarRadiation	07:55:26.006000
-2018-04-17	solarRadiation	359.7	solarRadiation	08:25:26.579000
-2018-04-17	solarRadiation	376.05	solarRadiation	08:30:28.486000
-2018-04-17	solarRadiation	392.4	solarRadiation	08:40:25.851000
-2018-04-17	solarRadiation	408.75	solarRadiation	08:50:26.797000
-2018-04-17	solarRadiation	425.1	solarRadiation	08:55:25.957000
-2018-04-17	solarRadiation	457.8	solarRadiation	09:25:26.375000
-2018-04-17	solarRadiation	474.15	solarRadiation	09:35:26.711000
-2018-04-17	solarRadiation	490.5	solarRadiation	09:45:32.343000
-2018-04-17	solarRadiation	506.85	solarRadiation	09:55:25.811000
-2018-04-17	solarRadiation	539.55	solarRadiation	10:25:26.266000
-2018-04-17	solarRadiation	555.9	solarRadiation	10:45:26.930000
-2018-04-17	solarRadiation	572.25	solarRadiation	11:25:25.917000
-2018-04-17	solarRadiation	555.9	solarRadiation	12:30:26.659000
-2018-04-17	solarRadiation	539.55	solarRadiation	12:35:26.881000
-2018-04-17	solarRadiation	327	solarRadiation	15:20:26.994000
-2018-04-17	solarRadiation	0	solarRadiation	20:45:26.866000
-2018-04-18	solarRadiation	49.05	solarRadiation	06:10:28.785000
-2018-04-18	solarRadiation	65.4	solarRadiation	06:15:28.469000
-2018-04-18	solarRadiation	81.75	solarRadiation	06:25:28.286000
-2018-04-18	solarRadiation	98.1	solarRadiation	06:30:28.287000
-2018-04-18	solarRadiation	114.45	solarRadiation	06:40:28.378000
-2018-04-18	solarRadiation	130.8	solarRadiation	06:45:28.695000
-2018-04-18	solarRadiation	147.15	solarRadiation	06:50:29.061000
-2018-04-18	solarRadiation	163.5	solarRadiation	06:55:28.540000
-2018-04-18	solarRadiation	212.55	solarRadiation	07:20:28.212000
-2018-04-18	solarRadiation	228.9	solarRadiation	07:25:28.467000
-2018-04-18	solarRadiation	245.25	solarRadiation	07:30:28.744000
-2018-04-18	solarRadiation	261.6	solarRadiation	07:40:28.464000
-2018-04-18	solarRadiation	245.25	solarRadiation	07:45:29.052000
-2018-04-18	solarRadiation	294.3	solarRadiation	07:55:28.470000
-2018-04-18	solarRadiation	310.65	solarRadiation	08:15:29.110000
-2018-04-18	solarRadiation	343.35	solarRadiation	08:20:28.832000
-2018-04-18	solarRadiation	376.05	solarRadiation	08:30:29.165000
-2018-04-18	solarRadiation	343.35	solarRadiation	08:35:28.821000
-2018-04-18	solarRadiation	392.4	solarRadiation	08:40:28.823000
-2018-04-18	solarRadiation	441.45	solarRadiation	09:10:28.717000
-2018-04-18	solarRadiation	490.5	solarRadiation	10:10:29.170000
-2018-04-18	solarRadiation	506.85	solarRadiation	10:15:28.655000
-2018-04-18	solarRadiation	539.55	solarRadiation	10:20:28.675000
-2018-04-18	solarRadiation	506.85	solarRadiation	12:00:29.179000
-2018-04-18	solarRadiation	555.9	solarRadiation	12:05:29.209000
-2018-04-18	solarRadiation	343.35	solarRadiation	15:10:29.410000
-2018-04-18	solarRadiation	196.2	solarRadiation	16:35:29.565000
-2018-04-18	solarRadiation	179.85	solarRadiation	16:40:29.518000
-2018-04-18	solarRadiation	163.5	solarRadiation	16:50:29.898000
-2018-04-18	solarRadiation	98.1	solarRadiation	17:30:29.607000
-2018-04-18	solarRadiation	0	solarRadiation	20:00:29.559000
-2018-04-19	solarRadiation	65.4	solarRadiation	06:25:30.854000
-2018-04-19	solarRadiation	81.75	solarRadiation	06:30:30.698000
-2018-04-19	solarRadiation	539.55	solarRadiation	11:05:31.225000
-2018-04-19	solarRadiation	555.9	solarRadiation	12:05:30.895000
-2018-04-19	solarRadiation	245.25	solarRadiation	16:45:31.956000
-2018-04-19	solarRadiation	0	solarRadiation	18:55:31.902000
-2017-11-07	wind:speed	9	wind:speed	15:03:43.922000
-2017-11-07	wind:speed	10	wind:speed	16:18:43.801000
-2017-11-07	wind:speed	6	wind:speed	16:23:44.052000
-2017-11-07	wind:speed	11	wind:speed	16:28:43.897000
-2017-11-07	wind:speed	12	wind:speed	17:13:44.601000
-2017-11-07	wind:speed	19	wind:speed	17:53:44.009000
-2017-11-07	wind:speed	6	wind:speed	17:58:44.652000
-2017-11-07	wind:speed	9	wind:speed	18:03:44.466000
-2017-11-07	wind:speed	8	wind:speed	20:33:44.126000
-2017-11-07	wind:speed	11	wind:speed	20:58:45.082000
-2017-11-07	wind:speed	6	wind:speed	21:13:44.658000
-2017-11-07	wind:speed	13	wind:speed	21:18:44.856000
-2017-11-07	wind:speed	5	wind:speed	22:33:44.941000
-2017-11-07	wind:speed	1	wind:speed	22:43:44.905000
-2017-11-07	wind:speed	6	wind:speed	22:53:45.280000
-2017-11-07	wind:speed	7	wind:speed	22:58:45.026000
-2017-11-07	wind:speed	4	wind:speed	23:13:44.399000
-2017-11-07	wind:speed	11	wind:speed	23:48:44.705000
-2017-11-07	wind:speed	5	wind:speed	23:53:44.375000
-2017-11-07	wind:speed	6	wind:speed	23:58:45.169000
-2017-11-08	wind:speed	8	wind:speed	00:28:45.501000
-2017-11-08	wind:speed	13	wind:speed	00:33:44.973000
-2017-11-08	wind:speed	12	wind:speed	00:58:45.360000
-2017-11-08	wind:speed	5	wind:speed	01:13:45.031000
-2017-11-08	wind:speed	7	wind:speed	01:53:44.828000
-2017-11-08	wind:speed	8	wind:speed	01:58:45.287000
-2017-11-08	wind:speed	10	wind:speed	03:28:44.903000
-2017-11-08	wind:speed	14	wind:speed	03:33:45.205000
-2017-11-08	wind:speed	6	wind:speed	03:53:45.301000
-2017-11-08	wind:speed	4	wind:speed	03:58:45.787000
-2017-11-08	wind:speed	15	wind:speed	04:03:45.852000
-2017-11-08	wind:speed	8	wind:speed	04:08:45.271000
-2017-11-08	wind:speed	21	wind:speed	04:13:45.438000
-2017-11-08	wind:speed	0	wind:speed	04:33:45.244000
-2017-11-08	wind:speed	9	wind:speed	05:13:45.679000
-2017-11-08	wind:speed	10	wind:speed	06:48:45.549000
-2017-11-08	wind:speed	7	wind:speed	06:58:45.092000
-2017-11-08	wind:speed	6	wind:speed	07:13:46.337000
-2017-11-08	wind:speed	15	wind:speed	09:58:46.182000
-2017-11-08	wind:speed	10	wind:speed	10:03:46.296000
-2017-11-08	wind:speed	12	wind:speed	10:08:46.445000
-2017-11-08	wind:speed	10	wind:speed	10:18:49.842000
-2017-11-08	wind:speed	12	wind:speed	10:33:45.895000
-2017-11-08	wind:speed	8	wind:speed	11:08:45.823000
-2017-11-08	wind:speed	12	wind:speed	11:13:55.369000
-2017-11-08	wind:speed	13	wind:speed	11:19:06.618000
-2017-11-20	wind:speed	2	wind:speed	11:29:15.074000
-2017-11-20	wind:speed	4	wind:speed	11:34:15.502000
-2017-11-20	wind:speed	7	wind:speed	11:39:33.457000
-2017-11-20	wind:speed	8	wind:speed	11:54:27.072000
-2017-11-20	wind:speed	7	wind:speed	12:04:14.487000
-2017-11-20	wind:speed	6	wind:speed	14:09:15.067000
-2017-11-20	wind:speed	4	wind:speed	14:14:15.465000
-2017-11-20	wind:speed	3	wind:speed	14:39:23.786000
-2017-11-20	wind:speed	4	wind:speed	14:44:42.012000
-2017-11-20	wind:speed	7	wind:speed	14:59:24.102000
-2017-11-20	wind:speed	0	wind:speed	16:44:15.534000
-2017-11-20	wind:speed	5	wind:speed	22:59:16.370000
-2017-11-20	wind:speed	1	wind:speed	23:09:16.266000
-2017-11-20	wind:speed	1	wind:speed	23:44:16.127000
-2017-11-20	wind:speed	7	wind:speed	23:49:16.011000
-2017-11-20	wind:speed	3	wind:speed	23:54:16.021000
-2017-11-20	wind:speed	4	wind:speed	23:59:16.311000
-2017-11-21	wind:speed	3	wind:speed	00:24:15.952000
-2017-11-21	wind:speed	5	wind:speed	00:29:16.083000
-2017-11-21	wind:speed	2	wind:speed	00:34:16.751000
-2017-11-21	wind:speed	6	wind:speed	00:39:16.835000
-2017-11-21	wind:speed	3	wind:speed	00:44:16.323000
-2017-11-21	wind:speed	5	wind:speed	00:54:16.160000
-2017-11-21	wind:speed	4	wind:speed	00:59:16.526000
-2017-11-21	wind:speed	6	wind:speed	01:09:16.436000
-2017-11-21	wind:speed	2	wind:speed	01:14:16.265000
-2017-11-21	wind:speed	4	wind:speed	01:19:16.335000
-2017-11-21	wind:speed	1	wind:speed	01:24:16.391000
-2017-11-21	wind:speed	3	wind:speed	01:34:16.712000
-2017-11-21	wind:speed	2	wind:speed	01:44:16.321000
-2017-11-21	wind:speed	1	wind:speed	02:29:16.385000
-2017-11-21	wind:speed	0	wind:speed	02:34:16.729000
-2018-04-17	wind:speed	1	wind:speed	10:30:26.568000
-2018-04-17	wind:speed	0	wind:speed	10:35:30.496000
+date	attribute	attrValue	time
+2017-11-07	rainFall	0	12:23:43.310000
+2017-11-07	temperature:ambient	-39.7	12:23:43.310000
+2017-11-07	wind:direction	S	12:23:43.311000
+2017-11-07	wind:direction	W	15:03:43.923000
+2017-11-07	wind:direction	S	16:18:43.799000
+2017-11-07	wind:direction	SE	22:33:44.942000
+2017-11-07	wind:direction	E	22:43:44.904000
+2017-11-07	wind:direction	N	22:53:45.279000
+2017-11-07	wind:direction	E	22:58:45.027000
+2017-11-07	wind:direction	SE	23:08:44.407000
+2017-11-07	wind:direction	N	23:48:44.705000
+2017-11-08	wind:direction	W	00:28:45.501000
+2017-11-08	wind:direction	N	00:33:44.972000
+2017-11-08	wind:direction	W	00:58:45.360000
+2017-11-08	wind:direction	NE	01:58:45.284000
+2017-11-08	wind:direction	W	03:18:45.333000
+2017-11-08	wind:direction	SW	03:28:44.902000
+2017-11-08	wind:direction	W	03:33:45.205000
+2017-11-08	wind:direction	WSW	03:48:45.292000
+2017-11-08	wind:direction	N	03:58:45.786000
+2017-11-08	wind:direction	W	04:08:45.271000
+2017-11-08	wind:direction	ESE	04:13:45.437000
+2017-11-08	wind:direction	SE	04:53:45.466000
+2017-11-08	wind:direction	S	04:58:45.815000
+2017-11-08	wind:direction	SE	06:28:46.445000
+2017-11-08	wind:direction	W	09:58:46.182000
+2017-11-08	wind:direction	N	11:08:45.822000
+2017-11-08	wind:direction	W	11:13:55.368000
+2017-11-20	wind:direction	E	11:24:14.540000
+2017-11-20	wind:direction	ENE	11:34:15.502000
+2017-11-20	wind:direction	NE	11:49:15.578000
+2017-11-20	wind:direction	E	11:59:14.569000
+2017-11-20	wind:direction	S	14:09:15.066000
+2017-11-20	wind:direction	SSE	16:44:15.534000
+2017-11-20	wind:direction	SW	16:49:15.800000
+2017-11-20	wind:direction	S	17:14:16.028000
+2017-11-20	wind:direction	SW	18:29:15.961000
+2017-11-20	wind:direction	SSW	18:49:15.470000
+2017-11-20	wind:direction	SW	18:54:16.077000
+2017-11-20	wind:direction	SSW	19:09:15.562000
+2017-11-20	wind:direction	SW	19:14:16.137000
+2017-11-20	wind:direction	S	19:19:15.559000
+2017-11-20	wind:direction	SSW	19:44:16.122000
+2017-11-20	wind:direction	SW	20:29:15.593000
+2017-11-20	wind:direction	W	22:14:15.527000
+2017-11-20	wind:direction	N	22:49:15.549000
+2017-11-21	wind:direction	W	00:34:16.750000
+2017-11-21	wind:direction	N	00:59:16.526000
+2018-04-12	wind:direction	NNE	15:05:14.571000
+2018-04-12	wind:direction	NE	15:25:14.641000
+2018-04-12	wind:direction	E	16:10:14.109000
+2018-04-12	wind:direction	NE	17:15:14.490000
+2018-04-12	wind:direction	E	17:35:14.412000
+2018-04-12	wind:direction	ENE	18:35:14.584000
+2018-04-12	wind:direction	E	18:40:14.908000
+2018-04-12	wind:direction	NE	18:45:14.454000
+2018-04-12	wind:direction	E	19:00:14.477000
+2018-04-12	wind:direction	E	19:20:14.964000
+2018-04-12	wind:direction	ENE	20:10:14.432000
+2018-04-12	wind:direction	E	21:30:15.158000
+2018-04-13	wind:direction	ENE	03:00:15.119000
+2018-04-13	wind:direction	E	03:05:15.137000
+2018-04-13	wind:direction	SE	10:20:16.243000
+2018-04-14	wind:direction	N	01:45:16.544000
+2018-04-16	wind:direction	SE	10:45:24.312000
+2018-04-16	wind:direction	E	12:25:24.130000
+2018-04-16	wind:direction	NE	15:20:23.169000
+2018-04-16	wind:direction	E	16:40:23.460000
+2018-04-16	wind:direction	NE	19:00:24.267000
+2018-04-16	wind:direction	E	22:55:24.385000
+2018-04-17	wind:direction	W	08:20:26.020000
+2018-04-17	wind:direction	S	09:45:32.343000
+2018-04-17	wind:direction	SSW	10:30:26.566000
+2018-04-17	wind:direction	SW	10:35:30.497000
+2018-04-17	wind:direction	E	12:30:26.661000
+2018-04-17	wind:direction	NE	15:15:26.797000
+2018-04-17	wind:direction	E	20:45:26.866000
+2018-04-17	wind:direction	SE	20:50:27.860000
+2018-04-18	wind:direction	ESE	07:25:28.470000
+2018-04-18	wind:direction	E	08:25:28.244000
+2018-04-18	wind:direction	ENE	10:00:29.336000
+2018-04-18	wind:direction	E	10:05:28.786000
+2018-04-18	wind:direction	S	10:10:29.170000
+2018-04-18	wind:direction	W	10:30:28.764000
+2018-04-18	wind:direction	SW	10:40:29.302000
+2018-04-18	wind:direction	SW	10:50:29.061000
+2018-04-18	wind:direction	S	11:00:29.164000
+2018-04-18	wind:direction	SSW	11:05:28.664000
+2018-04-18	wind:direction	SW	11:10:29.126000
+2018-04-18	wind:direction	S	11:20:28.625000
+2018-04-18	wind:direction	SSW	11:30:29.535000
+2018-04-18	wind:direction	SW	11:35:28.743000
+2018-04-18	wind:direction	SSW	11:45:28.909000
+2018-04-18	wind:direction	SW	11:50:28.804000
+2018-04-18	wind:direction	S	11:55:28.719000
+2018-04-18	wind:direction	SSW	12:00:29.179000
+2018-04-18	wind:direction	W	15:10:29.410000
+2018-04-18	wind:direction	SW	16:35:29.564000
+2018-04-18	wind:direction	SSW	23:05:30.643000
+2018-04-19	wind:direction	S	11:05:31.225000
+2018-04-19	wind:direction	E	16:45:31.956000
+2018-04-19	wind:direction	W	18:55:31.902000
+2018-04-19	wind:direction	S	19:05:32.112000
+2018-04-20	wind:direction	ESE	13:10:34.276000
+2018-04-20	wind:direction	E	13:15:35.626000
+2018-04-20	wind:direction	ESE	14:10:41.707000
+2018-04-20	wind:direction	E	16:35:34.266000
+2018-04-20	wind:direction	NE	16:50:34.302000
+2018-04-20	wind:direction	E	17:35:34.146000
+2018-04-20	wind:direction	NE	17:55:34.632000
+2018-04-20	wind:direction	N	18:10:34.724000
+2018-04-20	wind:direction	NE	18:30:35.188000
+2018-04-20	wind:direction	ENE	18:40:35.121000
+2018-04-20	wind:direction	ENE	19:15:35.450000
+2018-04-20	wind:direction	E	19:20:34.917000
+2018-04-20	wind:direction	NE	19:30:34.751000
+2018-04-20	wind:direction	E	19:35:35.068000
+2018-04-20	wind:direction	ENE	19:55:34.581000
+2018-04-20	wind:direction	NE	20:00:35.309000
+2018-04-21	wind:direction	W	02:20:36.075000
+2018-04-21	wind:direction	SSW	03:05:35.686000
+2018-04-21	wind:direction	WSW	03:10:35.406000
+2018-04-21	wind:direction	S	03:35:35.800000
+2018-04-21	wind:direction	W	05:15:35.696000
+2018-04-21	wind:direction	SW	06:10:35.905000
+2018-04-21	wind:direction	SSW	06:20:35.735000
+2018-04-21	wind:direction	SW	06:25:36.471000
+2018-04-21	wind:direction	SE	08:15:41.811000
+2018-04-21	wind:direction	N	15:30:37.417000
+2018-04-22	wind:direction	W	03:15:38.193000
+2018-04-22	wind:direction	SW	09:20:39.437000
+2018-04-22	wind:direction	SE	11:40:38.525000
+2018-04-22	wind:direction	N	15:20:39.891000
+2018-04-22	wind:direction	S	16:20:38.908000
+2018-04-22	wind:direction	W	16:25:39.489000
+2018-04-22	wind:direction	SE	17:05:39.528000
+2018-04-22	wind:direction	N	18:15:40.168000
+2018-04-23	wind:direction	NNE	14:25:41.535000
+2018-04-23	wind:direction	NE	14:30:41.690000
+2018-04-23	wind:direction	ENE	23:20:41.738000
+2018-04-23	wind:direction	E	23:25:43.214000
+2018-04-23	wind:direction	NE	23:35:42.467000
+2018-04-23	wind:direction	ENE	23:40:43.330000
+2018-04-23	wind:direction	E	23:45:42.525000
+2018-04-23	wind:direction	ENE	23:55:42.828000
+2018-04-24	wind:direction	E	00:15:42.204000
+2018-04-24	wind:direction	SE	00:45:42.891000
+2018-04-24	wind:direction	E	02:20:42.301000
+2018-04-24	wind:direction	NE	03:25:43.237000
+2018-04-24	wind:direction	ENE	04:10:43.080000
+2018-04-24	wind:direction	NE	04:20:43.745000
+2018-04-24	wind:direction	E	04:25:43.608000
+2018-04-24	wind:direction	ENE	05:05:43.578000
+2018-04-24	wind:direction	E	05:25:42.263000
+2018-04-24	wind:direction	NE	12:40:43.244000
+2018-04-24	wind:direction	E	13:30:43.996000
+2018-04-24	wind:direction	NE	13:45:44.899000
+2018-04-24	wind:direction	E	13:55:44.812000
+2018-04-24	wind:direction	ENE	15:00:44.320000
+2018-04-24	wind:direction	E	15:05:44.541000
+2018-04-24	wind:direction	SE	15:15:44.706000
+2018-04-24	wind:direction	E	16:15:43.701000
+2018-04-24	wind:direction	ENE	19:30:44.612000
+2018-04-24	wind:direction	E	19:35:44.607000
+2018-04-25	wind:direction	ENE	01:05:45.603000
+2018-04-25	wind:direction	E	01:10:45.828000
+2018-04-25	wind:direction	S	13:35:46.922000
+2017-11-07	humidity:relative	-2.08	12:23:43.311000
+2017-11-07	atmosphericPressure	1096.73	14:23:44.472000
+2017-11-07	atmosphericPressure	1094.29	14:33:44.020000
+2017-11-07	atmosphericPressure	1095.51	16:23:44.051000
+2017-11-07	atmosphericPressure	1094.29	16:28:43.898000
+2017-11-07	atmosphericPressure	1095.51	17:13:44.600000
+2017-11-07	atmosphericPressure	1094.29	17:53:44.009000
+2017-11-07	atmosphericPressure	1095.51	17:58:44.653000
+2017-11-07	atmosphericPressure	1096.73	20:33:44.126000
+2017-11-07	atmosphericPressure	1097.95	21:28:44.336000
+2017-11-07	atmosphericPressure	1099.18	22:33:44.941000
+2017-11-07	atmosphericPressure	1097.95	22:53:45.278000
+2017-11-07	atmosphericPressure	1096.73	22:58:45.022000
+2017-11-07	atmosphericPressure	1097.95	23:08:44.406000
+2017-11-07	atmosphericPressure	1096.73	23:13:44.398000
+2017-11-07	atmosphericPressure	1099.18	23:58:45.169000
+2017-11-08	atmosphericPressure	1096.73	00:28:45.499000
+2017-11-08	atmosphericPressure	1097.95	00:33:44.972000
+2017-11-08	atmosphericPressure	1096.73	00:58:45.359000
+2017-11-08	atmosphericPressure	1097.95	01:13:45.031000
+2017-11-08	atmosphericPressure	1096.73	01:53:44.828000
+2017-11-08	atmosphericPressure	1097.95	01:58:45.284000
+2017-11-08	atmosphericPressure	1100.4	03:23:45.004000
+2017-11-08	atmosphericPressure	1099.18	03:28:44.901000
+2017-11-08	atmosphericPressure	1097.95	03:58:45.787000
+2017-11-08	atmosphericPressure	1099.18	04:08:45.268000
+2017-11-08	atmosphericPressure	1097.95	04:18:45.116000
+2017-11-08	atmosphericPressure	1099.18	04:33:45.245000
+2017-11-08	atmosphericPressure	1097.95	06:53:45.212000
+2017-11-08	atmosphericPressure	1099.18	07:13:46.337000
+2017-11-08	atmosphericPressure	1097.95	10:13:45.709000
+2017-11-08	atmosphericPressure	1099.18	10:18:49.840000
+2017-11-08	atmosphericPressure	1097.95	10:38:45.550000
+2017-11-08	atmosphericPressure	1099.18	11:08:45.825000
+2017-11-20	atmosphericPressure	1097.95	11:24:14.538000
+2017-11-20	atmosphericPressure	1096.73	11:29:15.073000
+2017-11-20	atmosphericPressure	1097.95	11:44:14.964000
+2017-11-20	atmosphericPressure	1096.73	11:49:15.576000
+2017-11-20	atmosphericPressure	1095.51	14:14:15.463000
+2017-11-20	atmosphericPressure	1094.29	14:54:15.092000
+2017-11-20	atmosphericPressure	1095.51	16:54:15.328000
+2017-11-20	atmosphericPressure	1093.07	16:59:15.755000
+2017-11-20	atmosphericPressure	1091.84	17:09:15.990000
+2017-11-20	atmosphericPressure	1094.29	17:14:16.027000
+2017-11-20	atmosphericPressure	1095.51	17:54:16.255000
+2017-11-20	atmosphericPressure	1094.29	17:59:15.437000
+2017-11-20	atmosphericPressure	1094.29	18:54:16.077000
+2017-11-20	atmosphericPressure	1095.51	18:59:15.879000
+2017-11-20	atmosphericPressure	1094.29	19:19:15.559000
+2017-11-20	atmosphericPressure	1095.51	19:24:16.003000
+2017-11-20	atmosphericPressure	1096.73	20:09:15.765000
+2017-11-20	atmosphericPressure	1095.51	20:14:16.163000
+2017-11-20	atmosphericPressure	1094.29	21:14:15.389000
+2017-11-20	atmosphericPressure	1095.51	21:19:15.739000
+2017-11-20	atmosphericPressure	1094.29	21:49:16.145000
+2017-11-20	atmosphericPressure	1095.51	22:14:15.527000
+2017-11-20	atmosphericPressure	1096.73	22:19:15.713000
+2017-11-20	atmosphericPressure	1095.51	22:24:15.620000
+2017-11-20	atmosphericPressure	1096.73	22:49:15.548000
+2017-11-20	atmosphericPressure	1095.51	22:54:16.127000
+2017-11-20	atmosphericPressure	1094.29	22:59:16.370000
+2017-11-20	atmosphericPressure	1095.51	23:09:16.263000
+2017-11-20	atmosphericPressure	1094.29	23:44:16.126000
+2017-11-20	atmosphericPressure	1095.51	23:49:16.011000
+2017-11-20	atmosphericPressure	1094.29	23:54:16.021000
+2017-11-20	atmosphericPressure	1095.51	23:59:16.311000
+2017-11-21	atmosphericPressure	1094.29	00:24:15.952000
+2017-11-21	atmosphericPressure	1095.51	00:29:16.083000
+2017-11-21	atmosphericPressure	1094.29	00:39:16.835000
+2017-11-21	atmosphericPressure	1095.51	01:44:16.321000
+2017-11-21	atmosphericPressure	1093.07	03:29:16.565000
+2017-11-21	atmosphericPressure	1094.29	03:39:16.427000
+2017-11-21	atmosphericPressure	1093.07	03:44:16.510000
+2017-11-21	atmosphericPressure	1094.29	04:44:16.637000
+2017-11-21	atmosphericPressure	1093.07	04:49:16.902000
+2017-11-21	atmosphericPressure	1094.29	05:09:16.924000
+2017-11-21	atmosphericPressure	1093.07	05:19:17.188000
+2017-11-21	atmosphericPressure	1094.29	05:49:16.847000
+2017-11-21	atmosphericPressure	1093.07	05:54:16.764000
+2017-11-21	atmosphericPressure	1094.29	06:09:16.642000
+2018-04-12	atmosphericPressure	1074.74	11:10:13.929000
+2018-04-12	atmosphericPressure	1075.96	11:15:14.367000
+2018-04-12	atmosphericPressure	1074.74	11:45:14.252000
+2018-04-12	atmosphericPressure	1074.74	12:25:14.052000
+2018-04-12	atmosphericPressure	1075.96	12:30:14.272000
+2018-04-12	atmosphericPressure	1074.74	12:35:13.670000
+2018-04-12	atmosphericPressure	1073.52	13:20:13.822000
+2018-04-12	atmosphericPressure	1074.74	13:30:14.399000
+2018-04-12	atmosphericPressure	1073.52	13:40:13.897000
+2018-04-12	atmosphericPressure	1074.74	13:45:14.075000
+2018-04-12	atmosphericPressure	1073.52	13:50:20.926000
+2018-04-12	atmosphericPressure	1074.74	14:00:14.484000
+2018-04-12	atmosphericPressure	1073.52	14:15:13.794000
+2018-04-12	atmosphericPressure	1072.29	14:35:13.736000
+2018-04-12	atmosphericPressure	1073.52	14:40:14.524000
+2018-04-12	atmosphericPressure	1072.29	14:55:13.810000
+2018-04-12	atmosphericPressure	1073.52	15:00:14.061000
+2018-04-12	atmosphericPressure	1072.29	15:05:14.573000
+2018-04-12	atmosphericPressure	1073.52	15:30:14.314000
+2018-04-12	atmosphericPressure	1069.85	16:15:14.389000
+2018-04-12	atmosphericPressure	1072.29	16:35:14.784000
+2018-04-12	atmosphericPressure	1071.07	17:35:14.413000
+2018-04-12	atmosphericPressure	1071.07	18:10:14.201000
+2018-04-12	atmosphericPressure	1072.29	18:35:14.583000
+2018-04-12	atmosphericPressure	1071.07	18:45:14.452000
+2018-04-12	atmosphericPressure	1069.85	18:55:15.153000
+2018-04-12	atmosphericPressure	1072.29	19:05:14.207000
+2018-04-12	atmosphericPressure	1073.52	20:10:14.432000
+2018-04-12	atmosphericPressure	1074.74	22:50:15.575000
+2018-04-12	atmosphericPressure	1073.52	23:00:15.129000
+2018-04-12	atmosphericPressure	1074.74	23:05:15.486000
+2018-04-12	atmosphericPressure	1073.52	23:10:15.489000
+2018-04-12	atmosphericPressure	1074.74	23:15:15.230000
+2018-04-12	atmosphericPressure	1073.52	23:20:14.895000
+2018-04-12	atmosphericPressure	1073.52	23:30:15.263000
+2018-04-12	atmosphericPressure	1074.74	23:40:15.147000
+2018-04-12	atmosphericPressure	1073.52	23:45:15.263000
+2018-04-12	atmosphericPressure	1074.74	23:50:15.431000
+2018-04-12	atmosphericPressure	1073.52	23:55:15.057000
+2018-04-13	atmosphericPressure	1074.74	00:15:15.288000
+2018-04-13	atmosphericPressure	1073.52	00:20:15.055000
+2018-04-13	atmosphericPressure	1074.74	00:25:15.120000
+2018-04-13	atmosphericPressure	1073.52	01:00:14.891000
+2018-04-13	atmosphericPressure	1074.74	01:45:15.145000
+2018-04-13	atmosphericPressure	1073.52	01:50:15.447000
+2018-04-13	atmosphericPressure	1074.74	02:00:15.205000
+2018-04-13	atmosphericPressure	1073.52	02:05:15.293000
+2018-04-13	atmosphericPressure	1074.74	02:50:15.388000
+2018-04-13	atmosphericPressure	1073.52	02:55:15.995000
+2018-04-13	atmosphericPressure	1073.52	03:05:15.137000
+2018-04-13	atmosphericPressure	1074.74	03:10:14.955000
+2018-04-13	atmosphericPressure	1073.52	03:20:15.985000
+2018-04-13	atmosphericPressure	1074.74	03:35:15.664000
+2018-04-13	atmosphericPressure	1073.52	03:40:15.919000
+2018-04-13	atmosphericPressure	1075.96	03:50:15.209000
+2018-04-13	atmosphericPressure	1074.74	03:55:15.176000
+2018-04-13	atmosphericPressure	1075.96	04:00:14.991000
+2018-04-13	atmosphericPressure	1074.74	04:05:15.881000
+2018-04-13	atmosphericPressure	1075.96	04:35:15.554000
+2018-04-13	atmosphericPressure	1074.74	04:40:15.961000
+2018-04-13	atmosphericPressure	1073.52	04:45:15.564000
+2018-04-13	atmosphericPressure	1074.74	04:50:16.129000
+2018-04-13	atmosphericPressure	1072.29	04:55:15.729000
+2018-04-13	atmosphericPressure	1074.74	05:00:16.234000
+2018-04-13	atmosphericPressure	1073.52	05:05:15.833000
+2018-04-13	atmosphericPressure	1072.29	05:10:15.827000
+2018-04-13	atmosphericPressure	1074.74	06:00:15.729000
+2018-04-13	atmosphericPressure	1077.18	06:10:16.040000
+2018-04-13	atmosphericPressure	1074.74	06:20:15.470000
+2018-04-13	atmosphericPressure	1075.96	06:30:15.476000
+2018-04-13	atmosphericPressure	1075.96	07:35:15.679000
+2018-04-13	atmosphericPressure	1077.18	07:40:16.368000
+2018-04-13	atmosphericPressure	1078.4	10:20:16.242000
+2018-04-13	atmosphericPressure	1079.63	10:35:20.421000
+2018-04-13	atmosphericPressure	1078.4	11:30:16.702000
+2018-04-13	atmosphericPressure	1079.63	11:35:16.613000
+2018-04-13	atmosphericPressure	1078.4	11:55:16.114000
+2018-04-13	atmosphericPressure	1080.85	12:10:16.709000
+2018-04-13	atmosphericPressure	1079.63	12:15:16.646000
+2018-04-13	atmosphericPressure	1085.74	20:30:16.115000
+2018-04-13	atmosphericPressure	1086.96	21:40:17.028000
+2018-04-13	atmosphericPressure	1088.18	22:10:17.584000
+2018-04-13	atmosphericPressure	1086.96	22:15:17.828000
+2018-04-13	atmosphericPressure	1088.18	23:40:17.631000
+2018-04-14	atmosphericPressure	1086.96	00:45:17.654000
+2018-04-14	atmosphericPressure	1088.18	00:50:17.508000
+2018-04-14	atmosphericPressure	1089.4	02:40:18.092000
+2018-04-14	atmosphericPressure	1088.18	05:30:18.199000
+2018-04-14	atmosphericPressure	1089.4	05:45:18.202000
+2018-04-14	atmosphericPressure	1088.18	06:05:18.289000
+2018-04-14	atmosphericPressure	1089.4	06:10:18.715000
+2018-04-14	atmosphericPressure	1090.62	07:25:18.323000
+2018-04-14	atmosphericPressure	1088.18	07:35:21.083000
+2018-04-14	atmosphericPressure	1089.4	07:50:18.412000
+2018-04-14	atmosphericPressure	1090.62	08:05:18.517000
+2018-04-14	atmosphericPressure	1089.4	08:20:18.628000
+2018-04-14	atmosphericPressure	1090.62	08:25:18.635000
+2018-04-14	atmosphericPressure	1089.4	08:30:18.831000
+2018-04-14	atmosphericPressure	1090.62	08:35:18.865000
+2018-04-16	atmosphericPressure	1093.07	10:55:32.849000
+2018-04-16	atmosphericPressure	1093.07	11:25:24.410000
+2018-04-16	atmosphericPressure	1091.84	14:05:24.374000
+2018-04-16	atmosphericPressure	1090.62	16:20:24.921000
+2018-04-16	atmosphericPressure	1090.62	19:20:24.995000
+2018-04-16	atmosphericPressure	1091.84	19:40:24.454000
+2018-04-16	atmosphericPressure	1090.62	19:45:25.123000
+2018-04-16	atmosphericPressure	1091.84	20:20:24.737000
+2018-04-16	atmosphericPressure	1090.62	20:30:24.886000
+2018-04-16	atmosphericPressure	1091.84	23:00:25.409000
+2018-04-16	atmosphericPressure	1090.62	23:05:25.489000
+2018-04-17	atmosphericPressure	1093.07	00:25:25.650000
+2018-04-17	atmosphericPressure	1091.84	00:30:25.648000
+2018-04-17	atmosphericPressure	1093.07	02:40:24.931000
+2018-04-17	atmosphericPressure	1091.84	02:45:25.661000
+2018-04-17	atmosphericPressure	1093.07	03:25:25.794000
+2018-04-17	atmosphericPressure	1094.29	03:55:24.909000
+2018-04-17	atmosphericPressure	1093.07	04:15:24.945000
+2018-04-17	atmosphericPressure	1091.84	05:50:25.802000
+2018-04-17	atmosphericPressure	1093.07	06:05:26.239000
+2018-04-17	atmosphericPressure	1091.84	06:10:27.309000
+2018-04-17	atmosphericPressure	1091.84	06:25:26.435000
+2018-04-17	atmosphericPressure	1093.07	06:30:25.980000
+2018-04-17	atmosphericPressure	1093.07	07:05:26.215000
+2018-04-17	atmosphericPressure	1094.29	07:10:26.456000
+2018-04-17	atmosphericPressure	1093.07	07:15:26.172000
+2018-04-17	atmosphericPressure	1094.29	07:20:26.056000
+2018-04-17	atmosphericPressure	1095.51	08:10:26.509000
+2018-04-17	atmosphericPressure	1094.29	08:15:25.798000
+2018-04-17	atmosphericPressure	1096.73	08:30:28.487000
+2018-04-17	atmosphericPressure	1096.73	09:00:32.421000
+2018-04-17	atmosphericPressure	1096.73	09:40:25.984000
+2018-04-17	atmosphericPressure	1095.51	09:50:26.366000
+2018-04-17	atmosphericPressure	1096.73	10:25:26.265000
+2018-04-17	atmosphericPressure	1095.51	10:30:26.566000
+2018-04-17	atmosphericPressure	1096.73	10:35:30.496000
+2018-04-17	atmosphericPressure	1096.73	10:45:26.930000
+2018-04-17	atmosphericPressure	1094.29	10:55:26.791000
+2018-04-17	atmosphericPressure	1096.73	11:00:26.362000
+2018-04-17	atmosphericPressure	1095.51	11:45:26.390000
+2018-04-17	atmosphericPressure	1096.73	15:20:26.994000
+2018-04-17	atmosphericPressure	1095.51	21:25:28.033000
+2018-04-17	atmosphericPressure	1096.73	22:05:27.425000
+2018-04-17	atmosphericPressure	1095.51	22:10:27.477000
+2018-04-17	atmosphericPressure	1096.73	22:15:28.064000
+2018-04-17	atmosphericPressure	1096.73	23:00:27.803000
+2018-04-17	atmosphericPressure	1095.51	23:15:28.070000
+2018-04-18	atmosphericPressure	1096.73	00:00:28.077000
+2018-04-18	atmosphericPressure	1095.51	00:25:28.245000
+2018-04-18	atmosphericPressure	1094.29	00:40:28.213000
+2018-04-18	atmosphericPressure	1095.51	00:45:28.043000
+2018-04-18	atmosphericPressure	1096.73	01:25:27.541000
+2018-04-18	atmosphericPressure	1095.51	01:30:27.434000
+2018-04-18	atmosphericPressure	1094.29	01:35:27.921000
+2018-04-18	atmosphericPressure	1095.51	01:40:28.248000
+2018-04-18	atmosphericPressure	1094.29	02:10:28.254000
+2018-04-18	atmosphericPressure	1094.29	02:25:28.125000
+2018-04-18	atmosphericPressure	1095.51	02:30:28.299000
+2018-04-18	atmosphericPressure	1094.29	02:35:28.159000
+2018-04-18	atmosphericPressure	1095.51	02:40:27.926000
+2018-04-18	atmosphericPressure	1094.29	03:00:28.380000
+2018-04-18	atmosphericPressure	1095.51	03:20:27.891000
+2018-04-18	atmosphericPressure	1095.51	03:45:28.565000
+2018-04-18	atmosphericPressure	1094.29	03:50:28.710000
+2018-04-18	atmosphericPressure	1093.07	04:00:27.875000
+2018-04-18	atmosphericPressure	1094.29	04:05:28.132000
+2018-04-18	atmosphericPressure	1093.07	04:15:28.550000
+2018-04-18	atmosphericPressure	1094.29	04:25:28.259000
+2018-04-18	atmosphericPressure	1091.84	04:40:28.035000
+2018-04-18	atmosphericPressure	1094.29	04:50:27.864000
+2018-04-18	atmosphericPressure	1095.51	05:05:28.785000
+2018-04-18	atmosphericPressure	1094.29	05:10:28.388000
+2018-04-18	atmosphericPressure	1091.84	05:25:27.945000
+2018-04-18	atmosphericPressure	1094.29	05:30:28.554000
+2018-04-18	atmosphericPressure	1093.07	05:40:28.430000
+2018-04-18	atmosphericPressure	1094.29	05:50:28.595000
+2018-04-18	atmosphericPressure	1093.07	05:55:28.327000
+2018-04-18	atmosphericPressure	1094.29	06:00:28.278000
+2018-04-18	atmosphericPressure	1093.07	06:10:28.785000
+2018-04-18	atmosphericPressure	1091.84	06:50:29.062000
+2018-04-18	atmosphericPressure	1093.07	06:55:28.541000
+2018-04-18	atmosphericPressure	1094.29	07:40:28.464000
+2018-04-18	atmosphericPressure	1093.07	07:45:29.051000
+2018-04-18	atmosphericPressure	1094.29	07:50:28.545000
+2018-04-18	atmosphericPressure	1093.07	08:00:29.046000
+2018-04-18	atmosphericPressure	1094.29	08:05:28.877000
+2018-04-18	atmosphericPressure	1093.07	08:15:29.112000
+2018-04-18	atmosphericPressure	1094.29	08:25:28.245000
+2018-04-18	atmosphericPressure	1094.29	08:50:28.618000
+2018-04-18	atmosphericPressure	1095.51	09:25:29.062000
+2018-04-18	atmosphericPressure	1093.07	09:30:29.047000
+2018-04-18	atmosphericPressure	1094.29	09:35:29.425000
+2018-04-18	atmosphericPressure	1093.07	09:40:28.949000
+2018-04-18	atmosphericPressure	1094.29	09:45:28.939000
+2018-04-18	atmosphericPressure	1095.51	10:05:28.787000
+2018-04-18	atmosphericPressure	1094.29	10:10:29.168000
+2018-04-18	atmosphericPressure	1094.29	11:00:29.164000
+2018-04-18	atmosphericPressure	1093.07	11:05:28.664000
+2018-04-18	atmosphericPressure	1094.29	11:20:28.625000
+2018-04-18	atmosphericPressure	1095.51	12:00:29.180000
+2018-04-18	atmosphericPressure	1093.07	12:05:29.209000
+2018-04-18	atmosphericPressure	1094.29	16:45:29.201000
+2018-04-18	atmosphericPressure	1093.07	16:50:29.899000
+2018-04-18	atmosphericPressure	1094.29	20:00:29.558000
+2018-04-18	atmosphericPressure	1093.07	20:05:30.225000
+2018-04-18	atmosphericPressure	1094.29	20:25:29.380000
+2018-04-18	atmosphericPressure	1093.07	20:30:30.180000
+2018-04-18	atmosphericPressure	1094.29	21:05:29.807000
+2018-04-18	atmosphericPressure	1093.07	21:25:29.517000
+2018-04-18	atmosphericPressure	1094.29	21:30:29.676000
+2018-04-18	atmosphericPressure	1095.51	21:55:29.842000
+2018-04-18	atmosphericPressure	1094.29	22:00:30.385000
+2018-04-18	atmosphericPressure	1095.51	23:15:29.786000
+2018-04-18	atmosphericPressure	1094.29	23:40:30.701000
+2018-04-18	atmosphericPressure	1095.51	23:45:30.740000
+2018-04-19	atmosphericPressure	1094.29	00:10:29.868000
+2018-04-19	atmosphericPressure	1093.07	01:10:30.027000
+2018-04-19	atmosphericPressure	1094.29	01:15:31.417000
+2018-04-19	atmosphericPressure	1093.07	01:20:30.337000
+2018-04-19	atmosphericPressure	1094.29	01:25:30.169000
+2018-04-19	atmosphericPressure	1094.29	02:05:30.564000
+2018-04-19	atmosphericPressure	1091.84	02:15:30.699000
+2018-04-19	atmosphericPressure	1093.07	03:20:31.339000
+2018-04-19	atmosphericPressure	1094.29	04:20:30.966000
+2018-04-19	atmosphericPressure	1093.07	06:25:30.854000
+2018-04-19	atmosphericPressure	1094.29	06:30:30.699000
+2018-04-19	atmosphericPressure	1095.51	11:05:31.224000
+2018-04-19	atmosphericPressure	1094.29	12:05:30.892000
+2018-04-19	atmosphericPressure	1093.07	16:45:31.958000
+2018-04-19	atmosphericPressure	1091.84	18:55:31.903000
+2018-04-19	atmosphericPressure	1095.51	23:35:33.074000
+2018-04-19	atmosphericPressure	1094.29	23:40:32.721000
+2018-04-19	atmosphericPressure	1095.51	23:45:33.204000
+2018-04-19	atmosphericPressure	1094.29	23:50:33.458000
+2018-04-20	atmosphericPressure	1093.07	00:00:32.620000
+2018-04-20	atmosphericPressure	1095.51	00:05:32.708000
+2018-04-20	atmosphericPressure	1094.29	02:05:33.492000
+2018-04-20	atmosphericPressure	1093.07	05:20:33.786000
+2018-04-20	atmosphericPressure	1094.29	06:25:33.004000
+2018-04-20	atmosphericPressure	1091.84	13:10:34.275000
+2018-04-20	atmosphericPressure	1093.07	13:15:35.626000
+2018-04-20	atmosphericPressure	1091.84	13:20:36.068000
+2018-04-20	atmosphericPressure	1089.4	16:35:34.267000
+2018-04-20	atmosphericPressure	1088.18	18:15:34.973000
+2018-04-20	atmosphericPressure	1089.4	18:25:34.172000
+2018-04-20	atmosphericPressure	1088.18	18:40:35.121000
+2018-04-20	atmosphericPressure	1090.62	19:20:34.914000
+2018-04-20	atmosphericPressure	1091.84	19:25:34.566000
+2018-04-20	atmosphericPressure	1093.07	20:00:35.309000
+2018-04-20	atmosphericPressure	1090.62	20:05:35.527000
+2018-04-20	atmosphericPressure	1091.84	21:20:35.084000
+2018-04-20	atmosphericPressure	1090.62	21:25:35.233000
+2018-04-20	atmosphericPressure	1089.4	23:25:34.981000
+2018-04-20	atmosphericPressure	1090.62	23:30:35.417000
+2018-04-21	atmosphericPressure	1090.62	00:00:34.764000
+2018-04-21	atmosphericPressure	1089.4	02:20:36.075000
+2018-04-21	atmosphericPressure	1088.18	02:35:35.618000
+2018-04-21	atmosphericPressure	1090.62	02:40:36.044000
+2018-04-21	atmosphericPressure	1089.4	02:45:35.783000
+2018-04-21	atmosphericPressure	1088.18	02:55:35.751000
+2018-04-21	atmosphericPressure	1089.4	03:05:35.685000
+2018-04-21	atmosphericPressure	1088.18	03:40:35.965000
+2018-04-21	atmosphericPressure	1089.4	03:45:35.603000
+2018-04-21	atmosphericPressure	1089.4	06:10:35.906000
+2018-04-21	atmosphericPressure	1089.4	06:25:36.470000
+2018-04-21	atmosphericPressure	1088.18	06:30:35.686000
+2018-04-21	atmosphericPressure	1089.4	06:40:36.815000
+2018-04-21	atmosphericPressure	1086.96	15:30:37.417000
+2018-04-21	atmosphericPressure	1085.74	15:35:37.147000
+2018-04-21	atmosphericPressure	1086.96	15:40:36.676000
+2018-04-21	atmosphericPressure	1085.74	18:25:37.400000
+2018-04-21	atmosphericPressure	1086.96	18:40:37.270000
+2018-04-21	atmosphericPressure	1085.74	18:45:37.171000
+2018-04-21	atmosphericPressure	1088.18	23:10:38.335000
+2018-04-22	atmosphericPressure	1088.18	01:20:38.450000
+2018-04-22	atmosphericPressure	1088.18	02:40:38.492000
+2018-04-22	atmosphericPressure	1089.4	03:05:38.632000
+2018-04-22	atmosphericPressure	1089.4	03:25:37.758000
+2018-04-22	atmosphericPressure	1090.62	03:40:38.392000
+2018-04-22	atmosphericPressure	1089.4	03:45:38.215000
+2018-04-22	atmosphericPressure	1090.62	04:30:38.281000
+2018-04-22	atmosphericPressure	1089.4	04:35:38.621000
+2018-04-22	atmosphericPressure	1088.18	05:20:38.593000
+2018-04-22	atmosphericPressure	1089.4	05:40:38.022000
+2018-04-22	atmosphericPressure	1088.18	05:45:38.803000
+2018-04-22	atmosphericPressure	1088.18	06:00:38.471000
+2018-04-22	atmosphericPressure	1089.4	06:05:38.317000
+2018-04-22	atmosphericPressure	1088.18	06:20:38.999000
+2018-04-22	atmosphericPressure	1089.4	06:30:37.990000
+2018-04-22	atmosphericPressure	1088.18	07:00:39.235000
+2018-04-22	atmosphericPressure	1089.4	07:10:42.399000
+2018-04-22	atmosphericPressure	1090.62	09:20:39.437000
+2018-04-22	atmosphericPressure	1093.07	10:50:39.435000
+2018-04-22	atmosphericPressure	1091.84	11:00:38.559000
+2018-04-22	atmosphericPressure	1090.62	11:40:38.524000
+2018-04-22	atmosphericPressure	1090.62	11:55:38.969000
+2018-04-22	atmosphericPressure	1089.4	12:00:42.404000
+2018-04-22	atmosphericPressure	1089.4	12:10:38.960000
+2018-04-22	atmosphericPressure	1088.18	15:30:39.105000
+2018-04-22	atmosphericPressure	1089.4	16:20:38.908000
+2018-04-22	atmosphericPressure	1091.84	19:40:38.958000
+2018-04-22	atmosphericPressure	1093.07	20:40:39.820000
+2018-04-22	atmosphericPressure	1094.29	22:15:39.928000
+2018-04-22	atmosphericPressure	1093.07	23:50:40.611000
+2018-04-23	atmosphericPressure	1091.84	02:05:40.715000
+2018-04-23	atmosphericPressure	1093.07	02:30:40.393000
+2018-04-23	atmosphericPressure	1091.84	02:35:40.366000
+2018-04-23	atmosphericPressure	1093.07	03:05:40.473000
+2018-04-23	atmosphericPressure	1094.29	04:45:40.880000
+2018-04-23	atmosphericPressure	1093.07	04:50:41.174000
+2018-04-23	atmosphericPressure	1093.07	06:05:40.874000
+2018-04-23	atmosphericPressure	1094.29	06:45:40.824000
+2018-04-23	atmosphericPressure	1094.29	07:35:41.064000
+2018-04-23	atmosphericPressure	1094.29	07:50:40.849000
+2018-04-23	atmosphericPressure	1094.29	08:10:41.612000
+2018-04-23	atmosphericPressure	1095.51	08:25:41.415000
+2018-04-23	atmosphericPressure	1094.29	11:45:41.424000
+2018-04-23	atmosphericPressure	1093.07	13:10:42.010000
+2018-04-23	atmosphericPressure	1094.29	13:15:42.069000
+2018-04-23	atmosphericPressure	1093.07	13:30:42.040000
+2018-04-23	atmosphericPressure	1094.29	13:40:42.301000
+2018-04-23	atmosphericPressure	1093.07	14:30:41.689000
+2018-04-23	atmosphericPressure	1094.29	23:20:41.738000
+2018-04-23	atmosphericPressure	1095.51	23:45:42.526000
+2018-04-23	atmosphericPressure	1094.29	23:50:43.389000
+2018-04-24	atmosphericPressure	1095.51	00:15:42.204000
+2018-04-24	atmosphericPressure	1094.29	00:20:43.043000
+2018-04-24	atmosphericPressure	1094.29	01:30:43.324000
+2018-04-24	atmosphericPressure	1093.07	01:50:43.569000
+2018-04-24	atmosphericPressure	1094.29	02:25:43.034000
+2018-04-24	atmosphericPressure	1093.07	02:35:43.038000
+2018-04-24	atmosphericPressure	1094.29	02:40:43.167000
+2018-04-24	atmosphericPressure	1093.07	03:15:43.108000
+2018-04-24	atmosphericPressure	1094.29	04:15:42.896000
+2018-04-24	atmosphericPressure	1093.07	04:20:43.745000
+2018-04-24	atmosphericPressure	1094.29	04:40:43.162000
+2018-04-24	atmosphericPressure	1093.07	04:45:43.563000
+2018-04-24	atmosphericPressure	1091.84	05:25:42.263000
+2018-04-24	atmosphericPressure	1090.62	13:30:43.997000
+2018-04-24	atmosphericPressure	1091.84	13:35:44.316000
+2018-04-24	atmosphericPressure	1091.84	13:50:44.696000
+2018-04-24	atmosphericPressure	1091.84	14:40:44.079000
+2018-04-24	atmosphericPressure	1090.62	15:00:44.320000
+2018-04-24	atmosphericPressure	1091.84	16:40:44.421000
+2018-04-24	atmosphericPressure	1090.62	17:15:43.160000
+2018-04-24	atmosphericPressure	1093.07	19:30:44.612000
+2018-04-24	atmosphericPressure	1094.29	20:25:44.846000
+2018-04-24	atmosphericPressure	1095.51	23:15:45.587000
+2018-04-24	atmosphericPressure	1094.29	23:20:45.086000
+2018-04-25	atmosphericPressure	1096.73	00:25:45.250000
+2018-04-25	atmosphericPressure	1094.29	00:45:45.825000
+2018-04-25	atmosphericPressure	1093.07	01:25:45.450000
+2018-04-25	atmosphericPressure	1093.07	02:05:45.788000
+2018-04-25	atmosphericPressure	1094.29	02:10:45.298000
+2018-04-25	atmosphericPressure	1093.07	02:15:45.512000
+2018-04-25	atmosphericPressure	1094.29	02:30:45.928000
+2018-04-25	atmosphericPressure	1093.07	02:35:45.739000
+2018-04-25	atmosphericPressure	1094.29	02:45:45.813000
+2018-04-25	atmosphericPressure	1093.07	02:50:45.540000
+2018-04-25	atmosphericPressure	1094.29	03:00:45.747000
+2018-04-25	atmosphericPressure	1093.07	03:05:45.602000
+2018-04-25	atmosphericPressure	1094.29	03:10:46.195000
+2018-04-25	atmosphericPressure	1093.07	03:35:46.039000
+2018-04-25	atmosphericPressure	1094.29	03:40:46.298000
+2018-04-25	atmosphericPressure	1091.84	03:50:45.829000
+2018-04-25	atmosphericPressure	1093.07	03:55:45.831000
+2018-04-25	atmosphericPressure	1094.29	04:00:45.533000
+2018-04-25	atmosphericPressure	1095.51	04:30:44.931000
+2018-04-25	atmosphericPressure	1094.29	04:35:46.341000
+2018-04-25	atmosphericPressure	1096.73	05:15:44.872000
+2018-04-25	atmosphericPressure	1093.07	05:20:45.692000
+2018-04-25	atmosphericPressure	1094.29	05:25:46.488000
+2018-04-25	atmosphericPressure	1095.51	06:55:45.920000
+2018-04-25	atmosphericPressure	1095.51	07:10:47.120000
+2018-04-25	atmosphericPressure	1093.07	07:20:46.683000
+2018-04-25	atmosphericPressure	1095.51	07:25:47.005000
+2018-04-25	atmosphericPressure	1096.73	08:25:46.198000
+2018-04-25	atmosphericPressure	1096.73	13:35:46.918000
+2017-11-07	solarRadiation	49.05	14:23:44.473000
+2017-11-07	solarRadiation	32.7	14:33:44.021000
+2017-11-07	solarRadiation	16.35	15:03:43.922000
+2017-11-07	solarRadiation	0	16:18:43.803000
+2017-11-08	solarRadiation	32.7	09:58:46.184000
+2017-11-08	solarRadiation	49.05	10:18:49.842000
+2017-11-08	solarRadiation	16.35	10:33:45.895000
+2017-11-08	solarRadiation	32.7	11:08:45.826000
+2017-11-08	solarRadiation	98.1	11:13:55.370000
+2017-11-08	solarRadiation	179.85	11:19:06.618000
+2017-11-20	solarRadiation	277.95	11:49:15.580000
+2017-11-20	solarRadiation	294.3	12:04:14.488000
+2017-11-20	solarRadiation	261.6	14:09:15.067000
+2017-11-20	solarRadiation	212.55	14:14:15.465000
+2017-11-20	solarRadiation	130.8	14:39:23.786000
+2017-11-20	solarRadiation	98.1	14:44:42.011000
+2017-11-20	solarRadiation	114.45	14:54:15.092000
+2017-11-20	solarRadiation	0	16:44:15.535000
+2018-04-12	solarRadiation	474.15	11:20:16.007000
+2018-04-12	solarRadiation	343.35	11:30:16.595000
+2018-04-12	solarRadiation	539.55	11:40:13.464000
+2018-04-12	solarRadiation	588.6	11:50:15.075000
+2018-04-12	solarRadiation	539.55	12:10:14.208000
+2018-04-12	solarRadiation	490.5	12:15:13.940000
+2018-04-12	solarRadiation	425.1	12:20:14.260000
+2018-04-12	solarRadiation	490.5	12:25:14.052000
+2018-04-12	solarRadiation	474.15	12:30:14.268000
+2018-04-12	solarRadiation	539.55	12:35:13.670000
+2018-04-12	solarRadiation	523.2	12:40:16.520000
+2018-04-12	solarRadiation	490.5	12:50:14.183000
+2018-04-12	solarRadiation	474.15	13:25:14.222000
+2018-04-12	solarRadiation	425.1	13:30:14.398000
+2018-04-12	solarRadiation	457.8	13:35:14.585000
+2018-04-12	solarRadiation	441.45	13:40:13.897000
+2018-04-12	solarRadiation	457.8	13:45:14.075000
+2018-04-12	solarRadiation	408.75	14:00:14.485000
+2018-04-12	solarRadiation	457.8	14:05:14.033000
+2018-04-12	solarRadiation	441.45	14:25:14.647000
+2018-04-12	solarRadiation	425.1	14:30:19.632000
+2018-04-12	solarRadiation	425.1	14:40:14.524000
+2018-04-12	solarRadiation	408.75	14:45:14.605000
+2018-04-12	solarRadiation	376.05	14:50:13.982000
+2018-04-12	solarRadiation	343.35	15:00:14.057000
+2018-04-12	solarRadiation	228.9	15:05:14.580000
+2018-04-12	solarRadiation	343.35	15:10:15.983000
+2018-04-12	solarRadiation	277.95	15:20:14.301000
+2018-04-12	solarRadiation	310.65	15:45:14.300000
+2018-04-12	solarRadiation	277.95	16:00:14.399000
+2018-04-12	solarRadiation	261.6	16:05:14.718000
+2018-04-12	solarRadiation	228.9	16:10:14.107000
+2018-04-12	solarRadiation	212.55	16:15:14.390000
+2018-04-12	solarRadiation	179.85	16:35:14.784000
+2018-04-12	solarRadiation	196.2	16:40:14.488000
+2018-04-12	solarRadiation	179.85	16:45:14.509000
+2018-04-12	solarRadiation	163.5	16:50:14.495000
+2018-04-12	solarRadiation	130.8	17:10:14.474000
+2018-04-12	solarRadiation	114.45	17:15:14.490000
+2018-04-12	solarRadiation	98.1	17:20:14.508000
+2018-04-12	solarRadiation	32.7	17:30:14.578000
+2018-04-12	solarRadiation	65.4	17:35:14.412000
+2018-04-12	solarRadiation	49.05	17:50:14.720000
+2018-04-12	solarRadiation	16.35	18:10:14.202000
+2018-04-12	solarRadiation	0	18:30:14.728000
+2018-04-13	solarRadiation	16.35	06:20:15.471000
+2018-04-13	solarRadiation	32.7	06:45:15.907000
+2018-04-13	solarRadiation	49.05	06:55:15.786000
+2018-04-13	solarRadiation	65.4	07:00:16.534000
+2018-04-13	solarRadiation	147.15	07:35:15.681000
+2018-04-13	solarRadiation	114.45	07:40:16.368000
+2018-04-13	solarRadiation	65.4	08:05:16.304000
+2018-04-13	solarRadiation	114.45	08:15:16.440000
+2018-04-13	solarRadiation	294.3	10:20:16.242000
+2018-04-13	solarRadiation	245.25	10:25:16.351000
+2018-04-13	solarRadiation	294.3	10:30:16.414000
+2018-04-13	solarRadiation	425.1	10:35:20.420000
+2018-04-13	solarRadiation	359.7	10:45:17.328000
+2018-04-13	solarRadiation	441.45	11:25:16.213000
+2018-04-13	solarRadiation	425.1	11:30:16.702000
+2018-04-13	solarRadiation	327	11:35:16.613000
+2018-04-13	solarRadiation	245.25	11:40:16.763000
+2018-04-13	solarRadiation	261.6	11:45:17.051000
+2018-04-13	solarRadiation	245.25	11:50:16.853000
+2018-04-13	solarRadiation	261.6	11:55:16.114000
+2018-04-13	solarRadiation	327	12:20:16.963000
+2018-04-13	solarRadiation	0	20:30:16.115000
+2018-04-14	solarRadiation	16.35	07:20:18.668000
+2018-04-14	solarRadiation	32.7	07:35:21.085000
+2018-04-14	solarRadiation	49.05	07:50:18.412000
+2018-04-14	solarRadiation	65.4	07:55:19.075000
+2018-04-14	solarRadiation	81.75	08:00:18.608000
+2018-04-14	solarRadiation	98.1	08:05:18.518000
+2018-04-14	solarRadiation	114.45	08:25:18.635000
+2018-04-14	solarRadiation	212.55	08:35:18.865000
+2018-04-14	solarRadiation	310.65	08:40:18.506000
+2018-04-16	solarRadiation	572.25	11:25:24.410000
+2018-04-16	solarRadiation	474.15	14:05:24.374000
+2018-04-16	solarRadiation	343.35	15:20:23.169000
+2018-04-16	solarRadiation	212.55	16:20:24.922000
+2018-04-16	solarRadiation	16.35	18:20:24.530000
+2018-04-16	solarRadiation	0	19:00:24.269000
+2018-04-17	solarRadiation	16.35	05:55:25.738000
+2018-04-17	solarRadiation	49.05	06:10:27.309000
+2018-04-17	solarRadiation	81.75	06:25:26.438000
+2018-04-17	solarRadiation	98.1	06:30:25.980000
+2018-04-17	solarRadiation	130.8	06:45:26.013000
+2018-04-17	solarRadiation	147.15	06:50:25.706000
+2018-04-17	solarRadiation	163.5	06:55:25.993000
+2018-04-17	solarRadiation	179.85	07:05:26.215000
+2018-04-17	solarRadiation	196.2	07:10:26.456000
+2018-04-17	solarRadiation	212.55	07:15:26.172000
+2018-04-17	solarRadiation	228.9	07:25:25.751000
+2018-04-17	solarRadiation	245.25	07:30:25.827000
+2018-04-17	solarRadiation	261.6	07:40:25.788000
+2018-04-17	solarRadiation	277.95	07:45:25.926000
+2018-04-17	solarRadiation	294.3	07:55:26.006000
+2018-04-17	solarRadiation	359.7	08:25:26.579000
+2018-04-17	solarRadiation	376.05	08:30:28.486000
+2018-04-17	solarRadiation	392.4	08:40:25.851000
+2018-04-17	solarRadiation	408.75	08:50:26.797000
+2018-04-17	solarRadiation	425.1	08:55:25.957000
+2018-04-17	solarRadiation	457.8	09:25:26.375000
+2018-04-17	solarRadiation	474.15	09:35:26.711000
+2018-04-17	solarRadiation	490.5	09:45:32.343000
+2018-04-17	solarRadiation	506.85	09:55:25.811000
+2018-04-17	solarRadiation	539.55	10:25:26.266000
+2018-04-17	solarRadiation	555.9	10:45:26.930000
+2018-04-17	solarRadiation	572.25	11:25:25.917000
+2018-04-17	solarRadiation	555.9	12:30:26.659000
+2018-04-17	solarRadiation	539.55	12:35:26.881000
+2018-04-17	solarRadiation	327	15:20:26.994000
+2018-04-17	solarRadiation	0	20:45:26.866000
+2018-04-18	solarRadiation	49.05	06:10:28.785000
+2018-04-18	solarRadiation	65.4	06:15:28.469000
+2018-04-18	solarRadiation	81.75	06:25:28.286000
+2018-04-18	solarRadiation	98.1	06:30:28.287000
+2018-04-18	solarRadiation	114.45	06:40:28.378000
+2018-04-18	solarRadiation	130.8	06:45:28.695000
+2018-04-18	solarRadiation	147.15	06:50:29.061000
+2018-04-18	solarRadiation	163.5	06:55:28.540000
+2018-04-18	solarRadiation	212.55	07:20:28.212000
+2018-04-18	solarRadiation	228.9	07:25:28.467000
+2018-04-18	solarRadiation	245.25	07:30:28.744000
+2018-04-18	solarRadiation	261.6	07:40:28.464000
+2018-04-18	solarRadiation	245.25	07:45:29.052000
+2018-04-18	solarRadiation	294.3	07:55:28.470000
+2018-04-18	solarRadiation	310.65	08:15:29.110000
+2018-04-18	solarRadiation	343.35	08:20:28.832000
+2018-04-18	solarRadiation	376.05	08:30:29.165000
+2018-04-18	solarRadiation	343.35	08:35:28.821000
+2018-04-18	solarRadiation	392.4	08:40:28.823000
+2018-04-18	solarRadiation	441.45	09:10:28.717000
+2018-04-18	solarRadiation	490.5	10:10:29.170000
+2018-04-18	solarRadiation	506.85	10:15:28.655000
+2018-04-18	solarRadiation	539.55	10:20:28.675000
+2018-04-18	solarRadiation	506.85	12:00:29.179000
+2018-04-18	solarRadiation	555.9	12:05:29.209000
+2018-04-18	solarRadiation	343.35	15:10:29.410000
+2018-04-18	solarRadiation	196.2	16:35:29.565000
+2018-04-18	solarRadiation	179.85	16:40:29.518000
+2018-04-18	solarRadiation	163.5	16:50:29.898000
+2018-04-18	solarRadiation	98.1	17:30:29.607000
+2018-04-18	solarRadiation	0	20:00:29.559000
+2018-04-19	solarRadiation	65.4	06:25:30.854000
+2018-04-19	solarRadiation	81.75	06:30:30.698000
+2018-04-19	solarRadiation	539.55	11:05:31.225000
+2018-04-19	solarRadiation	555.9	12:05:30.895000
+2018-04-19	solarRadiation	245.25	16:45:31.956000
+2018-04-19	solarRadiation	0	18:55:31.902000
+2018-04-20	solarRadiation	457.8	13:10:34.276000
+2018-04-20	solarRadiation	359.7	13:15:35.623000
+2018-04-20	solarRadiation	555.9	13:20:36.069000
+2018-04-20	solarRadiation	408.75	13:30:34.276000
+2018-04-20	solarRadiation	474.15	13:35:35.932000
+2018-04-20	solarRadiation	457.8	14:10:41.707000
+2018-04-20	solarRadiation	130.8	16:35:34.268000
+2018-04-20	solarRadiation	147.15	16:40:34.886000
+2018-04-20	solarRadiation	130.8	16:50:34.303000
+2018-04-20	solarRadiation	81.75	17:20:34.545000
+2018-04-20	solarRadiation	65.4	17:25:34.619000
+2018-04-20	solarRadiation	49.05	17:30:35.097000
+2018-04-20	solarRadiation	32.7	17:55:34.633000
+2018-04-20	solarRadiation	16.35	18:15:34.973000
+2018-04-21	solarRadiation	49.05	06:10:35.906000
+2018-04-21	solarRadiation	81.75	06:25:36.470000
+2018-04-21	solarRadiation	98.1	06:30:35.688000
+2018-04-21	solarRadiation	114.45	06:35:35.899000
+2018-04-21	solarRadiation	147.15	06:50:36.024000
+2018-04-21	solarRadiation	327	08:15:41.811000
+2018-04-21	solarRadiation	196.2	15:30:37.416000
+2018-04-21	solarRadiation	212.55	15:35:37.148000
+2018-04-21	solarRadiation	196.2	15:40:36.677000
+2018-04-21	solarRadiation	0	18:25:37.400000
+2018-04-22	solarRadiation	49.05	06:10:38.321000
+2018-04-22	solarRadiation	98.1	07:10:42.401000
+2018-04-22	solarRadiation	212.55	09:20:39.438000
+2018-04-22	solarRadiation	539.55	10:50:39.434000
+2018-04-22	solarRadiation	523.2	11:45:39.087000
+2018-04-22	solarRadiation	506.85	11:50:39.334000
+2018-04-22	solarRadiation	261.6	12:00:42.407000
+2018-04-22	solarRadiation	212.55	12:10:38.959000
+2018-04-22	solarRadiation	310.65	12:15:38.794000
+2018-04-22	solarRadiation	277.95	12:20:39.631000
+2018-04-22	solarRadiation	392.4	12:25:39.407000
+2018-04-22	solarRadiation	425.1	12:30:39.152000
+2018-04-22	solarRadiation	359.7	14:10:38.900000
+2018-04-22	solarRadiation	327	15:25:39.043000
+2018-04-22	solarRadiation	310.65	15:35:39.982000
+2018-04-22	solarRadiation	32.7	16:55:39.459000
+2018-04-22	solarRadiation	0	18:15:40.169000
+2018-04-23	solarRadiation	49.05	08:10:41.611000
+2018-04-23	solarRadiation	32.7	08:15:41.596000
+2018-04-23	solarRadiation	49.05	08:20:41.569000
+2018-04-23	solarRadiation	65.4	08:25:41.415000
+2018-04-23	solarRadiation	179.85	11:40:40.448000
+2018-04-23	solarRadiation	196.2	11:45:41.424000
+2018-04-23	solarRadiation	212.55	11:50:41.684000
+2018-04-23	solarRadiation	179.85	11:55:41.751000
+2018-04-23	solarRadiation	163.5	12:00:41.597000
+2018-04-23	solarRadiation	212.55	12:45:41.449000
+2018-04-23	solarRadiation	196.2	12:50:41.744000
+2018-04-23	solarRadiation	245.25	12:55:41.708000
+2018-04-23	solarRadiation	228.9	13:10:42.010000
+2018-04-23	solarRadiation	196.2	13:15:42.070000
+2018-04-23	solarRadiation	179.85	13:20:41.983000
+2018-04-23	solarRadiation	163.5	13:25:42.203000
+2018-04-23	solarRadiation	130.8	13:30:42.040000
+2018-04-23	solarRadiation	114.45	13:35:41.569000
+2018-04-23	solarRadiation	130.8	14:30:41.689000
+2018-04-23	solarRadiation	147.15	14:50:41.817000
+2018-04-23	solarRadiation	114.45	15:10:41.729000
+2018-04-23	solarRadiation	0	18:15:42.559000
+2018-04-24	solarRadiation	261.6	12:40:43.242000
+2018-04-24	solarRadiation	425.1	13:30:43.996000
+2018-04-24	solarRadiation	327	13:35:44.316000
+2018-04-24	solarRadiation	359.7	13:40:44.587000
+2018-04-24	solarRadiation	327	13:45:44.899000
+2018-04-24	solarRadiation	310.65	13:50:44.696000
+2018-04-24	solarRadiation	327	13:55:44.813000
+2018-04-24	solarRadiation	196.2	14:35:44.232000
+2018-04-24	solarRadiation	179.85	14:40:44.079000
+2018-04-24	solarRadiation	147.15	15:00:44.321000
+2018-04-24	solarRadiation	130.8	15:05:44.541000
+2018-04-24	solarRadiation	114.45	15:30:44.954000
+2018-04-24	solarRadiation	65.4	16:15:43.701000
+2018-04-24	solarRadiation	0	19:30:44.613000
+2018-04-25	solarRadiation	16.35	06:55:45.921000
+2018-04-25	solarRadiation	0	07:00:46.493000
+2018-04-25	solarRadiation	16.35	07:05:45.872000
+2018-04-25	solarRadiation	49.05	07:25:47.005000
+2018-04-25	solarRadiation	81.75	08:05:53.223000
+2018-04-25	solarRadiation	310.65	13:35:46.922000
+2018-04-25	solarRadiation	441.45	13:40:47.293000
+2017-11-07	wind:speed	9	15:03:43.922000
+2017-11-07	wind:speed	10	16:18:43.801000
+2017-11-07	wind:speed	6	16:23:44.052000
+2017-11-07	wind:speed	11	16:28:43.897000
+2017-11-07	wind:speed	12	17:13:44.601000
+2017-11-07	wind:speed	19	17:53:44.009000
+2017-11-07	wind:speed	6	17:58:44.652000
+2017-11-07	wind:speed	9	18:03:44.466000
+2017-11-07	wind:speed	8	20:33:44.126000
+2017-11-07	wind:speed	11	20:58:45.082000
+2017-11-07	wind:speed	6	21:13:44.658000
+2017-11-07	wind:speed	13	21:18:44.856000
+2017-11-07	wind:speed	5	22:33:44.941000
+2017-11-07	wind:speed	1	22:43:44.905000
+2017-11-07	wind:speed	6	22:53:45.280000
+2017-11-07	wind:speed	7	22:58:45.026000
+2017-11-07	wind:speed	4	23:13:44.399000
+2017-11-07	wind:speed	11	23:48:44.705000
+2017-11-07	wind:speed	5	23:53:44.375000
+2017-11-07	wind:speed	6	23:58:45.169000
+2017-11-08	wind:speed	8	00:28:45.501000
+2017-11-08	wind:speed	13	00:33:44.973000
+2017-11-08	wind:speed	12	00:58:45.360000
+2017-11-08	wind:speed	5	01:13:45.031000
+2017-11-08	wind:speed	7	01:53:44.828000
+2017-11-08	wind:speed	8	01:58:45.287000
+2017-11-08	wind:speed	10	03:28:44.903000
+2017-11-08	wind:speed	14	03:33:45.205000
+2017-11-08	wind:speed	6	03:53:45.301000
+2017-11-08	wind:speed	4	03:58:45.787000
+2017-11-08	wind:speed	15	04:03:45.852000
+2017-11-08	wind:speed	8	04:08:45.271000
+2017-11-08	wind:speed	21	04:13:45.438000
+2017-11-08	wind:speed	0	04:33:45.244000
+2017-11-08	wind:speed	9	05:13:45.679000
+2017-11-08	wind:speed	10	06:48:45.549000
+2017-11-08	wind:speed	7	06:58:45.092000
+2017-11-08	wind:speed	6	07:13:46.337000
+2017-11-08	wind:speed	15	09:58:46.182000
+2017-11-08	wind:speed	10	10:03:46.296000
+2017-11-08	wind:speed	12	10:08:46.445000
+2017-11-08	wind:speed	10	10:18:49.842000
+2017-11-08	wind:speed	12	10:33:45.895000
+2017-11-08	wind:speed	8	11:08:45.823000
+2017-11-08	wind:speed	12	11:13:55.369000
+2017-11-08	wind:speed	13	11:19:06.618000
+2017-11-20	wind:speed	2	11:29:15.074000
+2017-11-20	wind:speed	4	11:34:15.502000
+2017-11-20	wind:speed	7	11:39:33.457000
+2017-11-20	wind:speed	8	11:54:27.072000
+2017-11-20	wind:speed	7	12:04:14.487000
+2017-11-20	wind:speed	6	14:09:15.067000
+2017-11-20	wind:speed	4	14:14:15.465000
+2017-11-20	wind:speed	3	14:39:23.786000
+2017-11-20	wind:speed	4	14:44:42.012000
+2017-11-20	wind:speed	7	14:59:24.102000
+2017-11-20	wind:speed	0	16:44:15.534000
+2017-11-20	wind:speed	5	22:59:16.370000
+2017-11-20	wind:speed	1	23:09:16.266000
+2017-11-20	wind:speed	1	23:44:16.127000
+2017-11-20	wind:speed	7	23:49:16.011000
+2017-11-20	wind:speed	3	23:54:16.021000
+2017-11-20	wind:speed	4	23:59:16.311000
+2017-11-21	wind:speed	3	00:24:15.952000
+2017-11-21	wind:speed	5	00:29:16.083000
+2017-11-21	wind:speed	2	00:34:16.751000
+2017-11-21	wind:speed	6	00:39:16.835000
+2017-11-21	wind:speed	3	00:44:16.323000
+2017-11-21	wind:speed	5	00:54:16.160000
+2017-11-21	wind:speed	4	00:59:16.526000
+2017-11-21	wind:speed	6	01:09:16.436000
+2017-11-21	wind:speed	2	01:14:16.265000
+2017-11-21	wind:speed	4	01:19:16.335000
+2017-11-21	wind:speed	1	01:24:16.391000
+2017-11-21	wind:speed	3	01:34:16.712000
+2017-11-21	wind:speed	2	01:44:16.321000
+2017-11-21	wind:speed	1	02:29:16.385000
+2017-11-21	wind:speed	0	02:34:16.729000
+2018-04-17	wind:speed	1	10:30:26.568000
+2018-04-17	wind:speed	0	10:35:30.496000
